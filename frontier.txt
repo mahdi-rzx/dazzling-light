@@ -111,7 +111,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kine
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/01%3A_Chapters
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/05%3A_Standardizing_Analytical_Methods
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/06%3A_Equilibrium_Chemistry
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/07%3A_Obtaining_and_Preparing_Samples_for_Analysis
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/08%3A_Gravimetric_Methods
@@ -4784,3 +4783,12 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistr
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.09%3A_Problems
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.10%3A_Additional_Resources
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.11%3A_Chapter_Summary_and_Key_Terms
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.01%3A_Analytical_Signals
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.02%3A_Calibrating_the_Signal
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.03%3A_Determining_the_Sensitivity
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.04%3A_Linear_Regression_and_Calibration_Curves
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.05%3A_Compensating_for_the_Reagent_Blank
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.06%3A_Using_Excel_and_R_for_a_Linear_Regression
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.07%3A_Problems
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.08%3A_Additional_Resources
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.09%3A_Chapter_Summary_and_Key_Terms
