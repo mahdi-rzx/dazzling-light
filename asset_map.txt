@@ -96,6 +96,7 @@ https://chem.libretexts.org/@api/deki/files/126074/DVC_Campus_Map.jpg?revision=1
 https://chem.libretexts.org/@api/deki/files/126075/DVC_Horticulture_Front.JPG?revision=1&size=bestfit&width=322&height=294 -> assets/other/73f50eb8256d.JPG
 https://chem.libretexts.org/@api/deki/files/126076/DVC_Horticulture_Sign.JPG?revision=1&size=bestfit&width=289&height=294 -> assets/other/65c05cac34ca.JPG
 https://chem.libretexts.org/@api/deki/files/126077/VF_Official_General_Diagram1.jpg?revision=1&size=bestfit&width=737&height=335 -> assets/img/a5e91dae2a1f.jpg
+https://chem.libretexts.org/@api/deki/files/126454/cschaller335.jpg?revision=1 -> assets/img/d5f0fb8e19ac.jpg
 https://chem.libretexts.org/@api/deki/files/127881/mindtouch.page%2523thumbnail?revision=1 -> assets/other/7ff27dc99b2e.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/127887/mindtouch.page%2523thumbnail?revision=1 -> assets/other/91c0e362cf3f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/127922/mindtouch.page%2523thumbnail?revision=1 -> assets/other/f51d244d2849.page%2523thumbnail
@@ -1791,6 +1792,7 @@ https://chem.libretexts.org/Courses/East_Tennessee_State_University/CHEM_4110%3A
 https://chem.libretexts.org/Courses/East_Tennessee_State_University/CHEM_4110%3A_Advanced_Inorganic_Chemistry/04%3A_Symmetry_and_Group_Theory -> assets/other/64967bb379c2
 https://chem.libretexts.org/Courses/East_Tennessee_State_University/CHEM_4110%3A_Advanced_Inorganic_Chemistry/05%3A_Molecular_Orbitals -> assets/other/2b823d3b3631
 https://chem.libretexts.org/Courses/East_Tennessee_State_University/CHEM_4110%3A_Advanced_Inorganic_Chemistry/06%3A_Coordination_Chemistry_-_Structure_and_Isomers -> assets/other/cfcdd434f83a
+https://chem.libretexts.org/Courses/East_Tennessee_State_University/CHEM_4110%3A_Advanced_Inorganic_Chemistry/07%3A_Coordination_Chemistry_-_Bonding -> assets/other/93bac1d0c796
 https://chem.libretexts.org/Courses/East_Tennessee_State_University/CHEM_4110%3A_Advanced_Inorganic_Chemistry/zz%3A_Back_Matter/30%3A_Detailed_Licensing -> assets/other/6f3802a75b7c
 https://chem.libretexts.org/Courses/Eastern_Mennonite_University/EMU%3A_CHEM_155_-_Matter_and_Energy_(Yoder) -> assets/other/b7e044697764
 https://chem.libretexts.org/Courses/Eastern_Mennonite_University/EMU%3A_Chemistry_for_the_Life_Sciences_(Cessna) -> assets/other/ef63253fd8d0
