@@ -111,7 +111,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kine
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/01%3A_Chapters
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/5%3A_Group_III_cations
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/6%3A_Group_IV_and_Group_V_cations
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
@@ -4705,3 +4704,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysi
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/4%3A_Group_II_cations/4.1%3A_Precipitation_of_group_II_cations
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/4%3A_Group_II_cations/4.2%3A_Separation_and_confirmation_of_individual_ions_in_group_II_precipitates
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/4%3A_Group_II_cations/4.3%3A_Procedure_flowchart_and_datasheets_for_separation_and_confirmation_of_group_II_cations
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/5%3A_Group_III_cations/5.1%3A_Separation_of_group_III_cations
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/5%3A_Group_III_cations/5.2%3A_Separation_and_confirmation_if_individual_ions_in_group_III_precipitates
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/5%3A_Group_III_cations/5.3%3A_Procedure_flowchart_and_datasheets_for_separation_and_confirmation_of_group_III_cations
