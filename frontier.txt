@@ -1,4 +1,3 @@
-https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/09%3A_Structure_and_Energetics_of_Solids
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/10%3A_Organometallic_Chemistry
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/11%3A_Organometallic_Reactions_and_Catalysis
@@ -6423,3 +6422,17 @@ https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistr
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/07%3A_Coordination_Chemistry-_Reactions_and_Mechanisms/7.04%3A_The_Trans_Effect_Observation
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/07%3A_Coordination_Chemistry-_Reactions_and_Mechanisms/7.05%3A_The_Trans_Effect_Explanation
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/07%3A_Coordination_Chemistry-_Reactions_and_Mechanisms/7.06%3A_Electron_Transfer_Reactions
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.01%3A_Absorption_of_Light
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.01%3A_Absorption_of_Light/8.1.01%3A_Beer-Lambert_Absorption_Law
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.02%3A_Quantum_Numbers_of_Multielectron_Atoms
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.02%3A_Quantum_Numbers_of_Multielectron_Atoms/8.2.01%3A_Finding_Microstates_and_Term_Symbols
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.02%3A_Quantum_Numbers_of_Multielectron_Atoms/8.2.02%3A_Spin-Orbit_Coupling
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.03%3A_Electronic_Spectra_of_Coordination_Compounds
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.03%3A_Electronic_Spectra_of_Coordination_Compounds/8.3.01%3A_Tanabe-Sugano_Diagrams
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.03%3A_Electronic_Spectra_of_Coordination_Compounds/8.3.02%3A_Symmetry_labels_for_split_terms
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.03%3A_Electronic_Spectra_of_Coordination_Compounds/8.3.03%3A_Selection_Rules
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.03%3A_Electronic_Spectra_of_Coordination_Compounds/8.3.04%3A_Correlation_Diagrams
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.03%3A_Electronic_Spectra_of_Coordination_Compounds/8.3.05%3A_Applications_of_Tanabe-Sugano_Diagrams
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.03%3A_Electronic_Spectra_of_Coordination_Compounds/8.3.06%3A_Tetrahedral_Complexes
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.03%3A_Electronic_Spectra_of_Coordination_Compounds/8.3.07%3A_Charge-Transfer_Spectra
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra/8.03%3A_Electronic_Spectra_of_Coordination_Compounds/8.3.08%3A_Applications_of_Charge-Transfer
