@@ -105,6 +105,7 @@ https://chem.libretexts.org/@api/deki/files/185929/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/185934/mindtouch.page%2523thumbnail?revision=1 -> assets/other/12724ed6c256.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/187980/mindtouch.page%2523thumbnail?revision=1 -> assets/other/4058f2acb10a.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/194773/mindtouch.page%2523thumbnail?revision=1 -> assets/other/10da426d0900.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/19523/DVC.jpg?revision=1 -> assets/img/d9c2a1812365.jpg
 https://chem.libretexts.org/@api/deki/files/199573/mindtouch.page%2523thumbnail?revision=2 -> assets/other/556f6c70ad68.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/199597/mindtouch.page%2523thumbnail?revision=2 -> assets/other/b0779334329d.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/199617/mindtouch.page%2523thumbnail?revision=2 -> assets/other/09c8eda01f0f.page%2523thumbnail
@@ -1637,6 +1638,7 @@ https://chem.libretexts.org/Courses/DePaul_University/Thermodynamics_and_Introdu
 https://chem.libretexts.org/Courses/DePaul_University/Thermodynamics_and_Introduction_to_Quantum_Mechanics_(Southern)/zz%3A_Back_Matter -> assets/other/950ddaaacc2e
 https://chem.libretexts.org/Courses/De_Anza_College/CHEM_10%3A_Introduction_to_Chemistry_(Parajon_Puenzo) -> assets/other/58e53c8e30dc
 https://chem.libretexts.org/Courses/De_Anza_College/CHEM_10%3A_Introduction_to_Chemistry_(Parajon_Puenzo)/zz%3A_Back_Matter/30%3A_Detailed_Licensing -> assets/other/1e7359b0838b
+https://chem.libretexts.org/Courses/Diablo_Valley_College/DVC%3A_Chem_120 -> assets/other/ce6bdf2d4fd2
 https://chem.libretexts.org/Courses/Diablo_Valley_College/DVC_Chem_106%3A_Rusay -> assets/other/21272f6407cf
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
