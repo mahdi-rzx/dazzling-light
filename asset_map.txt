@@ -77,6 +77,7 @@ https://chem.libretexts.org/@api/deki/site/opensearch/description -> assets/othe
 https://chem.libretexts.org/@embed/f1.js -> assets/js/dcd30e4b94ea.js
 https://chem.libretexts.org/Courses/Alma_College/Organic_Chemistry_I_(Alma_College) -> assets/other/3408acbe454a
 https://chem.libretexts.org/Courses/Alma_College/Organic_Chemistry_I_(Alma_College)/00%3A_Front_Matter -> assets/other/b0e99724166a
+https://chem.libretexts.org/Courses/Alma_College/Organic_Chemistry_I_(Alma_College)/01%3A_Structure_and_Bonding -> assets/other/fbeb5d7c9ec5
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
