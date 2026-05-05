@@ -99,6 +99,10 @@ https://chem.libretexts.org/@api/deki/files/258720/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/258731/mindtouch.page%2523thumbnail?revision=1 -> assets/other/55a8ef443979.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/259067/mindtouch.page%2523thumbnail?revision=5 -> assets/other/6f371a6f36fb.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/259068/mindtouch.page%2523thumbnail?revision=3 -> assets/other/df3eab64957f.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/259084/mindtouch.page%2523thumbnail?revision=1 -> assets/other/25b5cafcbe32.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/259085/mindtouch.page%2523thumbnail?revision=1 -> assets/other/64d11699b56f.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/259216/mindtouch.page%2523thumbnail?revision=1 -> assets/other/25f94f639ec0.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/259269/mindtouch.page%2523thumbnail?revision=1 -> assets/other/25e6894e58f4.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/273749/mindtouch.page%2523thumbnail?revision=1 -> assets/other/759b7c59697d.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/347621/mindtouch.page%2523thumbnail?revision=5 -> assets/other/054e160c7d21.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/347622/mindtouch.page%2523thumbnail?revision=3 -> assets/other/8455407b7821.page%2523thumbnail
@@ -354,6 +358,7 @@ https://chem.libretexts.org/Courses/Bennington_College/Chemistry_-_An_Integrated
 https://chem.libretexts.org/Courses/BethuneCookman_University/B-CU%3ACH-331_Physical_Chemistry_I -> assets/other/8daeed55f66b
 https://chem.libretexts.org/Courses/BethuneCookman_University/B-CU%3A_CH-141_General_Chemistry_1 -> assets/other/5218ef4c9451
 https://chem.libretexts.org/Courses/BethuneCookman_University/B-CU%3A_CHL-141_General_Chemistry_1_Lab -> assets/other/804ba26a7ac4
+https://chem.libretexts.org/Courses/BethuneCookman_University/BCU%3A_CH_332_Physical_Chemistry_II -> assets/other/c5cfb4dfea15
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
