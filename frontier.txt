@@ -1,4 +1,3 @@
-https://chem.libretexts.org/Ancillary_Materials/Worksheets
 https://chem.libretexts.org/Ancillary_Materials/Reference
 https://chem.libretexts.org/Bookshelves/Environmental_Chemistry/Chemistry_for_Changing_Times_(Hill_and_McCreary)
 https://chem.libretexts.org/@app/auth/3/login
@@ -4331,3 +4330,12 @@ https://chem.libretexts.org/Ancillary_Materials/Interactive_Applications/ChemRea
 https://chem.libretexts.org/Ancillary_Materials/Interactive_Applications/GasSim%3A_Gas_Law_Simulator
 https://chem.libretexts.org/Ancillary_Materials/Interactive_Applications/Jupyter_Notebooks
 https://chem.libretexts.org/Ancillary_Materials/Exemplars_and_Case_Studies/Exemplars/Sports_Physiology_and_Health/Thermoregulation_and_Hydration
+https://chem.libretexts.org/@api/deki/pages/14604/pdf/Worksheets.pdf
+https://chem.libretexts.org/Ancillary_Materials/Worksheets/Worksheets%3A_General_Chemistry
+https://chem.libretexts.org/Ancillary_Materials/Worksheets/Worksheets%3A_Organic_Chemistry
+https://chem.libretexts.org/Ancillary_Materials/Worksheets/Worksheets%3A_Inorganic_Chemistry
+https://chem.libretexts.org/Ancillary_Materials/Worksheets/Worksheets%3A_Analytical_Chemistry
+https://chem.libretexts.org/Ancillary_Materials/Worksheets/Worksheets%3A_Analytical_Chemistry_II
+https://chem.libretexts.org/Ancillary_Materials/Worksheets/Worksheets%3A_Physical_Chemistry
+https://chem.libretexts.org/Ancillary_Materials/Worksheets/Spectroscopy_(Worksheets)
+https://chem.libretexts.org/Ancillary_Materials/Interactive_Applications/Jupyter_Notebooks/Spherical_Harmonics_Visualization_(Python_Notebook)
