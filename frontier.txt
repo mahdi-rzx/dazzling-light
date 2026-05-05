@@ -107,7 +107,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistr
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/16%3A_Appendix
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/zz%3A_Back_Matter/20%3A_Glossary
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/05%3A_Signals_and_Noise_(TBD)
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/06%3A_An_Introduction_to_Spectrophotometric_Methods
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/08%3A_An_Introduction_to_Optical_Atomic_Spectroscopy
@@ -4481,3 +4480,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analys
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/04%3A_Digital_Electronics_and_Microcomputers_(TBD)/4.01%3A_Analog_and_Digital_Signals
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/04%3A_Digital_Electronics_and_Microcomputers_(TBD)/4.02%3A_Working_With_Binary_Numbers
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/04%3A_Digital_Electronics_and_Microcomputers_(TBD)/4.03%3A_Basic_Digital_Circuit_Components
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/05%3A_Signals_and_Noise_(TBD)/5.01%3A_The_Signal-to-Noise_Ratio
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/05%3A_Signals_and_Noise_(TBD)/5.02%3A_Sources_of_Noise
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/05%3A_Signals_and_Noise_(TBD)/5.03%3A_Signal-to-Noise_Enhancement
