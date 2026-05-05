@@ -117,6 +117,10 @@ https://chem.libretexts.org/@api/deki/files/129659/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/129660/mindtouch.page%2523thumbnail?revision=1 -> assets/other/bbfffa023381.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/142526/Evans.png?revision=1 -> assets/img/2162792c7645.png
 https://chem.libretexts.org/@api/deki/files/162731/Dry_Ice_3.jpg?revision=1 -> assets/img/426209265204.jpg
+https://chem.libretexts.org/@api/deki/files/183710/mindtouch.page%2523thumbnail?revision=1 -> assets/other/db359889ae69.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/183711/mindtouch.page%2523thumbnail?revision=1 -> assets/other/aa391458334c.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/183712/mindtouch.page%2523thumbnail?revision=1 -> assets/other/873fcafad52d.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/183713/mindtouch.page%2523thumbnail?revision=1 -> assets/other/038393ae19a0.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/185929/mindtouch.page%2523thumbnail?revision=1 -> assets/other/47de91a6ba17.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/185934/mindtouch.page%2523thumbnail?revision=1 -> assets/other/12724ed6c256.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/187353/Frontier_Orbital_acid_base.png?revision=1 -> assets/img/4489403e8d7e.png
@@ -296,6 +300,7 @@ https://chem.libretexts.org/@api/deki/files/266036/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/266040/mindtouch.page%2523thumbnail?revision=1 -> assets/other/7b9a5e86f555.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/266047/mindtouch.page%2523thumbnail?revision=1 -> assets/other/dffbd9a1d960.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/266048/mindtouch.page%2523thumbnail?revision=1 -> assets/other/07404418db03.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/267279/mindtouch.page%2523thumbnail?revision=1 -> assets/other/5e7925d4309f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/268942/mindtouch.page%2523thumbnail?revision=3 -> assets/other/315fb07dd77e.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/268943/mindtouch.page%2523thumbnail?revision=3 -> assets/other/ff16ed28e7a4.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/270751/mindtouch.page%2523thumbnail?revision=1 -> assets/other/ca396e7338ec.page%2523thumbnail
@@ -626,6 +631,8 @@ https://chem.libretexts.org/@api/deki/files/417452/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/417453/mindtouch.page%2523thumbnail?revision=1 -> assets/other/8cf99c9ce85f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/417470/mindtouch.page%2523thumbnail?revision=1 -> assets/other/7d28705778f1.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/417471/mindtouch.page%2523thumbnail?revision=1 -> assets/other/77f38dada61c.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/417522/mindtouch.page%2523thumbnail?revision=1 -> assets/other/164e859afc76.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/417523/mindtouch.page%2523thumbnail?revision=1 -> assets/other/12cec94d84b8.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/423070/scales_PNG43.png?revision=1&size=bestfit&width=350&height=238 -> assets/img/2570deb9d4a8.png
 https://chem.libretexts.org/@api/deki/files/423074/Hindenburg_burning.jpg?revision=1&size=bestfit&width=550&height=418 -> assets/img/ec4012e3f1c3.jpg
 https://chem.libretexts.org/@api/deki/files/423075/mindtouch.page%2523thumbnail?revision=1 -> assets/other/499a0224b9ee.page%2523thumbnail
@@ -1913,6 +1920,7 @@ https://chem.libretexts.org/Courses/Fordham_University/Chem1102%3A_Drug_Discover
 https://chem.libretexts.org/Courses/Fordham_University/Chem1102%3A_Drug_Discovery_-_From_the_Laboratory_to_the_Clinic/16%3A_Appendix -> assets/other/16b41c2ff3b5
 https://chem.libretexts.org/Courses/Fordham_University/Chem1102%3A_Drug_Discovery_-_From_the_Laboratory_to_the_Clinic/zz%3A_Back_Matter -> assets/other/39dbfa85afa4
 https://chem.libretexts.org/Courses/Franklin_and_Marshall_College/CHM_222%3A_Inorganic_Chemistry -> assets/other/acbea8896cbf
+https://chem.libretexts.org/Courses/Franklin_and_Marshall_College/Introduction_to_Materials_Characterization__CHM_412_Collaborative_Text -> assets/other/62a7d6086f4e
 https://chem.libretexts.org/Courses/Franklin_and_Marshall_College/Plass's_General_Chemistry_1%3A_Atoms_Compounds_and_Bulk_substances -> assets/other/e5f68a2e2905
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
