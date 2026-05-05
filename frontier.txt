@@ -111,7 +111,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kine
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/01%3A_Chapters
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_Mass_Spectrometry_(Van_Bramer)/06%3A_INTERPRETATION
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_Mass_Spectrometry_(Van_Bramer)/07%3A_END_OF_CHAPTER_QUESTIONS-
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_Mass_Spectrometry_(Van_Bramer)/08%3A_ACKNOWLEDGMENTS
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_Mass_Spectrometry_(Van_Bramer)/zz%3A_Back_Matter
@@ -4730,3 +4729,9 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_Mass_Spectrometry_(Van_Bramer)/05%3A_MASS_SPECTROMETER_SYSTEMS/5.03%3A_Mass_Analyzer_Control
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_Mass_Spectrometry_(Van_Bramer)/05%3A_MASS_SPECTROMETER_SYSTEMS/5.04%3A_Detector_Control
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_Mass_Spectrometry_(Van_Bramer)/05%3A_MASS_SPECTROMETER_SYSTEMS/5.05%3A_Data_System
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_Mass_Spectrometry_(Van_Bramer)/06%3A_INTERPRETATION/6.01%3A_Molecular_Ion
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_Mass_Spectrometry_(Van_Bramer)/06%3A_INTERPRETATION/6.02%3A_Fragmentation
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_Mass_Spectrometry_(Van_Bramer)/06%3A_INTERPRETATION/6.03%3A_Rearangement
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_Mass_Spectrometry_(Van_Bramer)/06%3A_INTERPRETATION/6.04%3A_Isotope_Abundance
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_Mass_Spectrometry_(Van_Bramer)/06%3A_INTERPRETATION/6.05%3A_Amine_Fragmentation
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/An_Introduction_to_Mass_Spectrometry_(Van_Bramer)/06%3A_INTERPRETATION/6.06%3A_Exact_Mass
