@@ -98,6 +98,8 @@ https://chem.libretexts.org/@api/deki/files/232046/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/232047/mindtouch.page%2523thumbnail?revision=4 -> assets/other/60a745a5e6ef.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/232054/mindtouch.page%2523thumbnail?revision=4 -> assets/other/bccf0392fd07.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/232055/mindtouch.page%2523thumbnail?revision=4 -> assets/other/cc575ee218e2.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/239735/clipboard_e32e3b74ea300fc2ec237429e9f87a79b.png?revision=1 -> assets/img/4325cc1e2410.png
+https://chem.libretexts.org/@api/deki/files/239966/clipboard_eb85164193d4eb90f6592c32ba78b455c.png?revision=1 -> assets/img/47d0b87cf052.png
 https://chem.libretexts.org/@api/deki/files/255908/mindtouch.page%2523thumbnail?revision=1 -> assets/other/7d7002508371.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/258042/mindtouch.page%2523thumbnail?revision=1 -> assets/other/c767ca4f5fe1.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/258102/mindtouch.page%2523thumbnail?revision=1 -> assets/other/7c0b0b157e51.page%2523thumbnail
@@ -878,6 +880,7 @@ https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistr
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/06%3A_Coordination_Chemistry-_Bonding -> assets/other/38a4ec5aedc3
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/07%3A_Coordination_Chemistry-_Reactions_and_Mechanisms -> assets/other/915baf876aac
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra -> assets/other/a23b956ff06d
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/09%3A_Structure_and_Energetics_of_Solids -> assets/other/c8a01118294e
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
 https://chem.libretexts.org/Courses/can/CHEM_220%3A_General_Chemistry_II_-_Chemical_Dynamics -> assets/other/b90b82fa0bdd
