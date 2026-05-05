@@ -184,7 +184,12 @@ https://chem.libretexts.org/@api/deki/files/264258/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/264261/mindtouch.page%2523thumbnail?revision=2 -> assets/other/8235d4d334cb.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/264701/mindtouch.page%2523thumbnail?revision=1 -> assets/other/dabdeaad1344.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/264711/mindtouch.page%2523thumbnail?revision=1 -> assets/other/1055472071e1.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/264993/mindtouch.page%2523thumbnail?revision=1 -> assets/other/e2e9d9232730.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/265039/mindtouch.page%2523thumbnail?revision=1 -> assets/other/b659980246c0.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/265048/mindtouch.page%2523thumbnail?revision=1 -> assets/other/65c112c9ea3f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/265277/mindtouch.page%2523thumbnail?revision=1 -> assets/other/f8d1ec5c2b10.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/265278/mindtouch.page%2523thumbnail?revision=3 -> assets/other/2f5b0bb1f824.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/265279/mindtouch.page%2523thumbnail?revision=3 -> assets/other/2eb2d738e473.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/265794/mindtouch.page%2523thumbnail?revision=3 -> assets/other/4aca19c10573.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/265795/mindtouch.page%2523thumbnail?revision=3 -> assets/other/1de50cf197a7.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/265877/mindtouch.page%2523thumbnail?revision=1 -> assets/other/68618b0fd880.page%2523thumbnail
@@ -1031,6 +1036,7 @@ https://chem.libretexts.org/Courses/Chippewa_Valley_Technical_College/CVTC_Basic
 https://chem.libretexts.org/Courses/Chippewa_Valley_Technical_College/CVTC_Basic_Chemistry/07%3A_Solutions -> assets/other/3f27d31ac9ab
 https://chem.libretexts.org/Courses/Chippewa_Valley_Technical_College/CVTC_Basic_Chemistry/08%3A_Acids_and_Bases -> assets/other/3e5982430852
 https://chem.libretexts.org/Courses/Chippewa_Valley_Technical_College/CVTC_Basic_Chemistry/zz%3A_Back_Matter -> assets/other/80ce387ba6b9
+https://chem.libretexts.org/Courses/City_College_of_San_Francisco/CCSF_Chemistry_Resources -> assets/other/12305b6941f5
 https://chem.libretexts.org/Courses/City_College_of_San_Francisco/CCSF_Chemistry_Resources/zz%3A_Back_Matter/30%3A_Detailed_Licensing -> assets/other/af6b5dd0232f
 https://chem.libretexts.org/Courses/City_College_of_San_Francisco/Chemistry_101A -> assets/other/43624ce2edfa
 https://chem.libretexts.org/Courses/City_College_of_San_Francisco/Chemistry_101B -> assets/other/6185a54a3dd5
