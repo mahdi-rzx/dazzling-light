@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/01%3A_Basic_Concepts_in_Chemical_Bonding_and_Organic_Molecules
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/02%3A_Fundamental_of_Organic_Structures
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/03%3A_Acids_and_Bases-_Organic_Reaction_Mechanism_Introduction
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/04%3A_Conformations_of_Alkanes_and_Cycloalkanes
@@ -1898,3 +1897,10 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(L
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/00%3A_Front_Matter/About_the_Author
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/00%3A_Front_Matter/Acknowledgements
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/00%3A_Front_Matter/Introduction
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/01%3A_Basic_Concepts_in_Chemical_Bonding_and_Organic_Molecules/1.01%3A_Chemical_Bonding
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/01%3A_Basic_Concepts_in_Chemical_Bonding_and_Organic_Molecules/1.02%3A_Lewis_Structure
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/01%3A_Basic_Concepts_in_Chemical_Bonding_and_Organic_Molecules/1.03%3A_Resonance_Structures
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/01%3A_Basic_Concepts_in_Chemical_Bonding_and_Organic_Molecules/1.04%3A_Resonance_structures_in_Organic_Chemistry
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/01%3A_Basic_Concepts_in_Chemical_Bonding_and_Organic_Molecules/1.05%3A_Valence-Shell_Electron-Pair_Repulsion_Theory_(VSEPR)
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/01%3A_Basic_Concepts_in_Chemical_Bonding_and_Organic_Molecules/1.06%3A_Valence_Bond_Theory_and_Hybridization
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/01%3A_Basic_Concepts_in_Chemical_Bonding_and_Organic_Molecules/1.07%3A_Answers_to_Practice_Questions_Chapter_1
