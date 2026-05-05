@@ -5,7 +5,8 @@ Focused crawler for chem.libretexts.org
 - Downloads HTML pages only (no images)
 - Resumable with per‑page commits
 - Job‑level timeout, skips non‑HTML files
-- Saves pages directly into chem.libretexts.org/ (no "archive" prefix)
+- Saves pages directly into chem.libretexts.org/
+- Handles redirects and file/directory conflicts
 """
 
 import os
@@ -62,15 +63,36 @@ def local_path(url):
     """Convert page URL → local file path inside OUTPUT_DIR."""
     parsed = urlparse(url)
     path = unquote(parsed.path).strip("/")
+    
     if not path:
         return os.path.join(OUTPUT_DIR, "index.html")
-    if "." in path.split("/")[-1]:
+    
+    parts = path.split("/")
+    last_part = parts[-1]
+    
+    if "." in last_part:
+        # Has extension → file
         return os.path.join(OUTPUT_DIR, path)
     else:
+        # No extension → directory → save as index.html inside it
         return os.path.join(OUTPUT_DIR, path, "index.html")
 
 def ensure_dir(filepath):
-    os.makedirs(os.path.dirname(filepath), exist_ok=True)
+    """Create directory, handling case where parent is a file."""
+    parent_dir = os.path.dirname(filepath)
+    
+    # If parent exists as a file (not directory), convert it
+    if os.path.isfile(parent_dir):
+        print(f"  🔧 Converting file to directory: {parent_dir}")
+        temp_path = parent_dir + ".temp"
+        os.rename(parent_dir, temp_path)
+        os.makedirs(parent_dir, exist_ok=True)
+        os.rename(temp_path, os.path.join(parent_dir, "index.html"))
+        # Add the moved file to git
+        subprocess.run(["git", "add", os.path.join(parent_dir, "index.html")], check=False)
+        return
+    
+    os.makedirs(parent_dir, exist_ok=True)
 
 def load_set(filepath):
     if os.path.exists(filepath):
@@ -118,6 +140,11 @@ def is_allowed_url(url):
             return True
     return False
 
+def add_to_downloaded(url, downloaded_set):
+    """Smart add to downloaded set, handling redirect equivalents."""
+    downloaded_set.add(url)
+    append_line(DOWNLOADED_FILE, url)
+
 # ------------------------------------------------------------
 # Main crawl
 # ------------------------------------------------------------
@@ -136,15 +163,22 @@ def main():
     if os.path.exists(FRONTIER_FILE):
         with open(FRONTIER_FILE) as f:
             frontier = [line.strip() for line in f if line.strip()]
+        # Clean out-of-scope URLs
+        new_frontier = [u for u in frontier if is_allowed_url(clean_url(u))]
+        if len(new_frontier) < len(frontier):
+            print(f"🧹 Removing {len(frontier) - len(new_frontier)} out‑of‑scope URLs from frontier")
+            with open(FRONTIER_FILE, "w") as f:
+                for u in new_frontier:
+                    f.write(u + "\n")
+            git_commit_push([FRONTIER_FILE], "Purge out‑of‑scope URLs")
+            frontier = new_frontier
         print(f"Frontier: {len(frontier)} URLs waiting")
     else:
         frontier = SEED_URLS.copy()
         with open(FRONTIER_FILE, "w") as f:
             for url in frontier:
                 f.write(url + "\n")
-        subprocess.run(["git", "add", FRONTIER_FILE], check=True)
-        subprocess.run(["git", "commit", "-m", "Initialize frontier with 5 chemistry subjects"], check=True)
-        subprocess.run(["git", "push"], check=True)
+        git_commit_push([FRONTIER_FILE], "Initialize frontier with 5 chemistry subjects")
         print("Seeded frontier with 5 subject roots")
 
     seen = downloaded | errors | set(frontier)
@@ -167,7 +201,6 @@ def main():
 
         # Enforce subject boundaries
         if not is_allowed_url(url):
-            print(f"⊘ Out of scope: {url}")
             remove_line(FRONTIER_FILE, url)
             seen.add(url)
             git_commit_push([FRONTIER_FILE], f"Remove out‑of‑scope {url}")
@@ -195,6 +228,7 @@ def main():
             break
 
         status = resp.status_code
+        final_url = clean_url(resp.url)  # URL after redirects
 
         if status == 200:
             content_type = resp.headers.get("content-type", "")
@@ -204,30 +238,43 @@ def main():
                 git_commit_push([FRONTIER_FILE], f"Skip non-HTML {url}")
                 continue
 
-            # Save the raw HTML (no image processing)
-            filepath = local_path(url)
-            ensure_dir(filepath)
-            with open(filepath, "w", encoding="utf-8") as f:
-                f.write(resp.text)
+            # Save using the FINAL URL (after redirects)
+            filepath = local_path(final_url)
+            
+            # If redirected, mark original URL as downloaded too
+            if final_url != url:
+                add_to_downloaded(url, downloaded)
+                remove_line(FRONTIER_FILE, url)
+                seen.add(url)
+                if final_url in downloaded:
+                    print(f"  ↪ Redirects to already-downloaded {final_url}")
+                    git_commit_push([FRONTIER_FILE, DOWNLOADED_FILE], f"Redirect {url} -> {final_url}")
+                    continue
 
-            # Update state
-            append_line(DOWNLOADED_FILE, url)
-            downloaded.add(url)
-            remove_line(FRONTIER_FILE, url)
-            seen.add(url)
+            try:
+                ensure_dir(filepath)
+                with open(filepath, "w", encoding="utf-8") as f:
+                    f.write(resp.text)
+            except Exception as e:
+                print(f"  ❌ Save error: {e}")
+                continue
 
-            # Extract new links (only within allowed subjects)
+            # Mark final URL as downloaded
+            add_to_downloaded(final_url, downloaded)
+            remove_line(FRONTIER_FILE, final_url)
+            seen.add(final_url)
+
+            # Extract new links from the ORIGINAL response
             soup = BeautifulSoup(resp.text, "html.parser")
             new_links = 0
             for a in soup.find_all("a", href=True):
-                abs_link = urljoin(url, a["href"])
+                abs_link = urljoin(final_url, a["href"])
                 parsed = urlparse(abs_link)
                 if parsed.netloc != BASE_DOMAIN:
                     continue
                 cleaned = clean_url(abs_link)
                 if not is_allowed_url(cleaned):
                     continue
-                # Skip obviously non‑HTML files
                 skip_ext = [".pdf", ".zip", ".png", ".jpg", ".jpeg",
                            ".gif", ".svg", ".css", ".js", ".ico",
                            ".woff", ".woff2", ".ttf", ".mp4", ".mp3"]
@@ -241,8 +288,9 @@ def main():
             if new_links:
                 print(f"  🔗 {new_links} new links")
 
-            # Commit everything
-            git_commit_push([filepath, FRONTIER_FILE, DOWNLOADED_FILE], f"Add {url}")
+            # Commit
+            commit_files = [filepath, FRONTIER_FILE, DOWNLOADED_FILE]
+            git_commit_push(commit_files, f"Add {final_url}")
             counter += 1
 
         elif status == 429 or status >= 500:
