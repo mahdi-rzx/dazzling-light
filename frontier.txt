@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/04%3A_Carbon-Heteroatom_Bond-Forming_Reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/05%3A_Oxidation_Reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/06%3A_Hydrogenation_Reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/07%3A_Reactions_in_Nonconventional_Conditions
@@ -2521,3 +2520,13 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_S
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/03%3A_Synthesis_via_C-H_Activation/3.01%3A__Reactions_with_Metal_Carbenoid
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/03%3A_Synthesis_via_C-H_Activation/3.02%3A_Reactions_With_Metal_Nitrenoid_and_Direct_C-H_Oxidation
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/03%3A_Synthesis_via_C-H_Activation/3.03%3A_Problems_and_Reference
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/04%3A_Carbon-Heteroatom_Bond-Forming_Reactions/4.01%3A_Allylic_Substitution_Reactions
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/04%3A_Carbon-Heteroatom_Bond-Forming_Reactions/4.02%3A_Aza-Claisen_Rearrangement_and_Related_Reactions
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/04%3A_Carbon-Heteroatom_Bond-Forming_Reactions/4.03%3A_Hydroamination_of_Alkenes
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/04%3A_Carbon-Heteroatom_Bond-Forming_Reactions/4.04%3A_Hydroalkoxylation_of_Allenes
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/04%3A_Carbon-Heteroatom_Bond-Forming_Reactions/4.05%3A_Oxidation_Reactions
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/04%3A_Carbon-Heteroatom_Bond-Forming_Reactions/4.06%3A_Aziridination_of_Alkenes
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/04%3A_Carbon-Heteroatom_Bond-Forming_Reactions/4.07%3A_Amination_of_Carbonyl_Compounds
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/04%3A_Carbon-Heteroatom_Bond-Forming_Reactions/4.08%3A_Boration_of_Alkenes
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/04%3A_Carbon-Heteroatom_Bond-Forming_Reactions/4.09%3A_Hydrophosphonylation_of_Imines
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/04%3A_Carbon-Heteroatom_Bond-Forming_Reactions/4.10%3A_Problems_and_Reference
