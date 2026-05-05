@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/04%3A_Polymer_Properties
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_(Wade)
@@ -2778,3 +2777,13 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Sch
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/03%3A_Kinetics_and_Thermodynamics_of_Polymerization/3.03%3A_Kinetics_of_Chain_Polymerization
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/03%3A_Kinetics_and_Thermodynamics_of_Polymerization/3.04%3A_Kinetics_of_Catalytic_Polymerization
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/03%3A_Kinetics_and_Thermodynamics_of_Polymerization/3.05%3A_Solutions_to_Selected_Problems
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/04%3A_Polymer_Properties/4.01%3A_Molecular_Weight
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/04%3A_Polymer_Properties/4.02%3A_Viscosity
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/04%3A_Polymer_Properties/4.03%3A_Rheology
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/04%3A_Polymer_Properties/4.04%3A_Glass_Transition
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/04%3A_Polymer_Properties/4.05%3A_Crystallinity_in_Polymers
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/04%3A_Polymer_Properties/4.06%3A_Microphase_Separation
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/04%3A_Polymer_Properties/4.07%3A_Stress-Strain_Relationships
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/04%3A_Polymer_Properties/4.08%3A_Storage_and_Loss_Modulus
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/04%3A_Polymer_Properties/4.09%3A_Modulus_Temperature_Time
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Polymer_Chemistry_(Schaller)/04%3A_Polymer_Properties/4.10%3A_Chapter_Solutions
