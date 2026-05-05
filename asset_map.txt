@@ -70,6 +70,13 @@ https://chem.libretexts.org/@api/deki/files/108084/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/108085/mindtouch.page%2523thumbnail?revision=1 -> assets/other/841da449c383.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/108086/mindtouch.page%2523thumbnail?revision=1 -> assets/other/393441bde19f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/108087/mindtouch.page%2523thumbnail?revision=1 -> assets/other/5f2ca939165b.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/111589/mindtouch.page%2523thumbnail?revision=1 -> assets/other/c7ce274350e1.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/111590/mindtouch.page%2523thumbnail?revision=1 -> assets/other/9fba9162680e.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/111591/mindtouch.page%2523thumbnail?revision=1 -> assets/other/c00f4488dacb.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/111592/mindtouch.page%2523thumbnail?revision=1 -> assets/other/48de9aa265f3.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/111593/mindtouch.page%2523thumbnail?revision=1 -> assets/other/5a766ac7a6bc.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/111595/mindtouch.page%2523thumbnail?revision=1 -> assets/other/39529b5dfbae.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/111596/mindtouch.page%2523thumbnail?revision=1 -> assets/other/c1c670247b77.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/120046/mindtouch.page%2523thumbnail?revision=1 -> assets/other/d0a869e43d6d.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/120069/mindtouch.page%2523thumbnail?revision=1 -> assets/other/825d53f0162e.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/120087/mindtouch.page%2523thumbnail?revision=1 -> assets/other/7f9c06da3cb8.page%2523thumbnail
@@ -1653,6 +1660,7 @@ https://chem.libretexts.org/Courses/Diablo_Valley_College/DVC_Chem_226%3A_Rusay 
 https://chem.libretexts.org/Courses/Diablo_Valley_College/DVC_Chem_227%3A_Rusay -> assets/other/2cda9c4192a5
 https://chem.libretexts.org/Courses/Diablo_Valley_College/DVC_Chem_298_Independent_Study%3A_Rusay -> assets/other/609089037b40
 https://chem.libretexts.org/Courses/Diablo_Valley_College/Vertical_Farming_Project -> assets/other/1862a48c5f63
+https://chem.libretexts.org/Courses/Douglas_College/DC%3A_Chem_2330_(O'Connor) -> assets/other/915fccd4f515
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
 https://chem.libretexts.org/Courses/can/CHEM_220%3A_General_Chemistry_II_-_Chemical_Dynamics -> assets/other/b90b82fa0bdd
