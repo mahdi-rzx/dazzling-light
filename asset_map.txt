@@ -65,6 +65,10 @@ https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-
 https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js -> assets/js/03341e274505.js
 https://chem.libretexts.org/@api/deki/files/105788/Diamond_and_graphite.jpg?revision=1&size=bestfit&width=404&height=311 -> assets/img/9569bb1f1495.jpg
 https://chem.libretexts.org/@api/deki/files/107001/800px-Wheat-haHula-ISRAEL2.JPG?revision=1&size=bestfit&width=483&height=358 -> assets/other/21aac90589e3.JPG
+https://chem.libretexts.org/@api/deki/files/108084/mindtouch.page%2523thumbnail?revision=1 -> assets/other/48210893e9c6.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/108085/mindtouch.page%2523thumbnail?revision=1 -> assets/other/841da449c383.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/108086/mindtouch.page%2523thumbnail?revision=1 -> assets/other/393441bde19f.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/108087/mindtouch.page%2523thumbnail?revision=1 -> assets/other/5f2ca939165b.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/120046/mindtouch.page%2523thumbnail?revision=1 -> assets/other/d0a869e43d6d.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/120069/mindtouch.page%2523thumbnail?revision=1 -> assets/other/825d53f0162e.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/120087/mindtouch.page%2523thumbnail?revision=1 -> assets/other/7f9c06da3cb8.page%2523thumbnail
@@ -1633,6 +1637,7 @@ https://chem.libretexts.org/Courses/DePaul_University/Thermodynamics_and_Introdu
 https://chem.libretexts.org/Courses/DePaul_University/Thermodynamics_and_Introduction_to_Quantum_Mechanics_(Southern)/zz%3A_Back_Matter -> assets/other/950ddaaacc2e
 https://chem.libretexts.org/Courses/De_Anza_College/CHEM_10%3A_Introduction_to_Chemistry_(Parajon_Puenzo) -> assets/other/58e53c8e30dc
 https://chem.libretexts.org/Courses/De_Anza_College/CHEM_10%3A_Introduction_to_Chemistry_(Parajon_Puenzo)/zz%3A_Back_Matter/30%3A_Detailed_Licensing -> assets/other/1e7359b0838b
+https://chem.libretexts.org/Courses/Diablo_Valley_College/DVC_Chem_106%3A_Rusay -> assets/other/21272f6407cf
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
 https://chem.libretexts.org/Courses/can/CHEM_220%3A_General_Chemistry_II_-_Chemical_Dynamics -> assets/other/b90b82fa0bdd
