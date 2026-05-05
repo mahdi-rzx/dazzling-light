@@ -596,6 +596,10 @@ https://chem.libretexts.org/@api/deki/files/482581/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/485344/mindtouch.page%2523thumbnail?revision=2 -> assets/other/b96cdb969b7e.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/485345/mindtouch.page%2523thumbnail?revision=1 -> assets/other/50c051db902d.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/485346/mindtouch.page%2523thumbnail?revision=1 -> assets/other/8cb41e75bd0a.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/485455/mindtouch.page%2523thumbnail?revision=1 -> assets/other/9bf968b4e910.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/485456/mindtouch.page%2523thumbnail?revision=1 -> assets/other/a8b4537a4c11.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/485457/mindtouch.page%2523thumbnail?revision=1 -> assets/other/21f020ca1e5f.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/485459/mindtouch.page%2523thumbnail?revision=1 -> assets/other/70a5b38acb13.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/486721/mindtouch.page%2523thumbnail?revision=1 -> assets/other/e70f17f9472a.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/486722/mindtouch.page%2523thumbnail?revision=1 -> assets/other/f7f78ccee678.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/486723/mindtouch.page%2523thumbnail?revision=3 -> assets/other/394de369d86e.page%2523thumbnail
@@ -642,6 +646,16 @@ https://chem.libretexts.org/@api/deki/files/493564/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/493565/mindtouch.page%2523thumbnail?revision=1 -> assets/other/ffef69c4434f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/493566/mindtouch.page%2523thumbnail?revision=1 -> assets/other/b14addd8bc82.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/493567/mindtouch.page%2523thumbnail?revision=1 -> assets/other/8e648bb839d0.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/495084/mindtouch.page%2523thumbnail?revision=1 -> assets/other/706e5e3f6d06.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/495091/mindtouch.page%2523thumbnail?revision=1 -> assets/other/a482ee5d83fd.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/495099/mindtouch.page%2523thumbnail?revision=1 -> assets/other/1267e80d7087.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/495100/mindtouch.page%2523thumbnail?revision=1 -> assets/other/536a2ca0e067.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/495101/mindtouch.page%2523thumbnail?revision=1 -> assets/other/57b6a3e85f6a.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/495102/mindtouch.page%2523thumbnail?revision=1 -> assets/other/037716b06cbd.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/495103/mindtouch.page%2523thumbnail?revision=1 -> assets/other/12dadd691c75.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/495104/mindtouch.page%2523thumbnail?revision=1 -> assets/other/2cf71b0b4e83.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/495165/mindtouch.page%2523thumbnail?revision=1 -> assets/other/982625aa3993.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/495173/mindtouch.page%2523thumbnail?revision=1 -> assets/other/ee9a9efe5ac8.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/495196/mindtouch.page%2523thumbnail?revision=1 -> assets/other/376cc0570416.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/495197/mindtouch.page%2523thumbnail?revision=1 -> assets/other/e1345c30613c.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/496363/mindtouch.page%2523thumbnail?revision=2 -> assets/other/59d25e3a32c6.page%2523thumbnail
@@ -1114,6 +1128,7 @@ https://chem.libretexts.org/Courses/Cleveland_State_University/CHM_151%3A_Chemis
 https://chem.libretexts.org/Courses/Cleveland_State_University/CHM_151%3A_Chemistry_Around_Us/04%3A_Chemistry_of_Water -> assets/other/f71b5be12f1d
 https://chem.libretexts.org/Courses/Cleveland_State_University/CHM_151%3A_Chemistry_Around_Us/05%3A_Nuclear_Chemistry -> assets/other/ef2aac9ade2c
 https://chem.libretexts.org/Courses/Cleveland_State_University/CHM_151%3A_Chemistry_Around_Us/zz%3A_Back_Matter -> assets/other/cbe70bb56e57
+https://chem.libretexts.org/Courses/Clovis_Community_College/Introductory_Chemistry_At_Home_Labs -> assets/other/b1e7a6bb4f0a
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
 https://chem.libretexts.org/Courses/can/CHEM_220%3A_General_Chemistry_II_-_Chemical_Dynamics -> assets/other/b90b82fa0bdd
