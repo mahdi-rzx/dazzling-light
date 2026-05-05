@@ -1092,6 +1092,9 @@ https://chem.libretexts.org/@api/deki/files/496371/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/496375/mindtouch.page%2523thumbnail?revision=2 -> assets/other/8ad197099131.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/496379/mindtouch.page%2523thumbnail?revision=2 -> assets/other/bb8aec6f7981.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/496874/mindtouch.page%2523thumbnail?revision=2 -> assets/other/b3da0614c654.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/497509/mindtouch.page%2523thumbnail?revision=1 -> assets/other/dc16735cd0b6.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/497510/mindtouch.page%2523thumbnail?revision=1 -> assets/other/271bde32b14a.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/497511/mindtouch.page%2523thumbnail?revision=1 -> assets/other/5ab16743dcec.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/497699/mindtouch.page%2523thumbnail?revision=2 -> assets/other/4cc502ad5981.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/497700/mindtouch.page%2523thumbnail?revision=2 -> assets/other/6eadea42e723.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/497965/mindtouch.page%2523thumbnail?revision=1 -> assets/other/c2f44bdb610b.page%2523thumbnail
@@ -1105,6 +1108,15 @@ https://chem.libretexts.org/@api/deki/files/498015/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/498025/mindtouch.page%2523thumbnail?revision=1 -> assets/other/80960001ed04.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/498035/mindtouch.page%2523thumbnail?revision=1 -> assets/other/2cb011067fd8.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/498041/mindtouch.page%2523thumbnail?revision=1 -> assets/other/6b5e535443e2.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/498298/mindtouch.page%2523thumbnail?revision=1 -> assets/other/382675f6dbf4.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/498304/mindtouch.page%2523thumbnail?revision=1 -> assets/other/3b71ace8e51b.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/498305/mindtouch.page%2523thumbnail?revision=1 -> assets/other/a6ea23ab8e06.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/498306/mindtouch.page%2523thumbnail?revision=1 -> assets/other/9cedceacaecd.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/498308/mindtouch.page%2523thumbnail?revision=1 -> assets/other/dc66e93b2c5f.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/498309/mindtouch.page%2523thumbnail?revision=1 -> assets/other/01903f80426c.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/498312/mindtouch.page%2523thumbnail?revision=1 -> assets/other/a1c0c5d93068.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/498314/mindtouch.page%2523thumbnail?revision=1 -> assets/other/6ce0b9179815.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/498315/mindtouch.page%2523thumbnail?revision=1 -> assets/other/df94d08c4d93.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/498777/mindtouch.page%2523thumbnail?revision=1 -> assets/other/c635b675a263.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/498778/mindtouch.page%2523thumbnail?revision=1 -> assets/other/a6c904d49e24.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/499109/mindtouch.page%2523thumbnail?revision=1 -> assets/other/41a3499102b7.page%2523thumbnail
@@ -1935,6 +1947,7 @@ https://chem.libretexts.org/Courses/Fordham_University/Chem1102%3A_Drug_Discover
 https://chem.libretexts.org/Courses/Franklin_and_Marshall_College/CHM_222%3A_Inorganic_Chemistry -> assets/other/acbea8896cbf
 https://chem.libretexts.org/Courses/Franklin_and_Marshall_College/Introduction_to_Materials_Characterization__CHM_412_Collaborative_Text -> assets/other/62a7d6086f4e
 https://chem.libretexts.org/Courses/Franklin_and_Marshall_College/Plass's_General_Chemistry_1%3A_Atoms_Compounds_and_Bulk_substances -> assets/other/e5f68a2e2905
+https://chem.libretexts.org/Courses/Fresno_City_College/Environmental_Chemistry_(CID_CHEM_106B)_Lab_Manual -> assets/other/485152816e6c
 https://chem.libretexts.org/Courses/Fresno_City_College/Environmental_Chemistry_(CID_Chem_106B) -> assets/other/d411847139c0
 https://chem.libretexts.org/Courses/Fresno_City_College/Environmental_Chemistry_(CID_Chem_106B)/00%3A_Front_Matter -> assets/other/7403c42913b3
 https://chem.libretexts.org/Courses/Fresno_City_College/Environmental_Chemistry_(CID_Chem_106B)/01%3A_Environmental_Chemistry_and_The_Scientific_Method -> assets/other/30b9de1040d9
