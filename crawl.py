@@ -2,7 +2,7 @@
 """
 Incremental crawler for chem.libretexts.org.
 - Downloads HTML pages only
-- Handles special characters in URLs (%, :, etc.)
+- Handles special characters in URLs
 - download_timeout = total job time in seconds
 """
 
@@ -11,7 +11,7 @@ import time
 import subprocess
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin, urlparse, urlunquote, urlunparse
+from urllib.parse import urljoin, urlparse, unquote, urlunparse
 
 # ------------------------------------------------------------
 # Configure git identity FIRST
@@ -44,17 +44,14 @@ def clean_url(url):
 def local_path(url):
     """Convert URL to local path: archive/chem.libretexts.org/..."""
     parsed = urlparse(url)
-    # Decode URL encoding for filesystem
-    path = urlunquote(parsed.path).strip("/")
+    path = unquote(parsed.path).strip("/")
     
     if not path:
         return os.path.join(OUTPUT_DIR, parsed.netloc, "index.html")
     
-    # If the path already ends with .html, .htm, .pdf etc - use as-is
     if "." in path.split("/")[-1]:
         return os.path.join(OUTPUT_DIR, parsed.netloc, path)
     else:
-        # Directory-like path, add index.html
         return os.path.join(OUTPUT_DIR, parsed.netloc, path, "index.html")
 
 def ensure_dir(filepath):
@@ -81,7 +78,6 @@ def remove_line(filepath, line):
                 f.write(l)
 
 def git_commit_push(files, message):
-    """Commit and push changes."""
     try:
         subprocess.run(["git", "add"] + files, check=True, timeout=30)
         diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
@@ -114,7 +110,6 @@ def main():
     print(f"Already downloaded: {len(downloaded)} pages")
     print()
 
-    # Load or create frontier
     frontier = []
     if os.path.exists(FRONTIER_FILE):
         with open(FRONTIER_FILE) as f:
@@ -179,14 +174,12 @@ def main():
                 continue
 
             try:
-                # Save HTML
                 filepath = local_path(url)
                 ensure_dir(filepath)
                 with open(filepath, "w", encoding="utf-8") as f:
                     f.write(resp.text)
             except Exception as e:
                 print(f"  ⚠ Failed to save: {e}")
-                # Keep in frontier to retry
                 continue
 
             append_line(DOWNLOADED_FILE, url)
@@ -194,7 +187,6 @@ def main():
             remove_line(FRONTIER_FILE, url)
             seen.add(url)
 
-            # Extract links
             soup = BeautifulSoup(resp.text, "html.parser")
             new_links = 0
             for a in soup.find_all("a", href=True):
