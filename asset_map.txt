@@ -154,6 +154,10 @@ https://chem.libretexts.org/@api/deki/files/435492/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/436242/mindtouch.page%2523thumbnail?revision=3 -> assets/other/fd94a31356f8.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/437269/mindtouch.page%2523thumbnail?revision=1 -> assets/other/82bb11118512.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/469838/Atom.png?revision=1 -> assets/img/7fdd495343d7.png
+https://chem.libretexts.org/@api/deki/files/472622/mindtouch.page%2523thumbnail?revision=3 -> assets/other/baa692742a3c.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/472623/mindtouch.page%2523thumbnail?revision=1 -> assets/other/d7f114fbc253.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/472624/mindtouch.page%2523thumbnail?revision=1 -> assets/other/979f0436882e.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/475589/mindtouch.page%2523thumbnail?revision=3 -> assets/other/825c7f139fe3.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/476011/mindtouch.page%2523thumbnail?revision=1 -> assets/other/6713429f6a65.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/476012/mindtouch.page%2523thumbnail?revision=1 -> assets/other/0fddc150bdb5.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/476540/mindtouch.page%2523thumbnail?revision=2 -> assets/other/333e55562a73.page%2523thumbnail
@@ -161,6 +165,10 @@ https://chem.libretexts.org/@api/deki/files/476555/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/476582/mindtouch.page%2523thumbnail?revision=2 -> assets/other/f873731a37fa.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/476604/mindtouch.page%2523thumbnail?revision=2 -> assets/other/64b8a5d7c61f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/476624/mindtouch.page%2523thumbnail?revision=2 -> assets/other/accf0236f51f.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/476920/mindtouch.page%2523thumbnail?revision=3 -> assets/other/6434c663891b.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/477278/mindtouch.page%2523thumbnail?revision=3 -> assets/other/7ab8db82753c.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/477294/mindtouch.page%2523thumbnail?revision=3 -> assets/other/2123ef8fdbb0.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/477302/mindtouch.page%2523thumbnail?revision=3 -> assets/other/e9e661d3052a.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/91470/mindtouch.page%2523thumbnail?revision=1 -> assets/other/d62db0c280e7.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/91506/mindtouch.page%2523thumbnail?revision=1 -> assets/other/80c5326862ca.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/91549/mindtouch.page%2523thumbnail?revision=1 -> assets/other/9d9bec405c38.page%2523thumbnail
@@ -254,6 +262,7 @@ https://chem.libretexts.org/Courses/Barry_University/CHE360%3A_Inorganic_Chemist
 https://chem.libretexts.org/Courses/Barry_University/CHE360%3A_Inorganic_Chemistry/08%3A_The_Crystalline_Solid_State -> assets/other/7274ca9a29a1
 https://chem.libretexts.org/Courses/Barry_University/CHE360%3A_Inorganic_Chemistry/09%3A_Coordination_Chemistry_II-_Bonding -> assets/other/29ddcd02cd07
 https://chem.libretexts.org/Courses/Barry_University/CHE360%3A_Inorganic_Chemistry/zz%3A_Back_Matter -> assets/other/a5c5676975ef
+https://chem.libretexts.org/Courses/Barstow_Community_College/Survey_of_Chemistry_and_Physics -> assets/other/82e70c1a8e52
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
