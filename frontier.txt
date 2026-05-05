@@ -107,7 +107,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistr
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/16%3A_Appendix
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/zz%3A_Back_Matter/20%3A_Glossary
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/06%3A_An_Introduction_to_Spectrophotometric_Methods
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/08%3A_An_Introduction_to_Optical_Atomic_Spectroscopy
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/09%3A_Atomic_Absorption_and_Atomic_Fluorescence_Spectrometry
@@ -4483,3 +4482,8 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analys
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/05%3A_Signals_and_Noise_(TBD)/5.01%3A_The_Signal-to-Noise_Ratio
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/05%3A_Signals_and_Noise_(TBD)/5.02%3A_Sources_of_Noise
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/05%3A_Signals_and_Noise_(TBD)/5.03%3A_Signal-to-Noise_Enhancement
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/06%3A_An_Introduction_to_Spectrophotometric_Methods/6.01%3A_General_Properties_of_Electromagnetic_Radiation
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/06%3A_An_Introduction_to_Spectrophotometric_Methods/6.02%3A_Wave_Properties_of_Electromagnetic_Radiation
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/06%3A_An_Introduction_to_Spectrophotometric_Methods/6.03%3A_Quantum_Mechanical_Properties_of_Electromagnetic_Radiation
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/06%3A_An_Introduction_to_Spectrophotometric_Methods/6.04%3A_Spectra
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/06%3A_An_Introduction_to_Spectrophotometric_Methods/6.05%3A_Quantitative_Considerations
