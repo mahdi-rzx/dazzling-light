@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/04%3A_Conformations_of_Alkanes_and_Cycloalkanes
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/05%3A_Stereochemistry
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/06%3A_Structural_Identification_of_Organic_Compounds-_IR_and_NMR_Spectroscopy
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/07%3A_Nucleophilic_Substitution_Reactions
@@ -1915,3 +1914,8 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(L
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/03%3A_Acids_and_Bases-_Organic_Reaction_Mechanism_Introduction/3.04%3A_Structural_Effects_on_Acidity_and_Basicity
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/03%3A_Acids_and_Bases-_Organic_Reaction_Mechanism_Introduction/3.05%3A_Lewis_Acids_and_Lewis_Bases
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/03%3A_Acids_and_Bases-_Organic_Reaction_Mechanism_Introduction/3.06%3A_Answers_to_Practice_Questions_Chapter_3
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/04%3A_Conformations_of_Alkanes_and_Cycloalkanes/4.01%3A_Conformation_Analysis_of_Alkanes
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/04%3A_Conformations_of_Alkanes_and_Cycloalkanes/4.02%3A_Cycloalkanes_and_Their_Relative_Stabilities
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/04%3A_Conformations_of_Alkanes_and_Cycloalkanes/4.03%3A_Conformation_Analysis_of_Cyclohexane
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/04%3A_Conformations_of_Alkanes_and_Cycloalkanes/4.04%3A_Substituted_Cyclohexanes
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/04%3A_Conformations_of_Alkanes_and_Cycloalkanes/4.05%3A_Answers_to_Practice_Questions_Chapter_4
