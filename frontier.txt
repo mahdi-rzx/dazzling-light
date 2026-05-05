@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/05%3A_HOW_TO_INTERPRET_YOUR_RESULTS
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/06%3A_HOW_TO_WRITE_A_REPORT
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Virtual_Textbook_of_OChem_(Reusch)_UNDER_CONSTRUCTION
@@ -1853,3 +1852,7 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Su
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/04%3A_HOW_TO_SURVIVE_AN_ORGANIC_CHEMISTRY_EXPERIMENT/4.02%3A_WHY_DID_MY_EXPERIMENT_FAIL_TO_WORk_THE_WAY_I_EXPECTED
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/04%3A_HOW_TO_SURVIVE_AN_ORGANIC_CHEMISTRY_EXPERIMENT/4.03%3A_THE_DEEP_UNDERSTANDING
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/04%3A_HOW_TO_SURVIVE_AN_ORGANIC_CHEMISTRY_EXPERIMENT/4.04%3A_TAKING_NOTES_AND_USING_THE_NOTEBOOK
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/05%3A_HOW_TO_INTERPRET_YOUR_RESULTS/5.01%3A__WHAT_DOES_IT_ALL_MEAN
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/05%3A_HOW_TO_INTERPRET_YOUR_RESULTS/5.02%3A__IR_-SPECTROSCOPY-_THE_WORKHORSE
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/05%3A_HOW_TO_INTERPRET_YOUR_RESULTS/5.03%3A_MELTING_POINT_ANALYSIS-_IDENTITY_AND_PURITY
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_How_to_be_a_Successful_Organic_Chemist_(Sandtorv)/05%3A_HOW_TO_INTERPRET_YOUR_RESULTS/5.04%3A__TLC-_IDENTITY_AND_PURITY
