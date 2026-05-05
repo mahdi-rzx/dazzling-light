@@ -407,6 +407,22 @@ https://chem.libretexts.org/@api/deki/files/327971/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/327972/mindtouch.page%2523thumbnail?revision=3 -> assets/other/9a9f28e657b4.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/342243/mindtouch.page%2523thumbnail?revision=3 -> assets/other/dec0343d9ab3.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/342244/mindtouch.page%2523thumbnail?revision=3 -> assets/other/495b8982c7f0.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/343574/600px-Electron_shell_001_Hydrogen_-_no_label.svg.png?revision=1&size=bestfit&width=250&height=250 -> assets/img/6b1ff06b1ead.png
+https://chem.libretexts.org/@api/deki/files/343578/1024px-Electron_shell_002_Helium_-_no_label.svg.png?revision=1&size=bestfit&width=250&height=250 -> assets/img/3d8fdf614d52.png
+https://chem.libretexts.org/@api/deki/files/343579/1024px-Electron_shell_003_Lithium_-_no_label.svg.png?revision=1&size=bestfit&width=250&height=250 -> assets/img/755602f5002d.png
+https://chem.libretexts.org/@api/deki/files/343580/Electron_shell_004_Beryllium_-_no_label.svg.png?revision=1&size=bestfit&width=250&height=250 -> assets/img/dd34deb45177.png
+https://chem.libretexts.org/@api/deki/files/343581/imageedit_1_9513388911.jpg?revision=1 -> assets/img/cac8d13b9098.jpg
+https://chem.libretexts.org/@api/deki/files/343582/imageedit_2_8135467651.jpg?revision=1 -> assets/img/b94aec71ed77.jpg
+https://chem.libretexts.org/@api/deki/files/343583/imageedit_3_2723249416.jpg?revision=1 -> assets/img/2a2f9bb8ca9f.jpg
+https://chem.libretexts.org/@api/deki/files/343584/imageedit_4_2425445265.jpg?revision=1 -> assets/img/ea9cca882b93.jpg
+https://chem.libretexts.org/@api/deki/files/343585/imageedit_5_8941837922.jpg?revision=1 -> assets/img/a16237fd40bd.jpg
+https://chem.libretexts.org/@api/deki/files/343586/imageedit_6_8707015610.jpg?revision=1 -> assets/img/64d30c44e7cf.jpg
+https://chem.libretexts.org/@api/deki/files/343587/imageedit_7_2548193773.jpg?revision=1 -> assets/img/97206d6f43a7.jpg
+https://chem.libretexts.org/@api/deki/files/343588/imageedit_8_7986635331.jpg?revision=1 -> assets/img/8b5d9d5d50b0.jpg
+https://chem.libretexts.org/@api/deki/files/343589/imageedit_9_6944419094.jpg?revision=1 -> assets/img/8a0ca40554ca.jpg
+https://chem.libretexts.org/@api/deki/files/343590/imageedit_10_8493985351.jpg?revision=1 -> assets/img/82ce1d7dcd43.jpg
+https://chem.libretexts.org/@api/deki/files/343591/imageedit_12_8488797808.jpg?revision=1 -> assets/img/d04015cb88d0.jpg
+https://chem.libretexts.org/@api/deki/files/343592/imageedit_11_3825894784.jpg?revision=1 -> assets/img/6e3b123b6e15.jpg
 https://chem.libretexts.org/@api/deki/files/347621/mindtouch.page%2523thumbnail?revision=5 -> assets/other/054e160c7d21.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/347622/mindtouch.page%2523thumbnail?revision=3 -> assets/other/8455407b7821.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/347914/mindtouch.page%2523thumbnail?revision=1 -> assets/other/60510328c693.page%2523thumbnail
@@ -845,6 +861,7 @@ https://chem.libretexts.org/@api/deki/files/447397/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/447398/mindtouch.page%2523thumbnail?revision=1 -> assets/other/189a9be6a66c.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/447399/mindtouch.page%2523thumbnail?revision=1 -> assets/other/a48bc4c8e492.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/447400/mindtouch.page%2523thumbnail?revision=1 -> assets/other/c5ddff9fabb9.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/451929/clipboard_e35108976ced18700e5a90c8dfb2817ee.png?revision=1 -> assets/img/27aa770439b9.png
 https://chem.libretexts.org/@api/deki/files/455206/mindtouch.page%2523thumbnail?revision=1 -> assets/other/500b1a54a51d.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/455217/mindtouch.page%2523thumbnail?revision=1 -> assets/other/903b43af0af2.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/455229/mindtouch.page%2523thumbnail?revision=1 -> assets/other/360b081a513c.page%2523thumbnail
@@ -1244,6 +1261,7 @@ https://chem.libretexts.org/@api/deki/files/55727/NaEx.jpeg?revision=1&size=best
 https://chem.libretexts.org/@api/deki/files/55728/chemwiki.jpeg?revision=1 -> assets/img/940417e289ca.jpeg
 https://chem.libretexts.org/@api/deki/files/55730/ptype-ntype.jpeg?revision=1&size=bestfit&width=474&height=482 -> assets/img/f591c08b7c6f.jpeg
 https://chem.libretexts.org/@api/deki/files/65874/CNX_Chem_20_00_OrgCompnd.jpg?revision=1 -> assets/img/2bb822b9f383.jpg
+https://chem.libretexts.org/@api/deki/files/71003/CNX_Chem_06_04_Efillorder.jpg?revision=1&size=bestfit&width=457&height=330 -> assets/img/7390df8c4978.jpg
 https://chem.libretexts.org/@api/deki/files/77318/CK12_Screenshot_1-1-1.png?revision=1 -> assets/img/1a272e1d7eb5.png
 https://chem.libretexts.org/@api/deki/files/78552/mindtouch.page%2523thumbnail?revision=3 -> assets/other/0d64a314b444.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/86142/mindtouch.page%2523thumbnail?revision=1 -> assets/other/9d8d651fd3c2.page%2523thumbnail
@@ -2073,6 +2091,7 @@ https://chem.libretexts.org/Courses/Fresno_City_College/Introductory_Chemistry_A
 https://chem.libretexts.org/Courses/Fresno_City_College/Introductory_Chemistry_Atoms_First_for_FCC/12%3A_Acids_and_Bases -> assets/other/2e14a1f6e7d5
 https://chem.libretexts.org/Courses/Fresno_City_College/Introductory_Chemistry_Atoms_First_for_FCC/13%3A_Chemical_Equilibrium -> assets/other/6cbe096393b4
 https://chem.libretexts.org/Courses/Fresno_City_College/Introductory_Chemistry_Atoms_First_for_FCC/14%3A_Radioactivity_and_Nuclear_Chemistry -> assets/other/1eb740909619
+https://chem.libretexts.org/Courses/Fresno_City_College/Introductory_Chemistry_Atoms_First_for_FCC/xx__delete-test -> assets/other/237536f467c4
 https://chem.libretexts.org/Courses/Fresno_City_College/Introductory_Chemistry_Atoms_First_for_FCC/zz%3A_Back_Matter -> assets/other/84f066fc5e6e
 https://chem.libretexts.org/Courses/Fullerton_College/Beginning_Chemistry_(Chan) -> assets/other/b468ba8cabbe
 https://chem.libretexts.org/Courses/Fullerton_College/Beginning_Chemistry_(Chan)/00%3A_Front_Matter -> assets/other/55ead903a852
