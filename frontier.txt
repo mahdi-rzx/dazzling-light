@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/20%3A_Carbohydrates
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/21%3A_Resonance_and_Molecular_Orbital_Methods
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/22%3A_Arenes_Electrophilic_Aromatic_Substitution
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/23%3A_Organonitrogen_Compounds_I_-_Amines
@@ -1709,3 +1708,15 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Or
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/19%3A_More_on_Stereochemistry/19.10%3A_Asymmetric_Synthesis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/19%3A_More_on_Stereochemistry/19.11%3A_Racemization
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/19%3A_More_on_Stereochemistry/19.E%3A_More_on_Stereochemistry_(Exercises)
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/20%3A_Carbohydrates/20.01%3A_Prelude_to_Carbohydrates
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/20%3A_Carbohydrates/20.02%3A_Classification_and_Occurrence_of_Carbohydrates
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/20%3A_Carbohydrates/20.03%3A_The_Structure_and_Properties_of_D-Glucose
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/20%3A_Carbohydrates/20.04%3A_Conventions_for_Indicating_Ring_Size_and_Anomer_Configurations_of_Monosaccharides
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/20%3A_Carbohydrates/20.05%3A_Derivatives_of_Glucose
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/20%3A_Carbohydrates/20.06%3A_Glycosides
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/20%3A_Carbohydrates/20.07%3A_Disaccharides
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/20%3A_Carbohydrates/20.08%3A_Polysaccharides
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/20%3A_Carbohydrates/20.09%3A_Vitamin_C
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/20%3A_Carbohydrates/20.10%3A_Formation_of_Carbohydrates_by_Photosynthesis
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/20%3A_Carbohydrates/20.11%3A_The_Generation_of_Energy_from_Carbohydrate_Metabolism
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/20%3A_Carbohydrates/20.E%3A_Carbohydrates_(Exercises)
