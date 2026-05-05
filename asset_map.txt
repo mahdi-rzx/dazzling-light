@@ -75,8 +75,13 @@ https://chem.libretexts.org/@api/deki/files/120246/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/129658/mindtouch.page%2523thumbnail?revision=1 -> assets/other/6b3af7c0cf07.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/129659/mindtouch.page%2523thumbnail?revision=1 -> assets/other/6fc04c515625.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/129660/mindtouch.page%2523thumbnail?revision=1 -> assets/other/bbfffa023381.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/199573/mindtouch.page%2523thumbnail?revision=2 -> assets/other/556f6c70ad68.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/199597/mindtouch.page%2523thumbnail?revision=2 -> assets/other/b0779334329d.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/199617/mindtouch.page%2523thumbnail?revision=2 -> assets/other/09c8eda01f0f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/232046/mindtouch.page%2523thumbnail?revision=4 -> assets/other/02b601956ac2.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/232047/mindtouch.page%2523thumbnail?revision=4 -> assets/other/60a745a5e6ef.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/258450/mindtouch.page%2523thumbnail?revision=3 -> assets/other/c253f7d6897b.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/258451/mindtouch.page%2523thumbnail?revision=3 -> assets/other/347e48101b0e.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/258596/mindtouch.page%2523thumbnail?revision=1 -> assets/other/f51fcc362234.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/258603/mindtouch.page%2523thumbnail?revision=1 -> assets/other/3bf5b47c65b5.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/258615/mindtouch.page%2523thumbnail?revision=1 -> assets/other/f9e16003ca95.page%2523thumbnail
@@ -276,6 +281,7 @@ https://chem.libretexts.org/Courses/Barstow_Community_College/Survey_of_Chemistr
 https://chem.libretexts.org/Courses/Barstow_Community_College/Survey_of_Chemistry_and_Physics/06%3A_Waves_and_Light -> assets/other/80af76930b1d
 https://chem.libretexts.org/Courses/Barstow_Community_College/Survey_of_Chemistry_and_Physics/zz%3A_Back_Matter -> assets/other/d17831f9c14a
 https://chem.libretexts.org/Courses/Bellarmine_University/BU%3A_Chem_103_(Christianson) -> assets/other/7432d1baf6d7
+https://chem.libretexts.org/Courses/Bellarmine_University/BU%3A_Chem_104_(Christianson) -> assets/other/963b2cb0e8b9
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
