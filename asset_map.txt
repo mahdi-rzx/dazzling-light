@@ -30,6 +30,8 @@ https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatP
 https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js -> assets/js/3bcf463a326c.js
 https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js -> assets/js/b5f41e2fea32.js
 https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js -> assets/js/401739a14a16.js
+https://cdn.libretexts.net/github/LibreTextsMain/Leo Jayachandran/DynamicIndex/dynamicIndexMaker.css -> assets/css/57eb82bc199a.css
+https://cdn.libretexts.net/github/LibreTextsMain/Leo Jayachandran/DynamicIndex/dynamicIndexMaker.js -> assets/js/ba45bff2fa93.js
 https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css -> assets/css/e5c847ac94f0.css
 https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js -> assets/js/f1645ea6e995.js
 https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css -> assets/css/0ff06ab83615.css
@@ -564,6 +566,7 @@ https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Fundamentals_of_Chemistry/11%3A_Organic_Chemistry -> assets/other/a2401396336a
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Fundamentals_of_Chemistry/13%3A_Introduction_to_Biochemistry -> assets/other/4397e6d65374
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Fundamentals_of_Chemistry/zz%3A_Back_Matter -> assets/other/e168a6821159
+https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Fundamentals_of_Chemistry/zz%3A_Back_Matter/10%3A_Index -> assets/other/9d25c8ac468f
 https://chem.libretexts.org/Courses/British_Columbia_Institute_of_Technology/Chem_2305%3A_Biochemistry_Instrumental_Analysis -> assets/other/1eb296959f41
 https://chem.libretexts.org/Courses/British_Columbia_Institute_of_Technology/Chem_2305%3A_Biochemistry_Instrumental_Analysis/00%3A_Front_Matter -> assets/other/4af326e8860e
 https://chem.libretexts.org/Courses/British_Columbia_Institute_of_Technology/Chem_2305%3A_Biochemistry_Instrumental_Analysis/01%3A_Spectroscopy -> assets/other/2148dc3ac95f
