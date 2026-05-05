@@ -9,7 +9,6 @@ https://chem.libretexts.org/Courses/GalwayMayo_Institute_of_Technology/Chemistry
 https://chem.libretexts.org/Courses/GalwayMayo_Institute_of_Technology/Chemistry_1.1_(GMIT)/08%3A_Chemical_Equilibrium
 https://chem.libretexts.org/Courses/GalwayMayo_Institute_of_Technology/Chemistry_1.1_(GMIT)/09%3A_Organic_Chemistry
 https://chem.libretexts.org/Courses/GalwayMayo_Institute_of_Technology/Chemistry_1.1_(GMIT)/zz%3A_Back_Matter
-https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment
 https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/08%3A_Electrochemistry
 https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/zz%3A_Back_Matter
 https://chem.libretexts.org/Courses/Georgia_Southern_University/CHEM_1152%3A_Survey_of_Chemistry_II_(Osborne)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
@@ -10338,3 +10337,17 @@ https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Ca
 https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/06%3A_Organic_Chemistry/6.14%3A_Alkynes
 https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/06%3A_Organic_Chemistry/6.15%3A_Aromatic_Compounds-_Benzene
 https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/06%3A_Organic_Chemistry/6.16%3A_Structure_and_Nomenclature_of_Aromatic_Compounds
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.01%3A_Prelude_to_Solids_Liquids_and_Gases
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.02%3A_Solids_and_Liquids
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.03%3A_Gases_and_Pressure
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.04%3A_Gas_Laws
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.05%3A_Gay-Lussac's_Law
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.06%3A_Prelude_to_Acids_and_Bases
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.07%3A_Arrhenius_Definition_of_Acids_and_Bases
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.08%3A_Brnsted-Lowry_Definition_of_Acids_and_Bases
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.09%3A_Water_-_Both_an_Acid_and_a_Base
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.10%3A_The_Strengths_of_Acids_and_Bases
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.11%3A_The_pOH_Concept
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.12%3A_Titration_Experiment
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.13%3A_Titration_Calculations
+https://chem.libretexts.org/Courses/Georgian_College/Chemistry_-_Academic_and_Career_Preparation/07%3A_Chemistry_in_the_Environment/7.14%3A_Buffers
