@@ -828,6 +828,8 @@ https://chem.libretexts.org/@api/deki/files/65874/CNX_Chem_20_00_OrgCompnd.jpg?r
 https://chem.libretexts.org/@api/deki/files/77318/CK12_Screenshot_1-1-1.png?revision=1 -> assets/img/1a272e1d7eb5.png
 https://chem.libretexts.org/@api/deki/files/78552/mindtouch.page%2523thumbnail?revision=3 -> assets/other/0d64a314b444.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/86142/mindtouch.page%2523thumbnail?revision=1 -> assets/other/9d8d651fd3c2.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/86205/Untitled.png?revision=2&size=bestfit&width=571&height=328 -> assets/img/a5d18732b829.png
+https://chem.libretexts.org/@api/deki/files/86206/2.png?revision=1&size=bestfit&width=600&height=360 -> assets/img/7a02f612f3e0.png
 https://chem.libretexts.org/@api/deki/files/86642/mindtouch.page%2523thumbnail?revision=1 -> assets/other/4fa0639b9acc.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/87534/b77dcc9be691fbabc58e1a8b37db44cb.jpg?revision=1&size=bestfit&width=650&height=372 -> assets/img/8505b9d2e167.jpg
 https://chem.libretexts.org/@api/deki/files/91455/57c5b4ebb6642fb29e58557f512292fd.jpg?revision=1&size=bestfit&width=550&height=366 -> assets/img/26a49115a570.jpg
@@ -1348,6 +1350,7 @@ https://chem.libretexts.org/Courses/Colorado_College/CH275_Foundations_of_Inorga
 https://chem.libretexts.org/Courses/Colorado_College/CH275_Foundations_of_Inorganic/zz%3A_Back_Matter/22%3A_Detailed_Licensing -> assets/other/b46914a36cfc
 https://chem.libretexts.org/Courses/Colorado_State_University/Chem_474%3A_Physical_Chemistry_I_(Levinger) -> assets/other/4c7cc8a34137
 https://chem.libretexts.org/Courses/Colorado_State_University/Chem_476%3A_Physical_Chemistry_II_(Levinger) -> assets/other/b961e6d65285
+https://chem.libretexts.org/Courses/Colorado_State_University/Chem_476%3A_Physical_Chemistry_II_(Levinger)/test/Groupwork_9_Gibbs_Helmholtz_and_Maxwell_Relations -> assets/other/189a3525d575
 https://chem.libretexts.org/Courses/Colorado_State_University_Pueblo/Elementary_Concepts_in_Physics_and_Chemistry -> assets/other/ba734fcb0a7b
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
