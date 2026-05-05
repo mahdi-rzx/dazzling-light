@@ -15,6 +15,12 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse, urlunparse
 
 # ------------------------------------------------------------
+# Configure git identity FIRST (before any git commands)
+# ------------------------------------------------------------
+subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
+subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], check=True)
+
+# ------------------------------------------------------------
 # Configuration
 # ------------------------------------------------------------
 OUTPUT_DIR = "archive"
@@ -77,9 +83,7 @@ def remove_line(filepath, line):
                 f.write(l)
 
 def git_commit_push(files, message):
-    subprocess.run(["git", "config", "user.name", "github-actions"], check=False)
-    subprocess.run(["git", "config", "user.email", "actions@github.com"], check=False)
-    subprocess.run(["git", "add"] + files, check=False)
+    subprocess.run(["git", "add"] + files, check=True)
     diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
     if diff.returncode != 0:
         subprocess.run(["git", "commit", "-m", message], check=True)
@@ -104,7 +108,7 @@ def main():
         frontier.append(SEED_URL)
         with open(FRONTIER_FILE, "w") as f:
             f.write(SEED_URL + "\n")
-        subprocess.run(["git", "add", FRONTIER_FILE], check=False)
+        subprocess.run(["git", "add", FRONTIER_FILE], check=True)
         subprocess.run(["git", "commit", "-m", "Initialize frontier"], check=True)
         subprocess.run(["git", "push"], check=True)
 
