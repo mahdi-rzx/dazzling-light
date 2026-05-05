@@ -10,6 +10,7 @@ https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455
 https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334 -> assets/js/536513ff0021.js
 https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334 -> assets/js/fe9bd9e5398d.js
 https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334 -> assets/js/2af24f98543b.js
+https://a.mtstatic.com/deki/javascript/out/standalone/ui.singleGuideTab.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334 -> assets/js/b80d547e8c8a.js
 https://a.mtstatic.com/deki/javascript/out/standalone/ui.widget.lsfOrderedSubpages.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334 -> assets/js/f0ba955b6afd.js
 https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js -> assets/js/8518de39d848.js
 https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js -> assets/js/c8e545f77b13.js
@@ -75,6 +76,7 @@ https://chem.libretexts.org/@api/deki/files/426846/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/site/opensearch/description -> assets/other/a01c2df3f913
 https://chem.libretexts.org/@embed/f1.js -> assets/js/dcd30e4b94ea.js
 https://chem.libretexts.org/Courses/Alma_College/Organic_Chemistry_I_(Alma_College) -> assets/other/3408acbe454a
+https://chem.libretexts.org/Courses/Alma_College/Organic_Chemistry_I_(Alma_College)/00%3A_Front_Matter -> assets/other/b0e99724166a
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
