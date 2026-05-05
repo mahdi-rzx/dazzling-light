@@ -1,47 +1,40 @@
-name: Archive chem.libretexts.org
+name: Archive Chem LibreTexts (5 subjects)
 
 on:
   workflow_dispatch:
     inputs:
       download_timeout:
-        description: 'Download timeout (seconds)'
-        required: true
-        default: '2400'
+        description: 'Job timeout (seconds)'
+        required: false
+        default: '3000'
       max_urls_per_run:
-        description: 'Max URLs to process this run (0 = unlimited)'
+        description: 'Max URLs per run (0 = unlimited)'
         required: false
         default: '0'
   schedule:
-    # every 6 hours – adjust as needed
     - cron: '0 */6 * * *'
+
 permissions:
   contents: write
+
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    # prevent overlapping runs
     concurrency: archive-crawl
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
-          persist-credentials: true   # so we can push commits
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+          persist-credentials: true
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-
       - name: Install dependencies
         run: pip install requests beautifulsoup4
-
       - name: Run archiver
         env:
-          DOWNLOAD_TIMEOUT: ${{ github.event.inputs.download_timeout || '30' }}
+          DOWNLOAD_TIMEOUT: ${{ github.event.inputs.download_timeout || '300' }}
           MAX_URLS_PER_RUN: ${{ github.event.inputs.max_urls_per_run || '0' }}
         run: python crawl.py
-
-      - name: Final push (safety)
+      - name: Final push
         if: always()
         run: git push origin HEAD:main
