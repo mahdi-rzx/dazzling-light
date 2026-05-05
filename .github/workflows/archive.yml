@@ -5,8 +5,8 @@ on:
     inputs:
       download_timeout:
         description: 'Download timeout (seconds)'
-        required: false
-        default: '30'
+        required: true
+        default: '2400'
       max_urls_per_run:
         description: 'Max URLs to process this run (0 = unlimited)'
         required: false
@@ -14,7 +14,8 @@ on:
   schedule:
     # every 6 hours – adjust as needed
     - cron: '0 */6 * * *'
-
+permissions:
+  contents: write
 jobs:
   crawl:
     runs-on: ubuntu-latest
