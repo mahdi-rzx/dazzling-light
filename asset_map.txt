@@ -120,6 +120,7 @@ https://chem.libretexts.org/@api/deki/files/185929/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/185934/mindtouch.page%2523thumbnail?revision=1 -> assets/other/12724ed6c256.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/187353/Frontier_Orbital_acid_base.png?revision=1 -> assets/img/4489403e8d7e.png
 https://chem.libretexts.org/@api/deki/files/187980/mindtouch.page%2523thumbnail?revision=1 -> assets/other/4058f2acb10a.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/193833/mindtouch.page%2523thumbnail?revision=1 -> assets/other/a1c2777cc6e4.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/194773/mindtouch.page%2523thumbnail?revision=1 -> assets/other/10da426d0900.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/19523/DVC.jpg?revision=1 -> assets/img/d9c2a1812365.jpg
 https://chem.libretexts.org/@api/deki/files/199573/mindtouch.page%2523thumbnail?revision=2 -> assets/other/556f6c70ad68.page%2523thumbnail
@@ -1832,6 +1833,7 @@ https://chem.libretexts.org/Courses/El_Paso_Community_College/CHEM1306%3A_Health
 https://chem.libretexts.org/Courses/El_Paso_Community_College/CHEM1306%3A_Health_Chemistry_I_(Rodriguez)/09%3A_Solutions -> assets/other/c115cd94d45c
 https://chem.libretexts.org/Courses/El_Paso_Community_College/CHEM1306%3A_Health_Chemistry_I_(Rodriguez)/10%3A_Acids_and_Bases -> assets/other/a6b1d9111db0
 https://chem.libretexts.org/Courses/El_Paso_Community_College/CHEM1306%3A_Health_Chemistry_I_(Rodriguez)/zz%3A_Back_Matter -> assets/other/d3fbd410e171
+https://chem.libretexts.org/Courses/Erie_Community_College/ECC%3A_Introduction_to_General_Organic_and_Biochemistry_(Sorrentino) -> assets/other/66c669b30234
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
 https://chem.libretexts.org/Courses/can/CHEM_220%3A_General_Chemistry_II_-_Chemical_Dynamics -> assets/other/b90b82fa0bdd
