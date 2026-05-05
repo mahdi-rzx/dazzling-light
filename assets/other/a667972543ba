@@ -1,7 +1,0 @@
-@font-face {
-  font-family: 'Ma Shan Zheng';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/mashanzheng/v17/NaPecZTRCLxvwo41b4gvzkXadMPmCA.ttf) format('truetype');
-}
