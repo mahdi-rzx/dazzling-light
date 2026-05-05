@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/06%3A_Carbon-13_NMR_Spectroscopy
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/07%3A_Two-Dimensional_NMR_Spectroscopy
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/08%3A_Structure_Elucidation_Problems
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/zz%3A_Back_Matter
@@ -2891,3 +2890,11 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organi
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/05%3A_Proton_Nuclear_Magnetic_Resonance_Spectroscopy_(NMR)/5.10%3A_Interpreting_(1H)_NMR_Spectra
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/05%3A_Proton_Nuclear_Magnetic_Resonance_Spectroscopy_(NMR)/5.11%3A_(1H)_NMR_problems
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/05%3A_Proton_Nuclear_Magnetic_Resonance_Spectroscopy_(NMR)/5.S%3A_Summary
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/06%3A_Carbon-13_NMR_Spectroscopy/6.01%3A_Chapter_Objectives_and_Preview_of_C-13_Nuclear_Magnetic_Resonance_Spectroscopy
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/06%3A_Carbon-13_NMR_Spectroscopy/6.02%3A_C-13_NMR_Spectroscopy-_Signal_Averaging_and_FT-NMR
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/06%3A_Carbon-13_NMR_Spectroscopy/6.03%3A_Characteristics_of_C-13_NMR_Spectroscopy
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/06%3A_Carbon-13_NMR_Spectroscopy/6.04%3A_DEPT_C-13_NMR_Spectroscopy
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/06%3A_Carbon-13_NMR_Spectroscopy/6.05%3A_Interpreting_C-13_NMR_Spectra
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/06%3A_Carbon-13_NMR_Spectroscopy/6.06%3A_Uses_of_C-13_NMR_Spectroscopy
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/06%3A_Carbon-13_NMR_Spectroscopy/6.07%3A_Structure_Determination_Problems_with_C-13_NMR_and_1-H_NMR
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Introduction_to_Organic_Spectroscopy/06%3A_Carbon-13_NMR_Spectroscopy/6.S%3A_Summary
