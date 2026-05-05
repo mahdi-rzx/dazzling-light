@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/16%3A_Electrophilic_Additions_of_Alkenes_as_the_Counterpart_of_Eliminations
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/17%3A_Alkene_Reactions_Part_2
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/18%3A_Important_Concepts_in_Alkyne_Chemistry
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/19%3A_Oxidation_States_of_Carbon
@@ -2623,3 +2622,5 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(C
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/14%3A_Highlights_of_Nucleophilic_Substitution_Reactions_Involving_sp3_Carbon/14.01%3A_Sn2_Reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/14%3A_Highlights_of_Nucleophilic_Substitution_Reactions_Involving_sp3_Carbon/14.06%3A_Sn1_Reactions_and_Rearrangements_Involving_Primary_Substrates
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/15%3A_Relationship_Between_Sn1_and_E1_Reactions/15.01%3A_Synthetic_Drawbacks_of_Sn1_Reactions
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/15%3A_Relationship_Between_Sn1_and_E1_Reactions/15.04%3A_Eliminations_Involving_Asymmetrical_Substrates
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/16%3A_Electrophilic_Additions_of_Alkenes_as_the_Counterpart_of_Eliminations/16.01%3A_Introduction
