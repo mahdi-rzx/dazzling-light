@@ -136,6 +136,7 @@ https://chem.libretexts.org/@api/deki/files/416743/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/423070/scales_PNG43.png?revision=1&size=bestfit&width=350&height=238 -> assets/img/2570deb9d4a8.png
 https://chem.libretexts.org/@api/deki/files/423074/Hindenburg_burning.jpg?revision=1&size=bestfit&width=550&height=418 -> assets/img/ec4012e3f1c3.jpg
 https://chem.libretexts.org/@api/deki/files/423075/mindtouch.page%2523thumbnail?revision=1 -> assets/other/499a0224b9ee.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/425405/5941150714_5587e4b9d7_o.jpg?revision=1 -> assets/img/8869e355886f.jpg
 https://chem.libretexts.org/@api/deki/files/425453/mindtouch.page%2523thumbnail?revision=1 -> assets/other/212422613052.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/425553/mindtouch.page%2523thumbnail?revision=2 -> assets/other/98a23fffcdde.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/425554/mindtouch.page%2523thumbnail?revision=2 -> assets/other/38eafb35c31b.page%2523thumbnail
@@ -334,6 +335,7 @@ https://chem.libretexts.org/Courses/Bennington_College/Chemistry_-_An_Integrated
 https://chem.libretexts.org/Courses/Bennington_College/Chemistry_-_An_Integrated_Approach_(Bullock)/00%3A_Front_Matter -> assets/other/27493c52fd99
 https://chem.libretexts.org/Courses/Bennington_College/Chemistry_-_An_Integrated_Approach_(Bullock)/02%3A_Mass_Matter_and_Chemical_Reactions -> assets/other/4a0ad37f148b
 https://chem.libretexts.org/Courses/Bennington_College/Chemistry_-_An_Integrated_Approach_(Bullock)/03%3A_Why_Do_Molecules_Exist -> assets/other/c006f143419f
+https://chem.libretexts.org/Courses/Bennington_College/Chemistry_-_An_Integrated_Approach_(Bullock)/04%3A_Elements_and_Compounds_(or_Twenty_Million_Dishes_(and_Counting)_from_Only_Ninety_Ingredients_) -> assets/other/a51e3791c055
 https://chem.libretexts.org/Courses/Bennington_College/Chemistry_-_An_Integrated_Approach_(Bullock)/Chapter_1%3A_A_Beginner's_Guide_to_Chemicals -> assets/other/272e5355d7a5
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
