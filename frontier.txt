@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/03%3A_Covalent_Bonding
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/04%3A_Lewis_Formulas_Structural_Isomerism_and_Resonance_Structures
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/05%3A_Orbital_Picture_of_Bonding-_Orbital_Combinations_Hybridization_Theory_and_Molecular_Orbitals
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/06%3A_Electron_Delocalization_and_Resonance
@@ -2606,3 +2605,11 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Radical_Reactions_of_C
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Radical_Reactions_of_Carbohydrates_(Binkley)/Radical_Reactions_of_Carbohydrates_II%3A_Radical_Reactions_of_Carbohydrates/zz%3A_Back_Matter/References
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/01%3A_Introduction_and_Course_Organization/1.01%3A_Introduction
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/02%3A_Atomic_Structure/2.01%3A_Learning_Objectives_and_Basic_Concepts
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/03%3A_Covalent_Bonding/3.01%3A_Learning_Objectives_Valence_Electrons_Octet_Rule
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/03%3A_Covalent_Bonding/3.02%3A_Building_Simple_Molecules
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/03%3A_Covalent_Bonding/3.03%3A_Exceptions_to_the_Octet_Rule
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/03%3A_Covalent_Bonding/3.04%3A_Formal_Charge
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/03%3A_Covalent_Bonding/3.05%3A_Connectivity_or_Bonding_Sequence_Types_of_Formulas
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/03%3A_Covalent_Bonding/3.06%3A_Types_of_Covalent_Bonds
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/03%3A_Covalent_Bonding/3.07%3A_Polarity
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Cortes)/02%3A_Atomic_Structure/2.04%3A_Chemical_Bonding
