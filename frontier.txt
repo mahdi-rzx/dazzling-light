@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/08%3A_Elimination_Reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/09%3A_Free_Radical_Substitution_Reaction_of_Alkanes
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/10%3A_Alkenes_and_Alkynes
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/zz%3A_Back_Matter
@@ -1940,3 +1939,8 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(L
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/07%3A_Nucleophilic_Substitution_Reactions/7.05%3A_SN1_vs_SN2
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/07%3A_Nucleophilic_Substitution_Reactions/7.06%3A_Extra_Topics_on_Nucleophilic_Substitution_Reaction
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/07%3A_Nucleophilic_Substitution_Reactions/7.07%3A_Answers_to_Practice_Questions_Chapter_7
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/08%3A_Elimination_Reactions/8.01%3A_E2_Reaction
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/08%3A_Elimination_Reactions/8.02%3A_E1_Reaction
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/08%3A_Elimination_Reactions/8.03%3A_E1_E2_Summary
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/08%3A_Elimination_Reactions/8.04%3A_Comparison_and_Competition_Between_SN1_SN2_E1_and_E2
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/08%3A_Elimination_Reactions/8.05%3A_Answers_to_Practice_Questions_Chapter_8
