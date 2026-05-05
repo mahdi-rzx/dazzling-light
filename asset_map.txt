@@ -565,6 +565,7 @@ https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Fundamentals_of_Chemistry/13%3A_Introduction_to_Biochemistry -> assets/other/4397e6d65374
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Fundamentals_of_Chemistry/zz%3A_Back_Matter -> assets/other/e168a6821159
 https://chem.libretexts.org/Courses/British_Columbia_Institute_of_Technology/Chem_2305%3A_Biochemistry_Instrumental_Analysis -> assets/other/1eb296959f41
+https://chem.libretexts.org/Courses/British_Columbia_Institute_of_Technology/Chem_2305%3A_Biochemistry_Instrumental_Analysis/00%3A_Front_Matter -> assets/other/4af326e8860e
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
