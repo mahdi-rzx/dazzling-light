@@ -2,9 +2,8 @@
 """
 Incremental crawler for chem.libretexts.org.
 - Downloads HTML pages only
-- Uses same directory structure as previous runs
+- Handles special characters in URLs (%, :, etc.)
 - download_timeout = total job time in seconds
-- Fully resumable with progress tracking
 """
 
 import os
@@ -12,7 +11,7 @@ import time
 import subprocess
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin, urlparse, urlunparse
+from urllib.parse import urljoin, urlparse, urlunquote, urlunparse
 
 # ------------------------------------------------------------
 # Configure git identity FIRST
@@ -30,11 +29,8 @@ ERRORS_FILE = "errors.txt"
 BASE_DOMAIN = "chem.libretexts.org"
 SEED_URL = "https://chem.libretexts.org/"
 
-# JOB_TIMEOUT = maximum seconds for the entire crawl run
 JOB_TIMEOUT = float(os.environ.get("DOWNLOAD_TIMEOUT", 300))
-# MAX_URLS = cap on URLs per run (0 = unlimited)
 MAX_URLS = int(os.environ.get("MAX_URLS_PER_RUN", 0))
-# Per-request timeout for individual downloads
 REQUEST_TIMEOUT = 30
 
 # ------------------------------------------------------------
@@ -48,14 +44,18 @@ def clean_url(url):
 def local_path(url):
     """Convert URL to local path: archive/chem.libretexts.org/..."""
     parsed = urlparse(url)
-    path = parsed.path.strip("/")
+    # Decode URL encoding for filesystem
+    path = urlunquote(parsed.path).strip("/")
+    
     if not path:
-        path = "index.html"
+        return os.path.join(OUTPUT_DIR, parsed.netloc, "index.html")
+    
+    # If the path already ends with .html, .htm, .pdf etc - use as-is
+    if "." in path.split("/")[-1]:
+        return os.path.join(OUTPUT_DIR, parsed.netloc, path)
     else:
-        # Add index.html for directory-like paths (no file extension)
-        if "." not in path.split("/")[-1]:
-            path = path + "/index.html"
-    return os.path.join(OUTPUT_DIR, parsed.netloc, path)
+        # Directory-like path, add index.html
+        return os.path.join(OUTPUT_DIR, parsed.netloc, path, "index.html")
 
 def ensure_dir(filepath):
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
@@ -89,12 +89,11 @@ def git_commit_push(files, message):
             subprocess.run(["git", "commit", "-m", message], check=True, timeout=30)
             subprocess.run(["git", "push"], check=True, timeout=60)
     except subprocess.TimeoutExpired:
-        print("  Git operation timed out, continuing...")
+        print("  Git timeout, continuing...")
     except Exception as e:
         print(f"  Git error (non-fatal): {e}")
 
 def time_remaining(start_time, timeout):
-    """Returns (remaining_seconds, should_stop)."""
     elapsed = time.time() - start_time
     remaining = timeout - elapsed
     if remaining <= 30:
@@ -179,11 +178,16 @@ def main():
                 git_commit_push([FRONTIER_FILE], f"Skip non-HTML {url}")
                 continue
 
-            # Save HTML
-            filepath = local_path(url)
-            ensure_dir(filepath)
-            with open(filepath, "w", encoding="utf-8") as f:
-                f.write(resp.text)
+            try:
+                # Save HTML
+                filepath = local_path(url)
+                ensure_dir(filepath)
+                with open(filepath, "w", encoding="utf-8") as f:
+                    f.write(resp.text)
+            except Exception as e:
+                print(f"  ⚠ Failed to save: {e}")
+                # Keep in frontier to retry
+                continue
 
             append_line(DOWNLOADED_FILE, url)
             downloaded.add(url)
