@@ -81,6 +81,7 @@ https://chem.libretexts.org/@api/deki/files/123527/Harvey.png?revision=1 -> asse
 https://chem.libretexts.org/@api/deki/files/129658/mindtouch.page%2523thumbnail?revision=1 -> assets/other/6b3af7c0cf07.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/129659/mindtouch.page%2523thumbnail?revision=1 -> assets/other/6fc04c515625.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/129660/mindtouch.page%2523thumbnail?revision=1 -> assets/other/bbfffa023381.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/142526/Evans.png?revision=1 -> assets/img/2162792c7645.png
 https://chem.libretexts.org/@api/deki/files/162731/Dry_Ice_3.jpg?revision=1 -> assets/img/426209265204.jpg
 https://chem.libretexts.org/@api/deki/files/187980/mindtouch.page%2523thumbnail?revision=1 -> assets/other/4058f2acb10a.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/199573/mindtouch.page%2523thumbnail?revision=2 -> assets/other/556f6c70ad68.page%2523thumbnail
@@ -363,6 +364,7 @@ https://chem.libretexts.org/@api/deki/files/446391/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/446392/mindtouch.page%2523thumbnail?revision=1 -> assets/other/0130312900c1.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/446393/mindtouch.page%2523thumbnail?revision=1 -> assets/other/04b2e12babb2.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/446394/mindtouch.page%2523thumbnail?revision=1 -> assets/other/209c1fd7e78f.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/456826/screen-shot-2011-12-31-at-12-34-16-am.pngw700?revision=1 -> assets/other/7cae54464f0b.pngw700
 https://chem.libretexts.org/@api/deki/files/456827/mindtouch.page%2523thumbnail?revision=3 -> assets/other/ea2f024189ef.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/456828/mindtouch.page%2523thumbnail?revision=1 -> assets/other/ad73057179ae.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/457107/pesticides_and_strawberries.jpg?revision=1 -> assets/img/d467facc11c4.jpg
@@ -881,6 +883,7 @@ https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistr
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/07%3A_Coordination_Chemistry-_Reactions_and_Mechanisms -> assets/other/915baf876aac
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/08%3A_Coordination_Chemistry_-_Electronic_Spectra -> assets/other/a23b956ff06d
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/09%3A_Structure_and_Energetics_of_Solids -> assets/other/c8a01118294e
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/10%3A_Organometallic_Chemistry -> assets/other/66e8725669f9
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
 https://chem.libretexts.org/Courses/can/CHEM_220%3A_General_Chemistry_II_-_Chemical_Dynamics -> assets/other/b90b82fa0bdd
