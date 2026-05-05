@@ -110,7 +110,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistr
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/01%3A_Chapters
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/1%3A_General_Background_on_Molecular_Spectroscopy
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/2%3A_Ultraviolet_Visible_Absorption_Spectroscopy
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/3%3A_Molecular_Luminescence
@@ -4654,3 +4653,7 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Physical_Methods_in
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/10%3A_Device_Performance/10.01%3A_A_Simple_Test_Apparatus_to_Verify_the_Photoresponse_of_Experimental_Photovoltaic_Materials_and_Prototype_Solar_Cells
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/10%3A_Device_Performance/10.02%3A_Measuring_Key_Transport_Properties_of_FET_Devices
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/zz%3A_Back_Matter/10%3A_Index
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/00%3A_Front_Matter/01%3A_TitlePage
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/00%3A_Front_Matter/02%3A_InfoPage
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/00%3A_Front_Matter/03%3A_Table_of_Contents
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/00%3A_Front_Matter/04%3A_Licensing
