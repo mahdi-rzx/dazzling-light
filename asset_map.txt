@@ -546,6 +546,7 @@ https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Fundamentals_of_Chemistry/00%3A_Front_Matter -> assets/other/37cb509c87e1
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Fundamentals_of_Chemistry/01%3A_Measurements -> assets/other/38627968e589
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Fundamentals_of_Chemistry/02%3A_Introduction_to_Chemistry_and_Science -> assets/other/8c4036645a28
+https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Fundamentals_of_Chemistry/03%3A_Matter -> assets/other/6ab2e8fbca96
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
