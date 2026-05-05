@@ -337,6 +337,7 @@ https://chem.libretexts.org/@api/deki/files/493565/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/493566/mindtouch.page%2523thumbnail?revision=1 -> assets/other/b14addd8bc82.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/493567/mindtouch.page%2523thumbnail?revision=1 -> assets/other/8e648bb839d0.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/77318/CK12_Screenshot_1-1-1.png?revision=1 -> assets/img/1a272e1d7eb5.png
+https://chem.libretexts.org/@api/deki/files/87534/b77dcc9be691fbabc58e1a8b37db44cb.jpg?revision=1&size=bestfit&width=650&height=372 -> assets/img/8505b9d2e167.jpg
 https://chem.libretexts.org/@api/deki/files/91470/mindtouch.page%2523thumbnail?revision=1 -> assets/other/d62db0c280e7.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/91506/mindtouch.page%2523thumbnail?revision=1 -> assets/other/80c5326862ca.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/91549/mindtouch.page%2523thumbnail?revision=1 -> assets/other/9d9bec405c38.page%2523thumbnail
@@ -511,6 +512,7 @@ https://chem.libretexts.org/Courses/Brevard_College/LNC_216_CHE -> assets/other/
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Consumer_Chemistry -> assets/other/dc0853e7efb5
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Consumer_Chemistry/00%3A_Front_Matter -> assets/other/5b142dddc987
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Consumer_Chemistry/01%3A_Introduction_to_Chemistry -> assets/other/6311687f0a5f
+https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Consumer_Chemistry/02%3A_Atoms_Molecules_and_Ions -> assets/other/269b0241badf
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
