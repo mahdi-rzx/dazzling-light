@@ -1012,6 +1012,11 @@ https://chem.libretexts.org/@api/deki/files/500946/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/500955/mindtouch.page%2523thumbnail?revision=1 -> assets/other/ce9396e0a847.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/51988/mindtouch.page%2523thumbnail?revision=2 -> assets/other/fbca71dad9ec.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/52007/mindtouch.page%2523thumbnail?revision=2 -> assets/other/d9c038dda92e.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/55725/intrinsic.jpeg?revision=1 -> assets/img/c1ebe82a2338.jpeg
+https://chem.libretexts.org/@api/deki/files/55726/conductor_insulator_semi.jpeg?revision=1&size=bestfit&width=378&height=436 -> assets/img/988f24b879a7.jpeg
+https://chem.libretexts.org/@api/deki/files/55727/NaEx.jpeg?revision=1&size=bestfit&width=300&height=328 -> assets/img/de4e1986aee2.jpeg
+https://chem.libretexts.org/@api/deki/files/55728/chemwiki.jpeg?revision=1 -> assets/img/940417e289ca.jpeg
+https://chem.libretexts.org/@api/deki/files/55730/ptype-ntype.jpeg?revision=1&size=bestfit&width=474&height=482 -> assets/img/f591c08b7c6f.jpeg
 https://chem.libretexts.org/@api/deki/files/65874/CNX_Chem_20_00_OrgCompnd.jpg?revision=1 -> assets/img/2bb822b9f383.jpg
 https://chem.libretexts.org/@api/deki/files/77318/CK12_Screenshot_1-1-1.png?revision=1 -> assets/img/1a272e1d7eb5.png
 https://chem.libretexts.org/@api/deki/files/78552/mindtouch.page%2523thumbnail?revision=3 -> assets/other/0d64a314b444.page%2523thumbnail
@@ -1682,6 +1687,7 @@ https://chem.libretexts.org/Courses/Diablo_Valley_College/DVC_Chem_227%3A_Rusay 
 https://chem.libretexts.org/Courses/Diablo_Valley_College/DVC_Chem_298_Independent_Study%3A_Rusay -> assets/other/609089037b40
 https://chem.libretexts.org/Courses/Diablo_Valley_College/Vertical_Farming_Project -> assets/other/1862a48c5f63
 https://chem.libretexts.org/Courses/Douglas_College/DC%3A_Chem_2330_(O'Connor) -> assets/other/915fccd4f515
+https://chem.libretexts.org/Courses/Douglas_College/DC%3A_Chem_2330_(O'Connor)/7%3A_Molecular_Orbital_Theory/7.6%3A_Band_Theory_of_Semiconductors -> assets/other/4ba5495db083.6%3A_Band_Theory_of_Semiconductors
 https://chem.libretexts.org/Courses/Duke_University/CHEM_110_Honors_Writing_Projects -> assets/other/8ae61507ab9c
 https://chem.libretexts.org/Courses/Duke_University/CHEM_210D%3A_Modern_Applications_of_Chemistry -> assets/other/b33ccb8c4e1c
 https://chem.libretexts.org/Courses/Duke_University/CHEM_301L%3A_Physical_Chemistry_Laboratory -> assets/other/ae429571461c
