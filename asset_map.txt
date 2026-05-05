@@ -266,6 +266,7 @@ https://chem.libretexts.org/Courses/Barstow_Community_College/Survey_of_Chemistr
 https://chem.libretexts.org/Courses/Barstow_Community_College/Survey_of_Chemistry_and_Physics/00%3A_Front_Matter -> assets/other/e372cb660730
 https://chem.libretexts.org/Courses/Barstow_Community_College/Survey_of_Chemistry_and_Physics/01%3A_Introduction_to_Science -> assets/other/4f580f247750
 https://chem.libretexts.org/Courses/Barstow_Community_College/Survey_of_Chemistry_and_Physics/02%3A_Structure_of_Matter -> assets/other/1e207735a073
+https://chem.libretexts.org/Courses/Barstow_Community_College/Survey_of_Chemistry_and_Physics/03%3A_Matter_and_its_Changes -> assets/other/0872064fd9b6
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
