@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/03%3A_Acids_and_Bases-_Organic_Reaction_Mechanism_Introduction
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/04%3A_Conformations_of_Alkanes_and_Cycloalkanes
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/05%3A_Stereochemistry
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/06%3A_Structural_Identification_of_Organic_Compounds-_IR_and_NMR_Spectroscopy
@@ -1910,3 +1909,9 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(L
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/02%3A_Fundamental_of_Organic_Structures/2.05%3A_Degree_of_Unsaturation_Index_of_Hydrogen_Deficiency
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/02%3A_Fundamental_of_Organic_Structures/2.06%3A_Intermolecular_Force_and_Physical_Properties_of_Organic_Compounds
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/02%3A_Fundamental_of_Organic_Structures/2.07%3A_Answers_to_Practice_Questions_Chapter_2
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/03%3A_Acids_and_Bases-_Organic_Reaction_Mechanism_Introduction/3.01%3A_Review_of_Acids_and_Bases_and_Ka
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/03%3A_Acids_and_Bases-_Organic_Reaction_Mechanism_Introduction/3.02%3A_Organic_Acids_and_Bases_and_Organic_Reaction_Mechanism
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/03%3A_Acids_and_Bases-_Organic_Reaction_Mechanism_Introduction/3.03%3A_pKa_of_Organic_Acids_and_Application_of_pKa_to_Predict_Acid-Base_Reaction_Outcome
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/03%3A_Acids_and_Bases-_Organic_Reaction_Mechanism_Introduction/3.04%3A_Structural_Effects_on_Acidity_and_Basicity
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/03%3A_Acids_and_Bases-_Organic_Reaction_Mechanism_Introduction/3.05%3A_Lewis_Acids_and_Lewis_Bases
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Liu)/03%3A_Acids_and_Bases-_Organic_Reaction_Mechanism_Introduction/3.06%3A_Answers_to_Practice_Questions_Chapter_3
