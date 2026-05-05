@@ -183,6 +183,7 @@ https://chem.libretexts.org/@api/deki/files/435491/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/435492/mindtouch.page%2523thumbnail?revision=2 -> assets/other/240859df3d5e.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/436242/mindtouch.page%2523thumbnail?revision=3 -> assets/other/fd94a31356f8.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/437269/mindtouch.page%2523thumbnail?revision=1 -> assets/other/82bb11118512.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/457107/pesticides_and_strawberries.jpg?revision=1 -> assets/img/d467facc11c4.jpg
 https://chem.libretexts.org/@api/deki/files/469838/Atom.png?revision=1 -> assets/img/7fdd495343d7.png
 https://chem.libretexts.org/@api/deki/files/470345/mindtouch.page%2523thumbnail?revision=1 -> assets/other/33a3757361b4.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/470346/mindtouch.page%2523thumbnail?revision=1 -> assets/other/1e17a47a846f.page%2523thumbnail
@@ -329,6 +330,7 @@ https://chem.libretexts.org/Courses/Bellingham_Technical_College/CHEM_110%3A_Bel
 https://chem.libretexts.org/Courses/Bellingham_Technical_College/CHEM_110%3A_Bellingham_Technical_College/zz%3A_Back_Matter -> assets/other/c9fa72c006d2
 https://chem.libretexts.org/Courses/Bennington_College/Chemistry_-_An_Integrated_Approach_(Bullock) -> assets/other/4a18a1f53f48
 https://chem.libretexts.org/Courses/Bennington_College/Chemistry_-_An_Integrated_Approach_(Bullock)/00%3A_Front_Matter -> assets/other/27493c52fd99
+https://chem.libretexts.org/Courses/Bennington_College/Chemistry_-_An_Integrated_Approach_(Bullock)/Chapter_1%3A_A_Beginner's_Guide_to_Chemicals -> assets/other/272e5355d7a5
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
