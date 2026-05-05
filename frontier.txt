@@ -1,4 +1,3 @@
-https://chem.libretexts.org/Special:Userlogin
 https://chem.libretexts.org/Special:UserLogin
 https://chem.libretexts.org
 https://chem.libretexts.org/Special:UserPassword
@@ -234,3 +233,4 @@ https://chem.libretexts.org/Ancillary_Materials/Interactive_Applications
 https://chem.libretexts.org/Ancillary_Materials/Worksheets
 https://chem.libretexts.org/Ancillary_Materials/Reference
 https://chem.libretexts.org/Bookshelves/Environmental_Chemistry/Chemistry_for_Changing_Times_(Hill_and_McCreary)
+https://chem.libretexts.org/@app/auth/3/login
