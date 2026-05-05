@@ -63,6 +63,7 @@ https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.conte
 https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js -> assets/js/f053d867d248.js
 https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js -> assets/js/d9eab9044ab1.js
 https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js -> assets/js/03341e274505.js
+https://chem.libretexts.org/@api/deki/files/103228/Screen_Shot_2017-02-05_at_12.57.53_PM.png?revision=1&size=bestfit&width=160&height=151 -> assets/img/6070cc4d9985.png
 https://chem.libretexts.org/@api/deki/files/105788/Diamond_and_graphite.jpg?revision=1&size=bestfit&width=404&height=311 -> assets/img/9569bb1f1495.jpg
 https://chem.libretexts.org/@api/deki/files/107001/800px-Wheat-haHula-ISRAEL2.JPG?revision=1&size=bestfit&width=483&height=358 -> assets/other/21aac90589e3.JPG
 https://chem.libretexts.org/@api/deki/files/108084/mindtouch.page%2523thumbnail?revision=1 -> assets/other/48210893e9c6.page%2523thumbnail
@@ -82,6 +83,7 @@ https://chem.libretexts.org/@api/deki/files/120194/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/120228/mindtouch.page%2523thumbnail?revision=1 -> assets/other/e9abbe36b5d8.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/120246/mindtouch.page%2523thumbnail?revision=1 -> assets/other/a7e1a98bd656.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/123527/Harvey.png?revision=1 -> assets/img/355a0e17b156.png
+https://chem.libretexts.org/@api/deki/files/125740/IMG_7130.JPG?revision=1&size=bestfit&width=250&height=350 -> assets/other/c444617505f9.JPG
 https://chem.libretexts.org/@api/deki/files/127881/mindtouch.page%2523thumbnail?revision=1 -> assets/other/7ff27dc99b2e.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/127887/mindtouch.page%2523thumbnail?revision=1 -> assets/other/91c0e362cf3f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/127922/mindtouch.page%2523thumbnail?revision=1 -> assets/other/f51d244d2849.page%2523thumbnail
@@ -1643,6 +1645,7 @@ https://chem.libretexts.org/Courses/Diablo_Valley_College/DVC_Chem_106%3A_Rusay 
 https://chem.libretexts.org/Courses/Diablo_Valley_College/DVC_Chem_121%3A_Rusay -> assets/other/3fecdaa8a5dc
 https://chem.libretexts.org/Courses/Diablo_Valley_College/DVC_Chem_226%3A_Rusay -> assets/other/16cd6e0c7c12
 https://chem.libretexts.org/Courses/Diablo_Valley_College/DVC_Chem_227%3A_Rusay -> assets/other/2cda9c4192a5
+https://chem.libretexts.org/Courses/Diablo_Valley_College/DVC_Chem_298_Independent_Study%3A_Rusay -> assets/other/609089037b40
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
 https://chem.libretexts.org/Courses/can/CHEM_220%3A_General_Chemistry_II_-_Chemical_Dynamics -> assets/other/b90b82fa0bdd
