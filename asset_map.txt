@@ -624,6 +624,8 @@ https://chem.libretexts.org/@api/deki/files/416741/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/416743/mindtouch.page%2523thumbnail?revision=2 -> assets/other/31e84f60641d.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/417452/mindtouch.page%2523thumbnail?revision=1 -> assets/other/786daaa86e2f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/417453/mindtouch.page%2523thumbnail?revision=1 -> assets/other/8cf99c9ce85f.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/417470/mindtouch.page%2523thumbnail?revision=1 -> assets/other/7d28705778f1.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/417471/mindtouch.page%2523thumbnail?revision=1 -> assets/other/77f38dada61c.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/423070/scales_PNG43.png?revision=1&size=bestfit&width=350&height=238 -> assets/img/2570deb9d4a8.png
 https://chem.libretexts.org/@api/deki/files/423074/Hindenburg_burning.jpg?revision=1&size=bestfit&width=550&height=418 -> assets/img/ec4012e3f1c3.jpg
 https://chem.libretexts.org/@api/deki/files/423075/mindtouch.page%2523thumbnail?revision=1 -> assets/other/499a0224b9ee.page%2523thumbnail
@@ -1910,6 +1912,7 @@ https://chem.libretexts.org/Courses/Fordham_University/Chem1102%3A_Drug_Discover
 https://chem.libretexts.org/Courses/Fordham_University/Chem1102%3A_Drug_Discovery_-_From_the_Laboratory_to_the_Clinic/15%3A_What_is_it_worth_Estimating_Value -> assets/other/57d39018755d
 https://chem.libretexts.org/Courses/Fordham_University/Chem1102%3A_Drug_Discovery_-_From_the_Laboratory_to_the_Clinic/16%3A_Appendix -> assets/other/16b41c2ff3b5
 https://chem.libretexts.org/Courses/Fordham_University/Chem1102%3A_Drug_Discovery_-_From_the_Laboratory_to_the_Clinic/zz%3A_Back_Matter -> assets/other/39dbfa85afa4
+https://chem.libretexts.org/Courses/Franklin_and_Marshall_College/CHM_222%3A_Inorganic_Chemistry -> assets/other/acbea8896cbf
 https://chem.libretexts.org/Courses/Franklin_and_Marshall_College/Plass's_General_Chemistry_1%3A_Atoms_Compounds_and_Bulk_substances -> assets/other/e5f68a2e2905
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
