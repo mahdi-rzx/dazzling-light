@@ -88,7 +88,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/29%3A_Orbitals_and_Organic_Chemistry_-_Pericyclic_Reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/30%3A_Synthetic_Polymers
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/DeVoes_Thermodynamics_and_Chemistry
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Thermodynamics_and_Chemical_Equilibrium_(Ellgen)
@@ -3590,3 +3589,12 @@ https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textb
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Electron_Paramagnetic_Resonance_(Jenschke)/10%3A_Spin_Probes_and_Spin_Traps
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Electron_Paramagnetic_Resonance_(Jenschke)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Nonlinear_and_Two-Dimensional_Spectroscopy_(Tokmakoff)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/00%3A_Front_Matter
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/01%3A_Basic_NMR_Theory
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/02%3A_Practical_Aspects_of_Q-NMR
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/03%3A_Virtual_Experiment
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/04%3A_Q-NMR_Experiment
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/05%3A_Q-NMR_Applications
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/06%3A_Instructor's_Guide
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/zz%3A_Back_Matter
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Electron_Paramagnetic_Resonance_(Jenschke)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
