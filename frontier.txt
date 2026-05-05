@@ -88,7 +88,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/29%3A_Orbitals_and_Organic_Chemistry_-_Pericyclic_Reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/30%3A_Synthetic_Polymers
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Analytical_Chemiluminescence
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Microscopy
@@ -4329,3 +4328,14 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Module
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Qualitative_Analysis/Separations_with_Thioacetamide
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Qualitative_Analysis/Confirmatory_Tests
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Quantifying_Nature/Volumetric_Chemical_Analysis_(Shiundu)/Summary
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Atomic_Emission_Spectroscopy_(AES)
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Affinity_Chromatography
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Chromatography
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Capillary_Electrophoresis
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Countercurrent_Separations
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Cyclic_Voltammetry
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Mass_Spectrometry
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Lasers
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Introduction_to_Lasers
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Spectrometer
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Diffraction_Scattering_Techniques
