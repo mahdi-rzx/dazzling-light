@@ -588,6 +588,7 @@ https://chem.libretexts.org/Courses/British_Columbia_Institute_of_Technology/Che
 https://chem.libretexts.org/Courses/British_Columbia_Institute_of_Technology/Chem_2305%3A_Biochemistry_Instrumental_Analysis/04%3A_Biochemistry -> assets/other/78b43d55bf99
 https://chem.libretexts.org/Courses/British_Columbia_Institute_of_Technology/Chem_2305%3A_Biochemistry_Instrumental_Analysis/zz%3A_Back_Matter -> assets/other/54cc9b2dee5d
 https://chem.libretexts.org/Courses/Cabrillo_College/Chemistry_30A_Inorganic_Chemistry_for_Health -> assets/other/93d0da3924e7
+https://chem.libretexts.org/Courses/Cabrillo_College/Chemistry_30A_Inorganic_Chemistry_for_Health/00%3A_Front_Matter -> assets/other/de064fefcdd5
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
