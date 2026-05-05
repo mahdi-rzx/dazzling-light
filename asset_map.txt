@@ -720,6 +720,7 @@ https://chem.libretexts.org/Courses/Calvin_University/Chem_230%3A_Essential_Inor
 https://chem.libretexts.org/Courses/Calvin_University/Chem_230%3A_Essential_Inorganic_Chemistry/09%3A_Why_is_Cisplatin_King_of_the_Chemotherapeutic_Drugs -> assets/other/4e549bafb4d1
 https://chem.libretexts.org/Courses/Calvin_University/Chem_230%3A_Essential_Inorganic_Chemistry/zz%3A_Back_Matter -> assets/other/5b88919a1994
 https://chem.libretexts.org/Courses/Cameron_University/CHEM1004%3A_Descriptive_Chemistry_(Cameron_University) -> assets/other/37c40175684b
+https://chem.libretexts.org/Courses/Cameron_University/CHEM1004%3A_Descriptive_Chemistry_(Cameron_University)/00%3A_Front_Matter -> assets/other/221072ced5ff
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
