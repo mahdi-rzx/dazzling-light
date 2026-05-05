@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/11%3A_Enzyme-Catalyzed_Asymmetric_Reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/12%3A_Solutions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Radical_Reactions_of_Carbohydrates_(Binkley)
@@ -2552,3 +2551,8 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_S
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/10%3A_Organocatalysis/10.02%3A_Alkaloid_Based_Reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/10%3A_Organocatalysis/10.03%3A_Thiourea_Based_Catalysis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/10%3A_Organocatalysis/10.04%3A_Problems_and_Reference
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/11%3A_Enzyme-Catalyzed_Asymmetric_Reactions/11.01%3A_Acylation_of_Alcohols_and_Amines
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/11%3A_Enzyme-Catalyzed_Asymmetric_Reactions/11.02%3A_Formation_of_Carbon-Carbon_Bonds
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/11%3A_Enzyme-Catalyzed_Asymmetric_Reactions/11.03%3A_Reduction_Reactions
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/11%3A_Enzyme-Catalyzed_Asymmetric_Reactions/11.04%3A_Enantioselective_Oxidations
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Catalytic_Asymmetric_Synthesis_(Punniyamurthy)/11%3A_Enzyme-Catalyzed_Asymmetric_Reactions/11.05%3A_Problems_and_Reference
