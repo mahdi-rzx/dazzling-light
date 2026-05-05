@@ -110,7 +110,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistr
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/01%3A_Chapters
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/4%3A_Infrared_Spectroscopy
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/5%3A_Raman_Spectroscopy
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/6%3A_Atomic_Spectroscopy
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/zz%3A_Back_Matter
@@ -4672,3 +4671,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomi
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/3%3A_Molecular_Luminescence/3.5._Quantum_Yield_of_Fluorescence_((varphi_ce_F))
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/3%3A_Molecular_Luminescence/3.6%3A_Variables_that_Influence_Fluorescence_Measurements
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/3%3A_Molecular_Luminescence/3.7%3A_Other_Luminescent_Methods
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/4%3A_Infrared_Spectroscopy/4.1%3A_Introduction_to_Infrared_Spectroscopy
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/4%3A_Infrared_Spectroscopy/4.2%3A_Specialized_Infrared_Methods
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Molecular_and_Atomic_Spectroscopy_(Wenzel)/4%3A_Infrared_Spectroscopy/4.3%3A_Fourier-Transform_Infrared_Spectroscopy_(FT-IR)
