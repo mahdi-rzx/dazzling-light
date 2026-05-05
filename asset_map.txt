@@ -429,6 +429,9 @@ https://chem.libretexts.org/@api/deki/files/351896/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/351907/mindtouch.page%2523thumbnail?revision=3 -> assets/other/41f49f158d06.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/351944/mindtouch.page%2523thumbnail?revision=5 -> assets/other/a9db5f0d2066.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/351945/mindtouch.page%2523thumbnail?revision=5 -> assets/other/554fc9484847.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/352090/mindtouch.page%2523thumbnail?revision=4 -> assets/other/58c520b55986.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/352091/mindtouch.page%2523thumbnail?revision=1 -> assets/other/e9a63400e19e.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/352098/mindtouch.page%2523thumbnail?revision=4 -> assets/other/d29185562645.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/352660/mindtouch.page%2523thumbnail?revision=5 -> assets/other/c52fdf04044b.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/352661/mindtouch.page%2523thumbnail?revision=5 -> assets/other/3708fc5ded90.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/352662/mindtouch.page%2523thumbnail?revision=5 -> assets/other/89efee095891.page%2523thumbnail
@@ -2049,6 +2052,7 @@ https://chem.libretexts.org/Courses/Fullerton_College/Beginning_Chemistry_(Chan)
 https://chem.libretexts.org/Courses/Fullerton_College/Beginning_Chemistry_(Chan)/16%3A_Nuclear_Chemistry -> assets/other/d8cec2b7cd33
 https://chem.libretexts.org/Courses/Fullerton_College/Beginning_Chemistry_(Chan)/17%3A_Organic_Chemistry -> assets/other/41d94b3672d3
 https://chem.libretexts.org/Courses/Fullerton_College/Beginning_Chemistry_(Chan)/zz%3A_Back_Matter -> assets/other/977615dde3f9
+https://chem.libretexts.org/Courses/Fullerton_College/Chem_201_Bootcamp -> assets/other/20b0742cf8c4
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
 https://chem.libretexts.org/Courses/can/CHEM_220%3A_General_Chemistry_II_-_Chemical_Dynamics -> assets/other/b90b82fa0bdd
