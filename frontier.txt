@@ -88,7 +88,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/29%3A_Orbitals_and_Organic_Chemistry_-_Pericyclic_Reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/30%3A_Synthetic_Polymers
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Online_Dictionary_of_Crystallography_(IUCr_Commission)
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/zz%3A_Back_Matter/22%3A_Detailed_Licensing
@@ -3326,3 +3325,14 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Soli
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Solid_State_Chemistry/06%3A_Recitations
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Solid_State_Chemistry/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/zz%3A_Back_Matter/21%3A_Detailed_Licensing
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/00%3A_Front_Matter
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/00%3A_Introduction
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/01%3A_Translational_Symmetry
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/02%3A_Rotational_Symmetry
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/03%3A_Space_Groups
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/04%3A_Electronic_and_Vibrational_States_of_Crystals
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/05%3A_Blochs_Theorem
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/06%3A_Irreducible_Representations_of_Space_Groups
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/07%3A_Summary
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/zz%3A_Back_Matter
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Solid_State_Chemistry/zz%3A_Back_Matter/30%3A_Detailed_Licensing
