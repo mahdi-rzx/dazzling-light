@@ -111,7 +111,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kine
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/01%3A_Chapters
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/2%3A_Experimental_techniques
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/3%3A_Group_I_cations
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/4%3A_Group_II_cations
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/5%3A_Group_III_cations
@@ -4695,3 +4694,10 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysi
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/1%3A_Chemical_Principles/1.3%3A_Varying_solubility_of_ionic_compounds
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/1%3A_Chemical_Principles/1.4%3A_pH_Buffers
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/1%3A_Chemical_Principles/1.5%3A_Separation_of_cations_in_groups
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/2%3A_Experimental_techniques/2.1%3A_Precipitation
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/2%3A_Experimental_techniques/2.2%3A_Water_bath
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/2%3A_Experimental_techniques/2.3%3A_Centrifugation
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/2%3A_Experimental_techniques/2.4%3A_Separation_of_the_precipitate
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/2%3A_Experimental_techniques/2.5%3A_pH_measurement
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/2%3A_Experimental_techniques/2.6%3A_Flame_test
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Qualitative_Analysis_of_Common_Cations_in_Water_(Malik)/2%3A_Experimental_techniques/2.7%3A_Common_qualitative_analysis_reagents_their_effects_and_hazards
