@@ -61,6 +61,7 @@ https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.conte
 https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js -> assets/js/f053d867d248.js
 https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js -> assets/js/d9eab9044ab1.js
 https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js -> assets/js/03341e274505.js
+https://chem.libretexts.org/@api/deki/files/105788/Diamond_and_graphite.jpg?revision=1&size=bestfit&width=404&height=311 -> assets/img/9569bb1f1495.jpg
 https://chem.libretexts.org/@api/deki/files/120046/mindtouch.page%2523thumbnail?revision=1 -> assets/other/d0a869e43d6d.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/120069/mindtouch.page%2523thumbnail?revision=1 -> assets/other/825d53f0162e.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/120087/mindtouch.page%2523thumbnail?revision=1 -> assets/other/7f9c06da3cb8.page%2523thumbnail
@@ -519,6 +520,7 @@ https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Consumer_Chemistry/04%3A_Introduction_to_acids_and_bases -> assets/other/c51cc6529c81
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Consumer_Chemistry/05%3A_Solids_and_Liquids -> assets/other/4297dcdfd77b
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Consumer_Chemistry/06%3A_Radioactivity -> assets/other/b2cfd172d3ed
+https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Consumer_Chemistry/07%3A_Chemical_Bonds -> assets/other/3fbcdc375742
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
