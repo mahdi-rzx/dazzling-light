@@ -1,0 +1,1 @@
+!function(i){"use strict";(new i.GuideTabsManager).initSingleTab()}(this.Deki._mtLib.srcCommunityGuideTabsManager);
