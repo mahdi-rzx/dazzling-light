@@ -137,6 +137,14 @@ https://chem.libretexts.org/@api/deki/files/274950/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/274953/mindtouch.page%2523thumbnail?revision=3 -> assets/other/d7062635d552.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/274959/mindtouch.page%2523thumbnail?revision=3 -> assets/other/6a887e1f4d9f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/275004/mindtouch.page%2523thumbnail?revision=3 -> assets/other/2246df080e7e.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/275126/mindtouch.page%2523thumbnail?revision=2 -> assets/other/d93aa31abe16.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/275127/mindtouch.page%2523thumbnail?revision=2 -> assets/other/a5f268260084.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/275142/mindtouch.page%2523thumbnail?revision=2 -> assets/other/bd41df0fb449.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/275147/mindtouch.page%2523thumbnail?revision=2 -> assets/other/d8d924af260a.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/275155/mindtouch.page%2523thumbnail?revision=1 -> assets/other/9f19a954ac81.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/275156/mindtouch.page%2523thumbnail?revision=2 -> assets/other/1dd17c0fa1c7.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/293862/mindtouch.page%2523thumbnail?revision=3 -> assets/other/451d425f713e.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/293863/mindtouch.page%2523thumbnail?revision=3 -> assets/other/5428ec4d4fcf.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/293864/mindtouch.page%2523thumbnail?revision=3 -> assets/other/742be4daab49.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/347621/mindtouch.page%2523thumbnail?revision=5 -> assets/other/054e160c7d21.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/347622/mindtouch.page%2523thumbnail?revision=3 -> assets/other/8455407b7821.page%2523thumbnail
@@ -430,6 +438,7 @@ https://chem.libretexts.org/Courses/Bloomsburg_-_Commonwealth_University_of_Penn
 https://chem.libretexts.org/Courses/BonnerPrendie/Chem530-AP -> assets/other/71f80a046e95
 https://chem.libretexts.org/Courses/Brevard_College/CHE_103_Principles_of_Chemistry_I -> assets/other/b6e7a2e60424
 https://chem.libretexts.org/Courses/Brevard_College/CHE_104%3A_Principles_of_Chemistry_II -> assets/other/adbf016da9da
+https://chem.libretexts.org/Courses/Brevard_College/CHE_201%3A_Organic_Chemistry_I -> assets/other/f08823c87317
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
