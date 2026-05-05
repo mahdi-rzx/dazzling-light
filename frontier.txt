@@ -107,7 +107,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistr
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/16%3A_Appendix
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/zz%3A_Back_Matter/20%3A_Glossary
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/08%3A_An_Introduction_to_Optical_Atomic_Spectroscopy
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/09%3A_Atomic_Absorption_and_Atomic_Fluorescence_Spectrometry
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/10%3A_Atomic_Emission_Spectrometry
@@ -4487,3 +4486,10 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analys
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/06%3A_An_Introduction_to_Spectrophotometric_Methods/6.03%3A_Quantum_Mechanical_Properties_of_Electromagnetic_Radiation
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/06%3A_An_Introduction_to_Spectrophotometric_Methods/6.04%3A_Spectra
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/06%3A_An_Introduction_to_Spectrophotometric_Methods/6.05%3A_Quantitative_Considerations
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments/7.01%3A_General_Design_of_Optical_Instruments
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments/7.02%3A_Sources_of_Radiation
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments/7.03%3A_Wavelength_Selectors
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments/7.04%3A_Sample_Containers
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments/7.05%3A_Radiation_Transducers
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments/7.06%3A_Fiber_Optics
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/07%3A_Components_of_Optical_Instruments/7.07%3A_Types_of_Optical_Instruments
