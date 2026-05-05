@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse, unquote, urlunparse
 
 # ------------------------------------------------------------
-# Configure git identity FIRST
+# Configure git identity  FIRST
 # ------------------------------------------------------------
 subprocess.run(["git", "config", "user.name", "github-actions[bot]"], check=True)
 subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"], check=True)
