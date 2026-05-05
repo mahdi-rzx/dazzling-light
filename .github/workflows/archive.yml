@@ -12,7 +12,7 @@ on:
         required: false
         default: '0'
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '*/10 * * * *'   # runs every 5 minutes
 
 permissions:
   contents: write
@@ -20,7 +20,7 @@ permissions:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    concurrency: archive-crawl
+    concurrency: archive-crawl   # ensures only one run at a time
     steps:
       - uses: actions/checkout@v4
         with:
