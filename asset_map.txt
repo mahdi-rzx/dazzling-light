@@ -240,6 +240,7 @@ https://chem.libretexts.org/@api/deki/files/370389/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/370969/mindtouch.page%2523thumbnail?revision=1 -> assets/other/cbd6615db02c.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/373555/ARCC_Logo.jpg?revision=1&size=bestfit&width=417&height=200 -> assets/img/b21c5aed6662.jpg
 https://chem.libretexts.org/@api/deki/files/373678/mindtouch.page%2523thumbnail?revision=2 -> assets/other/b06220fffc3a.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/378859/alfred-schrock-shoE2y51uX0-unsplash.jpg?revision=1 -> assets/img/c04fd23439cb.jpg
 https://chem.libretexts.org/@api/deki/files/389064/mindtouch.page%2523thumbnail?revision=4 -> assets/other/fa400bf445b7.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/389065/mindtouch.page%2523thumbnail?revision=1 -> assets/other/28c2917311d2.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/389101/mindtouch.page%2523thumbnail?revision=1 -> assets/other/86bbe0ce6761.page%2523thumbnail
@@ -867,6 +868,7 @@ https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistr
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/00%3A_Front_Matter -> assets/other/a3d17462c6b9
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/01%3A_Introduction_to_Inorganic_Chemistry -> assets/other/ef9b22c29adf
 https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/02%3A_Atomic_Theory -> assets/other/c568acb347a6
+https://chem.libretexts.org/Courses/Centre_College/CHE_332%3A_Inorganic_Chemistry/03%3A_Molecular_Symmetry_and_Point_Groups -> assets/other/3b2afdbc38ba
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
 https://chem.libretexts.org/Courses/can/CHEM_220%3A_General_Chemistry_II_-_Chemical_Dynamics -> assets/other/b90b82fa0bdd
