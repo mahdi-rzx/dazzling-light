@@ -89,6 +89,7 @@ https://chem.libretexts.org/@api/deki/files/120180/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/120194/mindtouch.page%2523thumbnail?revision=1 -> assets/other/4c5135e3abb3.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/120228/mindtouch.page%2523thumbnail?revision=1 -> assets/other/e9abbe36b5d8.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/120246/mindtouch.page%2523thumbnail?revision=1 -> assets/other/a7e1a98bd656.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/123519/Soderberg.jpg?revision=1 -> assets/img/47f9ced1f7b6.jpg
 https://chem.libretexts.org/@api/deki/files/123527/Harvey.png?revision=1 -> assets/img/355a0e17b156.png
 https://chem.libretexts.org/@api/deki/files/125740/IMG_7130.JPG?revision=1&size=bestfit&width=250&height=350 -> assets/other/c444617505f9.JPG
 https://chem.libretexts.org/@api/deki/files/125780/Vertical_Farming_Logo_2018_w__Text.jpg?revision=1&size=bestfit&width=303&height=350 -> assets/img/23ba6827840a.jpg
@@ -1884,6 +1885,7 @@ https://chem.libretexts.org/Courses/Fordham_University/Chem1102%3A_Drug_Discover
 https://chem.libretexts.org/Courses/Fordham_University/Chem1102%3A_Drug_Discovery_-_From_the_Laboratory_to_the_Clinic/04%3A_Noncovalent_bonds -> assets/other/551e22f2bc24
 https://chem.libretexts.org/Courses/Fordham_University/Chem1102%3A_Drug_Discovery_-_From_the_Laboratory_to_the_Clinic/05%3A_Organic_Molecules -> assets/other/e29597245553
 https://chem.libretexts.org/Courses/Fordham_University/Chem1102%3A_Drug_Discovery_-_From_the_Laboratory_to_the_Clinic/06%3A_Lipids -> assets/other/bf1c0d2238fc
+https://chem.libretexts.org/Courses/Fordham_University/Chem1102%3A_Drug_Discovery_-_From_the_Laboratory_to_the_Clinic/07%3A_Conformations_and_Stereochemistry -> assets/other/73f0cad2c866
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
 https://chem.libretexts.org/Courses/can/CHEM_220%3A_General_Chemistry_II_-_Chemical_Dynamics -> assets/other/b90b82fa0bdd
