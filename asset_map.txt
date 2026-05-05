@@ -258,6 +258,17 @@ https://chem.libretexts.org/@api/deki/files/435491/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/435492/mindtouch.page%2523thumbnail?revision=2 -> assets/other/240859df3d5e.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/436242/mindtouch.page%2523thumbnail?revision=3 -> assets/other/fd94a31356f8.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/437269/mindtouch.page%2523thumbnail?revision=1 -> assets/other/82bb11118512.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/445729/mindtouch.page%2523thumbnail?revision=2 -> assets/other/3cfbbf7833c7.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/445732/mindtouch.page%2523thumbnail?revision=1 -> assets/other/04bb178f6bb0.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/445735/mindtouch.page%2523thumbnail?revision=1 -> assets/other/0e7b9a5c5ecd.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/445746/mindtouch.page%2523thumbnail?revision=1 -> assets/other/c852b2d16de0.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/445764/mindtouch.page%2523thumbnail?revision=1 -> assets/other/9346e81b678c.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/445765/mindtouch.page%2523thumbnail?revision=2 -> assets/other/59380bbce9ac.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/445767/mindtouch.page%2523thumbnail?revision=2 -> assets/other/bd309d9c3afb.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/446391/mindtouch.page%2523thumbnail?revision=1 -> assets/other/dbc569896b2e.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/446392/mindtouch.page%2523thumbnail?revision=1 -> assets/other/0130312900c1.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/446393/mindtouch.page%2523thumbnail?revision=1 -> assets/other/04b2e12babb2.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/446394/mindtouch.page%2523thumbnail?revision=1 -> assets/other/209c1fd7e78f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/457107/pesticides_and_strawberries.jpg?revision=1 -> assets/img/d467facc11c4.jpg
 https://chem.libretexts.org/@api/deki/files/466552/mindtouch.page%2523thumbnail?revision=1 -> assets/other/95ee446c69f0.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/466553/mindtouch.page%2523thumbnail?revision=1 -> assets/other/3ef7a22d4580.page%2523thumbnail
@@ -479,6 +490,7 @@ https://chem.libretexts.org/Courses/Brevard_College/CHE_201%3A_Organic_Chemistry
 https://chem.libretexts.org/Courses/Brevard_College/CHE_202%3A_Organic_Chemistry_II -> assets/other/efc688dabb7f
 https://chem.libretexts.org/Courses/Brevard_College/CHE_301_Biochemistry -> assets/other/c637fb94e8e3
 https://chem.libretexts.org/Courses/Brevard_College/CHE_310%3A_Inorganic_Chemistry_(Biava) -> assets/other/0595a3b35745
+https://chem.libretexts.org/Courses/Brevard_College/LNC_216_CHE -> assets/other/d61439e2a857
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
