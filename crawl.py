@@ -2,7 +2,7 @@
 """
 Focused crawler for chem.libretexts.org
 - Analytical, Organic, Inorganic, Physical/Theoretical, General Chemistry
-- Downloads HTML pages + content images
+- Downloads HTML pages only (no images)
 - Resumable with per‑page commits
 - Job‑level timeout, skips non‑HTML files
 - Saves pages directly into chem.libretexts.org/ (no "archive" prefix)
@@ -14,7 +14,6 @@ import subprocess
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse, unquote, urlunparse
-from hashlib import md5
 
 # ------------------------------------------------------------
 # Git identity (must run before any git commands)
@@ -25,12 +24,10 @@ subprocess.run(["git", "config", "user.email", "github-actions[bot]@users.norepl
 # ------------------------------------------------------------
 # Configuration
 # ------------------------------------------------------------
-OUTPUT_DIR = "chem.libretexts.org"          # pages saved here directly
-IMAGES_DIR = os.path.join(OUTPUT_DIR, "images")
+OUTPUT_DIR = "chem.libretexts.org"
 FRONTIER_FILE = "frontier.txt"
 DOWNLOADED_FILE = "downloaded.txt"
 ERRORS_FILE = "errors.txt"
-IMAGE_MAP_FILE = "image_map.txt"            # URL → local filename
 
 BASE_DOMAIN = "chem.libretexts.org"
 
@@ -122,77 +119,6 @@ def is_allowed_url(url):
     return False
 
 # ------------------------------------------------------------
-# Image downloading
-# ------------------------------------------------------------
-def load_image_map():
-    """Return dict {original_url: local_filename} and set of downloaded hashes."""
-    imap = {}
-    if os.path.exists(IMAGE_MAP_FILE):
-        with open(IMAGE_MAP_FILE, "r") as f:
-            for line in f:
-                if " -> " in line:
-                    url, local = line.strip().split(" -> ", 1)
-                    imap[url] = local
-    return imap
-
-def save_image_map(imap):
-    with open(IMAGE_MAP_FILE, "w") as f:
-        for url, local in sorted(imap.items()):
-            f.write(f"{url} -> {local}\n")
-
-def get_image_filename(url):
-    """Unique hash‑based filename in IMAGES_DIR."""
-    ext = os.path.splitext(urlparse(url).path)[1] or ".jpg"
-    h = md5(url.encode()).hexdigest()[:12]
-    return os.path.join(IMAGES_DIR, f"{h}{ext}")
-
-def download_and_rewrite_images(html, page_url, image_map):
-    """
-    Find images inside the main content area,
-    download them, and rewrite src to local paths.
-    Returns (modified_html, list_of_new_local_files)
-    """
-    soup = BeautifulSoup(html, "html.parser")
-    content = soup.select_one(".mt-content-container")  # main content div
-    if not content:
-        return html, []   # no content container, skip
-
-    new_files = []
-    for img in content.find_all("img", src=True):
-        src = img["src"]
-        if src.startswith("data:"):
-            continue
-        abs_url = urljoin(page_url, src)
-        parsed = urlparse(abs_url)
-        # Only download images from our own domain
-        if parsed.netloc != BASE_DOMAIN:
-            continue  # skip external hotlinked images
-
-        if abs_url in image_map:
-            local_path = image_map[abs_url]
-        else:
-            local_path = get_image_filename(abs_url)
-            try:
-                ensure_dir(local_path)
-                r = requests.get(abs_url, timeout=REQUEST_TIMEOUT)
-                if r.status_code == 200:
-                    with open(local_path, "wb") as f:
-                        f.write(r.content)
-                    image_map[abs_url] = local_path
-                    new_files.append(local_path)
-                else:
-                    continue
-            except Exception as e:
-                print(f"  ⚠ Image download failed: {abs_url} ({e})")
-                continue
-
-        # Rewrite src relative to OUTPUT_DIR root
-        relative = os.path.relpath(local_path, OUTPUT_DIR)
-        img["src"] = relative
-
-    return str(soup), new_files
-
-# ------------------------------------------------------------
 # Main crawl
 # ------------------------------------------------------------
 def main():
@@ -200,12 +126,10 @@ def main():
 
     downloaded = load_set(DOWNLOADED_FILE)
     errors = load_set(ERRORS_FILE)
-    image_map = load_image_map()
 
     print(f"Job timeout: {JOB_TIMEOUT}s ({JOB_TIMEOUT/60:.1f} min)")
     print(f"Max URLs: {'unlimited' if MAX_URLS == 0 else MAX_URLS}")
-    print(f"Already downloaded: {len(downloaded)} pages")
-    print(f"Images cached: {len(image_map)}\n")
+    print(f"Already downloaded: {len(downloaded)} pages\n")
 
     # Load or create frontier
     frontier = []
@@ -280,21 +204,11 @@ def main():
                 git_commit_push([FRONTIER_FILE], f"Skip non-HTML {url}")
                 continue
 
-            # Process images and rewrite HTML
-            try:
-                html, new_images = download_and_rewrite_images(resp.text, url, image_map)
-                if new_images:
-                    print(f"  🖼 {len(new_images)} new images downloaded")
-            except Exception as e:
-                print(f"  ⚠ Image processing error: {e}")
-                html = resp.text
-                new_images = []
-
-            # Save page
+            # Save the raw HTML (no image processing)
             filepath = local_path(url)
             ensure_dir(filepath)
             with open(filepath, "w", encoding="utf-8") as f:
-                f.write(html)
+                f.write(resp.text)
 
             # Update state
             append_line(DOWNLOADED_FILE, url)
@@ -328,12 +242,7 @@ def main():
                 print(f"  🔗 {new_links} new links")
 
             # Commit everything
-            all_files = [filepath, FRONTIER_FILE, DOWNLOADED_FILE]
-            if new_images:
-                all_files.extend(new_images)
-                all_files.append(IMAGE_MAP_FILE)
-                save_image_map(image_map)
-            git_commit_push(all_files, f"Add {url}")
+            git_commit_push([filepath, FRONTIER_FILE, DOWNLOADED_FILE], f"Add {url}")
             counter += 1
 
         elif status == 429 or status >= 500:
