@@ -111,7 +111,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kine
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/01%3A_Chapters
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kinetic_Methods_(Arhangel'skii_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/05%3A_Standardizing_Analytical_Methods
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/06%3A_Equilibrium_Chemistry
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/07%3A_Obtaining_and_Preparing_Samples_for_Analysis
@@ -4774,3 +4773,14 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistr
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/03%3A__The_Vocabulary_of_Analytical_Chemistry/3.08%3A_Problems
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/03%3A__The_Vocabulary_of_Analytical_Chemistry/3.09%3A_Additional_Resources
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/03%3A__The_Vocabulary_of_Analytical_Chemistry/3.10%3A_Chapter_Summary_and_Key_Terms
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.01%3A_Characterizing_Measurements_and_Results
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.02%3A_Characterizing_Experimental_Errors
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.03%3A_Propagation_of_Uncertainty
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.04%3A_The_Distribution_of_Measurements_and_Results
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.05%3A_Statistical_Analysis_of_Data
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.06%3A_Statistical_Methods_for_Normal_Distributions
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.07%3A_Detection_Limits
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.08%3A_Using_Excel_and_R_to_Analyze_Data
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.09%3A_Problems
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.10%3A_Additional_Resources
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.11%3A_Chapter_Summary_and_Key_Terms
