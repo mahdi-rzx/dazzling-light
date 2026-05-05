@@ -112,6 +112,16 @@ https://chem.libretexts.org/@api/deki/files/206420/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/206442/mindtouch.page%2523thumbnail?revision=2 -> assets/other/307702a3fa3c.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/212173/spaceballs.jpg?revision=1&size=bestfit&width=297&height=228 -> assets/img/ff21dd4e8ef5.jpg
 https://chem.libretexts.org/@api/deki/files/212949/mindtouch.page%2523thumbnail?revision=6 -> assets/other/427650bc39d5.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/217842/mindtouch.page%2523thumbnail?revision=1 -> assets/other/752ac39d8acf.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/217843/mindtouch.page%2523thumbnail?revision=1 -> assets/other/1d7dccb33f9f.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/217844/mindtouch.page%2523thumbnail?revision=1 -> assets/other/098733caf4f1.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/217845/mindtouch.page%2523thumbnail?revision=1 -> assets/other/1bef5b97d8a7.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/217846/mindtouch.page%2523thumbnail?revision=1 -> assets/other/c1709554f683.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/217847/mindtouch.page%2523thumbnail?revision=1 -> assets/other/5f88586df627.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/217848/mindtouch.page%2523thumbnail?revision=1 -> assets/other/63ae8ffffd14.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/217849/mindtouch.page%2523thumbnail?revision=1 -> assets/other/d6093dbfd300.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/217850/mindtouch.page%2523thumbnail?revision=1 -> assets/other/69282fc738e3.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/217851/mindtouch.page%2523thumbnail?revision=1 -> assets/other/0b16ddfaea73.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/219740/mindtouch.page%2523thumbnail?revision=1 -> assets/other/4d703d02acae.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/219741/mindtouch.page%2523thumbnail?revision=1 -> assets/other/48d0c57d19da.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/219742/mindtouch.page%2523thumbnail?revision=1 -> assets/other/6463cbaf6926.page%2523thumbnail
@@ -255,6 +265,8 @@ https://chem.libretexts.org/@api/deki/files/274950/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/274953/mindtouch.page%2523thumbnail?revision=3 -> assets/other/d7062635d552.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/274959/mindtouch.page%2523thumbnail?revision=3 -> assets/other/6a887e1f4d9f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/275004/mindtouch.page%2523thumbnail?revision=3 -> assets/other/2246df080e7e.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/275119/mindtouch.page%2523thumbnail?revision=1 -> assets/other/e9f3a6a8d2de.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/275120/mindtouch.page%2523thumbnail?revision=1 -> assets/other/f2bf6d0fe717.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/275126/mindtouch.page%2523thumbnail?revision=2 -> assets/other/d93aa31abe16.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/275127/mindtouch.page%2523thumbnail?revision=2 -> assets/other/a5f268260084.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/275142/mindtouch.page%2523thumbnail?revision=2 -> assets/other/bd41df0fb449.page%2523thumbnail
@@ -1352,6 +1364,7 @@ https://chem.libretexts.org/Courses/Colorado_State_University/Chem_474%3A_Physic
 https://chem.libretexts.org/Courses/Colorado_State_University/Chem_476%3A_Physical_Chemistry_II_(Levinger) -> assets/other/b961e6d65285
 https://chem.libretexts.org/Courses/Colorado_State_University/Chem_476%3A_Physical_Chemistry_II_(Levinger)/test/Groupwork_9_Gibbs_Helmholtz_and_Maxwell_Relations -> assets/other/189a3525d575
 https://chem.libretexts.org/Courses/Colorado_State_University_Pueblo/Elementary_Concepts_in_Physics_and_Chemistry -> assets/other/ba734fcb0a7b
+https://chem.libretexts.org/Courses/Community_College_of_Allegheny_County/Developmental_Studies_101_and_103 -> assets/other/7a199be5d138
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
 https://chem.libretexts.org/Courses/can/CHEM_220%3A_General_Chemistry_II_-_Chemical_Dynamics -> assets/other/b90b82fa0bdd
