@@ -88,7 +88,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/29%3A_Orbitals_and_Organic_Chemistry_-_Pericyclic_Reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/30%3A_Synthetic_Polymers
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/The_Live_Textbook_of_Physical_Chemistry_(Peverati)
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Time_Dependent_Quantum_Mechanics_and_Spectroscopy_2014e_(Tokmakoff)
@@ -3491,3 +3490,17 @@ https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textb
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/An_Introduction_to_the_Electronic_Structure_of_Atoms_and_Molecules_(Bader)/09%3A_Preface_to_Calculations
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/An_Introduction_to_the_Electronic_Structure_of_Atoms_and_Molecules_(Bader)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/00%3A_Front_Matter
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/01%3A_Quantum_Fundamentals
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/02%3A_Atomic_Structure
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/03%3A_Chemical_Bonding
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/04%3A_Spectroscopy
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/05%3A_Diffraction_Phenomena
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/06%3A_Group_Theory_with_Mathcad
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/07%3A_Quantum_Optics
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/08%3A_Quantum_Teleportation
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/09%3A_Numerical_Solutions_for_Schrodinger's_Equation
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/10%3A_Approximate_Quantum__Mechanical_Methods
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/11%3A_Miscellaneous
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/zz%3A_Back_Matter
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/An_Introduction_to_the_Electronic_Structure_of_Atoms_and_Molecules_(Bader)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
