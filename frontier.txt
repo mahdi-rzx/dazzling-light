@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/08%3A_Catalysis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Morsch_et_al.)
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Morsch_et_al.)/00%3A_Front_Matter
@@ -3011,3 +3010,10 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/05%3A_Structure_Reactivity_Relationships/5.02%3A_Linear_Free_Energy_Relationships
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/06%3A_Acidity_and_Basicity/6.01%3A_New_Page
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/07%3A_Kinetic_Isotope_Effects/7.01%3A_Kinetic_Isotope_Effects
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/08%3A_Catalysis/8.01%3A_A._Methods_of_Catalysis
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/08%3A_Catalysis/8.01%3A_A._Methods_of_Catalysis/8.1.01%3A_A1.__General_Acid_and_Base_Catalysis
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/08%3A_Catalysis/8.01%3A_A._Methods_of_Catalysis/8.1.02%3A_A2.__Metal_Ion_or_Electrostatic_Catalysis
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/08%3A_Catalysis/8.01%3A_A._Methods_of_Catalysis/8.1.03%3A_A3.__Covalent_or_Nucleophilic_Catalysis
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/08%3A_Catalysis/8.01%3A_A._Methods_of_Catalysis/8.1.04%3A_A4.__Intramolecular_Catalysis
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/08%3A_Catalysis/8.01%3A_A._Methods_of_Catalysis/8.1.05%3A_A5.__Transition_State_Stabilization
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/08%3A_Catalysis/8.01%3A_A._Methods_of_Catalysis/8.1.06%3A_A6.__Links_and_References
