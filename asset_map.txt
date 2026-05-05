@@ -328,6 +328,19 @@ https://chem.libretexts.org/@api/deki/files/466569/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/466570/mindtouch.page%2523thumbnail?revision=1 -> assets/other/befffe29f98f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/466578/mindtouch.page%2523thumbnail?revision=1 -> assets/other/bb9cac65b01e.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/466579/mindtouch.page%2523thumbnail?revision=1 -> assets/other/ac4960098047.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/469403/mindtouch.page%2523thumbnail?revision=1 -> assets/other/2b8c82aa50d4.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/469404/mindtouch.page%2523thumbnail?revision=1 -> assets/other/39e47fc92f1f.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/469405/mindtouch.page%2523thumbnail?revision=1 -> assets/other/f2cdf3a0ab5f.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/469406/mindtouch.page%2523thumbnail?revision=1 -> assets/other/3c438d00f540.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/469452/mindtouch.page%2523thumbnail?revision=1 -> assets/other/624fb395e3b3.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/469453/mindtouch.page%2523thumbnail?revision=1 -> assets/other/b51e81bca1d2.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/469454/mindtouch.page%2523thumbnail?revision=1 -> assets/other/36edc7329a5e.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/469455/mindtouch.page%2523thumbnail?revision=1 -> assets/other/6907dfc763bd.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/469456/mindtouch.page%2523thumbnail?revision=1 -> assets/other/9681bda9e9f2.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/469457/mindtouch.page%2523thumbnail?revision=1 -> assets/other/b9d5e97e4f53.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/469458/mindtouch.page%2523thumbnail?revision=1 -> assets/other/cd90dceead71.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/469459/mindtouch.page%2523thumbnail?revision=1 -> assets/other/1bfa2d084cd6.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/469460/mindtouch.page%2523thumbnail?revision=1 -> assets/other/800bcee49246.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/469838/Atom.png?revision=1 -> assets/img/7fdd495343d7.png
 https://chem.libretexts.org/@api/deki/files/470345/mindtouch.page%2523thumbnail?revision=1 -> assets/other/33a3757361b4.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/470346/mindtouch.page%2523thumbnail?revision=1 -> assets/other/1e17a47a846f.page%2523thumbnail
@@ -706,6 +719,7 @@ https://chem.libretexts.org/Courses/Calvin_University/Chem_230%3A_Essential_Inor
 https://chem.libretexts.org/Courses/Calvin_University/Chem_230%3A_Essential_Inorganic_Chemistry/08%3A_What_Happens_Above_The_Arrow_in_Organic_Chemistry -> assets/other/31888761b2c0
 https://chem.libretexts.org/Courses/Calvin_University/Chem_230%3A_Essential_Inorganic_Chemistry/09%3A_Why_is_Cisplatin_King_of_the_Chemotherapeutic_Drugs -> assets/other/4e549bafb4d1
 https://chem.libretexts.org/Courses/Calvin_University/Chem_230%3A_Essential_Inorganic_Chemistry/zz%3A_Back_Matter -> assets/other/5b88919a1994
+https://chem.libretexts.org/Courses/Cameron_University/CHEM1004%3A_Descriptive_Chemistry_(Cameron_University) -> assets/other/37c40175684b
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
