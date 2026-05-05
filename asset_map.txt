@@ -88,6 +88,16 @@ https://chem.libretexts.org/@api/deki/files/199573/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/199597/mindtouch.page%2523thumbnail?revision=2 -> assets/other/b0779334329d.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/199617/mindtouch.page%2523thumbnail?revision=2 -> assets/other/09c8eda01f0f.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/202936/Kathryn-Haas.jpg?revision=2 -> assets/img/2a3525a5edbb.jpg
+https://chem.libretexts.org/@api/deki/files/206384/mindtouch.page%2523thumbnail?revision=2 -> assets/other/5a369219588a.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/206387/mindtouch.page%2523thumbnail?revision=2 -> assets/other/f838109e4a02.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/206392/mindtouch.page%2523thumbnail?revision=2 -> assets/other/1f65b75039f9.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/206405/mindtouch.page%2523thumbnail?revision=2 -> assets/other/837400aba071.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/206408/mindtouch.page%2523thumbnail?revision=2 -> assets/other/68bd9958686d.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/206413/mindtouch.page%2523thumbnail?revision=2 -> assets/other/6b8447e027c9.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/206420/mindtouch.page%2523thumbnail?revision=2 -> assets/other/49e52adf9a08.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/206442/mindtouch.page%2523thumbnail?revision=2 -> assets/other/307702a3fa3c.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/212173/spaceballs.jpg?revision=1&size=bestfit&width=297&height=228 -> assets/img/ff21dd4e8ef5.jpg
+https://chem.libretexts.org/@api/deki/files/212949/mindtouch.page%2523thumbnail?revision=6 -> assets/other/427650bc39d5.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/219740/mindtouch.page%2523thumbnail?revision=1 -> assets/other/4d703d02acae.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/219741/mindtouch.page%2523thumbnail?revision=1 -> assets/other/48d0c57d19da.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/219742/mindtouch.page%2523thumbnail?revision=1 -> assets/other/6463cbaf6926.page%2523thumbnail
@@ -99,6 +109,7 @@ https://chem.libretexts.org/@api/deki/files/232046/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/232047/mindtouch.page%2523thumbnail?revision=4 -> assets/other/60a745a5e6ef.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/232054/mindtouch.page%2523thumbnail?revision=4 -> assets/other/bccf0392fd07.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/232055/mindtouch.page%2523thumbnail?revision=4 -> assets/other/cc575ee218e2.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/232056/mindtouch.page%2523thumbnail?revision=4 -> assets/other/3340b80b188a.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/239735/clipboard_e32e3b74ea300fc2ec237429e9f87a79b.png?revision=1 -> assets/img/4325cc1e2410.png
 https://chem.libretexts.org/@api/deki/files/239966/clipboard_eb85164193d4eb90f6592c32ba78b455c.png?revision=1 -> assets/img/47d0b87cf052.png
 https://chem.libretexts.org/@api/deki/files/255908/mindtouch.page%2523thumbnail?revision=1 -> assets/other/7d7002508371.page%2523thumbnail
@@ -998,6 +1009,7 @@ https://chem.libretexts.org/Courses/Chippewa_Valley_Technical_College/CVTC_Basic
 https://chem.libretexts.org/Courses/Chippewa_Valley_Technical_College/CVTC_Basic_Chemistry/08%3A_Acids_and_Bases -> assets/other/3e5982430852
 https://chem.libretexts.org/Courses/Chippewa_Valley_Technical_College/CVTC_Basic_Chemistry/zz%3A_Back_Matter -> assets/other/80ce387ba6b9
 https://chem.libretexts.org/Courses/City_College_of_San_Francisco/CCSF_Chemistry_Resources/zz%3A_Back_Matter/30%3A_Detailed_Licensing -> assets/other/af6b5dd0232f
+https://chem.libretexts.org/Courses/City_College_of_San_Francisco/Chemistry_101A -> assets/other/43624ce2edfa
 https://chem.libretexts.org/Courses/City_Colleges_of_Chicago/Chemistry_201%3A_Professor_Samar_Ayesh -> assets/other/1cb76b48d4c9
 https://chem.libretexts.org/Courses/City_Colleges_of_Chicago/Chemistry_201%3A_Professor_Samar_Ayesh/00%3A_Front_Matter -> assets/other/3cca3a6ab76a
 https://chem.libretexts.org/Courses/City_Colleges_of_Chicago/Chemistry_201%3A_Professor_Samar_Ayesh/01%3A_Units_of_Measurement -> assets/other/007d5cc3884c
