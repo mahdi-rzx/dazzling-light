@@ -107,7 +107,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistr
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/16%3A_Appendix
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/zz%3A_Back_Matter/20%3A_Glossary
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/22%3A_An_Introduction_to_Electroanalytical_Chemistry
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/23%3A_Potentiometry
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/24%3A_Coulometry
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/25%3A_Voltammetry
@@ -4534,3 +4533,9 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analys
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/21%3A_Surface_Characterization_by_Spectroscopy_and_Microscopy/21.02%3A_Spectroscopic_Surface_Methods
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/21%3A_Surface_Characterization_by_Spectroscopy_and_Microscopy/21.03%3A_Scanning_Electron_Microscopy
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/21%3A_Surface_Characterization_by_Spectroscopy_and_Microscopy/21.04%3A_Scanning_Probe_Microscopes
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/22%3A_An_Introduction_to_Electroanalytical_Chemistry/22.01%3A_Electrochemical_Cells
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/22%3A_An_Introduction_to_Electroanalytical_Chemistry/22.02%3A_Potentials_in_Electroanalytical_Cells
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/22%3A_An_Introduction_to_Electroanalytical_Chemistry/22.03%3A_Electrode_Potentials
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/22%3A_An_Introduction_to_Electroanalytical_Chemistry/22.04%3A_Calculation_of_Cell_Potentials_from_Electrode_Potentials
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/22%3A_An_Introduction_to_Electroanalytical_Chemistry/22.05%3A_Currents_in_Electrochemical_Cells
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/22%3A_An_Introduction_to_Electroanalytical_Chemistry/22.06%3A_Types_of_Electroanalytical_Methods
