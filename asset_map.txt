@@ -590,6 +590,7 @@ https://chem.libretexts.org/Courses/British_Columbia_Institute_of_Technology/Che
 https://chem.libretexts.org/Courses/Cabrillo_College/Chemistry_30A_Inorganic_Chemistry_for_Health -> assets/other/93d0da3924e7
 https://chem.libretexts.org/Courses/Cabrillo_College/Chemistry_30A_Inorganic_Chemistry_for_Health/00%3A_Front_Matter -> assets/other/de064fefcdd5
 https://chem.libretexts.org/Courses/Cabrillo_College/Chemistry_30A_Inorganic_Chemistry_for_Health/01%3A_Chemistry_Matter_and_Measurement -> assets/other/c84db9d1a546
+https://chem.libretexts.org/Courses/Cabrillo_College/Chemistry_30A_Inorganic_Chemistry_for_Health/02%3A_Elements_Atoms_and_the_Periodic_Table -> assets/other/36d31aa2a9b0
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
