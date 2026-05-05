@@ -117,6 +117,7 @@ https://chem.libretexts.org/@api/deki/files/142526/Evans.png?revision=1 -> asset
 https://chem.libretexts.org/@api/deki/files/162731/Dry_Ice_3.jpg?revision=1 -> assets/img/426209265204.jpg
 https://chem.libretexts.org/@api/deki/files/185929/mindtouch.page%2523thumbnail?revision=1 -> assets/other/47de91a6ba17.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/185934/mindtouch.page%2523thumbnail?revision=1 -> assets/other/12724ed6c256.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/187353/Frontier_Orbital_acid_base.png?revision=1 -> assets/img/4489403e8d7e.png
 https://chem.libretexts.org/@api/deki/files/187980/mindtouch.page%2523thumbnail?revision=1 -> assets/other/4058f2acb10a.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/194773/mindtouch.page%2523thumbnail?revision=1 -> assets/other/10da426d0900.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/19523/DVC.jpg?revision=1 -> assets/img/d9c2a1812365.jpg
@@ -1758,6 +1759,7 @@ https://chem.libretexts.org/Courses/East_Tennessee_State_University/CHEM_3110%3A
 https://chem.libretexts.org/Courses/East_Tennessee_State_University/CHEM_3110%3A_Descriptive_Inorganic_Chemistry/03%3A_Bonding_Theories -> assets/other/2e31355fafe7
 https://chem.libretexts.org/Courses/East_Tennessee_State_University/CHEM_3110%3A_Descriptive_Inorganic_Chemistry/04%3A_Molecular_Symmetry_and_Point_Groups -> assets/other/d1d2214e5f57
 https://chem.libretexts.org/Courses/East_Tennessee_State_University/CHEM_3110%3A_Descriptive_Inorganic_Chemistry/05%3A_Structure_and_Energetics_of_Solids -> assets/other/523c2fe9478d
+https://chem.libretexts.org/Courses/East_Tennessee_State_University/CHEM_3110%3A_Descriptive_Inorganic_Chemistry/06%3A_Acid-Base_and_Donor-Acceptor_Chemistry -> assets/other/aa3ccffb4097
 https://chem.libretexts.org/Courses/East_Tennessee_State_University/CHEM_4110%3A_Advanced_Inorganic_Chemistry/zz%3A_Back_Matter/30%3A_Detailed_Licensing -> assets/other/6f3802a75b7c
 https://chem.libretexts.org/Courses/Eastern_Mennonite_University/EMU%3A_CHEM_155_-_Matter_and_Energy_(Yoder) -> assets/other/b7e044697764
 https://chem.libretexts.org/Courses/Eastern_Mennonite_University/EMU%3A_Chemistry_for_the_Life_Sciences_(Cessna) -> assets/other/ef63253fd8d0
