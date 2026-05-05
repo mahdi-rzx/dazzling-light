@@ -810,8 +810,11 @@ https://chem.libretexts.org/@api/deki/files/500770/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/500781/mindtouch.page%2523thumbnail?revision=1 -> assets/other/b4cf02f0fe64.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/500946/mindtouch.page%2523thumbnail?revision=1 -> assets/other/0b0f50cf5592.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/500955/mindtouch.page%2523thumbnail?revision=1 -> assets/other/ce9396e0a847.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/51988/mindtouch.page%2523thumbnail?revision=2 -> assets/other/fbca71dad9ec.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/52007/mindtouch.page%2523thumbnail?revision=2 -> assets/other/d9c038dda92e.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/65874/CNX_Chem_20_00_OrgCompnd.jpg?revision=1 -> assets/img/2bb822b9f383.jpg
 https://chem.libretexts.org/@api/deki/files/77318/CK12_Screenshot_1-1-1.png?revision=1 -> assets/img/1a272e1d7eb5.png
+https://chem.libretexts.org/@api/deki/files/78552/mindtouch.page%2523thumbnail?revision=3 -> assets/other/0d64a314b444.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/87534/b77dcc9be691fbabc58e1a8b37db44cb.jpg?revision=1&size=bestfit&width=650&height=372 -> assets/img/8505b9d2e167.jpg
 https://chem.libretexts.org/@api/deki/files/91455/57c5b4ebb6642fb29e58557f512292fd.jpg?revision=1&size=bestfit&width=550&height=366 -> assets/img/26a49115a570.jpg
 https://chem.libretexts.org/@api/deki/files/91470/mindtouch.page%2523thumbnail?revision=1 -> assets/other/d62db0c280e7.page%2523thumbnail
@@ -1328,6 +1331,7 @@ https://chem.libretexts.org/Courses/Colorado_College/CH275_Foundations_of_Inorga
 https://chem.libretexts.org/Courses/Colorado_College/CH275_Foundations_of_Inorganic/12%3A_Coordination_Compound_Spectroscopy -> assets/other/c221a4cd1da8
 https://chem.libretexts.org/Courses/Colorado_College/CH275_Foundations_of_Inorganic/13%3A_Substitution_Reactivity -> assets/other/757853334db9
 https://chem.libretexts.org/Courses/Colorado_College/CH275_Foundations_of_Inorganic/zz%3A_Back_Matter -> assets/other/2d61a375ff9a
+https://chem.libretexts.org/Courses/Colorado_State_University/Chem_474%3A_Physical_Chemistry_I_(Levinger) -> assets/other/4c7cc8a34137
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
 https://chem.libretexts.org/Courses/can/CHEM_220%3A_General_Chemistry_II_-_Chemical_Dynamics -> assets/other/b90b82fa0bdd
