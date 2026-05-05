@@ -86,8 +86,17 @@ https://chem.libretexts.org/@api/deki/files/187980/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/199573/mindtouch.page%2523thumbnail?revision=2 -> assets/other/556f6c70ad68.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/199597/mindtouch.page%2523thumbnail?revision=2 -> assets/other/b0779334329d.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/199617/mindtouch.page%2523thumbnail?revision=2 -> assets/other/09c8eda01f0f.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/219740/mindtouch.page%2523thumbnail?revision=1 -> assets/other/4d703d02acae.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/219741/mindtouch.page%2523thumbnail?revision=1 -> assets/other/48d0c57d19da.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/219742/mindtouch.page%2523thumbnail?revision=1 -> assets/other/6463cbaf6926.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/219743/mindtouch.page%2523thumbnail?revision=1 -> assets/other/85225624bea1.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/219744/mindtouch.page%2523thumbnail?revision=1 -> assets/other/4d812e1c77ad.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/219745/mindtouch.page%2523thumbnail?revision=1 -> assets/other/b028a56d9baf.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/219747/mindtouch.page%2523thumbnail?revision=1 -> assets/other/e025976d0cc9.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/232046/mindtouch.page%2523thumbnail?revision=4 -> assets/other/02b601956ac2.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/232047/mindtouch.page%2523thumbnail?revision=4 -> assets/other/60a745a5e6ef.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/232054/mindtouch.page%2523thumbnail?revision=4 -> assets/other/bccf0392fd07.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/232055/mindtouch.page%2523thumbnail?revision=4 -> assets/other/cc575ee218e2.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/255908/mindtouch.page%2523thumbnail?revision=1 -> assets/other/7d7002508371.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/258042/mindtouch.page%2523thumbnail?revision=1 -> assets/other/c767ca4f5fe1.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/258102/mindtouch.page%2523thumbnail?revision=1 -> assets/other/7c0b0b157e51.page%2523thumbnail
@@ -830,6 +839,7 @@ https://chem.libretexts.org/Courses/Cameron_University/CHEM1004%3A_Descriptive_C
 https://chem.libretexts.org/Courses/Cameron_University/CHEM1004%3A_Descriptive_Chemistry_(Cameron_University)/11%3A_Water -> assets/other/c94747952d43
 https://chem.libretexts.org/Courses/Cameron_University/CHEM1004%3A_Descriptive_Chemistry_(Cameron_University)/zz%3A_Back_Matter -> assets/other/b1ee4dedeedb
 https://chem.libretexts.org/Courses/Cameron_University/CHEM1004%3A_Descriptive_Chemistry_(Cameron_University)/zz%3A_Back_Matter/30%3A_Detailed_Licensing -> assets/other/53a78e59e186
+https://chem.libretexts.org/Courses/Case_Western_Reserve_University/CHEM_121%3A_Concepts_for_a_Molecular_View_of_Biology_II_(Cunningham) -> assets/other/7433edae121a
 https://chem.libretexts.org/Courses/can/CHEM_210%3A_General_Chemistry_I_(An_Atoms_Up_Approach) -> assets/other/1ce21a393fb4
 https://chem.libretexts.org/Courses/can/CHEM_210_General_Chemistry_I_(Puenzo) -> assets/other/8a2f4c6d7ced
 https://chem.libretexts.org/Courses/can/CHEM_220%3A_General_Chemistry_II_-_Chemical_Dynamics -> assets/other/b90b82fa0bdd
