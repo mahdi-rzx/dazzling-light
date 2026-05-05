@@ -169,6 +169,12 @@ https://chem.libretexts.org/@api/deki/files/435492/mindtouch.page%2523thumbnail?
 https://chem.libretexts.org/@api/deki/files/436242/mindtouch.page%2523thumbnail?revision=3 -> assets/other/fd94a31356f8.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/437269/mindtouch.page%2523thumbnail?revision=1 -> assets/other/82bb11118512.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/469838/Atom.png?revision=1 -> assets/img/7fdd495343d7.png
+https://chem.libretexts.org/@api/deki/files/470345/mindtouch.page%2523thumbnail?revision=1 -> assets/other/33a3757361b4.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/470346/mindtouch.page%2523thumbnail?revision=1 -> assets/other/1e17a47a846f.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/470347/mindtouch.page%2523thumbnail?revision=1 -> assets/other/faade81140e3.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/470348/mindtouch.page%2523thumbnail?revision=1 -> assets/other/8eae3ec39230.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/470349/mindtouch.page%2523thumbnail?revision=1 -> assets/other/41132a8df746.page%2523thumbnail
+https://chem.libretexts.org/@api/deki/files/470350/mindtouch.page%2523thumbnail?revision=1 -> assets/other/a25cdfaf1c13.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/472622/mindtouch.page%2523thumbnail?revision=3 -> assets/other/baa692742a3c.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/472623/mindtouch.page%2523thumbnail?revision=1 -> assets/other/d7f114fbc253.page%2523thumbnail
 https://chem.libretexts.org/@api/deki/files/472624/mindtouch.page%2523thumbnail?revision=1 -> assets/other/979f0436882e.page%2523thumbnail
@@ -298,6 +304,7 @@ https://chem.libretexts.org/Courses/Bellingham_Technical_College/Bellingham_Tech
 https://chem.libretexts.org/Courses/Bellingham_Technical_College/Bellingham_Technical_College_CHEM_121/04%3A_Module_4_-_Gases_and_Liquids -> assets/other/d8debb380ea2
 https://chem.libretexts.org/Courses/Bellingham_Technical_College/Bellingham_Technical_College_CHEM_121/05%3A_Module_5_-_Solution_Chemistry -> assets/other/1b780d5a871c
 https://chem.libretexts.org/Courses/Bellingham_Technical_College/Bellingham_Technical_College_CHEM_121/zz%3A_Back_Matter -> assets/other/d1e79094190d
+https://chem.libretexts.org/Courses/Bellingham_Technical_College/CHEM_110%3A_Bellingham_Technical_College -> assets/other/dfb2100d7924
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
