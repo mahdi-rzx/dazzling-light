@@ -52,7 +52,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_I%3A_Index_of_enzymatic_reactions_by_pathway
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/Appendix_II%3A_Review_of_laboratory_synthesis_reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/04%3A_Reagents_and_Reaction_Mechanisms
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/05%3A_Structure_Reactivity_Relationships
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/06%3A_Acidity_and_Basicity
@@ -2982,3 +2981,19 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/02%3A_Reaction_Kinetics/2.03%3A_Chemical_Kinetics_II-_Reaction_Mechanisms/2.3.09%3A_The_Michaelis-Menten_Mechanism_for_Enzyme_Catalysis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/02%3A_Reaction_Kinetics/2.03%3A_Chemical_Kinetics_II-_Reaction_Mechanisms/2.3.10%3A_Predicting_Rate_Laws_from_Proposed_Mechanisms
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/02%3A_Reaction_Kinetics/2.03%3A_Chemical_Kinetics_II-_Reaction_Mechanisms/2.3.E%3A_Chemical_Kinetics_II-_Reaction_Mechanisms_(Exercises)
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.01%3A_Introduction_to_Thermodynamics
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.02%3A_Bond_Energies
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.02%3A_Bond_Energies/3.2.01%3A_Enthalpy_Changes_in_Reactions
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.02%3A_Bond_Energies/3.2.02%3A_Enthalpy_Changes_in_Reactions_II
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.02%3A_Bond_Energies/3.2.03%3A_Entropy_Changes_in_Reactions
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.02%3A_Bond_Energies/3.2.04%3A_Free_Energy_and_Equilibrium
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.02%3A_Bond_Energies/3.2.05%3A_Free_Energy_Changes_in_Reactions
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.02%3A_Bond_Energies/3.2.06%3A_Reversibility_and_Le_Chatelier
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.03%3A_Describing_a_Reaction_-_Energy_Diagrams_and_Transition_States
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.03%3A_Describing_a_Reaction_-_Energy_Diagrams_and_Transition_States/3.3.01%3A_Potential_Energy_Surfaces
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.03%3A_Describing_a_Reaction_-_Energy_Diagrams_and_Transition_States/3.3.02%3A_The_Potential-Energy_Surface_Can_Be_Calculated_Using_Quantum_Mechanics
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.03%3A_Describing_a_Reaction_-_Energy_Diagrams_and_Transition_States/3.3.03%3A_The_Hammond_Postulate
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.04%3A_Reactivity_and_Selectivity
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.05%3A_The_Principle_of_Microscopic_Reversibility
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.05%3A_The_Principle_of_Microscopic_Reversibility/3.5.01%3A_Microscopic_Reversibility_and_the_Second_Law
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Intermediate_Physical_Organic_(Morsch)/03%3A_Chemical_Thermodynamics/3.06%3A_Sterics_and_Conformation
