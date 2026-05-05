@@ -1,0 +1,3393 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="14.14: Additional Problems"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.14%3A_Additional_Problems"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content="The &amp;quot;Additional Problems&amp;quot; section provides exercises related to conjugated compounds and ultraviolet spectroscopy, enhancing comprehension of concepts like kinetic vs. thermodynamic control,&hellip;"/>
+        <meta property="article:published_time" content="2023-09-21T23:23:46Z"/>
+        <meta property="article:modified_time" content="2025-09-18T04:29:31Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="14.14: Additional Problems"/>
+        <meta name="twitter:description" content="The &amp;quot;Additional Problems&amp;quot; section provides exercises related to conjugated compounds and ultraviolet spectroscopy, enhancing comprehension of concepts like kinetic vs. thermodynamic control,&hellip;"/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content="The &amp;quot;Additional Problems&amp;quot; section provides exercises related to conjugated compounds and ultraviolet spectroscopy, enhancing comprehension of concepts like kinetic vs. thermodynamic control,&hellip;"/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.14%3A_Additional_Problems"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210">{"@context":"http:\/\/schema.org","@type":"Article","name":"14.14: Additional Problems","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(OpenStax)\/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy\/14.14%3A_Additional_Problems","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2023-09-21T23:23:46Z","dateModified":"2025-09-18T04:29:31Z","description":"The &quot;Additional Problems&quot; section provides exercises related to conjugated compounds and ultraviolet spectroscopy, enhancing comprehension of concepts like kinetic vs. thermodynamic control, reactivity patterns, and structural analysis. These problems challenge students to apply theoretical knowledge to practical scenarios, reinforcing learning through problem-solving.","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/459808\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(OpenStax)\/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy\/14.14%3A_Additional_Problems"},"headline":"14.14: Additional Problems","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"14.14: Additional Problems","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(OpenStax)\/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy\/14.14%3A_Additional_Problems","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(OpenStax)\/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy"]}</script>
+        <script type="application/ld+json" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry","name":"Organic Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(OpenStax)","name":"Organic Chemistry (OpenStax)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(OpenStax)\/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy","name":"14: Conjugated Compounds and Ultraviolet Spectroscopy"}}]}</script>
+
+        <title>14.14: Additional Problems - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+@media print {
+     
+
+.mt-content-container .mt-responsive-table, .mt-content-container table {
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 1rem !important;
+}
+
+.mt-content-container .mt-responsive-table caption, .mt-content-container table caption { 
+    display: table-caption;
+    text-align: center;
+    font-size: 90%;
+    padding: 0 0 0.2rem 0;
+}
+
+.mt-content-container .mt-responsive-table th, .mt-content-container table th {
+  font-size: inherit;
+  vertical-align: middle;
+  border-bottom: 1px solid #E8E8E8;
+  margin: inherit;
+  padding: 0.4em !important;
+}
+
+.mt-content-container .mt-responsive-table tr, .mt-content-container table tr {
+  page-break-inside:avoid; 
+  page-break-after:auto;
+  margin: inherit;
+  font-size: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+  border-bottom: 1px solid #E8E8E8;
+}
+    
+.mt-content-container .mt-responsive-table td, .mt-content-container table td {
+  border: 1px solid #E8E8E8;
+  page-break-inside: avoid !important;
+  page-break-before: avoid;
+  margin: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+}
+
+.mt-content-container table ol, 
+.mt-content-container table ul,
+.mt-content-container table p,
+.mt-content-container table ol,
+.mt-content-container table ul,
+.mt-content-container table p {
+    font-size: inherit;
+    margin: inherit;
+}
+
+mjx-container svg path,
+mjx-container svg use {
+  stroke: none !important;
+  stroke-width: 0 !important;
+}
+    
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":459808,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"14.14: Additional Problems","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"25","pageSectionEditable":false,"pageTitle":"Bookshelves\/Organic Chemistry\/Organic Chemistry (OpenStax)\/14: Conjugated Compounds and Ultraviolet Spectroscopy\/14.14: Additional Problems","pageViewId":"f8d6afe3-af77-4bb7-9218-a717ffa78886","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"ODRmOTFlZGEtYTRjNi00Y2RjLTg3ZTgtZTYwNTYwMGZjYTY2fDIwMjYtMDUtMDVUMjI6NTM6NDg=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778021629_94854c06564e5c9118f9568849087701a26fa59bc379b48ceefc208f21d1bddd","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-organicchemistry-organicchemistry%28openstax%29-14%3Aconjugatedcompoundsandultravioletspectroscopy-14.14%3Aadditionalproblems columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">14: Conjugated Compounds and Ultraviolet Spectroscopy</div><div style="display:none" id="parentParentTitleHolder">Organic Chemistry (OpenStax)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;14.00:_Why_This_Chapter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.01:_Stability_of_Conjugated_Dienes-_Molecular_Orbital_Theory&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.02:_Electrophilic_Additions_to_Conjugated_Dienes-_Allylic_Carbocations&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.03:_Kinetic_vs._Thermodynamic_Control_of_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.04:_The_Diels-Alder_Cycloaddition_Reaction&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.05:_Characteristics_of_the_Diels-Alder_Reaction&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.06:_Diene_Polymers-_Natural_and_Synthetic_Rubbers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.07:_Ultraviolet_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.08:_Interpreting_Ultraviolet_Spectra-_The_Effect_of_Conjugation&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.09:_Conjugation_Color_and_the_Chemistry_of_Vision&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.10:_Chemistry_MattersPhotolithography&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.11:_Key_Terms&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.12:_Summary&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.13:_Summary_of_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.14:_Additional_Problems&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_Structure_and_Bonding&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_Polar_Covalent_Bonds_Acids_and_Bases&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_Organic_Compounds-_Alkanes_and_Their_Stereochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:_Organic_Compounds_-_Cycloalkanes_and_their_Stereochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05:_Stereochemistry_at_Tetrahedral_Centers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06:_An_Overview_of_Organic_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07:_Alkenes-_Structure_and_Reactivity&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08:_Alkenes_-_Reactions_and_Synthesis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09:_Alkynes_-_An_Introduction_to_Organic_Synthesis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10:_Organohalides&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;11:_Reactions_of_Alkyl_Halides-_Nucleophilic_Substitutions_and_Eliminations&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12:_Structure_Determination_-_Mass_Spectrometry_and_Infrared_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Structure_Determination_-_Nuclear_Magnetic_Resonance_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Benzene_and_Aromaticity&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Chemistry_of_Benzene_-_Electrophilic_Aromatic_Substitution&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;17:_Alcohols_and_Phenols&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;18:_Ethers_and_Epoxides_Thiols_and_Sulfides&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19:_Aldehydes_and_Ketones-_Nucleophilic_Addition_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20:_Carboxylic_Acids_and_Nitriles&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21:_Carboxylic_Acid_Derivatives-_Nucleophilic_Acyl_Substitution_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;22:_Carbonyl_Alpha-Substitution_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23:_Carbonyl_Condensation_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;24:_Amines_and_Heterocycles&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;25:_Biomolecules_-_Carbohydrates&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;26:_Biomolecules-_Amino_Acids_Peptides_and_Proteins&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27:_Biomolecules_-_Lipids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;28:_Biomolecules_-_Nucleic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;29:_The_Organic_Chemistry_of_Metabolic_Pathways&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;30:_Orbitals_and_Organic_Chemistry_-_Pericyclic_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;31:_Synthetic_Polymers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;32:_Appendix&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Tue, 07 Jan 2025 03:28:05 GMT</div><div style="display:none" id="titleHolder">14.14: Additional Problems</div><div style="display:none" id="IDHolder">459808</div><div style="display:none" id="pageIDHolder">459808</div><div style="display:none" id="pageAuthorHolder">Sol Parajon Puenzo</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;authorname:openstax&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;licenseversion:40&quot;, &quot;source@https://openstax.org/details/books/organic-chemistry&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;authorname:openstax&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;licenseversion:40&quot;, &quot;source@https://openstax.org/details/books/organic-chemistry&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FOrganic_Chemistry_(OpenStax)%2F14%253A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy%2F14.14%253A_Additional_Problems</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FOrganic_Chemistry_%28OpenStax%29%2F14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy%2F14.14%3A_Additional_Problems" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FOrganic_Chemistry_%28OpenStax%29%2F14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy%2F14.14%3A_Additional_Problems" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry (OpenStax)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    14: Conjugated Compounds and Ultraviolet Spectroscopy
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            14.14: Additional Problems
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        14.14: Additional Problems
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2025-01-07T03:28:05Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/459808/pdf/14.14%253A%2bAdditional%2bProblems.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>459808</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+<div class="mt-author-container"><ul><li class="mt-author-image mt-author-image-crop"><img src="https://biz.libretexts.org/@api/deki/files/5084/girl-160172__340.png" alt=" " title="OpenStax" /></li><li class="mt-author-information"><a rel="external" target="_blank" href="https://openstax.org/">OpenStax</a></li><li class="mt-author-programname"><a rel="external" target="_blank" href="https://openstax.org">OpenStax</a></li></ul></div>
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Visualizing_Chemistry" rel="internal">Visualizing Chemistry</a></li><li><a href="#Mechanism_Problems" rel="internal">Mechanism Problems</a></li><li><a href="#Conjugated_Dienes" rel="internal">Conjugated Dienes</a></li><li><a href="#Diels.E2.80.93Alder_Reactions" rel="internal">Diels&ndash;Alder Reactions</a></li><li><a href="#Diene_Polymers" rel="internal">Diene Polymers</a></li><li><a href="#UV_Spectroscopy" rel="internal">UV Spectroscopy</a></li><li><a href="#General_Problems" rel="internal">General Problems</a></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <p>14 &bull; Additional Problems</p>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.14:_Additional_Problems" class="mt-section" id="section_1"><span id="Visualizing_Chemistry"></span><h3 class="lt-chem-459808 editable"><strong><span class="red-text">Visualizing Chemistry</span></strong></h3>
+
+<p><strong>PROBLEM 14</strong>-16 Show the structures of all possible adducts of the following diene with 1 equivalent of HCl:</p>
+
+<p><img alt="the=" data-height="264" data-width="426" style="width: 358px; height: 222px;" width="358px" height="222px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/460987/2c6981e3486dcc219636e3fd59bba10aec7d0289?revision=1&amp;size=bestfit&amp;width=358&amp;height=222" /></p>
+
+<p><strong>PROBLEM 14</strong>-17 Show the product of the Diels&ndash;Alder reaction of the following diene with 3-buten-2-one, H<sub>2</sub>C<math alttext="\text{="> <mtext>=</mtext> </math>CHCOCH<sub>3</sub>. Make sure you show the full stereochemistry of the reaction product.</p>
+
+<p><img alt="The ball-and-stick model has a cyclopentene ring. C 1 of the ring is bonded to C1 of another cyclopentene ring." data-height="373" data-width="589" style="width: 384px; height: 243px;" width="384px" height="243px" class="scaled-down-30 internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/460988/4872e0bebcccffec3c92aea619723d5471daabea?revision=1&amp;size=bestfit&amp;width=384&amp;height=243" /></p>
+
+<p><strong>PROBLEM 14</strong>-18&nbsp;The following diene does not undergo Diels&ndash;Alder reactions. Explain.</p>
+
+<p><img alt="the=" data-height="485" data-width="649" style="width: 439px; height: 328px;" width="439px" height="328px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/460991/e252114ee0c269c83d8c62e9e0a6c3afd4fbd970?revision=1&amp;size=bestfit&amp;width=439&amp;height=328" /></p>
+
+<p><strong>PROBLEM 14</strong>-19&nbsp;The following model is that of an allylic carbocation intermediate formed by protonation of a conjugated diene with HBr. Show the structure of the diene and the structures of the final reaction products.</p>
+
+<p><img alt="the=" data-height="371" data-width="547" style="width: 442px; height: 300px;" width="442px" height="300px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/460989/3af191bd081a8cd5e7a31b8e0fd412fcfe62b7de?revision=1&amp;size=bestfit&amp;width=442&amp;height=300" /></p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.14:_Additional_Problems" class="mt-section" id="section_2"><span id="Mechanism_Problems"></span><h3 class="lt-chem-459808 editable"><strong><span class="red-text">Mechanism Problems</span></strong></h3>
+
+<p class="lt-chem-459808"><strong>PROBLEM 14</strong>-20&nbsp;Predict the major product(s) from the addition of 1 equivalent of HX and show the mechanism for each of the following reactions.</p>
+
+<p class="lt-chem-459808"><span class="Predict the major product(s) from the addition of 1 equivalent of HX and show the mechanism for each of the following reactions.
+
+(a)
+&lt;p">(a)&nbsp;<img alt="a=" data-height="52" data-width="308" style="width: 269px; height: 45px;" width="269px" height="45px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/460990/0f01800764ea849a83800112d3b3e31d921f1c46?revision=1&amp;size=bestfit&amp;width=269&amp;height=45" />&nbsp; &nbsp;(b)&nbsp;<img alt="A 5-carbon chain with double bonds between C 1-C 2 and C 3-C 4, and methyl at C 3 reacts with hydrogen bromide at 40 degrees Celsius. Product is not shown." data-height="71" data-width="311" style="width: 274px; height: 63px;" width="274px" height="63px" class="scaled-down-30 first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/460992/2c7c9eab276011be25cb8139e55a731154b5fba7?revision=1&amp;size=bestfit&amp;width=274&amp;height=63" />&nbsp; &nbsp;(c)&nbsp;<img alt="A 4-membered ring with double-bonded methylene groups at C 1 and C 2 reacts with hydrogen chloride at 0 degrees Celsius. Product is not shown." data-height="132" data-width="221" style="width: 176px; height: 105px;" width="176px" height="105px" class="scaled-down-30 first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/460993/ac6b7768d78e28eed1589b8e85e2ef414f18d75e?revision=1&amp;size=bestfit&amp;width=176&amp;height=105" /> </span></p>
+
+<p>&nbsp;</p>
+
+<p><strong>PROBLEM 14</strong>-21 We&rsquo;ve seen that the Diels&ndash;Alder cycloaddition reaction is a one-step, pericyclic process that occurs through a cyclic transition state. Propose a mechanism for the following reaction:</p>
+
+<p><span class="Predict the major product(s) from the addition of 1 equivalent of HX and show the mechanism for each of the following reactions.
+
+(a)
+&lt;p"><img alt="when=" data-height="130" data-width="528" style="width: 476px; height: 117px;" width="476px" height="117px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/460994/ef893b8d6bf42d08473033c922e8e4faa1b70a0f?revision=1&amp;size=bestfit&amp;width=476&amp;height=117" /></span></p>
+
+<p><strong>PROBLEM 14</strong>-22 In light of your answer to Problem 21 propose mechanisms for the following reactions.</p>
+
+<p>(a) <img alt="when=" data-height="161" data-width="749" style="width: 616px; height: 132px;" width="616px" height="132px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/460995/ba881d7af167d92cbe2ce451a8c7303207cad4eb?revision=1&amp;size=bestfit&amp;width=616&amp;height=132" /></p>
+
+<p>(b)<span class="In light of your answer to Problem 14-21 propose mechanisms for the following reactions.
+
+(a)
+&lt;p"><img alt="A 6-membered ring made of two carbons and four nitrogens (at positions 1, 2, 4, and 5) with alternate double bonds, and with methyl groups at positions 3 and 6 reacts with benzene bonded to ethyne." data-height="223" data-width="818" style="width: 638px; height: 174px;" width="638px" height="174px" class="scaled-down first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/460996/a80fe75479d0268ab4147c45c3b06484625044c9?revision=1&amp;size=bestfit&amp;width=638&amp;height=174" /></span></p>
+
+<p>&nbsp;</p>
+
+<p class="lt-chem-459808"><strong>PROBLEM 14</strong>-23&nbsp;Luminol, which is used by forensic scientists to find blood, fluoresces as a result of Diels&ndash;Alder-like process. The dianion of luminol reacts with O<sub>2</sub> to form an unstable peroxide intermediate that then loses nitrogen to form a dicarboxylate and emit light. The process is similar to that in Problems 21 and 22. Propose a mechanism for this process.</p>
+
+<p><img alt="Luminol dianion reacts with molecular oxygen to yield aniline with carboxylate groups bonded at positions 2 and 3. Molecular nitrogen is a byproduct and light is generated." data-height="262" data-width="815" style="width: 667px; height: 215px;" width="667px" height="215px" class="scaled-down internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/460997/cc98545e0fad83dbfb6dd7a4df20f58ed73e3edf?revision=1&amp;size=bestfit&amp;width=667&amp;height=215" /></p>
+
+<p><strong>PROBLEM 14</strong>-24&nbsp;A useful diene in the synthesis of many naturally occurring substances is known as Danishefsky&rsquo;s diene. It&rsquo;s useful because after the Diels&ndash;Alder reaction it can be converted into a product that can't be accessed by a typical Diels&ndash;Alder reaction. Show the Diels&ndash;Alder adduct and propose a mechanism that accounts for the final products.</p>
+
+<p><img alt="when=" data-height="387" data-width="755" style="width: 620px; height: 318px;" width="620px" height="318px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/460999/0b8d34716b4fbfbeea8dce864b63716ad956b145?revision=1&amp;size=bestfit&amp;width=620&amp;height=318" /></p>
+
+<p class="lt-chem-459808">&nbsp;</p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.14:_Additional_Problems" class="mt-section" id="section_3"><span id="Conjugated_Dienes"></span><h3 class="lt-chem-459808 editable"><strong><span class="red-text">Conjugated Dienes</span></strong></h3>
+
+<p><strong>PROBLEM 14</strong>-25&nbsp;Name the following compounds:</p>
+
+<p>(a) <img alt="the=" data-height="75" data-width="241" style="width: 221px; height: 69px;" width="221px" height="69px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461002/b82b0f9bd5bf9489fbd3d0304c2523c93dae9399?revision=1&amp;size=bestfit&amp;width=221&amp;height=69" /> &nbsp;(b) <img alt="The condensed structural formula has a 7-carbon chain with double bonds between C 1-C 2, C 3-C 4, and C 5-C 6." data-height="31" data-width="311" style="width: 301px; height: 30px;" width="301px" height="30px" class="first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461001/f8bd254ef2bdb8a78a461749e60d187411ce8e7c?revision=1&amp;size=bestfit&amp;width=301&amp;height=30" /></p>
+
+<p>(c)&nbsp;<img alt="The condensed structural formula has a 7-carbon chain with double bonds between C 2-C 3, C 3-C 4, and C 5-C 6." data-height="30" data-width="295" style="width: 266px; height: 27px;" width="266px" height="27px" class="first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461005/c9c1f5a701d654ccf3dcf7d9594d729f2a3ad511?revision=1&amp;size=bestfit&amp;width=266&amp;height=27" /> (d)&nbsp;<img alt="The condensed structural formula has a 5-carbon chain with double bonds between C 1-C 2 and C 3-C 4. C 3 is further single bonded to a 3-carbon chain." data-height="78" data-width="224" style="width: 214px; height: 75px;" width="214px" height="75px" class="first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461006/8926567159d9e3bae41bd43a4ab8cc60409f1b26?revision=1&amp;size=bestfit&amp;width=214&amp;height=75" /></p>
+
+<p>&nbsp;</p>
+
+<div data-injected-from-nickname="14-99-OC-AP02" data-injected-from-url="https://exercises.openstax.org/api/exercises?q=nickname:14-99-OC-AP02" data-injected-from-version="1" data-is-multipart="False" data-is-vocab="false" data-question-count="1" data-tags="type:practice book:stax-orgchem context-cnxmod:af1fc96a-7c48-4105-939b-9cc8f8af66e2" data-type="injected-exercise">
+<div data-="data-" data-formats="free-response" data-is-answer-order-important="false" data-type="exercise-question"><strong>PROBLEM 14</strong>-26&nbsp;Draw and name the six possible diene isomers of formula C<sub>5</sub>H<sub>8</sub>. Which of the six are conjugated dienes?</div>
+
+<div data-="data-" data-formats="free-response" data-is-answer-order-important="false" data-type="exercise-question">&nbsp;</div>
+
+<div data-="data-" data-formats="free-response" data-is-answer-order-important="false" data-type="exercise-question"><strong>PROBLEM 14</strong>-27&nbsp;What product(s) would you expect to obtain from the reaction of 1,3-cyclohexadiene with each of the following?</div>
+</div>
+
+<p><strong>(a)</strong> 1 mol Br<sub>2</sub> in CH<sub>2</sub>Cl<sub>2</sub>&nbsp; &nbsp;<strong>&nbsp;(b)</strong> O<sub>3</sub> followed by Zn&nbsp; &nbsp; <strong>(c)</strong> 1 mol HCl in ether&nbsp; &nbsp; <strong>(d)</strong> 1 mol DCl in ether</p>
+
+<p><strong>(e)</strong> 3-Buten-2-one (H<sub>2</sub>C=CHCOCH<sub>3</sub>)&nbsp; &nbsp; <strong>(f)</strong> Excess OsO<sub>4</sub>, followed by NaHSO<sub>3</sub></p>
+
+<p>&nbsp;</p>
+
+<p><strong>PROBLEM 14</strong>-28&nbsp;Electrophilic addition of Br<sub>2</sub> to isoprene (2-methyl-1,3-butadiene) yields the following product mixture:</p>
+
+<p><img alt="isoprene=" data-height="175" data-width="947" style="width: 774px; height: 143px;" width="774px" height="143px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461007/9435f43932408c4c7b1834693566bb0cbe860fac?revision=1&amp;size=bestfit&amp;width=774&amp;height=143" /></p>
+
+<p class="lt-chem-459808">Of the 1,2-addition products, explain why 3,4-dibromo-3-methyl-1-butene (21%) predominates over 3,4-dibromo-2-methyl-1-butene (3%).</p>
+
+<p class="lt-chem-459808">&nbsp;</p>
+
+<p><strong>PROBLEM 14</strong>-29&nbsp;Propose a structure for a conjugated diene that gives the same product from both 1,2 and 1,4-addition of HBr.</p>
+
+<p><strong>PROBLEM 14</strong>-30&nbsp;Draw the possible products resulting from addition of 1 equivalent of HCl to 1-phenyl-1,3-butadiene. Which would you expect to predominate, and why?</p>
+
+<p><img alt="1-phenyl-1,3-butadiene=" data-height="91" data-width="531" style="width: 442px; height: 76px;" width="442px" height="76px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461009/9241c8e268938d5d61479e6a0f660942157d8da1?revision=1&amp;size=bestfit&amp;width=442&amp;height=76" /></p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.14:_Additional_Problems" class="mt-section" id="section_4"><span id="Diels.E2.80.93Alder_Reactions"></span><h3 class="lt-chem-459808 editable"><strong><span class="red-text">Diels&ndash;Alder Reactions</span></strong></h3>
+
+<p><strong>PROBLEM 14</strong>-31&nbsp;Predict the products of the following Diels&ndash;Alder reactions:</p>
+
+<p>(a)<img alt="cyclopentadiene=" data-height="171" data-width="359" style="width: 278px; height: 132px;" width="278px" height="132px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461008/fc69b07badf7f9124671159f4067ee38b579c6c1?revision=1&amp;size=bestfit&amp;width=278&amp;height=132" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(b)<img alt="Cyclohexadiene reacts with a cyclohexadiene with double bonds at C 2 and C 5, and carbonyl groups at C 1 and C 4. Question mark represents the product." data-height="194" data-width="370" style="width: 277px; height: 145px;" width="277px" height="145px" class="scaled-down first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461010/54c1b5d3b274e866b7d92a7249ad01c4d14e847c?revision=1&amp;size=bestfit&amp;width=277&amp;height=145" /></p>
+
+<p><strong>PROBLEM 14</strong>-32&nbsp;<span class="Predict the products of the following Diels&ndash;Alder reactions:
+
+(a)
+&lt;p">2,3-Di-<i>tert</i>-butyl-1,3-butadiene does not undergo Diels&ndash;Alder reactions. Explain.</span></p>
+
+<p><span class="Predict the products of the following Diels&ndash;Alder reactions:
+
+(a)
+&lt;p"><img alt="2,3-di-tert-butyl-1,3-butadiene=" data-height="167" data-width="493" style="width: 386px; height: 131px;" width="386px" height="131px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461011/e59732ea57e6c11ebf3420542ee8a8f78ca151db?revision=1&amp;size=bestfit&amp;width=386&amp;height=131" /></span></p>
+
+<p><strong>PROBLEM 14</strong>-33&nbsp;Show the structure, including stereochemistry, of the product from the following Diels&ndash;Alder reaction:</p>
+
+<p><img alt="benzene=" data-height="199" data-width="650" style="width: 534px; height: 164px;" width="534px" height="164px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461013/b80620636f578e4ac135d2c90f4bf850913e8c53?revision=1&amp;size=bestfit&amp;width=534&amp;height=164" /></p>
+
+<p><strong>PROBLEM 14</strong>-34&nbsp;How can you account for the fact that <i>cis</i>-1,3-pentadiene is much less reactive than <i>trans</i>-1,3-pentadiene in the Diels&ndash;Alder reaction?</p>
+
+<p><strong>PROBLEM 14</strong>-35&nbsp;Would you expect a conjugated diyne such as 1,3-butadiyne to undergo Diels&ndash;Alder reaction with a dienophile? Explain.</p>
+
+<p><strong>PROBLEM 14</strong>-36&nbsp;Reaction of isoprene (2-methyl-1,3-butadiene) with ethyl propenoate gives a mixture of two Diels&ndash;Alder adducts. Show the structure of both, and explain why a mixture is formed.</p>
+
+<p><img alt="a=" data-height="85" data-width="522" style="width: 425px; height: 69px;" width="425px" height="69px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461012/367d68950f9732c109ba8862df2e5b078518d761?revision=1&amp;size=bestfit&amp;width=425&amp;height=69" /></p>
+
+<p><strong>PROBLEM 14</strong>-37&nbsp;Rank the following dienophiles in order of their expected reactivity in the Diels&ndash;Alder reaction.</p>
+
+<p><img alt="ethene=" data-height="110" data-width="711" style="width: 632px; height: 98px;" width="632px" height="98px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461025/da303b3d6273ea75a7fe7f9e43ca4219d1212822?revision=1&amp;size=bestfit&amp;width=632&amp;height=98" /></p>
+
+<p><strong>PROBLEM 14</strong>-38&nbsp;1,3-Cyclopentadiene is very reactive in Diels&ndash;Alder cycloaddition reactions, but 1,3-cyclohexadiene is less reactive and 1,3-cycloheptadiene is nearly inert. Explain. (Molecular models are helpful.)</p>
+
+<p><strong>PROBLEM 14</strong>-39&nbsp;1,3-Pentadiene is much more reactive in Diels&ndash;Alder reactions than 2,4-pentadienal. Why might this be?</p>
+
+<p><img alt="1,3-pentadiene=" data-height="200" data-width="425" style="width: 328px; height: 154px;" width="328px" height="154px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461017/6d4bad3c0381ad7a95238e9dbeadc536f49c1e27?revision=1&amp;size=bestfit&amp;width=328&amp;height=154" />&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><strong>PROBLEM 14</strong>-40&nbsp;How could you use Diels&ndash;Alder reactions to prepare the following products? Show the starting diene and dienophile in each case.</p>
+
+<p>(a)<img alt="a=" data-height="171" data-width="159" style="width: 120px; height: 129px;" width="120px" height="129px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461018/9d810ad27ba8c25b3b9fea75ceb63c63c98aa393?revision=1&amp;size=bestfit&amp;width=120&amp;height=129" />&nbsp;&nbsp; &nbsp; (b)<img alt="A 7-membered bicyclic ring. C 2 is double bonded to C 3. C 6 is bonded to a hydrogen atom and a cyano group." data-height="139" data-width="177" style="width: 138px; height: 108px;" width="138px" height="108px" class="scaled-down-30 first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461021/dd845416b8365a07accd97d087ec2c8459fa2cca?revision=1&amp;size=bestfit&amp;width=138&amp;height=108" />&nbsp; &nbsp; &nbsp;(c)<img alt="Cyclohexene fused to a cyclohexane where C 1 and C 4 are carbonyls. The cyclohexane is further fused to another cyclohexene." data-height="199" data-width="238" style="width: 188px; height: 158px;" width="188px" height="158px" class="scaled-down-30 first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461023/8ac054f470a6c1d7060d7360b0688f76ffcedcf1?revision=1&amp;size=bestfit&amp;width=188&amp;height=158" />&nbsp; &nbsp;&nbsp; (d)<img alt="Cyclohexadiene ring with double bonds between C1-C2 and C4-C5. C 1 is bonded to C O 2 C H 3 group." data-height="101" data-width="194" style="width: 148px; height: 77px;" width="148px" height="77px" class="scaled-down-30 first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461029/1cedc4a53ffdd6907538a823fef7d9130db547d6?revision=1&amp;size=bestfit&amp;width=148&amp;height=77" /></p>
+
+<p>&nbsp;</p>
+
+<div data-injected-from-nickname="14-99-OC-AP17" data-injected-from-url="https://exercises.openstax.org/api/exercises?q=nickname:14-99-OC-AP17" data-injected-from-version="5" data-is-multipart="False" data-is-vocab="false" data-question-count="1" data-tags="type:practice book:stax-orgchem context-cnxmod:af1fc96a-7c48-4105-939b-9cc8f8af66e2" data-type="injected-exercise">
+<p><strong>PROBLEM 14</strong>-41&nbsp;Show the product of the following reaction.</p>
+
+<p><img alt="Cyclobutene with double bonded oxygen at C 3 reacts in the presence of zinc chloride with a 6-carbon chain that has double bonds between C 2-C 3 and C 4-C 5 ." data-height="103" data-width="288" style="width: 254px; height: 91px;" width="254px" height="91px" class="scaled-down-30 internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461024/d8d59cd59d4e27fc0d945f6df739e6046677464b?revision=1&amp;size=bestfit&amp;width=254&amp;height=91" /></p>
+
+<p class="lt-chem-459808">&nbsp;</p>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.14:_Additional_Problems" class="mt-section"><span id="Diene_Polymers"></span><h3 class="lt-chem-459808 editable"><strong><span class="red-text">Diene Polymers</span></strong></h3>
+
+<p><strong>PROBLEM 14</strong>-42&nbsp;Tires whose sidewalls are made of natural rubber tend to crack and weather rapidly in areas around cities where high levels of ozone and other industrial pollutants are found. Explain.</p>
+
+<p><strong>PROBLEM 14</strong>-43&nbsp;1,3-Cyclopentadiene polymerizes slowly at room temperature to yield a polymer that has no double bonds except on the ends. On heating, the polymer breaks down to regenerate 1,3-cyclopentadiene. Propose a structure for the product.</p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.14:_Additional_Problems" class="mt-section"><span id="UV_Spectroscopy"></span><h3 class="editable"><strong><span class="red-text">UV Spectroscopy</span></strong></h3>
+
+<p class="lt-chem-459808"><strong>PROBLEM 14</strong>-44&nbsp;Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.</p>
+
+<p><strong>(a)</strong><img alt="three=" data-height="99" data-width="542" style="width: 420px; height: 77px;" width="420px" height="77px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461028/0dcde21f9eab56b2d90bb50a8907e9f52456ef70?revision=1&amp;size=bestfit&amp;width=420&amp;height=77" /></p>
+
+<p><br />
+<strong>(b)</strong><img alt="Three 1,3-cyclohexadiene rings. First: with methylene groups at C 5 and C 6. Second: with methyl groups at C 5 and C 6. Third: with a methylene group at C 5 and a methyl group at C 6." data-height="145" data-width="517" style="width: 396px; height: 111px;" width="396px" height="111px" class="scaled-down-30 first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461030/4744128c57d8e417301f89f7edf26b6e8323f916?revision=1&amp;size=bestfit&amp;width=396&amp;height=111" /></p>
+
+<p>&nbsp;</p>
+
+<p class="lt-chem-459808"><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">(c)&nbsp;<img alt="Three structures with a benzene ring at the end of a 5-carbon chain. First: Double bonds at C 1 and C 4 of the chain. Second: Double bonds at C 1 and C 3 of the chain. Third: Double bonds at C 2 and C 4 of the chain." data-height="111" data-width="948" style="width: 760px; height: 89px;" width="760px" height="89px" class="scaled-down first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461036/95837c683e2cf2944321436309b30654a8d9ad04?revision=1&amp;size=bestfit&amp;width=760&amp;height=89" /> </span></strong></p>
+
+<div data-injected-from-nickname="14-99-OC-AP22" data-injected-from-url="https://exercises.openstax.org/api/exercises?q=nickname:14-99-OC-AP22" data-injected-from-version="5" data-is-multipart="False" data-is-vocab="false" data-question-count="1" data-tags="type:practice book:stax-orgchem context-cnxmod:af1fc96a-7c48-4105-939b-9cc8f8af66e2" data-type="injected-exercise"><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-45&nbsp;Which of the following compounds would you expect to have a <i>&pi;</i>&ensp;&#8203;&rarr;&ensp;&#8203;<i>&pi;</i>* UV absorption in the 200 to 400 nm range?</span><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"> </span></strong></div>
+
+<div data-injected-from-nickname="14-99-OC-AP22" data-injected-from-url="https://exercises.openstax.org/api/exercises?q=nickname:14-99-OC-AP22" data-injected-from-version="5" data-is-multipart="False" data-is-vocab="false" data-question-count="1" data-tags="type:practice book:stax-orgchem context-cnxmod:af1fc96a-7c48-4105-939b-9cc8f8af66e2" data-type="injected-exercise"><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">(a)<img alt="The structure has a cyclopentene ring. C 4 is double bonded to a methylene group." data-height="79" data-width="145" style="width: 126px; height: 69px;" width="126px" height="69px" class="first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461032/602a744acfc36c1f6b629bc71110367646a33e20?revision=1&amp;size=bestfit&amp;width=126&amp;height=69" />&nbsp; &nbsp; &nbsp;&nbsp;</span></strong><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">(b)&nbsp;<img alt="Pyridine has a 6-membered ring with nitrogen in the first position. The ring has alternate double bonds." data-height="154" data-width="88" style="width: 75px; height: 131px;" width="75px" height="131px" class="first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461033/0f304307d8529f95e1e5fbc55a26e6109b8e8fc9?revision=1&amp;size=bestfit&amp;width=75&amp;height=131" />&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</span></strong><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">(c)<img alt="The condensed structural formula of a ketene reads, (C H 3) 2 C double bonded to C double bonded to O." data-height="76" data-width="166" style="width: 134px; height: 61px;" width="134px" height="61px" class="first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461038/2f5442283a4184263e1b3c564a6041035057bd04?revision=1&amp;size=bestfit&amp;width=134&amp;height=61" /> </span></strong></div>
+
+<div data-injected-from-nickname="14-99-OC-AP23" data-injected-from-url="https://exercises.openstax.org/api/exercises?q=nickname:14-99-OC-AP23" data-injected-from-version="2" data-is-multipart="False" data-is-vocab="false" data-question-count="1" data-tags="type:practice book:stax-orgchem context-cnxmod:af1fc96a-7c48-4105-939b-9cc8f8af66e2" data-type="injected-exercise">
+<div data-="data-" data-formats="free-response" data-is-answer-order-important="false" data-type="exercise-question">&nbsp;</div>
+
+<div data-="data-" data-formats="free-response" data-is-answer-order-important="false" data-type="exercise-question">&nbsp;</div>
+
+<div data-="data-" data-formats="free-response" data-is-answer-order-important="false" data-type="exercise-question"><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong>-46&nbsp;Would you expect allene, H<sub>2</sub>C<math alttext="\text{=}"> <mtext>=</mtext> </math>C<math alttext="\text{=}"> <mtext>=</mtext> </math>CH<sub>2</sub>, to show a UV absorption in the 200 to 400 nm range? Explain.</div>
+</div>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong>-47&nbsp;The following ultraviolet absorption maxima have been measured:</p>
+
+<table class="mt-responsive-table">
+    <tbody>
+        <tr>
+            <td class="mt-noheading">Molecule</td>
+            <td class="mt-noheading">ultraviolet absorption maxima</td>
+        </tr>
+        <tr>
+            <td class="mt-noheading">1,3-Butadiene</td>
+            <td class="mt-noheading">217 nm</td>
+        </tr>
+        <tr>
+            <td class="mt-noheading">2-Methyl-1,3-butadiene</td>
+            <td class="mt-noheading">220 nm</td>
+        </tr>
+        <tr>
+            <td class="mt-noheading">1,3-Pentadiene</td>
+            <td class="mt-noheading">223 nm</td>
+        </tr>
+        <tr>
+            <td class="mt-noheading">2,3-Dimethyl-1,3-butadiene</td>
+            <td class="mt-noheading">226 nm</td>
+        </tr>
+        <tr>
+            <td class="mt-noheading">2,4-Hexadiene</td>
+            <td class="mt-noheading">227 nm</td>
+        </tr>
+        <tr>
+            <td class="mt-noheading">2,4-Dimethyl-1,3-pentadiene</td>
+            <td class="mt-noheading">232 nm</td>
+        </tr>
+        <tr>
+            <td class="mt-noheading">2,5-Dimethyl-2,4-hexadiene</td>
+            <td class="mt-noheading">240 nm</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>What conclusion can you draw about the effect of alkyl substitution on UV absorption maxima? Approximately what effect does each added alkyl group have?</p>
+
+<p>&nbsp;</p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-48</span>&nbsp;1,3,5-Hexatriene has <i>&lambda;</i><sub>max</sub> = 258 nm. In light of your answer to Problem 14-47, approximately where would you expect 2,3-dimethyl-1,3,5-hexatriene to absorb?</p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-49</span>&nbsp;<span class="&lt;p"><i>&beta;</i>-Ocimene is a pleasant-smelling hydrocarbon found in the leaves of certain herbs. It has the molecular formula C<sub>10</sub>H<sub>16</sub> and a UV absorption maximum at 232 nm. On hydrogenation with a palladium catalyst, 2,6-dimethyloctane is obtained. Ozonolysis of <i>&beta;</i>-ocimene, followed by treatment with zinc and acetic acid, produces the following four fragments:</span></p>
+
+<p><img alt="the=" data-height="120" data-width="761" style="width: 628px; height: 99px;" width="628px" height="99px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461042/8b4f837d35a99e809fceb06f9326cc9ce2726791?revision=1&amp;size=bestfit&amp;width=628&amp;height=99" /></p>
+
+<ul>
+    <li>(a) How many double bonds does <i>&beta;</i>-ocimene have?</li>
+    <li>(b) Is <i>&beta;</i>-ocimene conjugated or nonconjugated?</li>
+    <li>(c) Propose a structure for <i>&beta;</i>-ocimene.</li>
+    <li>(d) Write the reactions, showing starting material and products.</li>
+</ul>
+
+<p class="lt-chem-459808">&nbsp;</p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.14:_Additional_Problems" class="mt-section"><span id="General_Problems"></span><h3 class="lt-chem-459808 editable"><strong><span class="red-text">General Problems</span></strong></h3>
+
+<p><strong>Problem 14</strong>-50 Draw the resonance forms that result when the following dienes are protonated. If the resonance forms differ in energy, identify the most stable one.</p>
+
+<p>(a) <img alt="the=" data-height="33" data-width="197" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461039/6c005890eb8b3f3e5d48a567875c363879fcbeac?revision=1" />&nbsp; &nbsp; &nbsp;(b)&nbsp;<span class="Draw the resonance forms that result when the following dienes are protonated. If the resonance forms differ in energy, identify the most stable one.
+
+(a)
+&lt;p"><img alt="The structure has a cyclohexadiene ring with double bonds between C 1-C 2 and C 3-C 4. C 1 and C 4 are each bonded to a methyl group." data-height="96" data-width="134" class="first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461040/ca8d2341b19580761e1687aabfa76f420aca46a8?revision=1" />&nbsp; &nbsp;(c)&nbsp;<img alt="The structure has a cyclopentadiene ring with double bonds between C 1-C 2 and C 3-C 4. C 2 and C 3 are each bonded to a methyl group." data-height="94" data-width="113" class="first-element internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461044/4af0fcbf847824ec6398022743e49ad7fb7a1cc2?revision=1" /></span></p>
+
+<p>&nbsp;</p>
+
+<p><strong><span>Problem</span> 14</strong>-51 Answer the following questions for 1,3,5-cycloheptatriene.</p>
+
+<ul>
+    <li>(a) How many <i>p</i> atomic orbitals are in the conjugated system?</li>
+    <li>(b) How many molecular orbitals describe the conjugated system?</li>
+    <li>(c) How many molecular orbitals are bonding molecular orbitals?</li>
+    <li>(d) How many molecular orbitals are anti-bonding molecular orbitals?</li>
+    <li>(e) Which molecular orbitals are filled with electrons?</li>
+    <li>(f) If this molecule were to absorb a photon of UV light an electron would move between which two molecular orbitals (be specific)?</li>
+</ul>
+
+<p><strong><span>Problem</span> 14</strong>-52&nbsp;Treatment of 3,4-dibromohexane with strong base leads to loss of 2 equivalents of HBr and formation of a product with formula C<sub>6</sub>H<sub>10</sub>. Three products are possible. Name each of the three, and tell how you would use <sup>1</sup>H and <sup>13</sup>C NMR spectroscopy to help identify them. How would you use UV spectroscopy?</p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-53&nbsp;</span>Addition of HCl to 1-methoxycyclohexene yields 1-chloro-1-methoxycyclohexane as a sole product. Use resonance structures to explain why none of the other regioisomer is formed.</p>
+
+<p><img alt="a=" data-height="123" data-width="424" style="width: 346px; height: 100px;" width="346px" height="100px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461045/43a56c3c2165e4266e4416a0f80ebe51bf9019a2?revision=1&amp;size=bestfit&amp;width=346&amp;height=100" /></p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-54&nbsp;</span>Aldrin, a chlorinated insecticide now banned from use in most countries since 1990, can be made by Diels&ndash;Alder reaction of hexachloro-1,3-cyclopentadiene with norbornadiene. What is the structure of aldrin?</p>
+
+<p><img alt="the=" data-height="143" data-width="343" style="width: 264px; height: 110px;" width="264px" height="110px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461046/a8785db7dc31844022e7db54996a775968afa15f?revision=1&amp;size=bestfit&amp;width=264&amp;height=110" /></p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-55</span><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">&nbsp;</span>Norbornadiene (Problem 54) can be prepared by reaction of chloroethylene with 1,3-cyclopentadiene, followed by treatment of the product with sodium ethoxide. Write the overall scheme, and identify the two kinds of reactions.</p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-56&nbsp;</span>The triene shown here reacts with 2 equivalents of maleic anhydride to yield a product with the formula C<sub>17</sub>H<sub>16</sub>O<sub>6</sub>. Predict a structure for the product.</p>
+
+<p><img alt="a=" data-height="188" data-width="588" style="width: 443px; height: 142px;" width="443px" height="142px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461047/94ea96a9219e756110853faa2402431414e989c4?revision=1&amp;size=bestfit&amp;width=443&amp;height=142" /></p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-57&nbsp;</span>Myrcene, C<sub>10</sub>H<sub>16</sub>, is found in oil of bay leaves and is isomeric with <i>&beta;</i>-ocimene (Problem 49). It has an ultraviolet absorption at 226 nm and can be hydrogenated to yield 2,6-dimethyloctane. On ozonolysis followed by zinc/acetic acid treatment, myrcene yields formaldehyde, acetone, and 2-oxopentanedial:</p>
+
+<p><img alt="the=" data-height="75" data-width="417" style="width: 334px; height: 60px;" width="334px" height="60px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461048/3f140343501e5716ffc94e5e5b57d0076c8c75f2?revision=1&amp;size=bestfit&amp;width=334&amp;height=60" /></p>
+
+<p class="lt-chem-459808">Propose a structure for myrcene, and write the reactions, showing starting material and products.</p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-58&nbsp;</span><span class="&lt;p">Hydrocarbon <b>A</b>, C<sub>10</sub>H<sub>14</sub>, has a UV absorption at <i>&lambda;</i><sub>max</sub> = 236 nm and gives hydrocarbon <b>B</b>, C<sub>10</sub>H<sub>18</sub>, on hydrogenation. Ozonolysis of <b>A</b>, followed by zinc/acetic acid treatment, yields the following diketo dialdehyde: </span></p>
+
+<p class="mt-align-center"><span class="&lt;p"><img alt="the=" data-height="74" data-width="358" style="width: 302px; height: 62px;" width="302px" height="62px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461050/cf18ebd7e8cb596c6f9b36dc231279f6f0c1e516?revision=1&amp;size=bestfit&amp;width=302&amp;height=62" /> </span></p>
+
+<p class="lt-chem-459808"><span class="&lt;p">An illustration shows the structure of diketo dialdehyde. It shows two carbonyl groups single bonded to each other. Each carbonyl group is bonded to a chain of three methylene groups and then to an aldehyde group.</span></p>
+
+<ul>
+    <li><span class="&lt;p">(a) </span>Propose two possible structures for <b>A</b>.</li>
+    <li>(b) Hydrocarbon <b>A</b> reacts with maleic anhydride to yield a Diels&ndash;Alder adduct. Which of your structures for <b>A</b> is correct?</li>
+    <li>(c) Write the reactions, showing the starting material and products.</li>
+</ul>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-59&nbsp;</span>Adiponitrile, a starting material used in the manufacture of nylon, can be prepared in three steps from 1,3-butadiene. How would you carry out this synthesis?</p>
+
+<p><img alt="a=" data-height="89" data-width="626" style="width: 470px; height: 69px;" width="470px" height="69px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461051/af99354db252145d70ade5382a462c0d0054186d?revision=1&amp;size=bestfit&amp;width=470&amp;height=69" /></p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-60&nbsp;</span>Ergosterol, a precursor of vitamin D, has <i>&lambda;</i><sub>max</sub> = 282 nm and molar absorptivity <i>&#1013;</i> = 11,900. What is the concentration of ergosterol in a solution whose absorbance <i>A</i> = 0.065 with a sample pathlength <i>l</i> = 1.00 cm?</p>
+
+<p><img alt="the=" data-height="262" data-width="762" style="width: 579px; height: 199px;" width="579px" height="199px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461049/24f11aec7e7f299e2a2ba9173247209e3b6496fa?revision=1&amp;size=bestfit&amp;width=579&amp;height=199" /></p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-61&nbsp;</span>Dimethyl butynedioate undergoes a Diels&ndash;Alder reaction with (2<i>E</i>,4<i>E</i>)-2,4-hexadiene. Show the structure and stereochemistry of the product.</p>
+
+<p><img alt="the=" data-height="75" data-width="537" style="width: 450px; height: 62px;" width="450px" height="62px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461052/04e07edced5c250de8a2d28c2255e4faceeef328?revision=1&amp;size=bestfit&amp;width=450&amp;height=62" /></p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-62</span><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">&nbsp;</span>Dimethyl butynedioate also undergoes a Diels&ndash;Alder reaction with (2<i>E</i>,4<i>Z</i>)-2,4-hexadiene, but the stereochemistry of the product is different from that of the (2<i>E</i>,4<i>E</i>) isomer (Problem 14-61). Explain.</p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-63&nbsp;</span>How would you carry out the following synthesis (more than one step is required)? What stereochemical relationship between the &ndash;CO<sub>2</sub>CH<sub>3</sub> group attached to the cyclohexane ring and the &ndash;CHO groups would your synthesis produce?</p>
+
+<p><img alt="1,3-cyclohexadiene=" data-height="191" data-width="631" style="width: 515px; height: 156px;" width="515px" height="156px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461053/87efe811a95f399b47d5cf619e6efe49b8e3996a?revision=1&amp;size=bestfit&amp;width=515&amp;height=156" /></p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-64&nbsp;</span>The double bond of an <i>enamine</i> (alk<i>ene</i> + <i>amine</i>) is much more nucleophilic than a typical alkene double bond. Assuming that the nitrogen atom in an enamine is <i>sp</i><sup>2</sup>-hybridized, draw an orbital picture of an enamine, and explain why the double bond is electron-rich.</p>
+
+<p><img alt="an=" data-height="123" data-width="332" style="width: 258px; height: 96px;" width="258px" height="96px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461054/4062537c66d2103c57068e77009d729736002acf?revision=1&amp;size=bestfit&amp;width=258&amp;height=96" /></p>
+
+<p><strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p"><span>Problem</span> 14</span></strong><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">-65</span><span class="Arrange the molecules in each of the following sets according to where you would expect to find their wavelength of maximum absorption in UV spectroscopy, from shortest to longest wavelength.
+
+(a)
+&lt;p">&nbsp;</span>Benzene has an ultraviolet absorption at <i>&lambda;</i><sub>max</sub> = 204 nm, and para-toluidine has <i>&lambda;</i><sub>max</sub> = 235 nm. How do you account for this difference?</p>
+
+<p><img alt="the=" data-height="181" data-width="545" style="width: 396px; height: 132px;" width="396px" height="132px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/461055/72c898a2765b44c55406d5093e7ecb163575a76e?revision=1&amp;size=bestfit&amp;width=396&amp;height=132" /></p>
+</div></div>
+</div>
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "14.14: Additional Problems";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p>This page titled <a target="_blank" class="internal mt-self-link" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.14%3A_Additional_Problems" rel="internal">14.14: Additional Problems</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank">CC BY-NC-SA  4.0</a>  license and was authored, remixed, and/or curated by <a rel="nofollow" target="_blank" href="https://openstax.org/">OpenStax</a> via <a rel="nofollow" href="https://openstax.org/details/books/organic-chemistry" target="_blank">source content</a> that was edited to the style and standards of the LibreTexts platform.</p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.13%3A_Summary_of_Reactions" title="14.13: Summary of Reactions"><span>14.13: Summary of Reactions</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(OpenStax)/15%3A_Benzene_and_Aromaticity" title="15: Benzene and Aromaticity"><span>15: Benzene and Aromaticity</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="25" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-authorname-openstax" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Author</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=authorname%3Aopenstax" data-ga-label="Classification">OpenStax</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by-nc-sa" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accbyncsa" data-ga-label="Classification">CC BY-NC-SA</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-4.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A40" data-ga-label="Classification">4.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-source@https://openstax.org/details/books/organic-chemistry" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=source%40https%3A%2F%2Fopenstax.org%2Fdetails%2Fbooks%2Forganic-chemistry" data-ga-label="Free tag"> source@https://openstax.org/details/books/organic-chemistry</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="693efde3c7bcc1aade9647efc992f4f1b4bc16b31bee14d58142f395623ef210" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
