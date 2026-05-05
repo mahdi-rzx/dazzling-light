@@ -506,6 +506,7 @@ https://chem.libretexts.org/Courses/Brevard_College/CHE_301_Biochemistry -> asse
 https://chem.libretexts.org/Courses/Brevard_College/CHE_310%3A_Inorganic_Chemistry_(Biava) -> assets/other/0595a3b35745
 https://chem.libretexts.org/Courses/Brevard_College/LNC_216_CHE -> assets/other/d61439e2a857
 https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Consumer_Chemistry -> assets/other/dc0853e7efb5
+https://chem.libretexts.org/Courses/BridgeValley_Community_and_Technical_College/Consumer_Chemistry/00%3A_Front_Matter -> assets/other/5b142dddc987
 https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap -> assets/other/a667972543ba
 https://fonts.googleapis.com/css?family=Roboto&display=swap -> assets/other/e1496aeb6210
 https://fonts.googleapis.com/icon?family=Material+Icons -> assets/other/2a30df347f5a
