@@ -88,7 +88,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/29%3A_Orbitals_and_Organic_Chemistry_-_Pericyclic_Reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/30%3A_Synthetic_Polymers
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Data_Analysis
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Quantifying_Nature
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Qualitative_Analysis
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis
@@ -4299,3 +4298,10 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_C
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Analytical_Sciences_Digital_Library/Courseware
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Analytical_Sciences_Digital_Library/Contextual_Modules
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Analytical_Sciences_Digital_Library/In_Class_Activities
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Data_Analysis/Data_Analysis
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Data_Analysis/Dimensional_Analysis
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Data_Analysis/Instrument_Calibration_over_a_regime
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Data_Analysis/Linear_and_Nonlinear_Regression
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Data_Analysis/Method_of_Linear_Regression
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Data_Analysis/Propagation_of_Uncertainty
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Analytical_Sciences_Digital_Library/In_Class_Activities/Mass_Spectrometry%3A_LEGO_Exercise/Instructors_Guide__Chromatograms_and_Mass_Spectra
