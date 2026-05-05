@@ -107,7 +107,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistr
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/16%3A_Appendix
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/zz%3A_Back_Matter/20%3A_Glossary
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/34%3A_Particle_Size_Determination
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/35%3A_Appendicies
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
@@ -4575,3 +4574,8 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analys
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/33%3A_Automated_Methods_of_Analysis/33.01%3A_Overview_of_Automated_Methods_of_Analysis
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/33%3A_Automated_Methods_of_Analysis/33.02%3A_Flow-Injection_Analysis
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/33%3A_Automated_Methods_of_Analysis/33.03%3A_Other_Automated_Methods_of_Analysis
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/34%3A_Particle_Size_Determination/34.01%3A_Overview
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/34%3A_Particle_Size_Determination/34.02%3A_Measuring_Particle_Size_Using_Sieves
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/34%3A_Particle_Size_Determination/34.03%3A_Measuring_Particle_Size_by_Sedimentation
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/34%3A_Particle_Size_Determination/34.04%3A_Measuring_Particle_Size_Using_Image_Analysis
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/34%3A_Particle_Size_Determination/34.05%3A_Measuring_Particle_Size_Using_Light_Scattering
