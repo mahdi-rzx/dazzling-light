@@ -129,7 +129,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/09%3A_Metals_in_Medicine
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/01%3A_Basic_NMR_Theory
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/02%3A_Practical_Aspects_of_Q-NMR
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/03%3A_Virtual_Experiment
@@ -6929,3 +6928,8 @@ https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textb
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Electron_Paramagnetic_Resonance_(Jenschke)/10%3A_Spin_Probes_and_Spin_Traps/10.01%3A_Nitroxide_spin_probes_and_labels
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Electron_Paramagnetic_Resonance_(Jenschke)/10%3A_Spin_Probes_and_Spin_Traps/10.02%3A_Spin_traps
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Electron_Paramagnetic_Resonance_(Jenschke)/zz%3A_Back_Matter/10%3A_Index
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/00%3A_Front_Matter/01%3A_TitlePage
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/00%3A_Front_Matter/02%3A_InfoPage
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/00%3A_Front_Matter/03%3A_About_this_Book
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/00%3A_Front_Matter/03%3A_Table_of_Contents
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/00%3A_Front_Matter/04%3A_Licensing
