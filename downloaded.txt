@@ -4703,3 +4703,4 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/00%3A_Front_Matter/04%3A_Licensing
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/00%3A_Front_Matter/What_is_Chemometrics_and_Why_Study_it%3F
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/01%3A_R_and_RStudio/1.01%3A_Installing_and_Accessing_R_and_RStudio
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/01%3A_R_and_RStudio/1.02%3A_The_Basics_of_Working_With_R
