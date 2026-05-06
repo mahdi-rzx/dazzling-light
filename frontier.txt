@@ -131,7 +131,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/01%3A_Fundamental_1_-_Measurable_Properties
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/01%3A_Essential_Ideas
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/02%3A_Atoms_Molecules_and_Ions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/03%3A_Composition_of_Substances_and_Solutions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/04%3A_Stoichiometry_of_Chemical_Reactions
@@ -8373,3 +8372,14 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/00%3A_Front_Matter/02%3A_InfoPage
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/00%3A_Front_Matter/03%3A_Table_of_Contents
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/00%3A_Front_Matter/04%3A_Licensing
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/01%3A_Essential_Ideas/1.00%3A_Introduction
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/01%3A_Essential_Ideas/1.01%3A_Chemistry_in_Context
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/01%3A_Essential_Ideas/1.02%3A_Phases_and_Classification_of_Matter
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/01%3A_Essential_Ideas/1.03%3A_Physical_and_Chemical_Properties
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/01%3A_Essential_Ideas/1.04%3A_Measurements
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/01%3A_Essential_Ideas/1.05%3A_Measurement_Uncertainty_Accuracy_and_Precision
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/01%3A_Essential_Ideas/1.06%3A_Mathematical_Treatment_of_Measurement_Results
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/01%3A_Essential_Ideas/1.07%3A_Key_Terms
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/01%3A_Essential_Ideas/1.08%3A_Key_Equations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/01%3A_Essential_Ideas/1.09%3A_Summary
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/01%3A_Essential_Ideas/1.10%3A_Exercises
