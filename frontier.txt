@@ -260,7 +260,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Mor
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/03%3A_Organic_Compounds-_Alkanes_and_Their_Stereochemistry/3.07%3A_Conformations_of_Other_Alkanes
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/05%3A_Stereochemistry_at_Tetrahedral_Centers/5.05%3A_Sequence_Rules_for_Specifying_Configuration
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/07%3A_Alkenes-_Structure_and_Reactivity/7.05%3A_Cis-Trans_Isomerism_in_Alkenes
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/13%3A_Alkynes%3A_The_Carbon/13-02_Properties_and__Bonding_in_the__Alkynes
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Reactions/Addition_Reactions/Electrophilic_Addition_Reactions/The_Generalized_Electrophilic_Addition
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/08%3A_Alkenes-_Reactions_and_Synthesis/8.01%3A_Preparation_of_Alkenes_-_A_Preview_of_Elimination_Reactions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.06%3A_Diene_Polymers-_Natural_and_Synthetic_Rubbers
@@ -9127,3 +9126,4 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/11%3A_Alkenes%3A_Infrared_Spectroscopy_and_Mass_Spectrometry/11.09%3A_Measuring_the_Molecular_Mass_of_Organic_Compounds%3A_Mass_Spectrometry
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/12%3A_Reactions_to_Alkenes/12.03%3ANucleophilic_Character_of_the__Pi__Bond%3A__Electrophilic___Addition_of_Hydrogen_Halides
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/12%3A_Reactions_to_Alkenes/12.15%3A_Synthesis_of__Polymers
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/13%3A_Alkynes%3A_The_Carbon/13-03_Spectroscopy_of__the__Alkynes
