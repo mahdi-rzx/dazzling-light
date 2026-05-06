@@ -117,7 +117,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_II_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/03%3A_Acid-Base_Chemistry
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/04%3A_Redox_Stability_and_Redox_Reactions
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/05%3A_Coordination_Chemistry_and_Crystal_Field_Theory
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/06%3A_Metals_and_Alloys-_Structure_Bonding_Electronic_and_Magnetic_Properties
@@ -4473,3 +4472,11 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inor
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.12%3A_Discussion_Questions
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.13%3A_Problems
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.14%3A_References
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/03%3A_Acid-Base_Chemistry/3.01%3A_Prelude_to_Acid-Base_Chemistry
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/03%3A_Acid-Base_Chemistry/3.02%3A_Brnsted_and_Lewis_Acids_and_Bases
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/03%3A_Acid-Base_Chemistry/3.03%3A_Hard_and_Soft_Acids_and_Bases
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/03%3A_Acid-Base_Chemistry/3.04%3A_The_Electrostatic-Covalent_(ECW)_Model_for_Acid-Base_Reactions
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/03%3A_Acid-Base_Chemistry/3.05%3A_Frustrated_Lewis_Pairs
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/03%3A_Acid-Base_Chemistry/3.06%3A_Discussion_Questions
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/03%3A_Acid-Base_Chemistry/3.07%3A_Problems
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/03%3A_Acid-Base_Chemistry/3.08%3A_References
