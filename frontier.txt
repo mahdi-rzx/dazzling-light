@@ -128,7 +128,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/08%3A_MetalNucleic_Acid_Interactions
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/09%3A_Metals_in_Medicine
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/03%3A_Structural_Fundamentals
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
@@ -5087,3 +5086,10 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemi
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/02%3A_Organometallic_Ligands/2.08%3A_Odd-numbered__Systems
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/02%3A_Organometallic_Ligands/2.09%3A_Phosphines
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/02%3A_Organometallic_Ligands/2.10%3A__Systems
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/03%3A_Structural_Fundamentals/3.01%3A_Ligand_Field_Theory_and_Frontier_Molecular_Orbital_Theory
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/03%3A_Structural_Fundamentals/3.02%3A_Open_Coordination_Site
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/03%3A_Structural_Fundamentals/3.03%3A_Periodic_Trends_of_the_Transition_Metals
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/03%3A_Structural_Fundamentals/3.04%3A_Predicting_the_Geometry_of_Organometallic_Complexes
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/03%3A_Structural_Fundamentals/3.05%3A_Simplifying_the_Organometallic_Complex_(Part_1)
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/03%3A_Structural_Fundamentals/3.06%3A_Simplifying_the_Organometallic_Complex_(Part_2)
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/03%3A_Structural_Fundamentals/3.07%3A_Simplifying_the_Organometallic_Complex_(Part_3)
