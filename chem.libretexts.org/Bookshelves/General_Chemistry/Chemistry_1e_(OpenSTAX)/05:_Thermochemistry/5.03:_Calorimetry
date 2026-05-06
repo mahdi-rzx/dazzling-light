@@ -1,0 +1,3349 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="5.3: Calorimetry"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05%3A_Thermochemistry/5.03%3A_Calorimetry"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content="Calorimetry is used to measure the amount of thermal energy transferred in a chemical or physical process. This requires careful measurement of the temperature change that occurs during the process &hellip;"/>
+        <meta property="article:published_time" content="2015-09-28T00:51:32Z"/>
+        <meta property="article:modified_time" content="2022-10-27T17:15:14Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="5.3: Calorimetry"/>
+        <meta name="twitter:description" content="Calorimetry is used to measure the amount of thermal energy transferred in a chemical or physical process. This requires careful measurement of the temperature change that occurs during the process &hellip;"/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content="Calorimetry is used to measure the amount of thermal energy transferred in a chemical or physical process. This requires careful measurement of the temperature change that occurs during the process &hellip;"/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05%3A_Thermochemistry/5.03%3A_Calorimetry"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910">{"@context":"http:\/\/schema.org","@type":"Article","name":"5.3: Calorimetry","url":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)\/05%3A_Thermochemistry\/5.03%3A_Calorimetry","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2015-09-28T00:51:32Z","dateModified":"2022-10-27T17:15:14Z","description":"Calorimetry is used to measure the amount of thermal energy transferred in a chemical or physical process. This requires careful measurement of the temperature change that occurs during the process and the masses of the system and surroundings. These measured quantities are then used to compute the amount of heat produced or consumed in the process using known mathematical relations.  Calorimeters are designed to minimize energy exchange between the system and its surroundings.","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/38166\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)\/05%3A_Thermochemistry\/5.03%3A_Calorimetry"},"headline":"5.3: Calorimetry","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"5.3: Calorimetry","url":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)\/05%3A_Thermochemistry\/5.03%3A_Calorimetry","relatedLink":["https:\/\/chem.libretexts.org\/Courses\/University_of_Kentucky\/UK%3A_General_Chemistry\/05%3A_Thermochemistry\/5.2%3A_Calorimetry","https:\/\/chem.libretexts.org\/Courses\/Louisville_Collegiate_School\/General_Chemistry\/LibreTexts_Louisville_Collegiate_School_Chapters_05%3A_Thermochemistry\/LibreTexts%2F%2FLouisville_Collegiate_School%2F%2FChapters%2F%2F05%3A_Thermochemistry%2F%2F5.2%3A_Calorimetry","https:\/\/chem.libretexts.org\/Courses\/University_of_Minnesota_Rochester\/genchem2\/4%3A_Thermodynamics\/4.2%3A_Calorimetry","https:\/\/chem.libretexts.org\/Courses\/Oregon_Institute_of_Technology\/OIT%3A_CHE_101_-_Introduction_to_General_Chemistry\/01%3A_Making_Measurements\/1.06%3A_Calorimetry","https:\/\/chem.libretexts.org\/Courses\/Nassau_Community_College\/General_Chemistry_1\/09%3A_Thermochemistry\/9.03%3A_Calorimetry"]}</script>
+        <script type="application/ld+json" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry","name":"General Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)","name":"Chemistry 1e (OpenSTAX)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)\/05%3A_Thermochemistry","name":"5: Thermochemistry"}}]}</script>
+
+        <title>5.3: Calorimetry - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+@media print {
+     
+
+.mt-content-container .mt-responsive-table, .mt-content-container table {
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 1rem !important;
+}
+
+.mt-content-container .mt-responsive-table caption, .mt-content-container table caption { 
+    display: table-caption;
+    text-align: center;
+    font-size: 90%;
+    padding: 0 0 0.2rem 0;
+}
+
+.mt-content-container .mt-responsive-table th, .mt-content-container table th {
+  font-size: inherit;
+  vertical-align: middle;
+  border-bottom: 1px solid #E8E8E8;
+  margin: inherit;
+  padding: 0.4em !important;
+}
+
+.mt-content-container .mt-responsive-table tr, .mt-content-container table tr {
+  page-break-inside:avoid; 
+  page-break-after:auto;
+  margin: inherit;
+  font-size: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+  border-bottom: 1px solid #E8E8E8;
+}
+    
+.mt-content-container .mt-responsive-table td, .mt-content-container table td {
+  border: 1px solid #E8E8E8;
+  page-break-inside: avoid !important;
+  page-break-before: avoid;
+  margin: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+}
+
+.mt-content-container table ol, 
+.mt-content-container table ul,
+.mt-content-container table p,
+.mt-content-container table ol,
+.mt-content-container table ul,
+.mt-content-container table p {
+    font-size: inherit;
+    margin: inherit;
+}
+
+mjx-container svg path,
+mjx-container svg use {
+  stroke: none !important;
+  stroke-width: 0 !important;
+}
+    
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":38166,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"5.3: Calorimetry","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"90","pageSectionEditable":false,"pageTitle":"Bookshelves\/General Chemistry\/Chemistry 1e (OpenSTAX)\/05: Thermochemistry\/5.03: Calorimetry","pageViewId":"dd5e50a6-4f50-4d02-8850-3df10eb833ad","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"YjNiMzFlNTQtM2JiYS00YTlmLTk4Y2ItYzdkODBjNTcwZjY1fDIwMjYtMDUtMDZUMTY6MDE6MTk=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778083280_ba8809523cdeb79992c7aa147d6fe949ded4bbc141051885f1a9c1059cda0a84","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-generalchemistry-chemistry1e%28openstax%29-05%3Athermochemistry-5.03%3Acalorimetry columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">5: Thermochemistry</div><div style="display:none" id="parentParentTitleHolder">Chemistry 1e (OpenSTAX)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;5.01:_Prelude_to_Thermochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;5.02:_Energy_Basics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;5.03:_Calorimetry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;5.04:_Enthalpy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;5.E:_Thermochemistry_(Exercises)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_Essential_Ideas_of_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_Atoms_Molecules_and_Ions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_Composition_of_Substances_and_Solutions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:_Stoichiometry_of_Chemical_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05:_Thermochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06:_Electronic_Structure_and_Periodic_Properties&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07:_Chemical_Bonding_and_Molecular_Geometry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08:_Advanced_Theories_of_Covalent_Bonding&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09:_Gases&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10:_Liquids_and_Solids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;11:_Solutions_and_Colloids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12:_Kinetics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Fundamental_Equilibrium_Concepts&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_Acid-Base_Equilibria&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Equilibria_of_Other_Reaction_Classes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Thermodynamics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;17:_Electrochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;18:_Representative_Metals_Metalloids_and_Nonmetals&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19:_Transition_Metals_and_Coordination_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20:_Organic_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21:_Nuclear_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;22:_Appendices&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Thu, 27 Oct 2022 17:15:14 GMT</div><div style="display:none" id="titleHolder">5.3: Calorimetry</div><div style="display:none" id="IDHolder">38166</div><div style="display:none" id="pageIDHolder">38166</div><div style="display:none" id="pageAuthorHolder">admin</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;calorimetry&quot;, &quot;bomb calorimeter&quot;, &quot;calorimeter&quot;, &quot;nutritional calorie&quot;, &quot;surroundings&quot;, &quot;system&quot;, &quot;authorname:openstax&quot;, &quot;showtoc:no&quot;, &quot;license:ccby&quot;, &quot;autonumheader:yes2&quot;, &quot;licenseversion:40&quot;, &quot;source@https://openstax.org/details/books/chemistry-2e&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;calorimetry&quot;, &quot;bomb calorimeter&quot;, &quot;calorimeter&quot;, &quot;nutritional calorie&quot;, &quot;surroundings&quot;, &quot;system&quot;, &quot;authorname:openstax&quot;, &quot;showtoc:no&quot;, &quot;license:ccby&quot;, &quot;autonumheader:yes2&quot;, &quot;licenseversion:40&quot;, &quot;source@https://openstax.org/details/books/chemistry-2e&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FGeneral_Chemistry%2FChemistry_1e_(OpenSTAX)%2F05%253A_Thermochemistry%2F5.03%253A_Calorimetry</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FGeneral_Chemistry%2FChemistry_1e_%28OpenSTAX%29%2F05%3A_Thermochemistry%2F5.03%3A_Calorimetry" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FGeneral_Chemistry%2FChemistry_1e_%28OpenSTAX%29%2F05%3A_Thermochemistry%2F5.03%3A_Calorimetry" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/General_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    General Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Chemistry 1e (OpenSTAX)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05%3A_Thermochemistry" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    5: Thermochemistry
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            5.3: Calorimetry
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        5.3: Calorimetry
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2022-10-27T17:15:14Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/38166/pdf/5.3%253A%2bCalorimetry.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>38166</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+<div class="mt-author-container"><ul><li class="mt-author-image mt-author-image-crop"><img src="https://biz.libretexts.org/@api/deki/files/5084/girl-160172__340.png" alt=" " title="OpenStax" /></li><li class="mt-author-information"><a rel="external" target="_blank" href="https://openstax.org/">OpenStax</a></li><li class="mt-author-programname"><a rel="external" target="_blank" href="https://openstax.org">OpenStax</a></li></ul></div>
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Learning_Objectives" rel="internal">&nbsp;Learning Objectives</a></li><li><a href="#Example_.5C(.5CPageIndex.7B1.7D.5C):_Heat_Transfer_between_Substances_at_Different_Temperatures" rel="internal">Example \(\PageIndex{1}\): Heat Transfer between Substances at Different Temperatures</a><ol><li><a href="#Solution" rel="internal">Solution</a></li></ol></li><li><a href="#Exercise_.5C(.5CPageIndex.7B1A.7D.5C)" rel="internal">Exercise \(\PageIndex{1A}\)</a></li><li><a href="#Exercise_.5C(.5CPageIndex.7B1B.7D.5C)" rel="internal">Exercise \(\PageIndex{1B}\)</a></li><li><a href="#Example_.5C(.5CPageIndex.7B2.7D.5C):_Identifying_a_Metal_by_Measuring_Specific_Heat" rel="internal">Example \(\PageIndex{2}\): Identifying a Metal by Measuring Specific Heat</a><ol><li><a href="#Solution_2" rel="internal">Solution</a></li></ol></li><li><a href="#Exercise_.5C(.5CPageIndex.7B2.7D.5C)" rel="internal">Exercise \(\PageIndex{2}\)</a></li><li><a href="#Example_.5C(.5CPageIndex.7B3.7D.5C):_Heat_Produced_by_an_Exothermic_Reaction" rel="internal">Example \(\PageIndex{3}\): Heat Produced by an Exothermic Reaction</a><ol><li><a href="#Solution_3" rel="internal">Solution</a></li></ol></li><li><a href="#Exercise_.5C(.5CPageIndex.7B3.7D.5C)" rel="internal">Exercise \(\PageIndex{3}\)</a></li><li><a href="#Thermochemistry_of_Hand_Warmers" rel="internal">Thermochemistry of Hand Warmers</a></li><li><a href="#Example_.5C(.5CPageIndex.7B4.7D.5C):_Heat_Flow_in_an_Instant_Ice_Pack" rel="internal">Example \(\PageIndex{4}\): Heat Flow in an Instant Ice Pack</a><ol><li><a href="#Solution_4" rel="internal">Solution</a></li></ol></li><li><a href="#Exercise_.5C(.5CPageIndex.7B4.7D.5C)" rel="internal">Exercise \(\PageIndex{4}\)</a></li><li><a href="#Example_.5C(.5CPageIndex.7B5.7D.5C):_Bomb_Calorimetry" rel="internal">Example \(\PageIndex{5}\): Bomb Calorimetry</a><ol><li><a href="#Solution_5" rel="internal">Solution</a></li></ol></li><li><a href="#Exercise_.5C(.5CPageIndex.7B5.7D.5C)" rel="internal">Exercise \(\PageIndex{5}\)</a></li><li><a href="#Measuring_Nutritional_Calories" rel="internal">Measuring Nutritional Calories</a></li><li><a href="#Summary" rel="internal">Summary</a></li><li><a href="#Footnotes" rel="internal">Footnotes</a></li><li><a href="#Glossary" rel="internal">Glossary</a></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <section class="box-objectives">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Learning_Objectives"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default"><span style="display:none;">&nbsp;</span>Learning Objectives</span></h5>
+
+<ul>
+    <li class="lt-chem-38166">Explain the technique of calorimetry</li>
+    <li class="lt-chem-38166">Calculate and interpret heat and related properties using typical calorimetry data</li>
+</ul>
+</div></section>
+
+<p class="lt-chem-38166">One technique we can use to measure the amount of heat involved in a chemical or physical process is known as <span>calorimetry</span>. Calorimetry is used to measure amounts of heat transferred to or from a substance. To do so, the heat is exchanged with a calibrated object (calorimeter). The change in temperature of the measuring part of the calorimeter is converted into the amount of heat (since the previous calibration was used to establish its heat capacity). The measurement of heat transfer using this approach requires the definition of a <span>system</span> (the substance or substances undergoing the chemical or physical change) and its <span>surroundings</span> (the other components of the measurement apparatus that serve to either provide heat to the system or absorb heat from the system). Knowledge of the heat capacity of the surroundings, and careful measurements of the masses of the system and surroundings and their temperatures before and after the process allows one to calculate the heat transferred as described in this section.</p>
+
+<p class="lt-chem-38166">A <span>calorimeter</span> is a device used to measure the amount of heat involved in a chemical or physical process. For example, when an exothermic reaction occurs in solution in a calorimeter, the heat produced by the reaction is absorbed by the solution, which increases its temperature. When an endothermic reaction occurs, the heat required is absorbed from the thermal energy of the solution, which decreases its temperature (Figure \(\PageIndex{1}\)). The temperature change, along with the specific heat and mass of the solution, can then be used to calculate the amount of heat involved in either case.</p>
+
+<figure><img alt=" " style="width: 808px; height: 404px;" width="808px" height="404px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/57428/CNX_Chem_05_02_HeatMeas.jpg?revision=1&amp;size=bestfit&amp;width=808&amp;height=404" />
+<figcaption>Figure \(\PageIndex{1}\): In a calorimetric determination, either (a) an exothermic process occurs and heat, q, is negative, indicating that thermal energy is transferred from the system to its surroundings, or (b) an endothermic process occurs and heat, q, is positive, indicating that thermal energy is transferred from the surroundings to the system.</figcaption>
+
+<figcaption>Two diagrams labeled a and b are shown. Each is made up of two rectangular containers with a thermometer inserted into the top right and extending inside. There is a right facing arrow connecting each box in each diagram. The left container in diagram a depicts a pink and green swirling solution with the terms &ldquo;Exothermic process&rdquo; and &ldquo;System&rdquo; written in the center with arrows facing away from the terms pointing to &ldquo;q.&rdquo; The labels &ldquo;Solution&rdquo; and &ldquo;Surroundings&rdquo; are written at the bottom of the container. The right container in diagram a has the term &ldquo;Solution&rdquo; written at the bottom of the container and a red arrow facing up near the thermometer with the phrase &ldquo;Temperature increased&rdquo; next to it. The pink and green swirls are more blended in this container. The left container in diagram b depicts a purple and blue swirling solution with the terms &ldquo;Endothermic process&rdquo; and &ldquo;System&rdquo; written in the center with arrows facing away from the terms and &ldquo;Solution&rdquo; and &ldquo;Surroundings&rdquo; written at the bottom. The arrows point away from the letter &ldquo;q.&rdquo; The right container in diagram b has the term &ldquo;Solution&rdquo; written at the bottom and a red arrow facing down near the thermometer with the phrase &ldquo;Temperature decreased&rdquo; next to it. The blue and purple swirls are more blended in this container.</figcaption>
+</figure>
+
+<section class="box-emphasis">
+<p class="lt-chem-38166">By convention, q is given a negative (-) sign when the system releases heat to the surroundings (exothermic); q is given a positive (+) sign when the system absorbs heat from the surroundings (endothermic).</p>
+</section>
+
+<p class="lt-chem-38166">Scientists use well-insulated calorimeters that all but prevent the transfer of heat between the calorimeter and its environment. This enables the accurate determination of the heat involved in chemical processes, the energy content of foods, and so on. General chemistry students often use simple calorimeters constructed from polystyrene cups (Figure \(\PageIndex{2}\)). These easy-to-use &ldquo;coffee cup&rdquo; calorimeters allow more heat exchange with their surroundings, and therefore produce less accurate energy values.</p>
+
+<figure><img alt=" " height="440" width="275" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/57430/CNX_Chem_05_02_Calorim.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{2}\): A simple calorimeter can be constructed from two polystyrene cups. A thermometer and stirrer extend through the cover into the reaction mixture.</figcaption>
+
+<figcaption>Two Styrofoam cups are shown nested in one another with a cover over the top. A thermometer and stirring rod are inserted through the cover and into the solution inside the cup, which is shown as a cut-away. The stirring rod has a double headed arrow next to it facing up and down. The liquid mixture inside the cup is labeled &ldquo;Reaction mixture.&rdquo;</figcaption>
+</figure>
+
+<p class="lt-chem-38166">Commercial solution calorimeters are also available. Relatively inexpensive calorimeters often consist of two thin-walled cups that are nested in a way that minimizes thermal contact during use, along with an insulated cover, handheld stirrer, and simple thermometer. More expensive calorimeters used for industry and research typically have a well-insulated, fully enclosed reaction vessel, motorized stirring mechanism, and a more accurate temperature sensor (Figure \(\PageIndex{3}\)).</p>
+
+<figure><img alt=" " style="width: 699px; height: 450px;" width="699px" height="450px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/57433/CNX_Chem_05_02_Calorim2.jpg?revision=1&amp;size=bestfit&amp;width=699&amp;height=450" />
+<figcaption>Figure \(\PageIndex{3}\): Commercial solution calorimeters range from (a) simple, inexpensive models for student use to (b) expensive, more accurate models for industry and research.</figcaption>
+
+<figcaption>Two diagrams are shown and labeled a and b. Diagram a depicts a thermometer which passes through a disk-like insulating cover and into a metal cylinder which is labeled &ldquo;metal inner vessel,&rdquo; which is in turn nested in a metal cylinder labeled &ldquo;metal outer vessel.&rdquo; The inner cylinder rests on an insulating support ring. A stirrer passes through the insulating cover and into the inner cylinder as well. Diagram b shows an inner metal vessel half full of liquid resting on an insulating support ring and nested in a metal outer vessel. A precision temperature probe and motorized stirring rod are placed into the solution in the inner vessel and connected by wires to equipment exterior to the set-up.</figcaption>
+</figure>
+
+<p class="lt-chem-38166">Before we practice calorimetry problems involving chemical reactions, consider a simple example that illustrates the core idea behind calorimetry. Suppose we initially have a high-temperature substance, such as a hot piece of metal (M), and a low-temperature substance, such as cool water (W). If we place the metal in the water, heat will flow from M to W. The temperature of M will decrease, and the temperature of W will increase, until the two substances have the same temperature&mdash;that is, when they reach thermal equilibrium (Figure \(\PageIndex{4}\)). If this occurs in a calorimeter, ideally all of this heat transfer occurs between the two substances, with no heat gained or lost by either the calorimeter or the calorimeter&rsquo;s surroundings. Under these ideal circumstances, the net heat change is zero:</p>
+
+<p class="mt-align-center lt-chem-38166">\[q_\mathrm{\,substance\: M} + q_\mathrm{\,substance\: W}=0 \label{5.3.1} \]</p>
+
+<p class="lt-chem-38166">This relationship can be rearranged to show that the heat gained by substance M is equal to the heat lost by substance W:</p>
+
+<p class="mt-align-center lt-chem-38166">\[q_\mathrm{\,substance\: M}=-q_\mathrm{\,substance\: W} \label{5.3.2} \]</p>
+
+<p class="lt-chem-38166">The magnitude of the heat (change) is therefore the same for both substances, and the negative sign merely shows that \(q_{substance\, M}\) and \(q_{substance\, W}\) are opposite in direction of heat flow (gain or loss) but does not indicate the arithmetic sign of either <em>q</em> value (that is determined by whether the matter in question gains or loses heat, per definition). In the specific situation described, \(q_{substance\, M}\) is a negative value and \(q_{substance\, W}\) is positive, since heat is transferred from M to W.</p>
+
+<figure><img alt=" " style="width: 428px; height: 426px;" width="428px" height="426px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/57437/CNX_Chem_05_02_HeatTrans2.jpg?revision=1&amp;size=bestfit&amp;width=428&amp;height=426" />
+<figcaption>Figure \(\PageIndex{4}\): In a simple calorimetry process, (a) heat, q, is transferred from the hot metal, M, to the cool water, W, until (b) both are at the same temperature.</figcaption>
+
+<figcaption>Two diagrams are shown and labeled a and b. Each diagram is composed of a rectangular container with a thermometer inserted inside from the top right corner. Both containers are connected by a right-facing arrow. Both containers are full of water, which is depicted by the letter &ldquo;W,&rdquo; and each container has a square in the middle which represents a metal which is labeled with a letter &ldquo;M.&rdquo; In diagram a, the metal is drawn in brown and has three arrows facing away from it. Each arrow has the letter &ldquo;q&rdquo; at its end. The metal is labeled &ldquo;system&rdquo; and the water is labeled &ldquo;surroundings.&rdquo; The thermometer in this diagram has a relatively low reading. In diagram b, the metal is depicted in purple and the thermometer has a relatively high reading.</figcaption>
+</figure>
+
+<section class="box-example">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B1.7D.5C):_Heat_Transfer_between_Substances_at_Different_Temperatures"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default">Example \(\PageIndex{1}\): <span>Heat Transfer between Substances at Different Temperatures</span></span></h5>
+
+<p class="lt-chem-38166">A hot 360-g piece of rebar (a steel rod used for reinforcing concrete) is dropped into 425 mL of water at 24.0 &deg;C. The final temperature of the water is measured as 42.7 &deg;C. Calculate the initial temperature of the piece of rebar. Assume the specific heat of steel is approximately the same as that for iron (Table T4), and that all heat transfer occurs between the rebar and the water (there is no heat exchange with the surroundings).</p>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Solution"></span><h6 class="editable"><span>Solution</span></h6>
+
+<p class="lt-chem-38166">The temperature of the water increases from 24.0 &deg;C to 42.7 &deg;C, so the water absorbs heat. That heat came from the piece of rebar, which initially was at a higher temperature. Assuming that all heat transfer was between the rebar and the water, with no heat &ldquo;lost&rdquo; to the surroundings, then heat given off by rebar = &minus; heat taken in by water, or:</p>
+
+<p class="lt-chem-38166">\[q_\ce{rebar}=&minus;q_\ce{water} \nonumber \]</p>
+
+<p class="lt-chem-38166">Since we know how heat is related to other measurable quantities, we have:</p>
+
+<p class="lt-chem-38166">\[(c&times;m&times;&Delta;T)_\ce{rebar}=&minus;(c&times;m&times;&Delta;T)_\ce{water} \nonumber \]</p>
+
+<p class="lt-chem-38166">Letting f = final and i = initial, in expanded form, this becomes:</p>
+
+<p class="lt-chem-38166">\[ c_\ce{rebar}&times;m_\ce{rebar}&times;(T_\mathrm{f,rebar}&minus;T_\mathrm{i,rebar})=&minus;c_\ce{water}&times;m_\ce{water}&times;(T_\mathrm{f,water}&minus;T_\mathrm{i,water}) \nonumber \]</p>
+
+<p class="lt-chem-38166">The density of water is 1.0 g/mL, so 425 mL of water = 425 g. Noting that the final temperature of both the rebar and water is 42.7 &deg;C, substituting known values yields:</p>
+
+<p class="lt-chem-38166">\[ \mathrm{(0.449\:J/g\: &deg;C)(360g)(42.7&deg;C&minus;\mathit T_\mathrm{i,rebar})=-(4.184\:J/g\: &deg;C)(425\:g)(42.7&deg;C&minus;24.0&deg;C)} \nonumber \]</p>
+
+<p class="lt-chem-38166">\[\mathrm{\mathit T_{i,rebar}=\dfrac{(4.184\:J/g\: &deg;C)(425\:g)(42.7&deg;C&minus;24.0&deg;C)}{(0.449\:J/g\: &deg;C)(360\:g)}+42.7&deg;C} \nonumber \]</p>
+
+<p class="lt-chem-38166">Solving this gives Ti,rebar= 248 &deg;C, so the initial temperature of the rebar was 248 &deg;C.</p>
+</div></div></section>
+
+<section class="box-exercise">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B1A.7D.5C)"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default">Exercise \(\PageIndex{1A}\)</span></h5>
+
+<p class="lt-chem-38166">A 248-g piece of copper is dropped into 390 mL of water at 22.6 &deg;C. The final temperature of the water was measured as 39.9 &deg;C. Calculate the initial temperature of the piece of copper. Assume that all heat transfer occurs between the copper and the water.</p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p class="lt-chem-38166">The initial temperature of the copper was 335.6 &deg;C.</p>
+    </dd>
+</dl>
+</div></section>
+
+<section class="box-exercise">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B1B.7D.5C)"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default">Exercise \(\PageIndex{1B}\)</span></h5>
+
+<p class="lt-chem-38166">A 248-g piece of copper initially at 314 &deg;C is dropped into 390 mL of water initially at 22.6 &deg;C. Assuming that all heat transfer occurs between the copper and the water, calculate the final temperature.</p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p class="lt-chem-38166">The final temperature (reached by both copper and water) is 38.7 &deg;C.</p>
+    </dd>
+</dl>
+</div></section>
+
+<p class="lt-chem-38166"><span class="rangySelectionBoundary">&#65279;</span>This method can also be used to determine other quantities, such as the specific heat of an unknown metal.</p>
+
+<section class="box-example">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B2.7D.5C):_Identifying_a_Metal_by_Measuring_Specific_Heat"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default">Example \(\PageIndex{2}\): <span>Identifying a Metal by Measuring Specific Heat</span></span></h5>
+
+<p class="lt-chem-38166">A 59.7 g piece of metal that had been submerged in boiling water was quickly transferred into 60.0 mL of water initially at 22.0 &deg;C. The final temperature is 28.5 &deg;C. Use these data to determine the specific heat of the metal. Use this result to identify the metal.</p>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Solution_2"></span><h6 class="editable">Solution</h6>
+
+<p class="lt-chem-38166">Assuming perfect heat transfer, heat given off by metal = &minus;heat taken in by water, or:</p>
+
+<p class="lt-chem-38166">\[q_\ce{metal}=&minus;q_\ce{water} \nonumber \]</p>
+
+<p class="lt-chem-38166">In expanded form, this is:</p>
+
+<p class="lt-chem-38166">\[c_\ce{metal}&times;m_\ce{metal}&times;(T_\mathrm{f,metal}&minus;T_\mathrm{i, metal})=&minus;c_\ce{water}&times;m_\ce{water}&times;(T_\mathrm{f,water}&minus;T_\mathrm{i,water}) \nonumber \]</p>
+
+<p class="lt-chem-38166">Noting that since the metal was submerged in boiling water, its initial temperature was 100.0 &deg;C; and that for water, 60.0 mL = 60.0 g; we have:</p>
+
+<p class="lt-chem-38166">\[\mathrm{(\mathit c_{metal})(59.7\:g)(28.5&deg;C&minus;100.0&deg;C)=&minus;(4.18\:J/g\: &deg;C)(60.0\:g)(28.5&deg;C&minus;22.0&deg;C)} \nonumber \]</p>
+
+<p class="lt-chem-38166">Solving this:</p>
+
+<p class="lt-chem-38166">\[\mathrm{\mathit c_{metal}=\dfrac{&minus;(4.184\:J/g\: &deg;C)(60.0\:g)(6.5&deg;C)}{(59.7\:g)(&minus;71.5&deg;C)}=0.38\:J/g\: &deg;C} \nonumber \]</p>
+
+<p class="lt-chem-38166">Comparing this with values in Table T4, our experimental specific heat is closest to the value for copper (0.39 J/g &deg;C), so we identify the metal as copper.</p>
+</div></div></section>
+
+<section class="box-exercise">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B2.7D.5C)"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default">Exercise \(\PageIndex{2}\)</span></h5>
+
+<p class="lt-chem-38166">A 92.9-g piece of a silver/gray metal is heated to 178.0 &deg;C, and then quickly transferred into 75.0 mL of water initially at 24.0 &deg;C. After 5 minutes, both the metal and the water have reached the same temperature: 29.7 &deg;C. Determine the specific heat and the identity of the metal. (Note: You should find that the specific heat is close to that of two different metals. Explain how you can confidently determine the identity of the metal).</p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p class="lt-chem-38166">\(c_{metal}= 0.13 \;J/g\; &deg;C\)</p>
+
+    <p class="lt-chem-38166">This specific heat is close to that of either gold or lead. It would be difficult to determine which metal this was based solely on the numerical values. However, the observation that the metal is silver/gray in addition to the value for the specific heat indicates that the metal is lead.</p>
+    </dd>
+</dl>
+</div></section>
+
+<p class="lt-chem-38166 mt-align-center">&nbsp;</p>
+
+<p class="lt-chem-38166">When we use calorimetry to determine the heat involved in a chemical reaction, the same principles we have been discussing apply. The amount of heat absorbed by the calorimeter is often small enough that we can neglect it (though not for highly accurate measurements, as discussed later), and the calorimeter minimizes energy exchange with the surroundings. Because energy is neither created nor destroyed during a chemical reaction, there is no overall energy change during the reaction. The heat produced or consumed in the reaction (the &ldquo;system&rdquo;), <em>q</em><sub>reaction</sub>, plus the heat absorbed or lost by the solution (the &ldquo;surroundings&rdquo;), \(q_{solution}\), must add up to zero:</p>
+
+<p class="lt-chem-38166">\[q_\ce{reaction}+q_\ce{solution}=0\ \label{ 5.3.10} \]</p>
+
+<p class="lt-chem-38166">This means that the amount of heat produced or consumed in the reaction equals the amount of heat absorbed or lost by the solution:</p>
+
+<p class="mt-align-center lt-chem-38166">\[q_\ce{reaction}=&minus;q_\ce{solution} \label{5.3.11} \]</p>
+
+<p class="lt-chem-38166">This concept lies at the heart of all calorimetry problems and calculations.</p>
+
+<section class="box-example">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B3.7D.5C):_Heat_Produced_by_an_Exothermic_Reaction"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default">Example \(\PageIndex{3}\): <span>Heat Produced by an Exothermic Reaction</span></span></h5>
+
+<p class="lt-chem-38166">When 50.0 mL of 0.10 M HCl(<em>aq</em>) and 50.0 mL of 1.00 M NaOH(<em>aq</em>), both at 22.0 &deg;C, are added to a coffee cup calorimeter, the temperature of the mixture reaches a maximum of 28.9 &deg;C. What is the approximate amount of heat produced by this reaction?</p>
+
+<p class="mt-align-center lt-chem-38166">\[\ce{HCl}(aq)+\ce{NaOH}(aq)&#10230;\ce{NaCl}(aq)+\ce{H2O}(l) \nonumber \]</p>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Solution_3"></span><h6 class="editable">S<span>olution</span></h6>
+
+<p class="lt-chem-38166">To visualize what is going on, imagine that you could combine the two solutions so quickly that no reaction took place while they mixed; then after mixing, the reaction took place. At the instant of mixing, you have 100.0 mL of a mixture of HCl and NaOH at 22.0 &deg;C. The HCl and NaOH then react until the solution temperature reaches 28.9 &deg;C.</p>
+
+<p class="lt-chem-38166">The heat given off by the reaction is equal to that taken in by the solution. Therefore:</p>
+
+<p class="mt-align-center lt-chem-38166">\[q_\ce{reaction}=&minus;q_\ce{solution} \nonumber \]</p>
+
+<p class="lt-chem-38166">(It is important to remember that this relationship only holds if the calorimeter does not absorb any heat from the reaction, and there is no heat exchange between the calorimeter and its surroundings.)</p>
+
+<p class="lt-chem-38166">Next, we know that the heat absorbed by the solution depends on its specific heat, mass, and temperature change:</p>
+
+<p class="mt-align-center lt-chem-38166">\[q_\ce{solution}=(c&times;m&times;&Delta;T)_\ce{solution} \nonumber \]</p>
+
+<p class="lt-chem-38166">To proceed with this calculation, we need to make a few more reasonable assumptions or approximations. Since the solution is aqueous, we can proceed as if it were water in terms of its specific heat and mass values. The density of water is approximately 1.0 g/mL, so 100.0 mL has a mass of about 1.0 &times; 10<sup>2</sup> g (two significant figures). The specific heat of water is approximately 4.18 J/g &deg;C, so we use that for the specific heat of the solution. Substituting these values gives:</p>
+
+<p class="mt-align-center lt-chem-38166">\[\mathrm{\mathit q_{solution}=(4.184\:J/g\: &deg;C)(1.0&times;10^2\:g)(28.9&deg;C&minus;22.0&deg;C)=2.89&times;10^3\:J} \nonumber \]</p>
+
+<p class="lt-chem-38166">Finally, since we are trying to find the heat of the reaction, we have:</p>
+
+<p class="mt-align-center lt-chem-38166">\[q_\ce{reaction}=&minus;q_\ce{solution}=&minus;2.89&times;10^3\:J \nonumber \]</p>
+
+<p class="lt-chem-38166">The negative sign indicates that the reaction is exothermic. It produces 2.89 kJ of heat.</p>
+</div></div></section>
+
+<section class="box-exercise">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B3.7D.5C)"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default">Exercise \(\PageIndex{3}\)</span></h5>
+
+<p class="lt-chem-38166">When 100 mL of 0.200 M NaCl(<em>aq</em>) and 100 mL of 0.200 M AgNO<sub>3</sub>(<em>aq</em>), both at 21.9 &deg;C, are mixed in a coffee cup calorimeter, the temperature increases to 23.5 &deg;C as solid AgCl forms. How much heat is produced by this precipitation reaction? What assumptions did you make to determine your value?</p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p class="lt-chem-38166">\(1.34 \times 10^3\; J\); assume no heat is absorbed by the calorimeter, no heat is exchanged between the calorimeter and its surroundings, and that the specific heat and mass of the solution are the same as those for water</p>
+    </dd>
+</dl>
+</div></section>
+
+<section class="box-note">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Thermochemistry_of_Hand_Warmers"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default">Thermochemistry of Hand Warmers</span></h5>
+
+<p class="lt-chem-38166">When working or playing outdoors on a cold day, you might use a hand warmer to warm your hands (Figure \(\PageIndex{5}\)). A common reusable hand warmer contains a supersaturated solution of NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> (sodium acetate) and a metal disc. Bending the disk creates nucleation sites around which the metastable NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> quickly crystallizes (a later chapter on solutions will investigate saturation and supersaturation in more detail).</p>
+
+<p class="lt-chem-38166">The process \(\ce{NaC2H3O2}(aq)&#10230;\ce{NaC2H3O2}(s)\) is exothermic, and the heat produced by this process is absorbed by your hands, thereby warming them (at least for a while). If the hand warmer is reheated, the NaC<sub>2</sub>H<sub>3</sub>O<sub>2</sub> redissolves and can be reused.</p>
+
+<figure><img alt=" " style="width: 806px; height: 167px;" width="806px" height="167px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/57435/CNX_Chem_05_02_HandWarmer.jpg?revision=1&amp;size=bestfit&amp;width=806&amp;height=167" />
+<figcaption>Figure \(\PageIndex{5}\): Chemical hand warmers produce heat that warms your hand on a cold day. In this one, you can see the metal disc that initiates the exothermic precipitation reaction. (credit: modification of work by Science Buddies TV/YouTube)</figcaption>
+
+<figcaption>A series of three photos is shown. There are two right-facing arrows connecting one photo to the next. The first photo shows a chemical hand warmer. It is a bag that contains a clear, colorless liquid. There is a white disk located to the right inside the bag. The second photo shows the same thing, except the white disc has become a white, cloudy substance. The third photo shows the entire bag filled with this white substance.</figcaption>
+</figure>
+
+<p class="lt-chem-38166">Another common hand warmer produces heat when it is ripped open, exposing iron and water in the hand warmer to oxygen in the air. One simplified version of this exothermic reaction is</p>
+
+<p class="mt-align-center lt-chem-38166">\[\ce{2Fe(s) + 3/2 O2(g) &#10230; Fe2O3(s)}.\ n\nonumber \]</p>
+
+<p class="lt-chem-38166">Salt in the hand warmer catalyzes the reaction, so it produces heat more rapidly; cellulose, vermiculite, and activated carbon help distribute the heat evenly. Other types of hand warmers use lighter fluid (a platinum catalyst helps lighter fluid oxidize exothermically), charcoal (charcoal oxidizes in a special case), or electrical units that produce heat by passing an electrical current from a battery through resistive wires.</p>
+</div></section>
+
+<section class="box-example">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B4.7D.5C):_Heat_Flow_in_an_Instant_Ice_Pack"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default">Example \(\PageIndex{4}\): <span>Heat Flow in an Instant Ice Pack</span></span></h5>
+
+<p class="lt-chem-38166">When solid ammonium nitrate dissolves in water, the solution becomes cold. This is the basis for an &ldquo;instant ice pack&rdquo; (Figure \(\PageIndex{5}\)). When 3.21 g of solid NH<sub>4</sub>NO<sub>3</sub> dissolves in 50.0 g of water at 24.9 &deg;C in a calorimeter, the temperature decreases to 20.3 &deg;C.</p>
+
+<p class="lt-chem-38166">Calculate the value of <em>q</em> for this reaction and explain the meaning of its arithmetic sign. State any assumptions that you made.</p>
+
+<figure><img alt=" " style="width: 459px; height: 374px;" width="459px" height="374px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/163374/5.2.2.png?revision=1&amp;size=bestfit&amp;width=459&amp;height=374" />
+<figcaption>Figure \(\PageIndex{5}\): An instant cold pack consists of a bag containing solid ammonium nitrate and a second bag of water. When the bag of water is broken, the pack becomes cold because the dissolution of ammonium nitrate is an endothermic process that removes thermal energy from the water. The cold pack then removes thermal energy from your body.</figcaption>
+</figure>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Solution_4"></span><h6 class="editable"><span>Solution</span></h6>
+
+<p class="lt-chem-38166">We assume that the calorimeter prevents heat transfer between the solution and its external environment (including the calorimeter itself), in which case:</p>
+
+<p class="mt-align-center lt-chem-38166">\[q_\ce{rxn}=&minus;q_\ce{soln} \nonumber \]</p>
+
+<p class="lt-chem-38166">with &ldquo;rxn&rdquo; and &ldquo;soln&rdquo; used as shorthand for &ldquo;reaction&rdquo; and &ldquo;solution,&rdquo; respectively.</p>
+
+<p class="lt-chem-38166">Assuming also that the specific heat of the solution is the same as that for water, we have:</p>
+
+<p class="lt-chem-38166">\[\begin{align*} q_\ce{rxn} &amp;=&minus;q_\ce{soln}=&minus;(c&times;m&times;&Delta;T)_\ce{soln}\\ &amp;=\mathrm{&minus;[(4.184J/g\: &deg;C)&times;(53.2\:g)&times;(20.3&deg;C&minus;24.9&deg;C)]}\\ &amp;=\mathrm{&minus;[(4.184J/g\: &deg;C)&times;(53.2\:g)&times;(&minus;4.6&deg;C)]}\\ &amp;+\mathrm{1.0&times;10^3\:J=+1.0\:kJ} \end{align*}\]</p>
+
+<p class="lt-chem-38166">The positive sign for <em>q</em> indicates that the dissolution is an endothermic process.</p>
+</div></div></section>
+
+<section class="box-exercise">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B4.7D.5C)"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default">Exercise \(\PageIndex{4}\)</span></h5>
+
+<p class="lt-chem-38166">When a 3.00-g sample of KCl was added to 3.00 &times; 10<sup>2</sup> g of water in a coffee cup calorimeter, the temperature decreased by 1.05 &deg;C. How much heat is involved in the dissolution of the KCl? What assumptions did you make?</p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p class="lt-chem-38166">1.33 kJ; assume that the calorimeter prevents heat transfer between the solution and its external environment (including the calorimeter itself) and that the specific heat of the solution is the same as that for water.</p>
+    </dd>
+</dl>
+</div></section>
+
+<p class="lt-chem-38166">If the amount of heat absorbed by a calorimeter is too large to neglect or if we require more accurate results, then we must take into account the heat absorbed both by the solution and by the calorimeter.</p>
+
+<figure><img alt=" " style="width: 592px; height: 296px;" width="592px" height="296px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/57438/CNX_Chem_05_02_BombCalor.jpg?revision=1&amp;size=bestfit&amp;width=592&amp;height=296" />
+<figcaption>Figure \(\PageIndex{6}\): (a) A bomb calorimeter is used to measure heat produced by reactions involving gaseous reactants or products, such as combustion. (b) The reactants are contained in the gas-tight &ldquo;bomb,&rdquo; which is submerged in water and surrounded by insulating materials. (credit a: modification of work by &ldquo;Harbor1&rdquo;/Wikimedia commons)</figcaption>
+
+<figcaption>A picture and a diagram are shown, labeled a and b, respectively. Picture a depicts a bomb calorimeter. It is a cube-shaped machine with a cavity in the top, a metal cylinder that is above the cavity, and a read-out panel attached to the top-right side. Diagram b depicts a cut away figure of a cube with a cylindrical container full of water in the middle of it. Another container, labeled &ldquo;bomb,&rdquo; sits inside of a smaller cylinder which holds a sample cup and is nested in the cylindrical container surrounded by the water. A black line extends into the water and is labeled &ldquo;Precision thermometer.&rdquo; Two wires labeled &ldquo;Electrodes&rdquo; extend away from a cover that sits on top of the interior container. A read-out panel is located at the top right of the cube.</figcaption>
+</figure>
+
+<p class="lt-chem-38166">The calorimeters described are designed to operate at constant (atmospheric) pressure and are convenient to measure heat flow accompanying processes that occur in solution. A different type of calorimeter that operates at constant volume, colloquially known as a <span>bomb calorimeter</span>, is used to measure the energy produced by reactions that yield large amounts of heat and gaseous products, such as combustion reactions. (The term &ldquo;bomb&rdquo; comes from the observation that these reactions can be vigorous enough to resemble explosions that would damage other calorimeters.) This type of calorimeter consists of a robust steel container (the &ldquo;bomb&rdquo;) that contains the reactants and is itself submerged in water (Figure \(\PageIndex{6}\)). The sample is placed in the bomb, which is then filled with oxygen at high pressure. A small electrical spark is used to ignite the sample. The energy produced by the reaction is trapped in the steel bomb and the surrounding water. The temperature increase is measured and, along with the known heat capacity of the calorimeter, is used to calculate the energy produced by the reaction. Bomb calorimeters require calibration to determine the heat capacity of the calorimeter and ensure accurate results. The calibration is accomplished using a reaction with a known <em>q</em>, such as a measured quantity of benzoic acid ignited by a spark from a nickel fuse wire that is weighed before and after the reaction. The temperature change produced by the known reaction is used to determine the heat capacity of the calorimeter. The calibration is generally performed each time before the calorimeter is used to gather research data.</p>
+
+<div class="mt-video-widget mt-video-width-55" data-video-url="http://www.youtube.com/embed/RJXq92dzAWA"><div style="width: 624px; height: 351px; position: relative; padding-bottom: 0;"><iframe src="https://www.youtube.com/embed/RJXq92dzAWA?vq=hd1080" frameborder="0" allowfullscreen="true" style="width: 100%; height: 100%; position: absolute"></iframe></div></div>
+
+<p class="mt-align-center lt-chem-38166"><em><strong>Video \(\PageIndex{1}\): Video of view how a bomb calorimeter is prepared for action.</strong></em></p>
+
+<section class="box-example">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B5.7D.5C):_Bomb_Calorimetry"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default">Example \(\PageIndex{5}\): <span>Bomb Calorimetry</span></span></h5>
+
+<p class="lt-chem-38166">When 3.12 g of glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>, is burned in a bomb calorimeter, the temperature of the calorimeter increases from 23.8 &deg;C to 35.6 &deg;C. The calorimeter contains 775 g of water, and the bomb itself has a heat capacity of 893 J/&deg;C. How much heat was produced by the combustion of the glucose sample?</p>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Solution_5"></span><h6 class="editable"><span>Solution</span></h6>
+
+<p class="lt-chem-38166">The combustion produces heat that is primarily absorbed by the water and the bomb. (The amounts of heat absorbed by the reaction products and the unreacted excess oxygen are relatively small and dealing with them is beyond the scope of this text. We will neglect them in our calculations.)</p>
+
+<p class="lt-chem-38166">The heat produced by the reaction is absorbed by the water and the bomb:</p>
+
+<p class="lt-chem-38166">\[\begin{align*}<br />
+&amp;q_\ce{rxn}=&minus;(q_\ce{water}+q_\ce{bomb})\\<br />
+&amp;=\mathrm{&minus;[(4.184\:J/g\: &deg;C)&times;(775\:g)&times;(35.6&deg;C&minus;23.8&deg;C)+893\:J/&deg;C&times;(35.6&deg;C&minus;23.8&deg;C)]}\\<br />
+&amp;=\mathrm{&minus;(38,300\:J+10,500\:J)}\\<br />
+&amp;=\mathrm{&minus;48,800\: J=&minus;48.8\: kJ}<br />
+\end{align*} \nonumber \]</p>
+
+<p class="lt-chem-38166">This reaction released 48.7 kJ of heat when 3.12 g of glucose was burned.</p>
+</div></div></section>
+
+<section class="box-exercise">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B5.7D.5C)"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default">Exercise \(\PageIndex{5}\)</span></h5>
+
+<p class="lt-chem-38166">When 0.963 g of benzene, C<sub>6</sub>H<sub>6</sub>, is burned in a bomb calorimeter, the temperature of the calorimeter increases by 8.39 &deg;C. The bomb has a heat capacity of 784 J/&deg;C and is submerged in 925 mL of water. How much heat was produced by the combustion of the glucose sample?</p>
+<span class="rangySelectionBoundary">&#65279;</span><strong class="emphasis bold">Answer</strong>
+
+<dl>
+    <dd>
+    <p class="lt-chem-38166">39.0 kJ</p>
+    </dd>
+</dl>
+</div></section>
+
+<p class="lt-chem-38166">Since the first one was constructed in 1899, 35 calorimeters have been built to measure the heat produced by a living person.<a name="footnote-ref1" href="http://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6@9.110:30/Calorimetry#footnote1" target="_blank" rel="external noopener nofollow" class="external"><sup>1</sup></a> These whole-body calorimeters of various designs are large enough to hold an individual human being. More recently, whole-room calorimeters allow for relatively normal activities to be performed, and these calorimeters generate data that more closely reflect the real world. These calorimeters are used to measure the metabolism of individuals under different environmental conditions, different dietary regimes, and with different health conditions, such as diabetes. In humans, metabolism is typically measured in Calories per day. A <span>nutritional calorie (Calorie)</span> is the energy unit used to quantify the amount of energy derived from the metabolism of foods; one Calorie is equal to 1000 calories (1 kcal), the amount of energy needed to heat 1 kg of water by 1 &deg;C.</p>
+
+<section class="box-note">
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section"><span id="Measuring_Nutritional_Calories"></span><h5 class="box-legend lt-chem-38166 editable"><span class="lt-icon-default">Measuring Nutritional Calories</span></h5>
+
+<p class="lt-chem-38166">In your day-to-day life, you may be more familiar with energy being given in Calories, or nutritional calories, which are used to quantify the amount of energy in foods. One calorie (cal) = exactly 4.184 joules, and one Calorie (note the capitalization) = 1000 cal, or 1 kcal. (This is approximately the amount of energy needed to heat 1 kg of water by 1 &deg;C.)</p>
+
+<p class="lt-chem-38166">The macronutrients in food are proteins, carbohydrates, and fats or oils. Proteins provide about 4 Calories per gram, carbohydrates also provide about 4 Calories per gram, and fats and oils provide about 9 Calories/g. Nutritional labels on food packages show the caloric content of one serving of the food, as well as the breakdown into Calories from each of the three macronutrients (Figure \(\PageIndex{7}\)).</p>
+
+<figure><img alt=" " class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/163375/5.2.4.png?revision=1" />
+<figcaption>Figure \(\PageIndex{7}\): (a) Macaroni and cheese contain energy in the form of the macronutrients in the food. (b) The food&rsquo;s nutritional information is shown on the package label. In the <abbr title="United States">US</abbr>, the energy content is given in Calories (per serving); the rest of the world usually uses kilojoules. (credit a: modification of work by &ldquo;Rex Roof&rdquo;/Flickr)</figcaption>
+</figure>
+
+<p class="lt-chem-38166">For the example shown in (b), the total energy per 228-g portion is calculated by:</p>
+
+<p class="mt-align-center lt-chem-38166">\[\mathrm{(5\:g\: protein&times;4\:Calories/g)+(31\:g\: carb&times;4\:Calories/g)+(12\:g\: fat&times;9\:Calories/g)=252\:Calories} \label{5.3.X} \]</p>
+
+<p class="lt-chem-38166">So, you can use food labels to count your Calories. But where do the values come from? And how accurate are they? The caloric content of foods can be determined by using bomb calorimetry; that is, by burning the food and measuring the energy it contains. A sample of food is weighed, mixed in a blender, freeze-dried, ground into powder, and formed into a pellet. The pellet is burned inside a bomb calorimeter, and the measured temperature change is converted into energy per gram of food.</p>
+
+<p class="lt-chem-38166">Today, the caloric content on food labels is derived using a method called the <span class="no-emphasis">Atwater system</span> that uses the average caloric content of the different chemical constituents of food, protein, carbohydrate, and fats. The average amounts are those given in the equation and are derived from the various results given by bomb calorimetry of whole foods. The carbohydrate amount is discounted a certain amount for the fiber content, which is indigestible carbohydrate. To determine the energy content of a food, the quantities of carbohydrate, protein, and fat are each multiplied by the average Calories per gram for each and the products summed to obtain the total energy.</p>
+</div></section>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section" id="section_1"><span id="Summary"></span><h2 class="NoAuto editable">Summary</h2>
+
+<p class="lt-chem-38166">Calorimetry is used to measure the amount of thermal energy transferred in a chemical or physical process. This requires careful measurement of the temperature change that occurs during the process and the masses of the system and surroundings. These measured quantities are then used to compute the amount of heat produced or consumed in the process using known mathematical relations. Calorimeters are designed to minimize energy exchange between the system being studied and its surroundings. They range from simple coffee cup calorimeters used by introductory chemistry students to sophisticated bomb calorimeters used to determine the energy content of food.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section" id="section_2"><span id="Footnotes"></span><h2 class="NoAuto editable">Footnotes</h2>
+
+<ol>
+    <li class="lt-chem-38166"><a name="footnote1" href="http://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6@9.110:30/Calorimetry#footnote-ref1" target="_blank" rel="external noopener nofollow" class="external">1</a> Francis D. Reardon et al. &ldquo;The Snellen human calorimeter revisited, re-engineered and upgraded: Design and performance characteristics.&rdquo; <em>Medical and Biological Engineering and Computing</em> 8 (2006)721&ndash;28, <a title="http://link.springer.com/article/10.1007/s11517-006-0086-5" href="http://link.springer.com/article/10.1007/s11517-006-0086-5" target="_blank" rel="external noopener nofollow" class="external">The Snellen human calorimeter revisited, re-engineered and upgraded: design and performance characteristics</a><span> [link.springer.com]</span>.</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05:_Thermochemistry/5.03:_Calorimetry" class="mt-section" id="section_3"><span id="Glossary"></span><h2 class="NoAuto editable">Glossary</h2>
+
+<dl>
+    <dt>bomb calorimeter</dt>
+    <dd>device designed to measure the energy change for processes occurring under conditions of constant volume; commonly used for reactions involving solid and gaseous reactants or products</dd>
+</dl>
+
+<dl>
+    <dt>calorimeter</dt>
+    <dd>device used to measure the amount of heat absorbed or released in a chemical or physical process</dd>
+</dl>
+
+<dl>
+    <dt>calorimetry</dt>
+    <dd>process of measuring the amount of heat involved in a chemical or physical process</dd>
+</dl>
+
+<dl>
+    <dt>nutritional calorie (Calorie)</dt>
+    <dd>unit used for quantifying energy provided by digestion of foods, defined as 1000 cal or 1 kcal</dd>
+</dl>
+
+<dl>
+    <dt>surroundings</dt>
+    <dd>all matter other than the system being studied</dd>
+</dl>
+
+<dl>
+    <dt>system</dt>
+    <dd>portion of matter undergoing a chemical or physical change being studied</dd>
+</dl>
+</div>
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><style>/*<![CDATA[*/
+.mt-content-container{counter-reset: h2}
+  h2 {counter-reset: h3}
+  h3 {counter-reset: h4}
+  h4 {counter-reset: h5}
+
+  h2:before {counter-increment: h2; content: "5.3." counter(h2) ": "}
+  h3:before {counter-increment: h3; content: "5.3." counter(h2) "." counter(h3) ": "}
+  h4:before {counter-increment: h4; content: "5.3." counter(h2) "." counter(h3) "." counter(h4) ": "}
+
+  h2.nocount:before, h3.nocount:before, h4.nocount:before { content: ""; counter-increment: none }
+
+  .NoAuto::before {
+    content:none !important;
+  }
+/*]]>*/</style>
+<script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "5.3: Calorimetry";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p>This page titled <a target="_blank" class="internal mt-self-link" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05%3A_Thermochemistry/5.03%3A_Calorimetry" rel="internal">5.3: Calorimetry</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by/4.0" target="_blank">CC BY  4.0</a>  license and was authored, remixed, and/or curated by <a rel="nofollow" target="_blank" href="https://openstax.org/">OpenStax</a> via <a rel="nofollow" href="https://openstax.org/details/books/chemistry-2e" target="_blank">source content</a> that was edited to the style and standards of the LibreTexts platform.</p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05%3A_Thermochemistry/5.02%3A_Energy_Basics" title="5.2: Energy Basics"><span>5.2: Energy Basics</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05%3A_Thermochemistry/5.04%3A_Enthalpy" title="5.4: Enthalpy"><span>5.4: Enthalpy</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="90" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-authorname-openstax" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Author</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=authorname%3Aopenstax" data-ga-label="Classification">OpenStax</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-autonumheader-title with colon delimiters" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Autonumber Section Headings</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=autonumheader%3Ayes2" data-ga-label="Classification">title with colon delimiters</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accby" data-ga-label="Classification">CC BY</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-4.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A40" data-ga-label="Classification">4.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-bomb-calorimeter" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=bomb+calorimeter" data-ga-label="Free tag"> bomb calorimeter</a></li>
+                <li class="mt-tag-link mt-tag-calorimeter" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=calorimeter" data-ga-label="Free tag"> calorimeter</a></li>
+                <li class="mt-tag-link mt-tag-calorimetry" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=calorimetry" data-ga-label="Free tag"> calorimetry</a></li>
+                <li class="mt-tag-link mt-tag-nutritional-calorie" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=nutritional+calorie" data-ga-label="Free tag"> nutritional calorie</a></li>
+                <li class="mt-tag-link mt-tag-source@https://openstax.org/details/books/chemistry-2e" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=source%40https%3A%2F%2Fopenstax.org%2Fdetails%2Fbooks%2Fchemistry-2e" data-ga-label="Free tag"> source@https://openstax.org/details/books/chemistry-2e</a></li>
+                <li class="mt-tag-link mt-tag-surroundings" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=surroundings" data-ga-label="Free tag"> surroundings</a></li>
+                <li class="mt-tag-link mt-tag-system" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=system" data-ga-label="Free tag"> system</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="83de739bf13fbb7af9408d903fdab2c09f88cdc1ac5e85fe0851faacde700910" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
