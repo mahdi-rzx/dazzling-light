@@ -1,0 +1,73 @@
+name: 'Generate File Tree'
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-tree:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Install tree
+        run: sudo apt-get install -y tree
+      
+      - name: Update README
+        run: |
+          # Generate tree and save to temp file
+          tree -a --dirsfirst -I ".git|.github" --charset ascii > /tmp/tree.txt
+          
+          # Check if README exists
+          if [ ! -f "README.md" ]; then
+            echo "# Repository" > README.md
+            echo "" >> README.md
+            echo "<!-- TREE_START -->" >> README.md
+            echo "<!-- TREE_END -->" >> README.md
+          fi
+          
+          # Create new README with tree inserted
+          awk -v tree="$(cat /tmp/tree.txt)" '
+          BEGIN { in_tree = 0; printed = 0 }
+          /<!-- TREE_START -->/ {
+            print $0
+            print ""
+            print "```"
+            print tree
+            print "```"
+            print ""
+            in_tree = 1
+            printed = 1
+            next
+          }
+          /<!-- TREE_END -->/ {
+            in_tree = 0
+            next
+          }
+          !in_tree { print $0 }
+          END {
+            if (!printed) {
+              print ""
+              print "<!-- TREE_START -->"
+              print ""
+              print "```"
+              print tree
+              print "```"
+              print ""
+              print "<!-- TREE_END -->"
+            }
+          }
+          ' README.md > README.new.md
+          
+          mv README.new.md README.md
+          echo "✅ README updated"
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update file tree $(date +'%Y-%m-%d')"
+          git push
