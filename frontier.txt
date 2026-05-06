@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/07%3A_Chemical_Bonding_II-_Valance_Bond_Theory_and_Molecular_Orbital_Theory
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/08%3A_Chemical_Reactions_and_Chemical_Quantities
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/09%3A_Introduction_to_Solutions_and_Aqueous_Reactions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/10%3A_Thermochemistry
@@ -9643,3 +9642,9 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_P
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/06%3A_Chemical_Bonding_I-_Drawing_Lewis_Structures_and_Determining_Molecular_Shapes/6.08%3A_VSPER_Theory-_The_Effect_of_Lone_Pairs
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/06%3A_Chemical_Bonding_I-_Drawing_Lewis_Structures_and_Determining_Molecular_Shapes/6.09%3A_VSPER_Theory_-_Predicting_Molecular_Geometries
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/06%3A_Chemical_Bonding_I-_Drawing_Lewis_Structures_and_Determining_Molecular_Shapes/6.10%3A_Molecular_Shape_and_Polarity
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/07%3A_Chemical_Bonding_II-_Valance_Bond_Theory_and_Molecular_Orbital_Theory/7.01%3A_Oxygen-_A_Magnetic_Liquid
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/07%3A_Chemical_Bonding_II-_Valance_Bond_Theory_and_Molecular_Orbital_Theory/7.02%3A_Valence_Bond_Theory-_Orbital_Overlap_as_a_Chemical_Bond
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/07%3A_Chemical_Bonding_II-_Valance_Bond_Theory_and_Molecular_Orbital_Theory/7.03%3A_Valence_Bond_Theory-_Hybridization_of_Atomic_Orbitals
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/07%3A_Chemical_Bonding_II-_Valance_Bond_Theory_and_Molecular_Orbital_Theory/7.04%3A_Molecular_Orbital_Theory-_Electron_Delocalization
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/07%3A_Chemical_Bonding_II-_Valance_Bond_Theory_and_Molecular_Orbital_Theory/7.05%3A_Molecular_Orbital_Theory-_Polyatomic_Molecules
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/07%3A_Chemical_Bonding_II-_Valance_Bond_Theory_and_Molecular_Orbital_Theory/7.06%3A_Bonding_in_Metals_and_Semiconductors
