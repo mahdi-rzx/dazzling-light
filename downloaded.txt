@@ -4728,3 +4728,4 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07%3A_Testing_the_Significance_of_Data/7.01%3A_Significance_Testing
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07%3A_Testing_the_Significance_of_Data/7.02%3A_Significance_Tests_for_Normal_Distributions
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07%3A_Testing_the_Significance_of_Data/7.03%3A_Analysis_of_Variance
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07%3A_Testing_the_Significance_of_Data/7.04%3A_Non-Parametric_Significance_Tests
