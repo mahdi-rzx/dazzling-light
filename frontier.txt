@@ -157,7 +157,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/23%3A_Chemistry_of_Coordination_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/24%3A_Chemistry_of_Life-_Organic_and_Biological_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/06%3A_Thermochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/07%3A_The_Quantum-Mechanical_Model_of_the_Atom
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/08%3A_Periodic_Properties_of_the_Elements
@@ -8775,3 +8774,14 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_App
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/04%3A_Chemical_Reactions_and_Aqueous_Reactions/4.07%3A_Representing_Aqueous_Reactions-_Molecular_Ionic_and_Complete_Ionic_Equations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/04%3A_Chemical_Reactions_and_Aqueous_Reactions/4.08%3A_Acid-Base_and_Gas-Evolution_Reactions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/04%3A_Chemical_Reactions_and_Aqueous_Reactions/4.09%3A_Oxidation-Reduction_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.01%3A_Water_from_Wells-_Atmospheric_Pressure_at_Work
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.02%3A_Pressure-_The_Result_of_Particle_Collisions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.03%3A_The_Simple_Gas_Laws-_Boyles_Law_Charless_Law_and_Avogadros_Law
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.04%3A_The_Ideal_Gas_Law
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.05%3A_Applications_of_the_Ideal_Gas_Law-_Molar_Volume_Density_and_Molar_Mass_of_a_Gas
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.06%3A_Mixtures_of_Gases_and_Partial_Pressures
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.07%3A_Gases_in_Chemical_Reactions-_Stoichiometry_Revisited
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.08%3A_Kinetic_Molecular_Theory-_A_Model_for_Gases
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.09%3A_Mean_Free_Path_Diffusion_and_Effusion_of_Gases
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.10%3A_Real_Gases-_The_Effects_of_Size_and_Intermolecular_Forces
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.E%3A_Gases_(Exercises)
