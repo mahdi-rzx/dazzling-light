@@ -131,7 +131,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/01%3A_Fundamental_1_-_Measurable_Properties
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/20%3A_Organic_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/21%3A_Nuclear_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/22%3A_Appendices
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/zz%3A_Back_Matter
@@ -8347,3 +8346,9 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/19%3A_Transition_Metals_and_Coordination_Chemistry/19.02%3A_Coordination_Chemistry_of_Transition_Metals
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/19%3A_Transition_Metals_and_Coordination_Chemistry/19.03%3A_Optical_and_Magnetic_Properties_of_Coordination_Compounds
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/19%3A_Transition_Metals_and_Coordination_Chemistry/19.E%3A_Transition_Metals_and_Coordination_Chemistry_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/20%3A_Organic_Chemistry/20.01%3A_Prelude_to_Organic_Chemistry
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/20%3A_Organic_Chemistry/20.02%3A_Hydrocarbons
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/20%3A_Organic_Chemistry/20.03%3A_Alcohols_and_Ethers
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/20%3A_Organic_Chemistry/20.04%3A_Aldehydes_Ketones_Carboxylic_Acids_and_Esters
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/20%3A_Organic_Chemistry/20.05%3A_Amines_and_Amides
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/20%3A_Organic_Chemistry/20.E%3A_Organic_Chemistry_(Exercises)
