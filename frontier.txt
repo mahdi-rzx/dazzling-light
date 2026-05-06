@@ -253,7 +253,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.06%3A_Colloids
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/13%3A_Mass_Spectrometry_Infrared_Spectroscopy_and_Ultraviolet_Visible_Spectroscopy/13.21%3A_Some_Uses_of_UV
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/13%3A_Mass_Spectrometry_Infrared_Spectroscopy_and_Ultraviolet_Visible_Spectroscopy/13.21%3A_Some_Uses_of_UV/13.21.01%3A_Some_Uses_of_UV
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Fundamentals/Reactive_Intermediates/Carbanions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/17%3A_Carbonyl_Compounds_I-_Reactions_of_Carboxylic_Acids_and_Carboxylic_Derivatives/00%3A_Front_Matter/01%3A_TitlePage
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/17%3A_Carbonyl_Compounds_I-_Reactions_of_Carboxylic_Acids_and_Carboxylic_Derivatives/00%3A_Front_Matter/02%3A_InfoPage
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/17%3A_Carbonyl_Compounds_I-_Reactions_of_Carboxylic_Acids_and_Carboxylic_Derivatives/zz%3A_Back_Matter
@@ -9116,3 +9115,5 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Descriptive_Chemistry/Elements_Organized_by_Block/1_s-Block_Elements/Group__2_Elements%3A_The_Alkaline_Earth_Metals/Z056_Chemistry_of_Barium_(Z56)/Barium_Sulfate
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Descriptive_Chemistry/Elements_Organized_by_Block/1_s-Block_Elements/Group__2_Elements%3A_The_Alkaline_Earth_Metals/Z056_Chemistry_of_Barium_(Z56)/Borax
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Descriptive_Chemistry/Elements_Organized_by_Block/1_s-Block_Elements/Group__1%3A_The_Alkali_Metals/zz%3A_Back_Matter/10%3A_Index
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Fundamentals/Reactive_Intermediates
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Fundamentals/Reactive_Intermediates/Carbanions_II
