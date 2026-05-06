@@ -129,7 +129,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/09%3A_Metals_in_Medicine
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/03%3A_Space_Groups
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/04%3A_Electronic_and_Vibrational_States_of_Crystals
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/05%3A_Blochs_Theorem
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/06%3A_Irreducible_Representations_of_Space_Groups
@@ -5159,3 +5158,11 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theor
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/02%3A_Rotational_Symmetry/2.05%3A_Rotations_in_a_Lattice
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/02%3A_Rotational_Symmetry/2.06%3A_Bravais_Lattices_(2-d)
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/02%3A_Rotational_Symmetry/2.07%3A_Bravais_Lattices_(3-d)
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/03%3A_Space_Groups/3.01%3A_Space_Groups
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/03%3A_Space_Groups/3.02%3A_Screw_Rotations
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/03%3A_Space_Groups/3.03%3A_Glide_Reflections
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/03%3A_Space_Groups/3.04%3A_Group_Properties
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/03%3A_Space_Groups/3.05%3A_NotationSymmorphic_3-d_Space_Groups-_Pmm2
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/03%3A_Space_Groups/3.06%3A_NotationSymmorphic_3-d_Space_Groups-_Pma2
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/03%3A_Space_Groups/3.07%3A_Volume_A_of_the_International_Tables_of_Crystallography
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/03%3A_Space_Groups/3.08%3A_Group-Subgroup_Relationships
