@@ -1,0 +1,3147 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="21.1: Naming  the Amines"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/21%3A_Amines_and_Their_Derivatives/21.01%3A_Naming__the_Amines"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content=""/>
+        <meta property="article:published_time" content="2015-05-27T21:57:17Z"/>
+        <meta property="article:modified_time" content="2020-07-14T01:21:27Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="21.1: Naming  the Amines"/>
+        <meta name="twitter:description" content=""/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content=""/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/21%3A_Amines_and_Their_Derivatives/21.01%3A_Naming__the_Amines"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d">{"@context":"http:\/\/schema.org","@type":"Article","name":"21.1: Naming  the Amines","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)\/21%3A_Amines_and_Their_Derivatives\/21.01%3A_Naming__the_Amines","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2015-05-27T21:57:17Z","dateModified":"2020-07-14T01:21:27Z","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/32542\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)\/21%3A_Amines_and_Their_Derivatives\/21.01%3A_Naming__the_Amines"},"headline":"21.1: Naming  the Amines","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"21.1: Naming  the Amines","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)\/21%3A_Amines_and_Their_Derivatives\/21.01%3A_Naming__the_Amines","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)\/21%3A_Amines_and_Their_Derivatives\/21.02%3A_Structural_and__Physical__Properties_of_Amines","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)\/21%3A_Amines_and_Their_Derivatives\/21.03%3A_Spectroscopy_of__the_Amine__Group","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)\/21%3A_Amines_and_Their_Derivatives\/21.04%3A_Acidity__and__Basicity__of_Amines","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)\/21%3A_Amines_and_Their_Derivatives\/21.05%3A_Synthesis_of_Amines__by_Alkylation","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)\/21%3A_Amines_and_Their_Derivatives\/21.06%3A_Synthesis_of_Amines__by_Reductive_Amination"]}</script>
+        <script type="application/ld+json" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry","name":"Organic Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)","name":"Map: Organic Chemistry (Vollhardt and Schore)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)\/21%3A_Amines_and_Their_Derivatives","name":"21: Amines and Their Derivatives"}}]}</script>
+
+        <title>21.1: Naming  the Amines - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+#mt-toc-container {
+    display: none !important;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+@media print {
+     
+
+.mt-content-container .mt-responsive-table, .mt-content-container table {
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 1rem !important;
+}
+
+.mt-content-container .mt-responsive-table caption, .mt-content-container table caption { 
+    display: table-caption;
+    text-align: center;
+    font-size: 90%;
+    padding: 0 0 0.2rem 0;
+}
+
+.mt-content-container .mt-responsive-table th, .mt-content-container table th {
+  font-size: inherit;
+  vertical-align: middle;
+  border-bottom: 1px solid #E8E8E8;
+  margin: inherit;
+  padding: 0.4em !important;
+}
+
+.mt-content-container .mt-responsive-table tr, .mt-content-container table tr {
+  page-break-inside:avoid; 
+  page-break-after:auto;
+  margin: inherit;
+  font-size: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+  border-bottom: 1px solid #E8E8E8;
+}
+    
+.mt-content-container .mt-responsive-table td, .mt-content-container table td {
+  border: 1px solid #E8E8E8;
+  page-break-inside: avoid !important;
+  page-break-before: avoid;
+  margin: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+}
+
+.mt-content-container table ol, 
+.mt-content-container table ul,
+.mt-content-container table p,
+.mt-content-container table ol,
+.mt-content-container table ul,
+.mt-content-container table p {
+    font-size: inherit;
+    margin: inherit;
+}
+
+mjx-container svg path,
+mjx-container svg use {
+  stroke: none !important;
+  stroke-width: 0 !important;
+}
+    
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":32542,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"21.1: Naming  the Amines","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"2","pageSectionEditable":false,"pageTitle":"Bookshelves\/Organic Chemistry\/Map: Organic Chemistry (Vollhardt and Schore)\/21: Amines and Their Derivatives\/21.01: Naming  the Amines","pageViewId":"5ff9f32d-98cc-4550-b8f3-35e5f144fc1c","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"MDNmY2VmNmQtNDllYy00OTI2LWI1NmEtY2VjNDZlMTFiZGI1fDIwMjYtMDUtMDZUMDQ6NTY6NDQ=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778043405_39d14d12c344704c18d18db7c3a59bbcb23100413fb1d62129d100bd7f6be153","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-organicchemistry-map%3Aorganicchemistry%28vollhardtandschore%29-21%3Aaminesandtheirderivatives-21.01%3Anamingtheamines columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">21: Amines and Their Derivatives</div><div style="display:none" id="parentParentTitleHolder">Map: Organic Chemistry (Vollhardt and Schore)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;21.01:_Naming__the_Amines&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21.02:_Structural_and__Physical__Properties_of_Amines&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21.03:_Spectroscopy_of__the_Amine__Group&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21.04:_Acidity__and__Basicity__of_Amines&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21.05:_Synthesis_of_Amines__by_Alkylation&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21.06:_Synthesis_of_Amines__by_Reductive_Amination&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21.07:_Synthesis_of_Amines__from__Carboxylic_Amides&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21.08:_Quaternary_Ammonium_Salts:__Hofmann_Elimination&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21.09:_Mannich___Reaction:_Alkylation_of_Enols__by__Iminium__Ions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21.10:_Nitrosation_of_Amines&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01._Structure_and_Bonding_in_Organic_Molecules&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02._Structure_and_Reactivity:_Acids_and_Bases_Polar_and_Nonpolar_Molecules&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03._Reactions_of_Alkanes:_Bond-Dissociation_Energies_Radical_Halogenation_and_Relative_Reactivity&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04._Cycloalkanes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05._Stereoisomers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06._Properties_and_Reactions_of_Haloalkanes:_Bimolecular_Nucleophilic_Substitution&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07._Further_Reactions_of_Haloalkanes:_Unimolecular_Substitution_and_Pathways_of_Elimination&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08._Hydroxy_of_Functional_Group:_Alcohols:_Properties_Preparation_and_Strategy_of_Synthesis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09._Further_Reactions_of_Alcohols_and_the_Chemistry_of_Ethers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10:_Using_Nuclear_Magnetic_Resonance_Spectroscopy_to_Deduce_Structure&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;11:_Alkenes:_Infrared_Spectroscopy_and_Mass_Spectrometry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12:_Reactions_to_Alkenes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Alkynes:_The_Carbon&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_Delocalized_Pi_Systems:_Investigation_by_Ultraviolet_and_Visible_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Benzene_and_Aromaticity:_Electrophilic_Aromatic_Substitution&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Electrophilic_Attack_on_Derivatives_of_Benzene:_Substituents_Control_Regioselectivity&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;17:_Aldehydes_and_Ketones_-_The_Carbonyl_Group&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;18:_Enols_Enolates_and_the_Aldol_Condensation:_ab-Unsaturated_Aldehydes_and_Ketones&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19:_Carboxylic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20:_Carboxylic_Acid_Derivatives&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21:_Amines_and_Their_Derivatives&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;22:_Chemistry_of_the_Benzene_Substituents:_Alkylbenzenes_Phenols_and_Benzenamines&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23:_Ester_Enolates_and_the_Claisen_Condensation&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;24:_Carbohydrates:_Polyfunctional_Compounds_in_Nature&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;25:_Heterocycles:_Heteroatoms_in_Cyclic_Organic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;26:_Amino_Acids_Peptides_Proteins_and_Nucleic_Acids:_Nitrogen-Containing_Polymers_in_Nature&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Sun, 19 Jul 2015 19:41:38 GMT</div><div style="display:none" id="titleHolder">21.1: Naming  the Amines</div><div style="display:none" id="IDHolder">32542</div><div style="display:none" id="pageIDHolder">32542</div><div style="display:none" id="pageAuthorHolder">Steve Farmer</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;licenseversion:40&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;licenseversion:40&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FMap%253A_Organic_Chemistry_(Vollhardt_and_Schore)%2F21%253A_Amines_and_Their_Derivatives%2F21.01%253A_Naming__the_Amines</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FMap%3A_Organic_Chemistry_%28Vollhardt_and_Schore%29%2F21%3A_Amines_and_Their_Derivatives%2F21.01%3A_Naming__the_Amines" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FMap%3A_Organic_Chemistry_%28Vollhardt_and_Schore%29%2F21%3A_Amines_and_Their_Derivatives%2F21.01%3A_Naming__the_Amines" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Map: Organic Chemistry (Vollhardt and Schore)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/21%3A_Amines_and_Their_Derivatives" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    21: Amines and Their Derivatives
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            21.1: Naming  the Amines
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        21.1: Naming  the Amines
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2015-07-19T19:41:38Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/32542/pdf/21.1%253A%2bNaming%2b%2bthe%2bAmines.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>32542</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Key_Terms" rel="internal">Key Terms</a></li><li><a href="#Study_Notes" rel="internal">Study Notes</a></li><li><a href="#Exercises" rel="internal">Exercises</a><ol><li><a href="#Exercise_24.1.1" rel="internal">Exercise 24.1.1</a></li><li><a href="#Exercise_24.1.2" rel="internal">Exercise 24.1.2</a></li><li><a href="#Exercise_24.1.3" rel="internal">Exercise 24.1.3</a></li></ol></li><li><a href="#Contributors_and_Attributions" rel="internal">Contributors and Attributions</a></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <div class="mt-include" id="s91029"><div class="box-objectives">
+
+
+<p class="box-legend"><span>Objectives</span></p>
+
+<p>After completing this section, you should be able to</p>
+
+<ol>
+    <li>classify a given amine as being primary, secondary or tertiary.</li>
+    <li>explain, briefly, the difference in meaning of the terms primary, secondary and tertiary when they are applied to the structures of amines and alcohols.</li>
+    <li>determine whether a given structure represents a quaternary ammonium cation.</li>
+    <li>provide an acceptable IUPAC name for an amine, given its Kekul&eacute;, condensed or shorthand structure.</li>
+    <li>draw the structure of an amine, given its IUPAC name.</li>
+    <li>give the name and structure of one typical heterocyclic amine (e.g., pyridine).</li>
+</ol>
+</div>
+
+<div class="box-objectives">
+<div mt-section-origin="Courses/Athabasca_University/Chemistry_360:_Organic_Chemistry_II/Chapter_24:_Amines_and_Heterocycles/24.01_Naming_Amines" class="mt-section"><span id="Key_Terms"></span><h5 class="box-legend" id="Key_Terms-91029"><span class="lt-icon-default">Key Terms</span></h5>
+
+<p>Make certain that you can define, and use in context, the key terms below.</p>
+
+<ul>
+    <li>amine</li>
+    <li>primary amine</li>
+    <li>secondary amine</li>
+    <li>quaternary ammonium cation</li>
+    <li>tertiary amine</li>
+</ul>
+</div></div>
+
+<div class="box-note">
+<div mt-section-origin="Courses/Athabasca_University/Chemistry_360:_Organic_Chemistry_II/Chapter_24:_Amines_and_Heterocycles/24.01_Naming_Amines" class="mt-section"><span id="Study_Notes"></span><h5 class="box-legend" id="Study_Notes-91029"><span class="lt-icon-default">Study Notes</span></h5>
+
+<p>You should recognize that heterocyclic amines&mdash;compounds in which the nitrogen atom occurs as part of a ring&mdash;are very common in organic chemistry. Be prepared to meet such compounds throughout this, and subsequent chapters, but do not try to memorize all of the names and structures givenin the reading. You should, however, commit the structures of pyridine and pyrrole to memory.</p>
+</div></div>
+
+<p>Amines are derivatives of ammonia in which one or more of the hydrogens has been replaced by an alkyl or aryl group. The nomenclature of amines is complicated by the fact that several different nomenclature systems exist, and there is no clear preference for one over the others. Furthermore, the terms primary (1&ordm;), secondary (2&ordm;) &amp; tertiary (3&ordm;) are used to classify amines in a completely different manner than they were used for alcohols or alkyl halides. <strong>When applied to amines these terms refer to the number of alkyl (or aryl) substituents bonded to the nitrogen atom</strong>, whereas in other cases they refer to the nature of an alkyl group. The four compounds shown in the top row of the following diagram are all C<sub>4</sub>H<sub>11</sub>N isomers. The first two are classified as 1&ordm;-amines, since only one alkyl group is bonded to the nitrogen; however, the alkyl group is primary in the first example and tertiary in the second. The third and fourth compounds in the row are 2&ordm; and 3&ordm;-amines respectively. A nitrogen bonded to four alkyl groups will necessarily be positively charged, and is called a quaternary (4&ordm;)-ammonium cation. For example, (CH<sub>3</sub>)<sub>4</sub>N<sup>(+)</sup> Br<sup>(&ndash;)</sup> is tetramethylammonium bromide.</p>
+
+<p class="mt-align-center"><img alt="Naming Diagram. IUPAC name: 1-aminobutane; CA name: butanamine; Common name:n-butylamine. IUPAC Name: 2-amino-2-methylpropane; CA name: 2-methyl-2-propanamine; Common name: tert-butylamine. IUPAC name: 1-methylaminopropane; CA name: 2-methylpropanamine; Common name: methylpropylamine. IUPAC name: dimethylaminoethane; N,N-dimethylethanamine; Common name: ethyldimethylamine." class="internal default" style="width: 720px; height: 247px;" width="720px" height="247px" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/1472/aminomen.gif?revision=1&amp;size=bestfit&amp;width=720&amp;height=247" /></p>
+
+<ul>
+    <li>The <u>IUPAC names</u> are listed first and colored blue. This system names amine functions as substituents on the largest alkyl group. The simple -NH substituent found in 1&ordm;-amines is called an <strong>amino group</strong>. For 2&ordm; and 3&ordm;-amines a compound prefix (e.g. dimethylamino in the fourth example) includes the names of all but the root alkyl group.</li>
+    <li>The <u>Chemical Abstract Service</u> has adopted a nomenclature system in which the suffix <strong>-amine</strong> is attached to the root alkyl name. For 1&ordm;-amines such as butanamine (first example) this is analogous to IUPAC alcohol nomenclature (-ol suffix). The additional nitrogen substituents in 2&ordm; and 3&ordm;-amines are designated by the prefix <strong>N-</strong> before the group name. These CA names are colored magenta in the diagram.</li>
+    <li>Finally, a <u>common system</u> for simple amines names each alkyl substituent on nitrogen in alphabetical order, followed by the suffix <strong>-amine</strong>. These are the names given in the last row (colored black).</li>
+</ul>
+
+<p>Many aromatic and heterocyclic amines are known by unique common names, the origins of which are often unknown to the chemists that use them frequently. Since these names are not based on a rational system, it is necessary to memorize them. There is a systematic nomenclature of heterocyclic compounds, but it will not be discussed here.</p>
+
+<div mt-section-origin="Courses/Athabasca_University/Chemistry_360:_Organic_Chemistry_II/Chapter_24:_Amines_and_Heterocycles/24.01_Naming_Amines" class="mt-section" id="section_1"><span id="Exercises"></span><h2 id="Exercises-91029">Exercises</h2>
+
+<section class="box-exercise">
+<div mt-section-origin="Courses/Athabasca_University/Chemistry_360:_Organic_Chemistry_II/Chapter_24:_Amines_and_Heterocycles/24.01_Naming_Amines" class="mt-section"><span id="Exercise_24.1.1"></span><h5 class="box-legend" id="Exercise_24.1.1-91029"><span class="lt-icon-default">Exercise 24.1.1</span></h5>
+
+<p class="lt-chem-36439">Name the following compounds:</p>
+
+<p class="lt-chem-36439">a)</p>
+
+<p class="lt-chem-36439"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJwAAABFCAYAAAC/iY+qAAAE0ElEQVR4nO2dPUwbSRiGt9hc7oIrKCihSk26tEhIIEUipxAJFCmXn8KNGyp3FJaQrEgIdCJukKskDZKLC3KHLwUuQoWLdbNNEIUplmYLa4tp3mtuR+sFr3fX3m9n7O+RLIHxWLPWMzPv/Cw2wDCEGHlXgJktWDiGFBaOIYWFY0hh4RhSWDiGFOWEcxwH9ZM66id1OI6TWRkmH5QTrmtZMA0TpmGia1mZlWHygYVjSGHhGFJYOIYUFo4hhYVjSGHhGFKUFq6yV5Hra1GPyl6FhdMEpYVL82Dh1IaFY0hRWjjOcNMHC8eQwsIxpLBwDCksHEMKC8eQwsIxpLBwDCksHEOKcsIx0w0Lx5CinHBe30PXstC1LLiuG6uMECJxGSYflBMumMdWn69CCDGyjOM4skzrvEVQSyYtSgtnGiZqx7WRZVg4fVBeuDgzTxZOH7QQ7tnTlcihlYXTB6WF+/D2vfy5ul8dWoaF0welhetaFna2tuXvnavOg2VYOH1QXjjHcTD36AlMw8Ty4hK8vnevDAunD8oLBwDNs+bAnVxhWDh90EI4AANDa/uiPVCGhdMHbYRzXRcLhXk5tAZ3FGZZuJubG7zafIV3b/7C7e1t3tUZiTbCAUDrvCX/ViqW5POzKJwQAt++fEXhcUFee+FxAY3TRt5Vi0Qr4QCgVCzdk2vWhLv8eYlnT1dgGiY21tbx/Z/vaJw2sPp8VW4JDpvR5412wrmui+XFJZiGiYXCPBzHmRnhrn9dyyy7vLiE5lnz3msapw0ZPT68fY9er0df0Qi0Ew4A2hdt+Zqdre2pF851XVT3qzANE3OPnqB+Un9wecjH63s4OjiUy0lHB4fKnKLRUjgAKO+WBzb4p1E4IQTqJ3XZY5V3y4nEcRxHRpCFwjy+ffka6/RNlmgrnNf35NAafEyLcO2Ltry+ly82Ydt26vfqWhY21tblvvTlz8sJ1jQZuQnnt97ybnng+ST3J3SuOiOFOzo4RO24FjkEqYRt23j5YlPmtPCa4zg0z5pS4p2tbVz/up7Ye8clF+GCrXdna3ugm096Q0zwf8OFhRNCyAMAw0K2KriuK2OCn9OyGP68vofacU3mu+p+lTTfkQoXbL3Duvakwgkh5BLBsCG1c9WRSwYba+tK3dnl9/S+AJW9CokAwXyXpeBhSIQLtt5R4TXNt8rYti3LRA0Tqi0ZtM5buQ9xWQ7hD5GpcOHWS919P4S/ZOD3iEcHh+T5TqUQ7zPJSUoUmQmnQkCNotfryXy3UJgn2RJScZkiSLiDKO+WJ/7dZRMXTsXWG0Uw32W1JZR3UE9KeAIzyVn+xIRTvfWOItgjTzLfqd7TRxHOd5OY5Y8tnG6tN4rwtYyzJRTs6VXeTI9D+LDAOLP8sYTTufVGMU5vnUc2pMA/DuXP8kvFUqp8l0o43XJaWpJcpwqzXwqCBwnSXGci4XTPaWkZ1ZOrtr5HQfCoVJKePJZw05TT0hL+DF7/+Rqf//6Mlf+zje45LS3BfBfnM4glnL9JPk05LS2u66L4sQjTMPGH+TvmfptTeo+WAiGE7OU31tYjR73YQ2pWK8+68uPfH/hU/YS7u7u8q6IMXt8bGSeUOw/HTDcsHEMKC8eQwsIxpLBwDCksHEMKC8eQwsIxpPwHUPhcfYx3P9IAAAAASUVORK5CYII=" style="width: 134px; height: 59px;" /></p>
+
+<p class="lt-chem-36439">b)</p>
+
+<p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 134px; height: 75px;" /></p>
+
+<p class="lt-chem-36439">c)</p>
+
+<p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 158px; height: 62px;" /></p>
+
+<p class="lt-chem-36439">d)</p>
+
+<p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 68px; height: 112px;" /></p>
+
+<p class="lt-chem-36439">e)</p>
+
+<p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 144px; height: 87px;" /></p>
+
+<p class="lt-chem-36439">f)</p>
+
+<p class="mt-align-center lt-chem-36439"><img class="left" src="data:image/png;base64,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" style="width: 91px; height: 81px;" /></p>
+
+<p class="mt-align-center lt-chem-36439">&nbsp;</p>
+
+<p class="mt-align-center lt-chem-36439">&nbsp;</p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p>a) N-Methylpropylamine</p>
+
+    <p class="lt-chem-36439">b) Dicyclopentylamine</p>
+
+    <p class="lt-chem-36439">c) 1,4-Pentanediamine</p>
+
+    <p class="lt-chem-36439">d) 4-Methylpyridine</p>
+
+    <p class="lt-chem-36439">e) Triethylammonium Bromide</p>
+
+    <p class="lt-chem-36439">f) N,N-Dimethylcyclohexylamine</p>
+    </dd>
+</dl>
+</div></section>
+
+<section class="box-exercise">
+<div mt-section-origin="Courses/Athabasca_University/Chemistry_360:_Organic_Chemistry_II/Chapter_24:_Amines_and_Heterocycles/24.01_Naming_Amines" class="mt-section"><span id="Exercise_24.1.2"></span><h5 class="box-legend" id="Exercise_24.1.2-91029"><span class="lt-icon-default">Exercise 24.1.2</span></h5>
+
+<p class="lt-chem-36439">Draw the structures corresponding to the following names:</p>
+
+<p class="lt-chem-36439">a) 3-Bromo-pentan-2-amine</p>
+
+<p class="lt-chem-36439">b) Cyclopentanamine</p>
+
+<p class="lt-chem-36439">c) <em>Trans</em>-3-ethylcyclohexanamine</p>
+
+<p class="lt-chem-36439">d) <em>Sec</em>-butyl-<em>tert</em>-butyl amine</p>
+
+<p class="lt-chem-36439">e) N,N-Dimethyl-3-pentanamine</p>
+
+<p class="lt-chem-36439">f) 4-Methyl-2-hexanamine</p>
+
+<p class="lt-chem-36439">g) 6-Bromo-4-amino-2-heptanol</p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p>a)</p>
+
+    <p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 123px; height: 81px;" /></p>
+
+    <p class="lt-chem-36439">b)</p>
+
+    <p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 120px; height: 63px;" /></p>
+
+    <p class="lt-chem-36439">c)</p>
+
+    <p class="lt-chem-36439"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAAB6CAYAAABJEjT6AAAL60lEQVR4nO2dP2gc2R3HJ7knXywpf07KoVwIkdKoSQqpE+kWDDYx2IUKiYAPGRw3KmI4EGkE2YuNDNZJhdgie4M5JDUCJYWyhwsr5tAWVmWBZ5sFo8XFuNhqimWK1/xSDPM8O5nZnZ19897M6vuBaezV6qfd+cx77/d7fwwCAGjF0B0AAFcdSAiAZiAhAJqBhABoBhICoBlICIBmrqSEDcsiZjBiBqOGZSX6mdXlFWIGo9XllYyjG03Km2ViBqPF+YVEr2+32wN/R0UFEkJCJUDCeCAhJFQCJIwHEkJCJUDCeCAhJFQCJIwHEkJCJUDCeCAhJFQCJIwHEkJCJUDCeK68hINekDAdvoRpLkg4gkBC9UDCeK68hMdHx9SwrL7XrRs3IeEQ+BLOzcwm+rzrZ3VIOMpgTKgejAnjgYSQUAmQMB5ICAmVAAnjgYSQUAmQMB5ICAmVAAnjgYSQUAmQMB5ICAmVAAnjgYSQUAmQMJ4rKaHbcUVR2O24iX6mddmihmVR67KVZWgji23b1LAsajabiV7POR/4OyoqV1JCAPIEJARAM5BwABqWReXNMs3NzOoOBYwQkLAP7XabzKpJi/MLXTP7MTYEPu12m0pLJbp4c5Hq5yFhDA3Lovv31mKX15y+PNUdIsgBnHOxwgYSSqZ12eq5xq28WdYdIsgB6w/XxZK4tEDCHvgfcNR168ZN3eF18e0/v6XSUomePX2mO5Qrg1k1iRmMth5vDfU+kLAH/VrDPNSvbNsWEwkmr00QMxjdvX0ncT0OpOP89bmYvME5H+q9IGEferWGOmdyuB2Xdrd3RCxPvn5C7969o6dPnop/23q8RY7jaIvRtm26f2+NTl+e5uKBJYvWZYsmxsZpcX5Byt8FCfvQqzU0q6aWmI6Pjml6cko8icOZWv/mZwaj6ckpOtw/GPppnYbgFhUTY+O08WiDzl+fK49DJo7j0OL8Ak1PTpFt21LeExImIK41XH+4rjSO4F43czOzfW/oizcXVFoqETPYUCn0tJy+PI383O7fW1Mahyw453T39h1iBpP6MIGECYhrDacnp5T8fsdxxINgYmyczKqZuGXjnNPh/oFoOe/fW5P2BE+C4zhUO6mJh4fsG1glG482iBmMDvcPpL4vJExIcPwVvLK8oTnnZFZNmhgbJ2Yw2ni0kXqM5zgObT3eEnFX9irKx2m2bQ+VytfJ4f6B+A5kAwkT4jiOkEFF0b5+Vqe5mVlRDpGVBGo2m6JLNTczS7WTmpT3HWUu3lyIrHMWY2tIOABRreHu9o7U39G6bImSw/TkVGaShCVHSSMa27ZpenKKFucXMss0Q8IBiGoNZRXt3Y7b1V3c3d7JvLvIOafKXkVKd3cUcTsuLc4v0MTYeKZzhSHhgES1hsN2UYIlB9WJEyJvAnLaxM+owjkXPZKsE0mQcECiWsO047VgCWFxfkF71rBhWVLicRyHzKpJ7XZbcoTq8HslsjOhUUDCFIRbw0EzfuGWR1cxPY5+kwH64U/p8pMZquuTw3J8dJxZJjQKSJiCcGuYtGhfpDFYeFrcIGPUyl6l6yFVpLWXWWdCo4CEKQneoElW2gezkUWaYB3O1iZp9d2OS7WTGq0uryifVTQM7XY780xoFJAwJY7jiC4bM1js+GdU6nLnr8/F7gKlpdLIbUPodlwqLZUyz4RGAQmHwB87MINR/aze9X95mKEim/AMnvWH64VOvgTxJ7zrSI71lXDQFQP+QkdmsNRB+U/cuZnZRN2C4Ga+Km8KzrnoYgaL9jrnaqrAcRwxj3JibJwqe5VcJZYGxR9aqMiERpFrCZNmqHRJSPSxNfSzgMEUf9GygoPSbDa7VnWEewNFoHZSU5oJjSL3EkZ19cKoltDfGbp12SLOOf3289/QtR+PieRF3koOWVM7qYkewe2bf6IX378YaLdtXTQsiybGxpVmQqMohIT9uqVJJPS3se+VUGhYFq0ur9Dq8krP1wXnXBIRfff8O/riF7+ir/76VW5LDlnjdlx69vQZTU98Frna5O7tO7S6vELlzTKZVZOOj47F96FDAF2Z0ChyLaGfVWRG793Nkkjoj2GYEb83THDdYK/xQXDVOtHHxaujkqRIi3+Iy4O1B7T+cD1y1Umvq7RUEmUNs2qSWTWFqDJF4Zxry4RGkWsJzaopTvNhRvy+jkkk9NeD9XofznmiAvzpy1Oqn9WFzJDQw5cweK9cvLmg3e0dMVYe9pqbmRW9FV/U+lmdGpaVOAHmz1bSPU3QJ/cSuh1XdP/mZmYjW7EkEganUvUqOAe3g0gKJPSIkjD8/6cvT2nj0UZXjTWLyxd1d3uHzKpJtZMaNSyLNv+22beno5rcS0j0cSpRXLc0iYS2bYvX9Non0u+2DrJECRJ69JMwTLPZpMpepWvrCxXXH373+4w/icFILGGaKy1hCYmoZ7c0aXbUH6PcvX0n9jWty9bAMkFCj0ElDOI4jpJW8ufXf0adTieDvz49hZGwV7c0qYT+E3dibDx1bFFAQo9hJAzTbDbpcP+gKzk37PXpJ9fo/fv3Ev5SuSSWsLxZFpmqXlewxQrjT+Xy++vlzXJkkiRKQqL4bmlSCf2nbHmzLHUKGST0kClhELfjUv2sLo6lSyPgdfYTevXfV1LjkoWyMaHjOF2rCMqbZdE9rOxVul4bJyFRdLc0qYRZ1YMgoUdWEoZpXbYGbiXzPJtHmYR+wiP4YbgdV3QRg+nlXhIGZV6cXxBnmyeRMCsgoYcqCYNwzun89TltPd76v0ke/hV+yOcNZRIuzi9Epv39rdKDWwf2kjD4M8zwMp2QMB/okDCMv7epP6GiCOsZlZYoooqpvlDBwmk/CYm6Z8AEfyck1EceJAzCOS/EHF7tdcJbN27SxNh4V6IkiYTBbmlwehQk1EfeJCwKWiX0kyzhXayTSEjU3S2FhPqBhOnQJqEvYNQMmKQSEnV3SyGhXiBhOpRLyDnvKSDRYBIGu6WQUC+QMB19JfSL8ElvsHa7Hbtuz+24orbTawJts9kc6Hfatq11bRok9ICE6VC20ZNfE5wYG8914TQNkNADEqZDmYT+ZjpZHSWmE0joAQnToUTC4DKiuKvIXxwk9ICE6VAmob8KOu4q8maykNADEqYDm/9KABJ6QMJ0QEIJQEIPSJgOSCgBSOgBCdMBCSUACT0gYTogoQQgoQckTAcklAAk9ICE6YCEEoCEHpAwHZBQApDQAxKmAxJKABJ6QMJ0QEIJQEIPSJgOSCgBSOgBCdMBCSUACT0gYTogoQQgoQckTAcklAAk9ICE6YCEEoCEHpAwHZBQApDQAxKmAxJK4N9H/yJmMPrw4YPuULTy4cMHYgajb559ozuUQgEJJfCPv39NzGD03HyuOxStvPjP98QMRivLK7pDKRSQUAINyyL2IyYOIMnqCLa84nZc2nq8JfYL+uHVD7pDKhSQUBLv37+nv6w9EGdjmFWzEIeRDMvx0bE43vrLP39Jb9++1R1S4YCEkmlYljhzcW5mtuu0qVGiYVlUWioRM7xzIkf171QBJMyIYAuxurxCrcuW7pCk0G63af3humjxD/cPrkSLnyWQMEPcjis2PWYGo93tna4j4IoE55wqexVxDN3Go40rN/bNCkiogNZli1aXV4gZjKYnp+j46Fh3SANRP6uLQ3du3bhJzWZTd0gjBSRUyPnr866bOe8bHrcuW+IAn7mZWaqd1HSHNJJAQsVwzsmsmrnu1jmO01VyKHI3ughAQk04jtOV4MhLSSOYULp/b41s29Yd0sgDCTUTLGnoTPVfvLlAyUETkDAnhEsaqlqgYMlhenIKJQcNQMIcobKkgZJDfoCEOSRc0pCdlQyWHO7evoOSg2YgYY6RXdJAySGfQMKcI6OkES45VPYqKDnkCEhYEMJzNpOWNA73D1ByyDmQsGAkXb0QLjlcvLlQHClICiQsKHEljXa7TffvraHkUCAgYYEJr2gv/bFEn35yDSWHggEJR4DWZYt+/dkXdJ1dp89/+kuUHAoGJBwhRmXh8FUDEgKgGUgIgGYgIQCagYQAaAYSAqAZSAiAZiAhAJqBhABoBhICoJn/AfWtxh5YurwPAAAAAElFTkSuQmCC" style="width: 146px; height: 79px;" /></p>
+
+    <p class="lt-chem-36439">d)</p>
+
+    <p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 154px; height: 88px;" /></p>
+
+    <p class="lt-chem-36439">e)</p>
+
+    <p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 108px; height: 94px;" /></p>
+
+    <p class="lt-chem-36439">f)</p>
+
+    <p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 127px; height: 61px;" /></p>
+
+    <p class="lt-chem-36439">g)</p>
+
+    <p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 156px; height: 64px;" /></p>
+    </dd>
+</dl>
+</div></section>
+
+<section class="box-exercise">
+<div mt-section-origin="Courses/Athabasca_University/Chemistry_360:_Organic_Chemistry_II/Chapter_24:_Amines_and_Heterocycles/24.01_Naming_Amines" class="mt-section"><span id="Exercise_24.1.3"></span><h5 class="box-legend" id="Exercise_24.1.3-91029"><span class="lt-icon-default">Exercise 24.1.3</span></h5>
+
+<p class="lt-chem-36439">Draw the structures of the following heterocyclic compounds:</p>
+
+<p class="lt-chem-36439">a) 4-Methoxyindole</p>
+
+<p class="lt-chem-36439">b) 1,4-Dimethylpyrrole</p>
+
+<p class="lt-chem-36439">c) 3-(N,N-Dimethylamino)pyridine</p>
+
+<p class="lt-chem-36439">d) 2-Aminopyrimidine</p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p>a)</p>
+
+    <p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 131px; height: 88px;" /></p>
+
+    <p class="lt-chem-36439">b)</p>
+
+    <p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 136px; height: 75px;" /></p>
+
+    <p class="lt-chem-36439">c)</p>
+
+    <p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 125px; height: 78px;" /></p>
+
+    <p class="lt-chem-36439">d)</p>
+
+    <p class="lt-chem-36439"><img src="data:image/png;base64,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" style="width: 141px; height: 86px;" /></p>
+    </dd>
+</dl>
+</div></section>
+
+
+
+
+
+</div><div mt-section-origin="Courses/Athabasca_University/Chemistry_360:_Organic_Chemistry_II/Chapter_24:_Amines_and_Heterocycles/24.01_Naming_Amines" class="mt-section" id="section_2"><span id="Contributors_and_Attributions"></span><h2 id="Contributors_and_Attributions-91029">Contributors and Attributions</h2>
+
+<ul>
+    <li><p class="contrib"><a title="http://science.athabascau.ca/staff-pages/dietmark" href="http://science.athabascau.ca/staff-pages/dietmark" target="_blank" rel="external noopener nofollow" class="external">Dr. Dietmar Kennepohl</a> FCIC (Professor of Chemistry, <a title="http://www.athabascau.ca/" href="http://www.athabascau.ca/" target="_blank" rel="external noopener nofollow" class="external">Athabasca University</a>)</p>
+</li>
+    <li><p class="contrib">Prof. Steven Farmer (<a title="http://www.sonoma.edu" href="http://www.sonoma.edu" target="_blank" rel="external noopener nofollow" class="external">Sonoma State University</a>)</p>
+</li>
+    <li><p class="contrib">William Reusch, Professor Emeritus (<a class="external" href="http://www.msu.edu/" rel="external nofollow" target="_blank" title="http://www.msu.edu/">Michigan State U.</a>), <a class="external" href="https://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/intro1.htm" rel="external nofollow" target="_blank" title="Template:ContribReusch">Virtual Textbook of&nbsp;Organic&nbsp;Chemistry</a></p>
+</li>
+</ul>
+</div></div>
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "21.1: Naming  the Amines";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p><a target="_blank" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/21%3A_Amines_and_Their_Derivatives/21.01%3A_Naming__the_Amines" rel="internal" class="internal">21.1: Naming  the Amines</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank">CC BY-NC-SA  4.0</a>  license and was authored, remixed, and/or curated by LibreTexts.</p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/21%3A_Amines_and_Their_Derivatives" title="21: Amines and Their Derivatives"><span>21: Amines and Their Derivatives</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/21%3A_Amines_and_Their_Derivatives/21.02%3A_Structural_and__Physical__Properties_of_Amines" title="21.2: Structural and  Physical  Properties of Amines"><span>21.2: Structural and  Physical  Properties of Amines</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="2" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by-nc-sa" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accbyncsa" data-ga-label="Classification">CC BY-NC-SA</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-4.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A40" data-ga-label="Classification">4.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+        </ol>
+            This page has no tags.
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="df0dad33c837d36d1653788fad6bc0259abe3353c48462d11b0b23ca8978793d" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
