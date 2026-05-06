@@ -585,7 +585,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/07%3A_Thermochemistry/7.5%3A_The_First_Law_of_Thermodynamics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/13%3A_Spontaneous_Processes_and_Thermodynamic_Equilibrium/13.8%3A_Carnot_Cycle_Efficiency_and_Entropy
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/05%3A_Dioxygen_Reactions/5.01%3A_Catalase_and_Peroxidase
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/24%3A_Nuclear_Reactions_and_Their_Applications/24.07%3A_Applications_of_Fission_and_Fusion
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_(Zumdahl_and_Decoste)/01%3A_Chemical_Foundations/00%3A_Front_Matter/01%3A_TitlePage
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_(Zumdahl_and_Decoste)/01%3A_Chemical_Foundations/00%3A_Front_Matter/02%3A_InfoPage
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_(Zumdahl_and_Decoste)/01%3A_Chemical_Foundations/zz%3A_Back_Matter
@@ -1667,3 +1666,4 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/16%3A_Kinetics-_Rates_and_Mechanisms_of_Chemical_Reactions/16.06%3A_Reaction_Mechanisms_-_The_Steps_from_Reactant_to_Product
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/18%3A_Acid-Base_Equilibria/18.08%3A_Generalizing_the_Brnsted-Lowry_Concept_-_The_Leveling_Effect
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/21%3A_Electrochemistry-_Chemical_Change_and_Electrical_Work/21.06%3A_Corrosion_-_An_Environmental_Voltaic_Cell
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/24%3A_Nuclear_Reactions_and_Their_Applications/24.06%3A_The_Interconversion_of_Mass_and_Energy
