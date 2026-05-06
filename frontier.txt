@@ -250,7 +250,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_C
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/24%3A__Biochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./22.E%3A_Chemistry_of_the_Nonmetals_(Exercises)/Alkali_Alkali_Earth_and_Noble_Gases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/11%3A_Reactions_in_Aqueous_Solutions/11.15%3A_Redox_Reactions
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_II_(Harvey)/05%3A_Developing_a_Standard_Method/5.01%3A_Optimizing_the_Experimental_Procedure
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_II_(Harvey)/05%3A_Developing_a_Standard_Method/5.02%3A_Verifying_the_Method
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_II_(Harvey)/05%3A_Developing_a_Standard_Method/5.03%3A_Validating_the_Method_as_a_Standard_Method
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_II_(Harvey)/05%3A_Developing_a_Standard_Method/5.04%3A_Using_Excel_and_R_for_an_Analysis_of_Variance
@@ -9664,3 +9663,4 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistr
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/13%3A_Kinetic_Methods/13.02%3A_Chemical_Kinetics
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/13%3A_Kinetic_Methods/13.04%3A_Flow_Injection_Analysis
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/13%3A_Kinetic_Methods/13.03%3A_Radiochemistry
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/14%3A_Developing_a_Standard_Method/14.01%3A_Optimizing_the_Experimental_Procedure
