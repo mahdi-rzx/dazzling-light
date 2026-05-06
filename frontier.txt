@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/16%3A_Chemical_Kinetics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/19%3A_Buffers_and_Titrations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/1%3A_Definitions_Units_and_Significant_Figures
@@ -9290,3 +9289,14 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals/13.2.2_Determining_Orbital_Overlap_for_Covalent_Bonding_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals/13.3.1_Molecular_Orbital_Theory_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals/13.3.2_Molecular_Orbital_Bonding_for_Second_Row_Elements_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes/14.1_The_Thermodynamics_of_Phase_Changes_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes/14.2.1_Ionic_Intermolecular_Force_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes/14.2.2_Dipole_Intermolecular_Force_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes/14.2.3_Hydrogen_Bonding_Intermolecular_Force_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes/14.2.4_Dispersion_Intermolecular_Force_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes/14.2.5_Determining_the_Strongest_Intermolecular_Force_for_a_Molecule_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes/14.2_Intermolecular_Forces_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes/14.3.1_Surface_Tension_Viscosity_and_Melting_Point_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes/14.3.2_Vapor_Pressure_and_Boiling_Point_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes/14.4_The_Clausius-Clapeyron_Equation_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes/14.5_Phase_Diagrams_(Video)
