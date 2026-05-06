@@ -4745,3 +4745,4 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/09%3A_Gathering_Data/9.06%3AUsing_R_to_Model_a_Response_Surface
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/09%3A_Gathering_Data/9.07%3AExercises
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/10%3A_Cleaning_Up_Data/10.1%3A_Signals_and_Noise
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/10%3A_Cleaning_Up_Data/10.2%3A_Signal_Averaging
