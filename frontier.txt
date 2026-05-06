@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/16%3A_Chemical_Kinetics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/19%3A_Buffers_and_Titrations
@@ -9282,3 +9281,12 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.7_Lewis_Structure_of_Charged_Molecules_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.8_Resonance_Structures_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.9_Expanded_Valence_Shell_Bonding_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals/13.1.1_Valence_Bond_Method_And_sp3_Hybridization_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals/13.1.2_sp2_Hybridization_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals/13.1.3_sp_Hybridization_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals/13.1.4_Expanded_Octet_Hybridization_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals/13.1.5_Determining_the_Hybridization_of_an_Atom_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals/13.2.1_Sigma_and_Pi__Bonds_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals/13.2.2_Determining_Orbital_Overlap_for_Covalent_Bonding_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals/13.3.1_Molecular_Orbital_Theory_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals/13.3.2_Molecular_Orbital_Bonding_for_Second_Row_Elements_(Video)
