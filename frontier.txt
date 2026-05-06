@@ -131,7 +131,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/01%3A_Fundamental_1_-_Measurable_Properties
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/03%3A_Composition_of_Substances_and_Solutions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/04%3A_Stoichiometry_of_Chemical_Reactions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05%3A_Thermochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/06%3A_Electronic_Structure_and_Periodic_Properties
@@ -8248,3 +8247,8 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/02%3A_Atoms_Molecules_and_Ions/2.07%3A_Molecular_and_Ionic_Compounds
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/02%3A_Atoms_Molecules_and_Ions/2.08%3A_Chemical_Nomenclature
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/02%3A_Atoms_Molecules_and_Ions/2.E%3A_Atoms_Molecules_and_Ions_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/03%3A_Composition_of_Substances_and_Solutions/3.01%3A_Formula_Mass_and_the_Mole_Concept
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/03%3A_Composition_of_Substances_and_Solutions/3.02%3A_Determining_Empirical_and_Molecular_Formulas
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/03%3A_Composition_of_Substances_and_Solutions/3.03%3A_Molarity
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/03%3A_Composition_of_Substances_and_Solutions/3.04%3A_Other_Units_for_Solution_Concentrations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/03%3A_Composition_of_Substances_and_Solutions/3.E%3A_Composition_of_Substances_and_Solutions_(Exercises)
