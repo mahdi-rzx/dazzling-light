@@ -157,7 +157,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/23%3A_Chemistry_of_Coordination_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/24%3A_Chemistry_of_Life-_Organic_and_Biological_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/15%3A_Chemical_Equilibrium
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/16%3A_Acids_and_Bases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/17%3A_Aqueous_Ionic_Equilibrium
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/18%3A_Gibbs_Energy_and_Thermodynamics
@@ -8829,3 +8828,12 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_App
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/13%3A_Solutions/13.01%3A_Thirsty_Solutions-_Why_You_Should_Not_Drink_Seawater
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/13%3A_Solutions/13.E%3A_Solutions_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/14%3A_Chemical_Kinetics/14.01%3A_Catching_Lizards
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/15%3A_Chemical_Equilibrium/15.01%3A_The_Concept_of_Dynamic_Equilibrium
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/15%3A_Chemical_Equilibrium/15.02%3A_The_Equilibrium_Constant_(K)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/15%3A_Chemical_Equilibrium/15.03%3A_Expressing_the_Equilibrium_Constant_in_Terms_of_Pressure
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/15%3A_Chemical_Equilibrium/15.04%3A_Calculating_the_Equilibrium_Constant_From_Measured_Equilibrium_Concentrations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/15%3A_Chemical_Equilibrium/15.05%3A_Heterogenous_Equilibria_-_Reactions_Involving_Solids_and_Liquids
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/15%3A_Chemical_Equilibrium/15.06%3A_The_Reaction_Quotient-_Predicting_the_Direction_of_Change
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/15%3A_Chemical_Equilibrium/15.07%3A_Finding_Equilibrium_Concentrations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/15%3A_Chemical_Equilibrium/15.08%3A_Le_Chateliers_Principle-_How_a_System_at_Equilibrium_Responds_to_Disturbances
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/14%3A_Chemical_Kinetics/14.07%3A_Catalysis
