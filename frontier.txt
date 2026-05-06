@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/10%3A_Liquids_and_Solids
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/11%3A_Solutions_and_Colloids
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/12%3A_Thermodynamics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/13%3A_Fundamental_Equilibrium_Concepts
@@ -9045,3 +9044,12 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_Firs
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/08%3A_Gases/8.1%3A_Gas_Pressure
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/08%3A_Gases/8.E%3A_Gases_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/09%3A_Thermochemistry/9.0%3A_Prelude_to_Thermochemistry
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/10%3A_Liquids_and_Solids/10.0%3A_Prelude_to_Liquids_and_Solids
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/10%3A_Liquids_and_Solids/10.1%3A_Intermolecular_Forces
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/10%3A_Liquids_and_Solids/10.2%3A_Properties_of_Liquids
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/10%3A_Liquids_and_Solids/10.3%3A_Phase_Transitions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/10%3A_Liquids_and_Solids/10.4%3A_Phase_Diagrams
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/10%3A_Liquids_and_Solids/10.5%3A_The_Solid_State_of_Matter
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/10%3A_Liquids_and_Solids/10.6%3A_Lattice_Structures_in_Crystalline_Solids
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/10%3A_Liquids_and_Solids/10.E%3A_Liquids_and_Solids_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/09%3A_Thermochemistry/9.E%3A_Thermochemistry_(Exercises)
