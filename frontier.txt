@@ -117,7 +117,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_II_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/03%3A_Acid-Base_Chemistry
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/04%3A_Redox_Stability_and_Redox_Reactions
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/05%3A_Coordination_Chemistry_and_Crystal_Field_Theory
@@ -4460,3 +4459,17 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inor
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/01%3A_Review_of_Chemical_Bonding/1.05%3A_Discussion_Questions
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/01%3A_Review_of_Chemical_Bonding/1.06%3A_Problems
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/01%3A_Review_of_Chemical_Bonding/1.07%3A_References
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.01%3A_Prelude_to_Molecular_Orbital_Theory
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.02%3A_Constructing_Molecular_Orbitals_from_Atomic_Orbitals
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.03%3A_Orbital_Symmetry
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.04%3A___and__orbitals
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.05%3A_Diatomic_Molecules
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.06%3A_Orbital_Filling
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.07%3A_Periodic_Trends_in__Bonding
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.08%3A_Three-center_Bonding
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.09%3A_Building_up_the_MOs_of_More_Complex_Molecules-_NH_P
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.10%3A_Homology_of__and__orbitals_in_MO_diagrams
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.11%3A_Chains_and_Rings_of_-Conjugated_Systems
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.12%3A_Discussion_Questions
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.13%3A_Problems
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/02%3A_Molecular_Orbital_Theory/2.14%3A_References
