@@ -248,7 +248,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_C
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/21%3A_The_Chemistry_of_the_Main_Group_Elements
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/23%3A__Carbon%3A__Not_Just_Another_Element
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/24%3A__Biochemistry
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./07.E%3A_Periodic_Trends_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./08.E%3A_Chemical_Bonding_Basics_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./09.E%3A_Bonding_Theories_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./10.E%3A_Gases_(Exercises)
@@ -10024,3 +10023,11 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.07%3A_Many-Electron_Atoms
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.08%3A_Electron_Configurations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.09%3A_Electron_Configurations_and_the_Periodic_Table
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/07%3A_Periodic_Properties_of_the_Elements/7.01%3A_Development_of_the_Periodic_Table
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/07%3A_Periodic_Properties_of_the_Elements/7.02%3A_Shielding_and_Effective_Nuclear_Charge
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/07%3A_Periodic_Properties_of_the_Elements/7.03%3A_Sizes_of_Atoms_and_Ions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/07%3A_Periodic_Properties_of_the_Elements/7.04%3A_Ionization_Energy
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/07%3A_Periodic_Properties_of_the_Elements/7.05%3A_Electron_Affinities
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/07%3A_Periodic_Properties_of_the_Elements/7.06%3A_Metals_Nonmetals_and_Metalloids
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/07%3A_Periodic_Properties_of_the_Elements/7.07%3A_Group_Trends_for_the_Active_Metals
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/07%3A_Periodic_Properties_of_the_Elements/7.08%3A_Group_Trends_for_Selected_Nonmetals
