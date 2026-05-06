@@ -129,7 +129,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/09%3A_Metals_in_Medicine
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/06%3A_Instructor's_Guide
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Electron_Paramagnetic_Resonance_(Jenschke)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/00%3A_Front_Matter
@@ -6945,3 +6944,5 @@ https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textb
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/04%3A_Q-NMR_Experiment/4.01%3A_Prelab_Exercises
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/04%3A_Q-NMR_Experiment/4.04%3A_Wet_Lab
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/05%3A_Q-NMR_Applications/5.01%3A_Q-NMR_for_purity_determination_of_macrolide_antibiotic_reference_standards-_Comparison_with_the_mass_balance_method
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/05%3A_Q-NMR_Applications/5.05%3A_Q-NMR_for_Time_Course_Evolution_of_Malic_and_Lactic_Acid
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/06%3A_Instructor's_Guide/6.01%3A_Basic_Theory_Concept_Questions
