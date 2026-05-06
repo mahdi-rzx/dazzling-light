@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/21_Electrochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/3.3_Nomenclature_of_Inorganic_Compounds
@@ -9354,3 +9353,11 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/20%3A_Solubility_Products/20.8_Solubility_Products_and_pH_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/20%3A_Solubility_Products/20.9_pH_and_the_Precipitation_of_Insoluble_Salts_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.9_Determining_the_Molar_Mass_of_a_Molecule_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/21_Electrochemistry/21.1_Redox_Reactions_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/21_Electrochemistry/21.2_Balancing_a_Redox_Reaction_in_Acidic_Conditions_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/21_Electrochemistry/21.3_Electrochemical_Cells_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/21_Electrochemistry/21.4_Cell_Diagrams_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/21_Electrochemistry/21.5_The_Standard_Hydrogen_Electrode_(SHE)_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/21_Electrochemistry/21.6_Electrode_Potentials_and_ECell_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/21_Electrochemistry/21.7_The_Nernst_Equation_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/21_Electrochemistry/21.8_Electroplating__(Video)
