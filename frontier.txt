@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/10%3A_Thermochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/11%3A_Gases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/12%3A_Liquids_Solids_and_Intermolecular_Forces
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/13%3A_Phase_Diagrams_and_Crystalline_Solids
@@ -9661,3 +9660,14 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_P
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/09%3A_Introduction_to_Solutions_and_Aqueous_Reactions/9.07%3A_Acid-Base
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/09%3A_Introduction_to_Solutions_and_Aqueous_Reactions/9.08%3A_Gas-Evolution_Reactions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/09%3A_Introduction_to_Solutions_and_Aqueous_Reactions/9.09%3A_Oxidation-Reduction_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/10%3A_Thermochemistry/10.01%3A_On_Fire_But_Not_Consumed
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/10%3A_Thermochemistry/10.02%3A_The_Nature_of_Energy_-_Key_Definitions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/10%3A_Thermochemistry/10.03%3A_The_First_Law_of_Thermodynamics_-_There_Is_No_Free_Lunch
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/10%3A_Thermochemistry/10.04%3A_Quantifying_Heat_and_Work
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/10%3A_Thermochemistry/10.05%3A_Measuring_E_for_Chemical_Reactions-_Constant-Volume_Calorimetry
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/10%3A_Thermochemistry/10.06%3A_Enthalpy-_The_Heat_Evolved_in_a_Chemical_Reaction_at_Constant_Pressure
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/10%3A_Thermochemistry/10.07%3A_Measuring_H_for_Chemical_Reactions-_Constant-Pressure_Calorimetry
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/10%3A_Thermochemistry/10.08%3A_Relationships_Involving__Hrxn
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/10%3A_Thermochemistry/10.09%3A_Determining_Enthalpies_of_Reaction_from_Bond_Energies
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/10%3A_Thermochemistry/10.10%3A_Determining_Enthalpies_of_Reaction_from_Standard_Enthalpies_of_Formation
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/10%3A_Thermochemistry/10.11%3A_Lattice_Energy
