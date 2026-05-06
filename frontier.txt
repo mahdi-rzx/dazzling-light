@@ -183,7 +183,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/22%3A_Metals
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/17%3A_Chemical_Kinetics_and_Dynamics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Structure_and_Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_(Schaller)/V%3A__Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_3/zz%3A_Back_Matter/30%3A_Detailed_Licensing
@@ -9014,3 +9013,13 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Th
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Thermodynamics_of_Chemical_Equilibria/15.06%3A_Free_energy_and_Equilibrium
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Thermodynamics_of_Chemical_Equilibria/15.07%3A_Some_Applications_of_Entropy_and_Free_Energy
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Thermodynamics_of_Chemical_Equilibria/15.08%3A_Quantum_states_Microstates_and_Energy_spreading_in_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.01%3A_Chemistry_and_Electricity
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.02%3A_Galvanic_cells_and_Electrodes
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.03%3A_Cell_potentials_and_Thermodynamics
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.04%3A_The_Nernst_Equation
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.05%3A_Applications_of_the_Nernst_Equation
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.06%3A_Batteries_and_Fuel_Cells
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.07%3A_Timeline_of_Battery_Development
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.08%3A_Electrochemical_Corrosion
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.09%3A_Corrosion_Gallery
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.10%3A_Electrolytic_Cells_and_Electrolysis
