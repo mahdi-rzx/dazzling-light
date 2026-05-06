@@ -157,7 +157,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/23%3A_Chemistry_of_Coordination_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/24%3A_Chemistry_of_Life-_Organic_and_Biological_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/06%3A_Thermochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/07%3A_The_Quantum-Mechanical_Model_of_the_Atom
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/08%3A_Periodic_Properties_of_the_Elements
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/09%3A_Chemical_Bonding_I-_Lewis_Structures_and_Determining_Molecular_Shapes
@@ -8785,3 +8784,13 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_App
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.09%3A_Mean_Free_Path_Diffusion_and_Effusion_of_Gases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.10%3A_Real_Gases-_The_Effects_of_Size_and_Intermolecular_Forces
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases/5.E%3A_Gases_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/06%3A_Thermochemistry/6.01%3A_Light_the_Furnace-_The_Nature_of_Energy_and_Its_Transformations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/06%3A_Thermochemistry/6.02%3A_The_Nature_and_Types_of_Energy
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/06%3A_Thermochemistry/6.03%3A_Quantifying_Heat_and_Work
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/06%3A_Thermochemistry/6.04%3A_The_First_Law_of_Thermodynamics
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/06%3A_Thermochemistry/6.05%3A_Constant_Volume_Calorimetry-_Measuring_U_for_Chemical_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/06%3A_Thermochemistry/6.06%3A_Enthalpy-_The_Heat_Evolved_in_a_Chemical_Reaction_at_Constant_Pressure
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/06%3A_Thermochemistry/6.07%3A_Constant_Pressure_Calorimetry-_Measuring_H__for_Chemical_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/06%3A_Thermochemistry/6.08%3A_Relationships_Involving_Enthalpy_of_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/06%3A_Thermochemistry/6.09%3A_Enthalpies_of_Reaction_from_Standard_Heats_of_Formation
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/06%3A_Thermochemistry/6.10%3A_Energy_Use_and_The_Environment
