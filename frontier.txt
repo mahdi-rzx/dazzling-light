@@ -221,7 +221,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/04%3A_Reactions_in_Aqueous_Solution
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/05%3A_Energy_Changes_in_Chemical_Reactions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/06%3A_The_Structure_of_Atoms
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/07%3A_The_Periodic_Table_and_Periodic_Trends
@@ -9784,3 +9783,14 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemis
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/03%3A_Chemical_Reactions/3.05%3A_Types_of_Chemical_Reactions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/03%3A_Chemical_Reactions/3.06%3A_Chemical_Reactions_in_the_Atmosphere
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/03%3A_Chemical_Reactions/3.07%3A__Essential_Skills_2
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/04%3A_Reactions_in_Aqueous_Solution/4.01%3A_Aqueous_Solutions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/04%3A_Reactions_in_Aqueous_Solution/4.02%3A_Solution_Concentrations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/04%3A_Reactions_in_Aqueous_Solution/4.03%3A__Stoichiometry_of_Reactions_in_Solution
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/04%3A_Reactions_in_Aqueous_Solution/4.04%3A_Ionic_Equations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/04%3A_Reactions_in_Aqueous_Solution/4.05%3A_Precipitation_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/04%3A_Reactions_in_Aqueous_Solution/4.06%3A_Acids_and_Bases
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/04%3A_Reactions_in_Aqueous_Solution/4.07%3A_Acid_Base_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/04%3A_Reactions_in_Aqueous_Solution/4.08%3A_The_Chemistry_of_Acid_Rain
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/04%3A_Reactions_in_Aqueous_Solution/4.09%3A__Quantitative_Analysis_Using_Titration
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/04%3A_Reactions_in_Aqueous_Solution/4.10%3A__Oxidation-Reduction_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/04%3A_Reactions_in_Aqueous_Solution/4.11%3A_Essential_Skills_3
