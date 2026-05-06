@@ -1,0 +1,3397 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="1.3: The Born-Oppenheimer Approximation"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01%3A_The_Basics_of_Quantum_Mechanics/1.03%3A_The_Born-Oppenheimer_Approximation"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content="One of the most important approximations relating to applying quantum mechanics to molecules and molecular ions is known as the Born-Oppenheimer (BO) approximation."/>
+        <meta property="article:published_time" content="2014-05-20T05:50:27Z"/>
+        <meta property="article:modified_time" content="2021-04-08T14:52:54Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="1.3: The Born-Oppenheimer Approximation"/>
+        <meta name="twitter:description" content="One of the most important approximations relating to applying quantum mechanics to molecules and molecular ions is known as the Born-Oppenheimer (BO) approximation."/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content="One of the most important approximations relating to applying quantum mechanics to molecules and molecular ions is known as the Born-Oppenheimer (BO) approximation."/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01%3A_The_Basics_of_Quantum_Mechanics/1.03%3A_The_Born-Oppenheimer_Approximation"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53">{"@context":"http:\/\/schema.org","@type":"Article","name":"1.3: The Born-Oppenheimer Approximation","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Advanced_Theoretical_Chemistry_(Simons)\/01%3A_The_Basics_of_Quantum_Mechanics\/1.03%3A_The_Born-Oppenheimer_Approximation","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2014-05-20T05:50:27Z","dateModified":"2021-04-08T14:52:54Z","description":"One of the most important approximations relating to applying quantum mechanics to molecules and molecular ions is known as the Born-Oppenheimer (BO) approximation.","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/11543\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Advanced_Theoretical_Chemistry_(Simons)\/01%3A_The_Basics_of_Quantum_Mechanics\/1.03%3A_The_Born-Oppenheimer_Approximation"},"headline":"1.3: The Born-Oppenheimer Approximation","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"1.3: The Born-Oppenheimer Approximation","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Advanced_Theoretical_Chemistry_(Simons)\/01%3A_The_Basics_of_Quantum_Mechanics\/1.03%3A_The_Born-Oppenheimer_Approximation","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Time_Dependent_Quantum_Mechanics_and_Spectroscopy_2014e_(Tokmakoff)\/06%3A_Adiabatic_Approximation\/6.01%3A_BornOppenheimer_Approximation","https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Physical_Chemistry_(LibreTexts)\/09%3A_Chemical_Bonding_in_Diatomic_Molecules\/9.01%3A_The_Born-Oppenheimer_Approximation_Simplifies_the_Schrodinger_Equation_for_Molecules","https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Thermodynamics_and_Chemical_Equilibrium_(Ellgen)\/18%3A_Quantum_Mechanics_and_Molecular_Energy_Levels\/18.04%3A_The_Schrodinger_Equation_for_a_Molecule","https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Book%3A_Quantum_States_of_Atoms_and_Molecules_(Zielinksi_et_al)\/10%3A_Theories_of_Electronic_Molecular_Structure\/10.01%3A_The_Born-Oppenheimer_Approximation","https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)\/Quantum_Mechanics\/11%3A_Molecules\/Nuclear_Potential_Energy_Curves"]}</script>
+        <script type="application/ld+json" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps","name":"Physical & Theoretical Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Advanced_Theoretical_Chemistry_(Simons)","name":"Advanced Theoretical Chemistry (Simons)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Advanced_Theoretical_Chemistry_(Simons)\/01%3A_The_Basics_of_Quantum_Mechanics","name":"1: The Basics of Quantum Mechanics"}}]}</script>
+
+        <title>1.3: The Born-Oppenheimer Approximation - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+@media print {
+     
+
+.mt-content-container .mt-responsive-table, .mt-content-container table {
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 1rem !important;
+}
+
+.mt-content-container .mt-responsive-table caption, .mt-content-container table caption { 
+    display: table-caption;
+    text-align: center;
+    font-size: 90%;
+    padding: 0 0 0.2rem 0;
+}
+
+.mt-content-container .mt-responsive-table th, .mt-content-container table th {
+  font-size: inherit;
+  vertical-align: middle;
+  border-bottom: 1px solid #E8E8E8;
+  margin: inherit;
+  padding: 0.4em !important;
+}
+
+.mt-content-container .mt-responsive-table tr, .mt-content-container table tr {
+  page-break-inside:avoid; 
+  page-break-after:auto;
+  margin: inherit;
+  font-size: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+  border-bottom: 1px solid #E8E8E8;
+}
+    
+.mt-content-container .mt-responsive-table td, .mt-content-container table td {
+  border: 1px solid #E8E8E8;
+  page-break-inside: avoid !important;
+  page-break-before: avoid;
+  margin: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+}
+
+.mt-content-container table ol, 
+.mt-content-container table ul,
+.mt-content-container table p,
+.mt-content-container table ol,
+.mt-content-container table ul,
+.mt-content-container table p {
+    font-size: inherit;
+    margin: inherit;
+}
+
+mjx-container svg path,
+mjx-container svg use {
+  stroke: none !important;
+  stroke-width: 0 !important;
+}
+    
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":11543,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"1.3: The Born-Oppenheimer Approximation","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"153","pageSectionEditable":false,"pageTitle":"Bookshelves\/Physical and Theoretical Chemistry Textbook Maps\/Advanced Theoretical Chemistry (Simons)\/01: The Basics of Quantum Mechanics\/1.03: The Born-Oppenheimer Approximation","pageViewId":"7e561bbd-c26a-4f56-8529-2537a1ec71ed","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"MTU3NTQ3NTMtNmY4OC00OTU2LWI1YmEtZWRlZDI3YjYwMTJlfDIwMjYtMDUtMDZUMTI6NTI6MTg=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778071938_d097412728ecca13d019780adf944d1e61381225cce991ce3bdbf7c557ed3062","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-physicalandtheoreticalchemistrytextbookmaps-advancedtheoreticalchemistry%28simons%29-01%3Athebasicsofquantummechanics-1.03%3Atheborn-oppenheimerapproximation columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">1: The Basics of Quantum Mechanics</div><div style="display:none" id="parentParentTitleHolder">Advanced Theoretical Chemistry (Simons)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;1.01:_Why_Quantum_Mechanics_is_Necessary&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;1.02:_The_Schrodinger_Equation_and_Its_Components&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;1.03:_The_Born-Oppenheimer_Approximation&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;1.04:_Free_Particle_Motions_in_More_Dimensions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_The_Basics_of_Quantum_Mechanics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_Model_Problems_That_Form_Important_Starting_Points&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_Characteristics_of_Energy_Surfaces&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:__Some_Important_Tools_of_Theory&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05:_An_Overview_of_Theoretical_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06:_Electronic_Structure&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07:_Statistical_Mechanics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08:_Chemical_Dynamics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09:_Exercises&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Thu, 08 Apr 2021 14:52:54 GMT</div><div style="display:none" id="titleHolder">1.3: The Born-Oppenheimer Approximation</div><div style="display:none" id="IDHolder">11543</div><div style="display:none" id="pageIDHolder">11543</div><div style="display:none" id="pageAuthorHolder">admin</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;Born-Oppenheimer approximation&quot;, &quot;authorname:simonsj&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;licenseversion:40&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;Born-Oppenheimer approximation&quot;, &quot;authorname:simonsj&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;licenseversion:40&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FPhysical_and_Theoretical_Chemistry_Textbook_Maps%2FAdvanced_Theoretical_Chemistry_(Simons)%2F01%253A_The_Basics_of_Quantum_Mechanics%2F1.03%253A_The_Born-Oppenheimer_Approximation</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FPhysical_and_Theoretical_Chemistry_Textbook_Maps%2FAdvanced_Theoretical_Chemistry_%28Simons%29%2F01%3A_The_Basics_of_Quantum_Mechanics%2F1.03%3A_The_Born-Oppenheimer_Approximation" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FPhysical_and_Theoretical_Chemistry_Textbook_Maps%2FAdvanced_Theoretical_Chemistry_%28Simons%29%2F01%3A_The_Basics_of_Quantum_Mechanics%2F1.03%3A_The_Born-Oppenheimer_Approximation" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Physical &amp; Theoretical Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Advanced Theoretical Chemistry (Simons)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01%3A_The_Basics_of_Quantum_Mechanics" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    1: The Basics of Quantum Mechanics
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            1.3: The Born-Oppenheimer Approximation
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        1.3: The Born-Oppenheimer Approximation
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2021-04-08T14:52:54Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/11543/pdf/1.3%253A%2bThe%2bBorn-Oppenheimer%2bApproximation.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>11543</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+<div class="mt-author-container"><ul><li class="mt-author-image mt-author-image-crop"><img alt=" " title="Jack Simons" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/123526/Simons.jpg?revision=1" /></li><li class="mt-author-information"><a rel="external" target="_blank" href="http://simons.hec.utah.edu/">Jack Simons</a></li><li class="mt-author-companyname"><a rel="external" target="_blank" href="https://chem.utah.edu/">University of Utah</a></li></ul></div>
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Your_First_Application_of_Quantum_Mechanics-_Motion_of_a_Particle_in_One_Dimension" rel="internal">Your First Application of Quantum Mechanics- Motion of a Particle in One Dimension</a></li><li><a href="#The_Classical_Probability_Density" rel="internal">The Classical Probability Density</a></li><li><a href="#Quantum_Treatment" rel="internal">Quantum Treatment</a></li><li><a href="#Energies_and_Wave_functions" rel="internal">Energies and Wave functions</a></li><li><a href="#Probability_Densities" rel="internal">Probability Densities</a></li><li><a href="#Classical_and_Quantum_Probability_Densities" rel="internal">Classical and Quantum Probability Densities</a></li><li><a href="#Time_Propagation_of_Wave_functions" rel="internal">Time Propagation of Wave functions</a></li><li><a href="#Contributors_and_Attributions" rel="internal">Contributors and Attributions</a></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <p class="lt-chem-11543"><span class="rangySelectionBoundary">&#65279;</span>One of the most important approximations relating to applying quantum mechanics to molecules and molecular ions is known as the Born-Oppenheimer (BO) approximation. The basic idea behind this approximation involves realizing that in the full electrons-plus-nuclei Hamiltonian operator introduced above</p>
+
+<p class="mt-align-center lt-chem-11543">\[H = \sum_i \left[- \dfrac{\hbar^2}{2m_e} \dfrac{\partial^2}{\partial q_i^2} \right]+ \dfrac{1}{2} \sum_{j\ne i} \dfrac{e^2}{r_{i,j}} - \sum_{a,i} \dfrac{&#8203;Z_ae^2}{r_{i,a}} + \sum_a \left[- \dfrac{\hbar^2}{2m_a} \dfrac{\partial^2}{\partial q_a^2}\right]+ \dfrac{1}{2} \sum_{b\ne a} \dfrac{&#8203;Z_aZ_b e^2}{r_{a,b}} \]</p>
+
+<p class="lt-chem-11543">the time scales with which the electrons and nuclei move are usually quite different. In particular, the heavy nuclei (i.e., even a H nucleus weighs nearly 2000 times what an electron weighs) move (i.e., vibrate and rotate) more slowly than do the lighter electrons. For example, typical bond vibrational motions occur over time scales of ca. \(10^{-14}\) s, molecular rotations require \(10^{-100}\) times as long, but electrons undergo periodic motions within their orbits on the \(10^{-17}\) s timescale if they reside within core or valence orbitals. Thus, we expect the electrons to be able to promptly &ldquo;adjust&rdquo; their motions to the much more slowly moving nuclei.</p>
+
+<p class="lt-chem-11543">This observation motivates us to consider solving the Schr&ouml;dinger equation for the movement of the electrons in the presence of fixed nuclei as a way to represent the fully adjusted state of the electrons at any fixed positions of the nuclei. Of course, we then have to have a way to describe the differences between how the electrons and nuclei behave in the absence of this approximation and how they move within the approximation. These differences give rise to so-called non-Born-Oppenheimer corrections, radiationless transitions, surface hops, and non-adiabatic transitions, which we will deal with later.</p>
+
+<p class="lt-chem-11543">It should be noted that this separation of time scales between fast electronic and slow vibration and rotation motions does not apply as well to, for example, Rydberg states of atoms and molecules. As discussed earlier, in such states, the electron in the Rydberg orbital has much lower speed and much larger radial extent than for typical core or valence orbitals. For this reason, corrections to the BO model are usually more important to make when dealing with Rydberg states.</p>
+
+<p class="lt-chem-11543">The electronic Hamiltonian that pertains to the motions of the electrons in the presence of clamped nuclei</p>
+
+<p class="mt-align-center lt-chem-11543">\[H = \sum_i \left[- \dfrac{\hbar^2}{2m_e} \dfrac{\partial^2}{\partial q_i^2} \right]+ \dfrac{1}{2} \sum_{j\ne i} \dfrac{e^2}{r_{i,j}} - \sum_{a,i} \dfrac{&#8203;Z_ae^2}{r_{i,a}} \dfrac{1}{2} \sum_{b\ne a} \dfrac{&#8203;Z_a Z_b e^2}{r_{a,b}}\]</p>
+
+<p class="lt-chem-11543">produces as its eigenvalues through the equation</p>
+
+<p class="mt-align-center lt-chem-11543">\[H \psi_J(q_j|q_a) = E_J (q_a) \psi_J(q_j|q_a)\]</p>
+
+<p class="lt-chem-11543">energies \(E_K (q_a)\) that depend on where the nuclei are located (i.e., the {\(q_a\)} coordinates). As its eigenfunctions, one obtains what are called electronic wave functions {\(\psi_K(q_i|q_a)\)} which also depend on where the nuclei are located. The energies \(E_K(q_a)\) are what we usually call potential energy surfaces. An example of such a surface is shown in Figure 1.5.</p>
+
+<figure><img height="266" width="414" class="internal" alt="Figure 1.5.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/19378/Figure_1.5.png?revision=1" /><figcaption>Figure 1.5. Two dimensional potential energy surface showing local minima, transition states and paths connecting them.</figcaption></figure>
+
+<p class="lt-chem-11543">This surface depends on two geometrical coordinates \(\{q_a\}\) and is a plot of one particular eigenvalue \(E_J(q_a)\) vs. these two coordinates.</p>
+
+<p class="lt-chem-11543">Although this plot has more information on it than we shall discuss now, a few features are worth noting. There appear to be three minima (i.e., points where the derivative of \(E_J\) with respect to both coordinates vanish and where the surface has positive curvature). These points correspond, as we will see toward the end of this introductory material, to geometries of stable molecular structures. The surface also displays two first-order saddle points (labeled transition structures A and B) that connect the three minima. These points have zero first derivative of \(E_J\) with respect to both coordinates but have one direction of negative curvature. As we will show later, these points describe transition states that play crucial roles in the kinetics of transitions among the three stable geometries.</p>
+
+<p class="lt-chem-11543">Keep in mind that Figure 1.5 shows just one of the \(E_J\) surfaces; each molecule has a ground-state surface (i.e., the one that is lowest in energy) as well as an infinite number of excited-state surfaces. Let&rsquo;s now return to our discussion of the BO model and ask what one does once one has such an energy surface in hand.</p>
+
+<p class="lt-chem-11543">The motion of the nuclei are subsequently, within the BO model, assumed to obey a Schr&ouml;dinger equation in which</p>
+
+<p class="lt-chem-11543">\[\displaystyle\sum_a [- \dfrac{\hbar^2}{2m_a} \dfrac{\partial^2}{\partial q_a^2} ]+ \dfrac{1}{2} \sum_{b\ne a} \dfrac{Z_aZ_be^2}{r_{a,b}} + E_K(q_a)\]</p>
+
+<p class="lt-chem-11543">defines a rotation-vibration Hamiltonian for the particular energy state \(E_K\) of interest. The rotational and vibrational energies and wave functions belonging to each electronic state (i.e., for each value of the index \(K\) in \(E_K(q_a)\)) are then found by solving a \(E_K\) Hamiltonian.</p>
+
+<p class="lt-chem-11543">This BO model forms the basis of much of how chemists view molecular structure and molecular spectroscopy. For example as applied to formaldehyde \(H_2C=O\), we speak of the singlet ground electronic state (with all electrons spin paired and occupying the lowest energy orbitals) and its vibrational and rotational states as well as the \(n\rightarrow \pi^*\) and \(\pi\rightarrow \pi^*\) electronic states and their vibrational and rotational levels. Although much more will be said about these concepts later in this text, the student should be aware of the concepts of electronic energy surfaces (i.e., the {\(E_K(q_a)\)}) and the vibration-rotation states that belong to each such surface.</p>
+
+<p class="lt-chem-11543">I should point out that the \(3N\) Cartesian coordinates {\(q_a\)} used to describe the positions of the molecule&rsquo;s \(N\) nuclei can be replaced by 3 Cartesian coordinates \((X,Y,Z)\) specifying the center of mass of the \(N\) nuclei and \(3N-3\) other so-called internal coordinates that can be used to describe the molecule&rsquo;s orientation (these coordinates appear in the rotational kinetic energy) and its bond lengths and angles (these coordinates appear in the vibrational kinetic and potential energies). When center-of-mass and internal coordinates are used in place of the \(3N\) Cartesian coordinates, the Born-Oppenheimer energy surfaces {\(E_K(q_a)\)} are seen to depend only on the internal coordinates. Moreover, if the molecule&rsquo;s energy does not depend on its orientation (e.g., if it is moving freely in the gas phase), the {\(E_K(q_a)\)} will also not depend on the 3 orientational coordinates, but only on the \(3N-6\) vibrational coordinates.</p>
+
+<p class="lt-chem-11543">Having been introduced to the concepts of operators, wave functions, the Hamiltonian and its Schr&ouml;dinger equation, it is important to now consider several examples of the applications of these concepts. The examples treated below were chosen to provide the reader with valuable experience in solving the Schr&ouml;dinger equation; they were also chosen because they form the most elementary chemical models of electronic motions in conjugated molecules and in atoms, rotations of linear molecules, and vibrations of chemical bonds.</p>
+
+<div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01:_The_Basics_of_Quantum_Mechanics/1.03:_The_Born-Oppenheimer_Approximation" class="mt-section" id="section_1"><span id="Your_First_Application_of_Quantum_Mechanics-_Motion_of_a_Particle_in_One_Dimension"></span><h3 class="lt-chem-11543 editable">Your First Application of Quantum Mechanics- Motion of a Particle in One Dimension</h3>
+
+<p class="mt-align-center lt-chem-11543"><em>This is a very important problem whose solutions chemists use to model a wide variety of phenomena.</em></p>
+
+<p class="lt-chem-11543">Let&rsquo;s begin by examining the motion of a single particle of mass \(m\) in one direction which we will call \(x\) while under the influence of a potential denoted \(V(x)\). The classical expression for the total energy of such a system is \(E = \dfrac{p^2}{2m} + V(x)\), where \(p\) is the momentum of the particle along the x-axis. To focus on specific examples, consider how this particle would move if \(V(x)\) were of the forms shown in Figure 1. 6, where the total energy \(E\) is denoted by the position of the horizontal line.</p>
+
+<figure><img height="165" width="340" class="internal" alt="Figure 1.6.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/19379/Figure_1.6.png?revision=1" />
+<figcaption>Figure 1. 6. Three characteristic potentials showing left and right classical turning points at energies denoted by the horizontal lines.</figcaption>
+</figure>
+
+</div><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01:_The_Basics_of_Quantum_Mechanics/1.03:_The_Born-Oppenheimer_Approximation" class="mt-section" id="section_2"><span id="The_Classical_Probability_Density"></span><h2 class="lt-chem-11543 editable">The Classical Probability Density</h2>
+
+<p class="lt-chem-11543">I would like you to imagine what the probability density would be for this particle moving with total energy \(E\) and with \(V(x)\) varying as the above three plots illustrate. To conceptualize the probability density, imagine the particle to have a blinking lamp attached to it and think of this lamp blinking say 100 times for each time it takes for the particle to complete a full transit from its left turning point, to its right turning point and back to the former. The turning points \(x_L\) and \(x_R\) are the positions at which the particle, if it were moving under Newton&rsquo;s laws, would reverse direction (as the momentum changes sign) and turn around. These positions can be found by asking where the momentum goes to zero:</p>
+
+<p class="mt-align-center lt-chem-11543">\[0 = p = \sqrt{2m(E-V(x)}.\]</p>
+
+<p class="lt-chem-11543">These are the positions where all of the energy appears as potential energy \(E = V(x)\) and correspond in the above figures to the points where the dark horizontal lines touch the \(V(x)\) plots as shown in the central plot.</p>
+
+<p class="lt-chem-11543">The probability density at any value of \(x\) represents the fraction of time the particle spends at this value of \(x\) (i.e., within \(x\) and \(x+dx\)). Think of forming this density by allowing the blinking lamp attached to the particle to shed light on a photographic plate that is exposed to this light for many oscillations of the particle between \(x_L\) and \(x_R\). Alternatively, one can express the probability \(P(x) dx\) that the particle spends between \(x\) and \(x + dx\) by dividing the spatial distance \(dx\) by the velocity (p/m) of the particle at the point \(x\):</p>
+
+<p class="mt-align-center lt-chem-11543">\[P(x)dx = \sqrt{2m(E-V(x))} \;m\; dx.\]</p>
+
+<p class="lt-chem-11543">Because \(E\) is constant throughout the particle&rsquo;s motion, \(P(x)\) will be small at \(x\) values where the particle is moving quickly (i.e., where \(V\) is low) and will be high where the particle moves slowly (where \(V\) is high). So, the photographic plate will show a bright region where \(V\) is high (because the particle moves slowly in such regions) and less brightness where \(V\) is low. Note, however, that as \(x\) approaches the classical turning points, the velocity approaches zero, so the above expression for \(P(x)\) will approach infinity. It does not mean the probability of finding the particle at the turning point is infinite; it means that the probability density is infinite there. This divergence of \(P(x)\) is a characteristic of the classical probability density that will be seen to be very different from the quantum probability density.</p>
+
+<p class="lt-chem-11543">The bottom line is that the probability densities anticipated by analyzing the classical Newtonian dynamics of this one particle would appear as the histogram plots shown in Figure 1.7 illustrate.</p>
+
+<figure><img height="169" width="346" class="internal" alt="Figure 1.7.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/19380/Figure_1.7.jpg?revision=1" />
+<figcaption>Figure 1. 7 Classical probability plots for the three potentials shown</figcaption>
+</figure>
+
+<p class="lt-chem-11543">Where the particle has high kinetic energy (and thus lower \(V(x)\)), it spends less time and \(P(x)\) is small. Where the particle moves slowly, it spends more time and \(P(x)\) is larger. For the plot on the right, \(V(x)\) is constant within the &ldquo;box&rdquo;, so the speed is constant, hence \(P(x)\) is constant for all \(x\) values within this one-dimensional box. I ask that you keep these plots in mind because they are very different from what one finds when one solves the Schr&ouml;dinger equation for this same problem. Also please keep in mind that these plots represent what one expects if the particle were moving according to classical Newtonian dynamics (which we know it is not!).</p>
+
+</div><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01:_The_Basics_of_Quantum_Mechanics/1.03:_The_Born-Oppenheimer_Approximation" class="mt-section" id="section_3"><span id="Quantum_Treatment"></span><h2 class="lt-chem-11543 editable">Quantum Treatment</h2>
+
+<p class="lt-chem-11543">To solve for the quantum mechanical wave functions and energies of this same kind of problem, we first write the Hamiltonian operator as discussed above by replacing \(p\) by \(-i\hbar \dfrac{d}{dx}\):</p>
+
+<p class="mt-align-center lt-chem-11543">\[H = -\dfrac{ \hbar^2}{2m} \dfrac{d^2}{dx^2} + V(x).\]</p>
+
+<p class="lt-chem-11543">We then try to find solutions \(\psi(x)\) to \(H\psi = E\psi\) that obey certain conditions. These conditions are related to the fact that \(|\psi (x)|^2\) is supposed to be the probability density for finding the particle between \(x\) and \(x+dx\). To keep things as simple as possible, let&rsquo;s focus on the box potential \(V\) shown in the right side of Figure 1. 7. This potential, expressed as a function of \(x\) is: \(V(x) = \infty\) for \(x&lt; 0\) and for \(x&gt; L\); \(V(x) = 0\) for \(x\) between \(0\) and \(L\).</p>
+
+<p class="lt-chem-11543">The fact that \(V\) is infinite for \(x&lt; 0\) and for \(x&gt; L\), and that the total energy \(E\) must be finite, says that \(\psi\) must vanish in these two regions (\(y = 0\) for \(x&lt; 0\) and for \(x&gt; L\)). This condition means that the particle cannot access regions of space where the potential is infinite. The second condition that we make use of is that \(\psi (x)\) must be continuous; this means that the probability of the particle being at \(x\) cannot be discontinuously related to the probability of it being at a nearby point. It is also true that the spatial derivative \(\dfrac{d\psi}{dx}\) must be continuous except at points where the potential \(V(x)\) has an infinite discontinuity like it does in the example shown on the right in Figure 1.7. The continuity of \(\dfrac{d\psi}{dx}\) relates to continuity of momentum (recall, \(-i \hbar \dfrac{\partial}{\partial x}\) is a momentum operator). When a particle moves under, for example, one of the two potential shown on the left or middle of Figure 1.7, the potential smoothly changes as kinetic and potential energy interchange during the periodic motion. In contrast, when moving under the potential on the right of Figure 1.7, the potential undergoes a sudden change of direction when the particle hits either wall. So, even classically, the particle&rsquo;s momentum undergoes a discontinuity at such hard-wall turning points. These conditions of continuity of \(\psi\) (and its spatial first derivative) and that \(\psi\) must vanish in regions of space where the potential is extremely high were postulated by the pioneers of quantum mechanics so that the predictions of the quantum theory would be in line with experimental observations.</p>
+
+</div><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01:_The_Basics_of_Quantum_Mechanics/1.03:_The_Born-Oppenheimer_Approximation" class="mt-section" id="section_4"><span id="Energies_and_Wave_functions"></span><h2 class="lt-chem-11543 editable">Energies and Wave functions</h2>
+
+<p class="lt-chem-11543">The second-order differential equation</p>
+
+<p class="mt-align-center lt-chem-11543">\[- \dfrac{\hbar^2}{2m} \dfrac{d^2\psi}{dx^2} + V(x)\psi = E\psi\]</p>
+
+<p class="lt-chem-11543">has two solutions (because it is a second order equation) in the region between \(x= 0\) and \(x= L\) where \(V(x) = 0\):</p>
+
+<p class="mt-align-center lt-chem-11543">\[\psi = \sin(kx)\]</p>
+
+<p class="lt-chem-11543">and</p>
+
+<p class="mt-align-center lt-chem-11543">\[\psi = \cos(kx),\]</p>
+
+<p class="lt-chem-11543">where \(k\) is defined as</p>
+
+<p class="mt-align-center lt-chem-11543">\[k=\sqrt{2mE/\hbar^2}.\]</p>
+
+<p class="lt-chem-11543">Hence, the most general solution is some combination of these two:</p>
+
+<p class="mt-align-center lt-chem-11543">\[\psi = A \sin(kx) + B \cos(kx).\]</p>
+
+<p class="lt-chem-11543">We could, alternatively use \(\exp(ikx)\) and \(\exp(-ikx)\) as the two independent solutions (we do so later in Section 1.4 to illustrate) because \(\sin(kx)\) and \(\cos(kx)\) can be rewritten in terms of \(\exp(ikx)\) and \(\exp(-ikx)\); that is, they span exactly the same space.</p>
+
+<p class="lt-chem-11543">The fact that \(\psi\) must vanish at \(x= 0\) (n.b., \(\psi\) vanishes for \(x&lt; 0\) because \(V(x)\) is infinite there and \(\psi\) is continuous, so it must vanish at the point \(x= 0\)) means that the weighting amplitude of the \(\cos(kx)\) term must vanish because \(\cos(kx) = 1\) at \(x = 0\). That is,</p>
+
+<p class="mt-align-center lt-chem-11543">\[B = 0.\]</p>
+
+<p class="lt-chem-11543">The amplitude of the \(\sin(kx)\) term is not affected by the condition that \(\psi\) vanish at \(x= 0\), since \(\sin(kx)\) itself vanishes at \(x= 0\). So, now we know that \(\psi\) is really of the form:</p>
+
+<p class="mt-align-center lt-chem-11543">\[\psi(x) = A \sin(kx).\]</p>
+
+<p class="lt-chem-11543">The condition that \(\psi\) also vanish at \(x= L\) (because it vanishes for \(x &lt; 0\) where \(V(x)\) again is infinite) has two possible implications. Either \(A = 0\) or \(k\) must be such that \(\sin(kL) = 0\). The option \(A = 0\) would lead to an answer \(\psi\) that vanishes at all values of \(x\) and thus a probability that vanishes everywhere. This is unacceptable because it would imply that the particle is never observed anywhere.</p>
+
+<p class="lt-chem-11543">The other possibility is that \(\sin(kL) = 0\). Let&rsquo;s explore this answer because it offers the first example of energy quantization that you have probably encountered. As you know, the sin function vanishes at integral multiples of \(p\). Hence \(kL\) must be some multiple of \(\pi\); let&rsquo;s call the integer \(n\) and write \(Lk = n\pi\) (using the definition of \(k\)) in the form:</p>
+
+<p class="mt-align-center lt-chem-11543">\[L\sqrt{\dfrac{2mE}{\hbar^2}} = n\pi.\]</p>
+
+<p class="lt-chem-11543">Solving this equation for the energy \(E\), we obtain:</p>
+
+<p class="mt-align-center lt-chem-11543">\[E = \dfrac{n^2 \pi^2 \hbar^2}{2mL^2}\]</p>
+
+<p class="lt-chem-11543">This result says that the only energy values that are capable of giving a wave function \(\psi (x)\) that will obey the above conditions are these specific \(E\) values. In other words, not all energy values are allowed in the sense that they can produce \(\psi\) functions that are continuous and vanish in regions where \(V(x)\) is infinite. If one uses an energy \(E\) that is not one of the allowed values and substitutes this \(E\) into \(\sin(kx)\), the resultant function will not vanish at \(x = L\). I hope the solution to this problem reminds you of the violin string that we discussed earlier. Recall that the violin string being tied down at \(x = 0\) and at \(x = L\) gave rise to quantization of the wavelength just as the conditions that \(\psi\) be continuous at \(x = 0\) and \(x = L\) gave energy quantization.</p>
+
+<p class="lt-chem-11543">Substituting \(k = n\pi/L\) into \(\psi = A \sin(kx)\) gives</p>
+
+<p class="mt-align-center lt-chem-11543">\[\psi (x) = A \sin\Big(\dfrac{np_x}{L}\Big).\]</p>
+
+<p class="lt-chem-11543">The value of A can be found by remembering that \(|\psi|^2\) is supposed to represent the probability density for finding the particle at \(x\). Such probability densities are supposed to be normalized, meaning that their integral over all \(x\) values should amount to unity. So, we can find A by requiring that</p>
+
+<p class="mt-align-center lt-chem-11543">\[1 = \int |\psi(x)|^2 dx = |A|^2 \int \sin^2\Big(\dfrac{np_x}{L}\Big)&#8203;dx\]&#8203;</p>
+
+<p class="lt-chem-11543">where the integral ranges from \(x = 0\) to \(x = L\). Looking up the integral of \(\sin^2(ax)\) and solving the above equation for the so-called normalization constant \(A\) gives</p>
+
+<p class="lt-chem-11543">\(A = \sqrt{\dfrac{2}{L}}\) and so</p>
+
+<p class="mt-align-center lt-chem-11543">\[\psi(x) = \sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{np_x}{L}\Big).\]</p>
+
+<p class="lt-chem-11543">The values that \(n\) can take on are \(n = 1, 2, 3, \cdots\); the choice \(n = 0\) is unacceptable because it would produce a wave function \(\psi(x)\) that vanishes at all \(x\).</p>
+
+<p class="lt-chem-11543">The full x- and t- dependent wave functions are then given as</p>
+
+<p class="mt-align-center lt-chem-11543">\[\Psi(x,t) = \sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{np_x}{L}\Big) \exp\bigg[-\dfrac{it}{\hbar}\dfrac{n^2 \pi^2\hbar^2}{2mL^2}\bigg].\]</p>
+
+<p class="lt-chem-11543">Notice that the spatial probability density \(|\Psi(x,t)|^2\) is not dependent on time and is equal to \(|\psi(x)|^2\) because the complex exponential disappears when \(\Psi^*\Psi\) is formed. This means that the probability of finding the particle at various values of \(x\) is time-independent.</p>
+
+<p class="lt-chem-11543">Another thing I want you to notice is that, unlike the classical dynamics case, not all energy values \(E\) are allowed. In the Newtonian dynamics situation, \(E\) could be specified and the particle&rsquo;s momentum at any \(x\) value was then determined to within a sign. In contrast, in quantum mechanics, one must determine, by solving the Schr&ouml;dinger equation, what the allowed values of \(E\) are. These \(E\) values are quantized, meaning that they occur only for discrete values \(E = \dfrac{n^2 \pi^2h^2}{2mL^2}\) determined by a quantum number \(n\), by the mass of the particle m, and by characteristics of the potential (\(L\) in this case).</p>
+</div><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01:_The_Basics_of_Quantum_Mechanics/1.03:_The_Born-Oppenheimer_Approximation" class="mt-section" id="section_5"><span id="Probability_Densities"></span><h2 class="lt-chem-11543 editable">Probability Densities</h2>
+
+<p class="lt-chem-11543">Let&rsquo;s now look at some of the wave functions \(\psi (x)\) and compare the probability densities \(|\psi (x)|^2\) that they represent to the classical probability densities discussed earlier. The \(n=1\) and \(n=2\) wave functions are shown in the top of Figure 1.8. The corresponding quantum probability densities are shown below the wave functions in two formats (as \(x-y\) plots and shaded plots that could relate to the flashing light way of monitoring the particle&rsquo;s location that we discussed earlier).</p>
+
+<figure><img style="width: 225px; height: 388px;" width="225px" height="388px" class="internal" alt="Figure 1.8.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/19381/Figure_1.8.png?revision=1&amp;size=bestfit&amp;width=225&amp;height=388" />
+<figcaption>Figure 1. 8. The two lowest wave functions and probability densities</figcaption>
+</figure>
+
+<p class="lt-chem-11543">A more complete set of wave functions (for \(n\) ranging from 1 to 7) are shown in Figure 1. 9.</p>
+
+<figure><img style="width: 362px; height: 400px;" width="362px" height="400px" class="undefined internal" alt="Figure 1.9.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/19382/Figure_1.9.png?revision=1&amp;size=bestfit&amp;width=362&amp;height=400" />
+<figcaption>Figure 1. 9. Seven lowest wave functions and energies</figcaption>
+</figure>
+
+<p class="lt-chem-11543">Notice that as the quantum number \(n\) increases, the energy \(E\) also increases (quadratically with \(n\) in this case) and the number of nodes in \(\psi\) also increases. Also notice that the probability densities are very different from what we encountered earlier for the classical case. For example, look at the \(n = 1\) and \(n = 2\) densities and compare them to the classical density illustrated in Figure 1.10.</p>
+
+<figure><img class="undefined internal" style="width: 235px; height: 250px;" width="235px" height="250px" alt="Figure 1.10.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/19383/Figure_1.10.png?revision=1&amp;size=bestfit&amp;width=235&amp;height=250" />
+<figcaption>Figure 1.10. Classical probability density for potential shown</figcaption>
+</figure>
+
+<p class="lt-chem-11543">The classical density is easy to understand because we are familiar with classical dynamics. In this case, we say that \(P(x)\) is constant within the box because the fact that \(V(x)\) is constant causes the kinetic energy and hence the speed of the particle to remain constant, and this is true for any energy \(E\). In contrast, the \(n = 1\) quantum wave function&rsquo;s \(P(x)\) plot is peaked in the middle of the box and falls to zero at the walls. The \(n = 2\) density \(P(x)\) has two peaks (one to the left of the box midpoint, and one to the right), a node at the box midpoint, and falls to zero at the walls. One thing that students often ask me is &ldquo;how does the particle get from being in the left peak to being in the right peak if it has zero chance of ever being at the midpoint where the node is?&rdquo; The difficulty with this question is that it is posed in a terminology that asks for a classical dynamics answer. That is, by asking &ldquo;how does the particle get...&rdquo; one is demanding an answer that involves describing its motion (i.e., it moves from here at time \(t_1\) to there at time \(t_2\)). Unfortunately, quantum mechanics does not deal with issues such as a particle&rsquo;s trajectory (i.e., where it is at various times) but only with its probability of being somewhere (i.e., \(|\psi|^2\)). The next section will treat such paradoxical issues even further.</p>
+
+</div><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01:_The_Basics_of_Quantum_Mechanics/1.03:_The_Born-Oppenheimer_Approximation" class="mt-section" id="section_6"><span id="Classical_and_Quantum_Probability_Densities"></span><h2 class="lt-chem-11543 editable">Classical and Quantum Probability Densities</h2>
+
+<p class="lt-chem-11543">As just noted, it is tempting for most beginning students of quantum mechanics to attempt to interpret the quantum behavior of a particle in classical terms. However, this adventure is full of danger and bound to fail because small light particles simply do not move according to Newton&rsquo;s laws. To illustrate, let&rsquo;s try to understand what kind of (classical) motion would be consistent with the \(n = 1\) or \(n = 2\) quantum \(P(x)\) plots shown in Figure 1. 8. However, as I hope you anticipate, this attempt at gaining classical understanding of a quantum result will not work in that it will lead to nonsensical results. My point in leading you to attempt such a classical understanding is to teach you that classical and quantum results are simply different and that you must resist the urge to impose a classical understanding on quantum results at least until you understand under what circumstances classical and quantum results should or should not be comparable.<span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span><span style="display:none;"> </span></p>
+
+<p class="lt-chem-11543">For the \(n = 1\) case in Figure 1.8, we note that \(P(x)\) is highest at the box midpoint and vanishes at \(x = 0\) and \(x = L\). In a classical mechanics world, this would mean that the particle moves slowly near \(x = \dfrac{L}{2}\) and more quickly near \(x = 0\) and \(x = L\). Because the particle&rsquo;s total energy \(E\) must remain constant as it moves, in regions where it moves slowly, the potential it experiences must be high, and where it moves quickly, \(V\) must be small. This analysis (n.b., based on classical concepts) would lead us to conclude that the \(n =1\) \(P(x)\) arises from the particle moving in a potential that is high near \(x = \dfrac{L}{2}\) and low as \(x\) approaches 0 or L.</p>
+
+<p class="lt-chem-11543">A similar analysis of the \(P(x)\) plot for \(n = 2\) would lead us to conclude that the particle for which this is the correct \(P(x)\) must experience a potential that is high midway between \(x = 0\) and \(x = \dfrac{L}{2}\), high midway between \(x = \dfrac{L}{2}\) and \(x = L\), and low near \(x = \dfrac{L}{2}\) and near \(x = 0\) and \(x = L\). These conclusions are crazy because we know that the potential \(V(x)\) for which we solved the Schr&ouml;dinger equation to generate both of the wave functions (and both probability densities) is constant between \(x = 0\) and \(x = L\). That is, we know the same \(V(x)\) applies to the particle moving in the \(n = 1\) and \(n = 2\) states, whereas the classical motion analysis offered above suggests that \(V(x)\) is different for these two cases.</p>
+
+<p class="lt-chem-11543">What is wrong with our attempt to understand the quantum \(P(x)\) plots? The mistake we made was in attempting to apply the equations and concepts of classical dynamics to a \(P(x)\) plot that did not arise from classical motion. simply put, one cannot ask how the particle is moving (i.e., what is its speed at various positions) when the particle is undergoing quantum dynamics. Most students, when first experiencing quantum wave functions and quantum probabilities, try to think of the particle moving in a classical way that is consistent with the quantum \(P(x)\). This attempt to retain a degree of classical understanding of the particle&rsquo;s movement is almost always met with frustration, as I illustrated with the above example and will illustrate later in other cases.</p>
+
+<p class="lt-chem-11543">Continuing with this first example of how one solves the Schr&ouml;dinger equation and how one thinks of the quantized \(E\) values and wave functions \(\psi\), let me offer a little more optimistic note than offered in the preceding discussion. If we examine the \(\psi(x)\)<span> </span><span>plot shown in Figure 1.9 for \(n = 7\), and think of the corresponding </span>\(P(x) = |\psi(x)|^2\)<span>, we note that the \(P(x)\) plot would look something like that shown in Figure 1. 11.</span></p>
+
+<figure><img class="undefined internal" style="width: 402px; height: 300px;" width="402px" height="300px" alt="1.11-2.PNG" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/30259/1.11-2.PNG?revision=1&amp;size=bestfit&amp;width=402&amp;height=300" />
+<figcaption>Figure 1.11. Quantum probability density for \(n = 7\) showing seven peaks and six nodes</figcaption>
+</figure>
+
+<p class="lt-chem-11543">It would have seven maxima separated by six nodes. If we were to plot \(|\psi(x)|^2\) for a very large \(n\) value such as \(n = 55\), we would find a \(P(x)\) plot having 55 maxima separated by 54 nodes, with the maxima separated approximately by distances of (1/55L). Such a plot, when viewed in a coarse-grained sense (i.e., focusing with somewhat blurred vision on the positions and heights of the maxima) looks very much like the classical \(P(x)\) plot in which \(P(x)\) is constant for all \(x\). Another way to look at the difference between the low-n and high-n quantum probability distributions is reflected in the so-called local de Broglie wavelength</p>
+
+<p class="mt-align-center lt-chem-11543">\[\lambda_{\rm local}(x)=\dfrac{h}{\sqrt{2m(E-V(X))}}\]</p>
+
+<p class="lt-chem-11543">It can be shown that the classical and quantum probabilities will be similar in regions of space where</p>
+
+<p class="mt-align-center lt-chem-11543">\[\left|\dfrac{d\lambda_{\rm local}}{dx}\right| &lt;&lt; 1.\]</p>
+
+<p class="lt-chem-11543">This inequality will be true when \(E\) is much larger than \(V\), which is consistent with the view that high quantum states behave classically, but it will not hold when \(E\) is only slightly above \(V\) (i.e., for low-energy quantum states and for any quantum state near classical turning points) or when \(E\) is smaller than \(V\) (i.e., in classically forbidden regions).</p>
+
+<p class="lt-chem-11543">In summary, it is a general result of quantum mechanics that the quantum \(P(x)\) distributions for large quantum numbers take on the form of the classical \(P(x)\) for the same potential \(V\) that was used to solve the Schr&ouml;dinger equation except near turning points and in classically forbidden regions. It is also true that, at any specified energy, classical and quantum results agree better when one is dealing with heavy particles than for light particles. For example, a given energy \(E\) corresponds to a higher \(n\) quantum number in the particle-in-a-box formula \(E_n = \dfrac{n^2\hbar^2}{2mL^2}\) for a heavier particle than for a lighter particle. Hence, heavier particles, moving with a given energy \(E\), have more classical probability distributions.</p>
+
+<p class="lt-chem-11543">To gain perspective about this matter, in the table shown below, I give the energy levels \(E_n = \dfrac{n^2\hbar^2}{2mL^2}\) in kcal mol<sup>-1</sup> for a particle whose mass is 1, 2000, 20,000, or 200,000 times an electron&rsquo;s mass constrained to move within a one-dimensional region of length \(L\) (in Bohr units denoted \(a_0\); 1 \(a_0\) =0.529 &Aring;).</p>
+
+<p class="lt-chem-11543">Energies \(E_n\) (kcal mol<sup>-1</sup>) for various \(m\) and \(L\) combinations</p>
+
+<p class="lt-chem-11543">m = 1 m<sub>e</sub></p>
+
+<table class="mt-responsive-table" border="1" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <th scope="row"> </th>
+            <th scope="col">
+            <p class="lt-chem-11543">L = 1 a<sub>0</sub></p>
+            </th>
+            <th scope="col">
+            <p class="lt-chem-11543">L = 10 a<sub>0</sub></p>
+            </th>
+            <th scope="col">
+            <p class="lt-chem-11543">L = 100 a<sub>0</sub></p>
+            </th>
+            <th scope="col">
+            <p class="lt-chem-11543">L = 1000 a<sub>0</sub></p>
+            </th>
+        </tr>
+        <tr>
+            <th scope="row">
+            <p class="lt-chem-11543">m = 1 m<sub>e</sub></p>
+            </th>
+            <td data-th="L = 1 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">3.1 x10<sup>3</sup>n<sup>2</sup></p>
+            </td>
+            <td data-th="L = 10 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">3.1 x10<sup>1</sup>n<sup>2</sup></p>
+            </td>
+            <td data-th="L = 100 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">3.1 x10<sup>-1</sup>n<sup>2</sup></p>
+            </td>
+            <td data-th="L = 1000 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">3.1 x10<sup>-3</sup>n<sup>2</sup></p>
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">
+            <p class="lt-chem-11543">m = 2000 m<sub>e</sub></p>
+            </th>
+            <td data-th="L = 1 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">1.5 x10<sup>0</sup>n<sup>2</sup></p>
+            </td>
+            <td data-th="L = 10 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">1.5 x10<sup>-2</sup>n<sup>2</sup></p>
+            </td>
+            <td data-th="L = 100 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">1.5 x10<sup>-4</sup>n<sup>2</sup></p>
+            </td>
+            <td data-th="L = 1000 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">1.5 x10<sup>-6</sup>n<sup>2</sup></p>
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">
+            <p class="lt-chem-11543">m = 20,000 m<sub>e</sub></p>
+            </th>
+            <td data-th="L = 1 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">1.5 x10<sup>-1</sup>n<sup>2</sup></p>
+            </td>
+            <td data-th="L = 10 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">1.5 x10<sup>-3</sup>n<sup>2</sup></p>
+            </td>
+            <td data-th="L = 100 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">1.5 x10<sup>-5</sup>n<sup>2</sup></p>
+            </td>
+            <td data-th="L = 1000 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">1.5 x10<sup>-7</sup>n<sup>2</sup></p>
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">
+            <p class="lt-chem-11543">m = 200,000 m<sub>e</sub></p>
+            </th>
+            <td data-th="L = 1 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">1.5 x10<sup>-2</sup>n<sup>2</sup></p>
+            </td>
+            <td data-th="L = 10 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">1.5 x10<sup>-4</sup>n<sup>2</sup></p>
+            </td>
+            <td data-th="L = 100 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">1.5 x10<sup>-6</sup>n<sup>2</sup></p>
+            </td>
+            <td data-th="L = 1000 a0" class="lt-chem-11543">
+            <p class="lt-chem-11543">1.5 x10<sup>-8</sup>n<sup>2</sup></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<p class="lt-chem-11543">Clearly, for electrons, even when free to roam over 50-500 nanometers (e.g., \(L = 100 a_0\) or \(L = 1000 a_0\)), one does not need to access a very high quantum state to reach 1 kcal mol<sup>-1</sup> of energy (e.g., \(n= 3\) would be adequate for \(L =100 a_0\)). Recall, it is high quantum states where one expects the classical and quantum spatial probability distribution to be similar. So, when treating electrons, one is probably (nearly) always going to have to make use of quantum mechanics and one will not be able to rely on classical mechanics.</p>
+
+<p class="lt-chem-11543">For light nuclei, with masses near 2000 times the electron&rsquo;s mass, if the particle is constrained to a small distance range (e.g., 1-10 \(a_0\)), again even low quantum states will have energies in excess of 1 kcal mol<sup>-1</sup>. Only when free to move over of 100 to 1000 \(a_0\) does 1 kcal mol<sup>-1</sup> correspond to relatively large quantum numbers for which one expects near-classical behavior. The data shown in the above table can also be used to estimate when quantum behavior such as Bose-Einstein condensation can be expected. When constrained to 100 \(a_0\), particles in the 1 amu mass range have translational energies in the \(0.15 n^2\) cal mol<sup>-1</sup> range. Realizing that \(RT = 1.98\) cal mol<sup>-1</sup> K<sup>-1</sup>, this means that translational temperatures near 0.1 K would be needed to cause these particles to occupy their \(n = 1\) ground state.</p>
+
+<p class="lt-chem-11543">In contrast, particles with masses in the range of 100 amu, even when constrained</p>
+
+<p class="lt-chem-11543">to distances of ca. 5 &Aring;, require \(n\) to exceed ca. 10 before having 1 kcal mol<sup>-1</sup> of translational energy. When constrained to 50 &Aring;, 1 kcal mol<sup>-1</sup> requires \(n\) to exceed 1000. So, heavy particles will, even at low energies, behave classically except if they are constrained to very short distances.</p>
+
+<p class="lt-chem-11543">We will encounter this so-called quantum-classical correspondence principal again when we examine other model problems. It is an important property of solutions to the Schr&ouml;dinger equation because it is what allows us to bridge the gap between using the Schr&ouml;dinger equation to treat small light particles and the Newton equations for macroscopic (big, heavy) systems.</p>
+
+</div><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01:_The_Basics_of_Quantum_Mechanics/1.03:_The_Born-Oppenheimer_Approximation" class="mt-section" id="section_7"><span id="Time_Propagation_of_Wave_functions"></span><h2 class="lt-chem-11543 editable">Time Propagation of Wave functions</h2>
+
+<p class="lt-chem-11543">For a particle in a box system that exists in an eigenstate \(\psi(x) = \sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{np_x}{L}\Big)\) having an energy \(E_n = \dfrac{n^2 \pi^2\hbar^2}{2mL^2}\), the time-dependent wave function is</p>
+
+<p class="mt-align-center lt-chem-11543">\[\Psi(x,t) = \sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{np_x}{L}\Big) \exp\Big(-\dfrac{itE_n}{\hbar}\Big),\]</p>
+
+<p class="lt-chem-11543">that can be generated by applying the so-called time evolution operator \(U(t,0)\) to the wave function at \(t = 0\):</p>
+
+<p class="mt-align-center lt-chem-11543">\[\Psi(x,t) = U(t,0) \Psi(x,0),\]</p>
+
+<p class="lt-chem-11543">where an explicit form for \(U(t,t&rsquo;)\) is:</p>
+
+<p class="mt-align-center lt-chem-11543">\[U(t,t&rsquo;) = \exp\bigg[-\dfrac{i(t-t&rsquo;)H}{\hbar}\bigg].\]</p>
+
+<p class="lt-chem-11543">The function \(\Psi(x,t)\) has a spatial probability density that does not depend on time because</p>
+
+<p class="mt-align-center lt-chem-11543">\[\Psi^*(x,t) \Psi(x,t) = \dfrac{2}{L} \sin^2\Big(\dfrac{np_x}{L}\Big) = \Psi^*(x,0) \Psi(x,0)\]</p>
+
+<p class="lt-chem-11543">since \(\exp\Big(-\dfrac{itE_n}{\hbar}\Big) \exp\Big(\dfrac{itE_n}{\hbar}\Big) = 1\). However, it is possible to prepare systems (even in real laboratory settings) in states that are not single eigenstates; we call such states superposition states. For example, consider a particle moving along the x- axis within the box potential but in a state whose wave function at some initial time \(t = 0\) is</p>
+
+<p class="mt-align-center lt-chem-11543">\[\Psi(x,0) = \dfrac{1}{\sqrt{2}} \sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{1p_x}{L}\Big) &ndash; \dfrac{1}{\sqrt{2}} \sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{2p_x}{L}\Big).\]</p>
+
+<p class="lt-chem-11543">This is a superposition of the \(n =1\) and \(n = 2\) eigenstates. The probability density associated with this function is</p>
+
+<p class="mt-align-center lt-chem-11543">\[|\Psi(x,0)|^2 = \dfrac{1}{2}\Big\{\dfrac{2}{L} \sin^2\Big(\dfrac{1p_x}{L}\Big)+ \dfrac{2}{L} \sin^2\Big(\dfrac{2p_x}{L}\Big) -2\dfrac{2}{L} \sin\Big(\dfrac{1p_x}{L}\Big)\sin\Big(\dfrac{2p_x}{L}\Big)\Big\}.\]</p>
+
+<p class="lt-chem-11543">The \(n = 1\) and \(n = 2\) components, the superposition \(\Psi\), and the probability density at \(t = 0\) are shown in the first three panels of Figure 1.12.</p>
+
+<figure><img height="432" width="525" class="internal" alt="Figure 1.12.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/19385/Figure_1.12.jpg?revision=1" />
+<figcaption>Figure 1.12. The \(n = 1\) and \(n = 2\) wave functions (upper left), their superposition (upper right), and the \(t = 0\) (bottom left) and time-evolved (bottom right) probability densities of the superposition</figcaption>
+</figure>
+
+<p class="lt-chem-11543">It should be noted that the probability density associated with this superposition state is not symmetric about the \(x=\dfrac{L}{2}\) midpoint even though the \(n = 1\) and \(n = 2\) component wave functions and densities are. Such a density describes the particle localized more strongly in the large-x region of the box than in the small-x region at \(t = 0\).</p>
+
+<p class="lt-chem-11543">Now, let&rsquo;s consider the superposition wave function and its density at later times. Applying the time evolution operator \(\exp\Big(-\dfrac{itH}{\hbar}\Big)\) to \(\Psi(x,0)\) generates this time-evolved function at time t:</p>
+
+<p class="mt-align-center lt-chem-11543">\[\Psi(x,t) = \exp\Big(-\dfrac{itH}{\hbar}\Big) \left\{\dfrac{1}{\sqrt{2}} \sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{1p_x}{L}\Big) &ndash; \dfrac{1}{\sqrt{2}} \sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{2p_x}{L}\Big)\right\}\]</p>
+
+<p class="mt-align-center lt-chem-11543">\[= {\dfrac{1}{\sqrt{2}} \sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{1p_x}{L}\Big) \exp\Big(-\dfrac{itE_1}{\hbar}\Big) &ndash; \dfrac{1}{\sqrt{2}} \sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{2p_x}{L}\Big) \exp\Big(-\dfrac{itE_2}{\hbar}\Big) }.\]</p>
+
+<p class="lt-chem-11543">The spatial probability density associated with this \(\Psi\) is:</p>
+
+<p class="mt-align-center lt-chem-11543">\[|\Psi(x,t)|^2 = \dfrac{1}{2}\Bigg\{\dfrac{2}{L} \sin^2\Big(\dfrac{1p_x}{L}\Big)+ \dfrac{2}{L} \sin^2\Big(\dfrac{2p_x}{L}\Big)-2\dfrac{2}{L} \cos\Big(\dfrac{(E_2-E_1)t}{\hbar}\Big) \sin\Big(\dfrac{1p_x}{L}\Big)\sin\Big(\dfrac{2p_x}{L}\Big)\Bigg\}.\]</p>
+
+<p class="lt-chem-11543">At \(t = 0\), this function clearly reduces to that written earlier for \(\Psi(x,0)\). Notice that as time evolves, this density changes because of the \(\cos(E_2-E_1)\tau/\hbar\)) factor it contains. In particular, note that as \(t\) moves through a period of time \(\delta t = \dfrac{\pi\hbar}{E_2-E_1}\), the cos factor changes sign. That is, for \(t = 0\), the \(\cos\) factor is \(+1\); for \(t = \dfrac{\pi\hbar}{E_2-E_1}\), the cos factor is \(-1\); for \(t = \dfrac{2\pi\hbar}{E_2-E_1}\), it returns to \(+1\). The result of this time-variation in the cos factor is that \(|\Psi|^2\) changes in form from that shown in the bottom left panel of Figure 1. 12 to that shown in the bottom right panel (at \(t = \dfrac{\pi\hbar}{E_2-E_1}\)) and then back to the form in the bottom left panel (at \(t = \dfrac{2\pi\hbar}{E_2-E_1}\)). One can interpret this time variation as describing the particle&rsquo;s probability density (not its classical position!), initially localized toward the right side of the box, moving to the left and then back to the right. Of course, this time evolution will continue over more and more cycles as time evolves further.</p>
+
+<p class="lt-chem-11543">This example illustrates once again the difficulty with attempting to localize particles that are being described by quantum wave functions. For example, a particle that is characterized by the eigenstate \(\sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{1p_x}{L}\Big)\) is more likely to be detected near \(x = \dfrac{L}{2}\) than near \(x = 0\) or \(x = L\) because the square of this function is large near \(x = \dfrac{L}{2}\). A particle in the state \(\sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{2p_x}{L}\Big)\) is most likely to be found near \(x = \dfrac{L}{4}\) and \(x = \dfrac{3L}{4}\), but not near \(x = 0\), \(x = \dfrac{L}{2}\), or \(x =L\). The issue of how the particle in the latter state moves from being near \(x = \dfrac{L}{4}\) to \(x = \dfrac{3L}{4}\) is not something quantum mechanics deals with. Quantum mechanics does not allow us to follow the particle&rsquo;s trajectory which is what we need to know when we ask how it moves from one place to another. Nevertheless, superposition wave functions can offer, to some extent, the opportunity to follow the motion of the particle.</p>
+
+<p class="lt-chem-11543">For example, the superposition state written above as</p>
+
+<p class="lt-chem-11543">\(\dfrac{1}{\sqrt{2}} \sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{1p_x}{L}\Big) &ndash; \dfrac{1}{\sqrt{2}} \sqrt{\dfrac{2}{L}} \sin\Big(\dfrac{2p_x}{L}\Big)\) has a probability amplitude that changes with time as shown in Figure 1.12. Moreover, this amplitude&rsquo;s major peak does move from side to side within the box as time evolves. So, in this case, we can say with what frequency the major peak moves back and forth. In a sense, this allows us to follow the particle&rsquo;s movements, but only to the extent that we are satisfied with ascribing its location to the position of the major peak in its probability distribution. That is, we can not really follow its precise location, but we can follow the location of where it is very likely to be found. However, notice that the time it takes the particle to move from right to left \(t = \dfrac{\pi\hbar}{E_2-E_1}\) is dependent upon the energy difference between the two states contributing to the superposition state, not to the energy of either of these states, which is very different from what would expect if the particle were moving classically.</p>
+
+<p class="lt-chem-11543">These are important observation that I hope the student will keep fresh in mind. They are also important ingredients in modern quantum dynamics in which localized wave packets, which are similar to superposed eigenstates discussed above, are used to detail the position and speed of a particle&rsquo;s main probability density peak.</p>
+
+<p class="lt-chem-11543">The above example illustrates how one time-evolves a wave function that is expressed as a linear combination (i.e., superposition) of eigenstates of the problem at hand. There is a large amount of current effort in the theoretical chemistry community aimed at developing efficient approximations to the \(\exp\Big(-\dfrac{itH}{\hbar}\Big)\) evolution operator that do not require \(\Psi(x,0)\) to be explicitly written as a sum of eigenstates. This is important because, for most systems of direct relevance to molecules, one can not solve for the eigenstates; it is simply too difficult to do so. You can find a significantly more detailed treatment of the research-level treatment of this subject in <a href="http://simons.hec.utah.edu/TheoryPage/index.html" target="_blank" rel="external noopener nofollow" class="external">my Theory Page web site</a> and <a href="http://simons.hec.utah.edu/TheoryPage/BookPDF/TableofContents.html" target="_blank" rel="external noopener nofollow" class="external">my QMIC textbook</a>. However, let&rsquo;s spend a little time on a brief introduction to what is involved.</p>
+
+<p class="lt-chem-11543">The problem is to express \(\exp\Big(-\dfrac{itH}{\hbar}\Big) \Psi(q_j)\), where \(\Psi(q_j)\) is some initial wave function but not an eigenstate, in a manner that does not require one to first find the eigenstates {\(\psi_J\)} of \(H\) and to expand \(\Psi\) in terms of these eigenstates:</p>
+
+<p class="mt-align-center lt-chem-11543">\[\Psi (t=0) = \sum_J C_J \psi_J\]</p>
+
+<p class="lt-chem-11543">after which the desired function is written as</p>
+
+<p class="mt-align-center lt-chem-11543">\[\exp\Big(-\dfrac{itH}{\hbar}\Big) \Psi(q_j) = \sum_J C_J \psi_J \exp\Big(-\dfrac{itE_J}{\hbar}\Big).\]</p>
+
+<p class="lt-chem-11543">The basic idea is to break the operator \(H\) into its kinetic \(T\) and potential \(V\) energy components and to realize that the differential operators appear in \(T\) only. The importance of this observation lies in the fact that \(T\) and \(V\) do not commute which means that \(TV\) is not equal to \(VT\) (n.b., recall that for two quantities to commute means that their order of appearance does not matter). Why do they not commute? Because \(T\) contains second derivatives with respect to the coordinates {q_j} that \(V\) depends on, so, for example, \(\dfrac{d^2}{dq^2}(V(q) \Psi(q))\) is not equal to \(V(q)\dfrac{d^2}{dq^2}\Psi(q)\). The fact that \(T\) and \(V\) do not commute is important because the most obvious attempt to approximate \(\exp\Big(-\dfrac{itH}{\hbar}\Big)\) is to write this single exponential in terms of \(\exp\Big(-\dfrac{itT}{\hbar}\Big)\) and \(\exp\Big(-\dfrac{itV}{\hbar}\Big)\). However, the identity</p>
+
+<p class="mt-align-center lt-chem-11543">\[\exp\Big(-\dfrac{itH}{\hbar}\Big) = \exp\Big(-\dfrac{itV}{\hbar}\Big) \exp\Big(-\dfrac{itT}{\hbar}\Big)\]</p>
+
+<p class="lt-chem-11543">is not fully valid as one can see by expanding all three of the above exponential factors as \(\exp(x) = 1 + x + \dfrac{x^2}{2!} + \cdots,\) and noting that the two sides of the above equation only agree if one can assume that \(TV = VT\), which, as we noted, is not true.</p>
+
+<p class="lt-chem-11543">In most modern approaches to time propagation, one divides the time interval \(t\) into many (i.e., \(P\) of them) small time slices \(\tau = t/P\). One then expresses the evolution operator as a product of \(P\) short-time propagators (the student should by now be familiar with the fact that \(H\), \(T\), and \(V\) are operators, so, from now on I will no longer necessarily use bold lettering for these quantities):</p>
+
+<p class="mt-align-center lt-chem-11543">\[\exp\Big(-\dfrac{itH}{\hbar}\Big) = \exp\Big(-\dfrac{i\tau H}{\hbar}\Big) \exp\Big(-\dfrac{i\tau H}{\hbar}\Big) \exp\Big(-\dfrac{i\tau H}{\hbar}\Big) \cdots = \left[\exp\Big(-\dfrac{i\tau H}{\hbar}\Big) \right]^P.\]</p>
+
+<p class="lt-chem-11543">If one can then develop an efficient means of propagating for a short time \(\tau\), one can then do so over and over again \(P\) times to achieve the desired full-time propagation.</p>
+
+<p class="lt-chem-11543">It can be shown that the exponential operator involving \(H\) can better be approximated in terms of the \(T\) and \(V\) exponential operators as follows:</p>
+
+<p class="mt-align-center lt-chem-11543">\[\exp\Big(-\dfrac{i\tau H}{\hbar}\Big) \approx \exp\Big(-\dfrac{\tau^2 (TV-VT)}{\hbar^2}\Big) \exp\Big(-\dfrac{i\tau V}{\hbar}\Big) \exp\Big(-\dfrac{i\tau T}{\hbar}\Big).\]</p>
+
+<p class="lt-chem-11543">So, if one can be satisfied with propagating for very short time intervals (so that the \(\tau^2\) term can be neglected), one can indeed use</p>
+
+<p class="mt-align-center lt-chem-11543">\[\exp\Big(-\dfrac{i\tau H}{\hbar}\Big) \approx \exp\Big(-\dfrac{i\tau V}{\hbar}\Big) \exp\Big(-\dfrac{i\tau T}{\hbar}\Big)\]</p>
+
+<p class="lt-chem-11543">as an approximation for the propagator \(U(t,0)\). It can also be shown that the so-called split short-time expression</p>
+
+<p class="mt-align-center lt-chem-11543">\[\exp\Big(-\dfrac{i\tau H}{\hbar}\Big) \approx \exp\Big(-\dfrac{i\tau &#8203;V}{2\hbar}\Big) \exp\Big(-\dfrac{i\tau T}{\hbar}\Big) \exp\Big(-\dfrac{i\tau &#8203;V}{2\hbar}\Big) \]</p>
+
+<p class="lt-chem-11543">provides an even more accurate representation of the short-time propagator (because expansions of the left- and right-hand sides agree to higher orders in \(\tau/\hbar\)).</p>
+
+<p class="lt-chem-11543">To progress further, one then expresses \(\exp\Big(-\dfrac{i\tau T}{\hbar}\Big)\) acting on \(\exp\Big(-\dfrac{i\tau V}{2\hbar}\Big) \Psi(q)\) in terms of the eigenfunctions of the kinetic energy operator \(T\). Note that these eigenfunctions do not depend on the nature of the potential V, so this step is valid for any and all potentials. The eigenfunctions of \(T = - \dfrac{\hbar^2}{2m} \dfrac{d^2}{dq^2}\) are the momentum eigenfunctions that we discussed earlier</p>
+
+<p class="mt-align-center lt-chem-11543">\[\psi_p(q) =\dfrac{1}{\sqrt{2\pi}} \exp\Big(\dfrac{ipq}{\hbar}\Big)\]</p>
+
+<p class="lt-chem-11543">and they obey the following orthogonality</p>
+
+<p class="mt-align-center lt-chem-11543">\[\int \psi_p'*(q) \psi_p(q) dq = d(p'-p)\]</p>
+
+<p class="lt-chem-11543">and completeness relations</p>
+
+<p class="mt-align-center lt-chem-11543">\[\int \psi_p(q) \psi_p^*(q') dp = d(q-q').\]</p>
+
+<p class="lt-chem-11543">Writing \(\exp\Big(-\dfrac{i\tau V}{2\hbar}\Big) \Psi(q)\) as</p>
+
+<p class="mt-align-center lt-chem-11543">\[\exp\Big(-\dfrac{i\tau &#8203;V}{2\hbar}\Big)\Psi(q) = \int dq&rsquo; \delta(q-q') \exp\Big(-\dfrac{i\tau &#8203;V(q&rsquo;)}{2\hbar}\Big)\Psi(q'),\]</p>
+
+<p class="lt-chem-11543">and using the above expression for \(\delta(q-q')\) gives:</p>
+
+<p class="mt-align-center lt-chem-11543">\[\exp\Big(-\dfrac{i\tau &#8203;V}{2\hbar}\Big)\Psi(q) = \int \int \psi_p(q) \psi_p^*(q') \exp\Big(-\dfrac{i\tau &#8203;V(q&rsquo;)}{2\hbar}\Big)\Psi(q') dq' dp.\]</p>
+
+<p class="lt-chem-11543">Then inserting the explicit expressions for \(\psi_p(q)\) and \(\psi_p^*(q')\) in terms of</p>
+
+<p class="mt-align-center lt-chem-11543">\[\psi_p(q) =\dfrac{1}{\sqrt{2\pi}} \exp\Big(\dfrac{ipq}{\hbar}\Big)\]</p>
+
+<p class="lt-chem-11543">gives</p>
+
+<p class="mt-align-center lt-chem-11543">\[\exp\Big(-\dfrac{i\tau V}{2\hbar}\Big)\Psi(q)\]</p>
+
+<p class="mt-align-center lt-chem-11543">\[= \int \int\dfrac{1}{\sqrt{2\pi}} \exp\Big(\dfrac{ipq}{\hbar}\Big)\dfrac{1}{\sqrt{2\pi}} \exp\Big(-\dfrac{ipq'}{\hbar}\Big) \exp\Big(-\dfrac{i\tau V(q&rsquo;)}{2\hbar}\Big)\Psi(q') dq' dp.\]</p>
+
+<p class="lt-chem-11543">Now, allowing \(\exp\Big(-\dfrac{i\tau T}{\hbar}\Big)\) to act on \(\exp\Big(-\dfrac{i\tau V}{2\hbar}\Big) \Psi(q)\) produces</p>
+
+<p class="mt-align-center lt-chem-11543">\[\exp\Big(-\dfrac{i\tau T}{\hbar}\Big) \exp\Big(-\dfrac{i\tau V}{2\hbar}\Big)\Psi(q) =\]</p>
+
+<p class="mt-align-center lt-chem-11543">\[ \int \int \exp\Big(-\dfrac{i\tau\pi^2\hbar^2}{2m\hbar}\Big)\dfrac{1}{\sqrt{2\pi}} \exp\Big(-\dfrac{ip(q-q')}{\hbar}\Big)\dfrac{1}{\sqrt{2\pi}} \exp\Big(-\dfrac{i\tau V(q&rsquo;)}{2\hbar}\Big)\Psi(q') dq' dp.\]</p>
+
+<p class="lt-chem-11543">The integral over \(p\) above can be carried out analytically and gives</p>
+
+<p class="mt-align-center lt-chem-11543">\[\exp\Big(-\dfrac{i\tau T}{\hbar}\Big) \exp\Big(-\dfrac{i\tau V}{2\hbar}\Big)\Psi(q) =\]</p>
+
+<p class="mt-align-center lt-chem-11543">\[\sqrt{\dfrac{m}{2i\pi \tau\hbar}} \int \exp\Big(\dfrac{im(q-q')^2}{2\tau\hbar}\Big) \exp\Big(-\dfrac{i\tau V(q&rsquo;)}{2\hbar}\Big) \Psi(q') dq'.\]</p>
+
+<p class="lt-chem-11543">So, the final expression for the short-time propagated wave function is:</p>
+
+<p class="mt-align-center lt-chem-11543">\[\Psi(q.t) = \sqrt{\dfrac{m}{2i\pi \tau\hbar}}\exp\Big(-\dfrac{i\tau V(q)}{2\hbar}\Big)\int \exp\Big(\dfrac{im(q-q')^2}{2\tau\hbar}\Big) \exp\Big(-\dfrac{i\tau V(q&rsquo;)}{2\hbar}\Big)\Psi(q') dq',\]</p>
+
+<p class="lt-chem-11543">which is the working equation one uses to compute \(\Psi(q,t)\) knowing \(\Psi(q)\). Notice that all one needs to know to apply this formula is the potential \(V(q)\) at each point in space. One does not need to know any of the eigenfunctions of the Hamiltonian to apply this method. This is especially attractive when dealing with very large molecules or molecules in condensed media where it is essentially impossible to determine any of the eigenstates and where the energy spacings between eigenstates is extremely small. However, one does have to use this formula over and over again to propagate the initial wave function through many small time steps \(\tau\) to achieve full propagation for the desired time interval \(t = P\tau\).</p>
+
+<p class="lt-chem-11543">Because this type of time propagation technique is a very active area of research in the theory community, it is likely to continue to be refined and improved. Further discussion of it is beyond the scope of this book, so I will not go further into this direction. <a href="http://www.chemistry.illinois.edu/faculty/Nancy_Makri.html" target="_blank" rel="external noopener nofollow" class="external">The web site of Professor Nancy Makri</a> provides access to further information about the quantum time propagation research area.</p>
+
+</div><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01:_The_Basics_of_Quantum_Mechanics/1.03:_The_Born-Oppenheimer_Approximation" class="mt-section" id="section_8"><span id="Contributors_and_Attributions"></span><h2 class="lt-chem-11543 editable">Contributors and Attributions</h2>
+
+<ul>
+    <li class="lt-chem-11543"><p><a title="http://simons.hec.utah.edu/" href="http://simons.hec.utah.edu/" target="_blank" rel="external noopener nofollow" class="external">Jack Simons</a> (Henry Eyring Scientist and Professor of Chemistry, U. Utah) <a href="http://www.telluridescience.org/tstc" target="_blank" rel="external noopener nofollow" class="external">Telluride Schools on Theoretical Chemistry</a></p>
+<p>Integrated by<a title="http://www.thayashi.com/" href="http://www.thayashi.com/" target="_blank" rel="external noopener nofollow" class="external"> Tomoyuki Hayashi</a> (UC Davis)<br />
+&nbsp;</p>
+</li>
+</ul>
+
+
+</div>
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "1.3: The Born-Oppenheimer Approximation";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p>This page titled <a target="_blank" class="internal mt-self-link" href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01%3A_The_Basics_of_Quantum_Mechanics/1.03%3A_The_Born-Oppenheimer_Approximation" rel="internal">1.3: The Born-Oppenheimer Approximation</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank">CC BY-NC-SA  4.0</a>  license and was authored, remixed, and/or curated by <a rel="nofollow" target="_blank" href="http://simons.hec.utah.edu/">Jack Simons</a>. </p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01%3A_The_Basics_of_Quantum_Mechanics/1.02%3A_The_Schrodinger_Equation_and_Its_Components" title="1.2: The Schrödinger Equation and Its Components"><span>1.2: The Schrödinger Equation and Its Components</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Advanced_Theoretical_Chemistry_(Simons)/01%3A_The_Basics_of_Quantum_Mechanics/1.04%3A_Free_Particle_Motions_in_More_Dimensions" title="1.4: Free Particle Motions in More Dimensions"><span>1.4: Free Particle Motions in More Dimensions</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="153" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-authorname-jack simons" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Author</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=authorname%3Asimonsj" data-ga-label="Classification">Jack Simons</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by-nc-sa" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accbyncsa" data-ga-label="Classification">CC BY-NC-SA</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-4.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A40" data-ga-label="Classification">4.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-born-oppenheimer-approximation" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=Born-Oppenheimer+approximation" data-ga-label="Free tag"> Born-Oppenheimer approximation</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="9c964e956dcdefaa755581e7c481d0c1bc1c6bf138cd0991cd59555b0b708b53" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
