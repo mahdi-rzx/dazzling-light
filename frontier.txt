@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/04%3A_Periodic_Properties_of_the_Elements
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/05%3A_Molecules_and_Compounds
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/06%3A_Chemical_Bonding_I-_Drawing_Lewis_Structures_and_Determining_Molecular_Shapes
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/07%3A_Chemical_Bonding_II-_Valance_Bond_Theory_and_Molecular_Orbital_Theory
@@ -9617,3 +9616,11 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_P
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/03%3A_The_Quantum-Mechanical_Model_of_the_Atom/3.04%3A_The_Wavelength_Nature_of_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/03%3A_The_Quantum-Mechanical_Model_of_the_Atom/3.05%3A_Quantum_Mechanics_and_The_Atom
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/03%3A_The_Quantum-Mechanical_Model_of_the_Atom/3.06%3A_The_Shape_of_Atomic_Orbitals
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/04%3A_Periodic_Properties_of_the_Elements/4.01%3A_Aluminum-_Low_Density_Atoms_Result_in_Low_Density_Metal
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/04%3A_Periodic_Properties_of_the_Elements/4.02%3A_The_Periodic_Law_and_The_Periodic_Table
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/04%3A_Periodic_Properties_of_the_Elements/4.03%3A_Electron_Configurations-_How_Electrons_Occupy_Orbitals
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/04%3A_Periodic_Properties_of_the_Elements/4.04%3A_Electron_Configurations_Valence_Electrons_and_the_Periodic_Table
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/04%3A_Periodic_Properties_of_the_Elements/4.05%3A_How_Electron_Configuration_of_an_Element_Relates_to_this_Properties
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/04%3A_Periodic_Properties_of_the_Elements/4.06%3A_Periodic_Trends_in_the_Size_of_Atoms_and_Effective_Nuclear_Charge
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/04%3A_Periodic_Properties_of_the_Elements/4.07%3A_Ions-_Configurations_Magnetic_Properties_Radii_and_Ionization_Energy
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/04%3A_Periodic_Properties_of_the_Elements/4.08%3A_Electron_Affinities_and_Metallic_Character
