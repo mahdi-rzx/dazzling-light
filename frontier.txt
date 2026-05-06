@@ -129,7 +129,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/09%3A_Metals_in_Medicine
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/05%3A_Helmholtz_and_Gibbs_Energy
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/06%3A_Chemical_Thermodynamics
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/07%3A_Solutions_and_Colligative_Properties
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/08%3A_Phase_Changes
@@ -6797,3 +6796,7 @@ https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textb
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/04%3A_Entropy_and_the_2nd_Law/4.04%3A_The_Car_Engine_and_the_Carnot_Cycle
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/04%3A_Entropy_and_the_2nd_Law/4.05%3A_Maxwell_Relationships
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/04%3A_Entropy_and_the_2nd_Law/4.6%3A_Maxwell_Relationships
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/05%3A_Helmholtz_and_Gibbs_Energy/5.01%3A_Helmholtz_Energy_(and_The_Clausius_Inequality_Pt._II)
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/05%3A_Helmholtz_and_Gibbs_Energy/5.02%3A_Gibbs_Energy
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/05%3A_Helmholtz_and_Gibbs_Energy/5.03%3A_Calculations-_Numerical_and_Derivations
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/05%3A_Helmholtz_and_Gibbs_Energy/5.04%3A_Advanced_Derivations-_Maxwell_Relationships_II
