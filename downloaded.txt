@@ -4741,3 +4741,4 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/09%3A_Gathering_Data/9.02%3A_Searching_Algorithms
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/09%3A_Gathering_Data/9.03%3A_One-Factor-at-a-Time_Optimizations
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/09%3A_Gathering_Data/9.04%3A_Simplex_Optimization
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/09%3A_Gathering_Data/9.05%3A_Mathematical_Models_of_Response_Surfaces
