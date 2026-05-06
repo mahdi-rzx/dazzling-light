@@ -633,7 +633,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Map%3A_Inorganic_Che
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/15%3A_Thermodynamics-_Atoms_Molecules_and_Energy/15.11%3A_Bond_Enthalpies_and_Exothermic_or_Endothermic_Reactions
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Map%3A_Inorganic_Chemistry_(Housecroft)/20%3A_d-Block_Metal_Chemistry_-_Coordination_Complexes/20.09%3A_Evidence_for_Metal-Ligand_Covalent_Bonding
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Map%3A_Inorganic_Chemistry_(Housecroft)/03%3A_Introduction_to_Molecular_Symmetry/3.07%3A_Vibrational_Spectroscopy
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Online_Dictionary_of_Crystallography_(IUCr_Commission)/03%3A_X-rays/3.27%3A_Structure_Factor
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Online_Dictionary_of_Crystallography_(IUCr_Commission)/05%3A_Structure_Determination/5.03%3A_Direct_methods
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Online_Dictionary_of_Crystallography_(IUCr_Commission)/05%3A_Structure_Determination/5.14%3A_Structure_amplitude
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Online_Dictionary_of_Crystallography_(IUCr_Commission)/03%3A_X-rays/3.06%3A_Bragg's_law
@@ -1255,3 +1254,4 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Soli
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Online_Dictionary_of_Crystallography_(IUCr_Commission)/03%3A_X-rays/3.16%3A_Integral_reflection_conditions
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Online_Dictionary_of_Crystallography_(IUCr_Commission)/03%3A_X-rays/3.20%3A_Mosaic_crystal
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Online_Dictionary_of_Crystallography_(IUCr_Commission)/10%3A_Biological_Crystallography/10.04%3A_Molecular_Replacement
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Online_Dictionary_of_Crystallography_(IUCr_Commission)/03%3A_X-rays/3.26%3A_Serial_reflection_conditions
