@@ -248,7 +248,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_C
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/21%3A_The_Chemistry_of_the_Main_Group_Elements
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/23%3A__Carbon%3A__Not_Just_Another_Element
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/24%3A__Biochemistry
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./14.E%3A_Kinetics_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./15.E%3A_Chemical_Equilibrium_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./16.E%3A_AcidBase_Equilibria_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./17.E%3A_Additional_Aspects_of_Aqueous_Equilibria_(Exercises)
@@ -10069,3 +10068,10 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.03%3A_Factors_Affecting_Solubility
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.04%3A_Ways_of_Expressing_Concentration
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.05%3A_Colligative_Properties
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/14%3A_Chemical_Kinetics/14.01%3A_Factors_that_Affect_Reaction_Rates
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/14%3A_Chemical_Kinetics/14.02%3A_Reaction_Rates
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/14%3A_Chemical_Kinetics/14.03%3A_Concentration_and_Rates_(Differential_Rate_Laws)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/14%3A_Chemical_Kinetics/14.04%3A_The_Change_of_Concentration_with_Time_(Integrated_Rate_Laws)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/14%3A_Chemical_Kinetics/14.05%3A_Temperature_and_Rate
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/14%3A_Chemical_Kinetics/14.06%3A_Reaction_Mechanisms
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/14%3A_Chemical_Kinetics/14.07%3A_Catalysis
