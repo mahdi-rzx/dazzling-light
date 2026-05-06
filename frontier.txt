@@ -221,7 +221,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/19%3A_Free_Energy_and_Thermodynamics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/20%3A_Electrochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/21%3A_Radioactivity_and_Nuclear_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/22%3A_Organic_Chemistry
@@ -9727,3 +9726,13 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_P
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases/17.10%3A_Polyprotic_Acids
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases/17.11%3A_Lewis_Acids_and_Bases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/18%3A_Aqueous_Ionic_Equilibrium/18.01%3A_The_Danger_of_Antifreeze
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/19%3A_Free_Energy_and_Thermodynamics/19.01%3A_Energy_Spreads_Out
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/19%3A_Free_Energy_and_Thermodynamics/19.02%3A_Spontaneous_and_Nonspontaneous_Processes
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/19%3A_Free_Energy_and_Thermodynamics/19.03%3A_Entropy_and_the_Second_Law_of_Thermodynamics
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/19%3A_Free_Energy_and_Thermodynamics/19.04%3A_Predicting_Entropy_and_Entropy_Changes_for_Chemical_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/19%3A_Free_Energy_and_Thermodynamics/19.05%3A_Heat_Transfer_and_Changes_in_the_Entropy_of_the_Surroundings
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/19%3A_Free_Energy_and_Thermodynamics/19.06%3A_Gibbs_Energy
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/19%3A_Free_Energy_and_Thermodynamics/19.07%3A_Free_Energy_Changes_in_Chemical_Reactions-_Calculating
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/19%3A_Free_Energy_and_Thermodynamics/19.08%3A_Free_Energy_Changes_for_Nonstandard_States_-_The_Relationship_between_and
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/19%3A_Free_Energy_and_Thermodynamics/19.09%3A_Free_Energy_and_Equilibrium-_Relating_to_the_Equilibrium_Constant_(K)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/18%3A_Aqueous_Ionic_Equilibrium/18.07%3A_Complex_Ion_Equilibria
