@@ -250,7 +250,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_C
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/24%3A__Biochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./22.E%3A_Chemistry_of_the_Nonmetals_(Exercises)/Alkali_Alkali_Earth_and_Noble_Gases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/11%3A_Reactions_in_Aqueous_Solutions/11.15%3A_Redox_Reactions
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/14%3A_Applications_of_Ultraviolet_Visible_Molecular_Absorption_Spectrometry/14.04%3A_Quantitative_Applications
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/14%3A_Applications_of_Ultraviolet_Visible_Molecular_Absorption_Spectrometry/14.05%3A_Photometric_Titrations
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/15%3A_Molecular_Luminescence/15.01%3A_Theory_of_Fluorescence_and_Phosphorescence
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Instrumental_Analysis_(LibreTexts)/15%3A_Molecular_Luminescence/15.02%3A_Instruments_for_Measuring_Fluorescence_and_Phosphorescence
@@ -10040,3 +10039,5 @@ https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textb
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/02._Fundamental_Concepts_of_Quantum_Mechanics/Quantum_FAQ
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/02._Fundamental_Concepts_of_Quantum_Mechanics/Wave-Particle_Duality
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.03%3A_Determining_the_Sensitivity
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/05%3A_Standardizing_Analytical_Methods/5.02%3A_Calibrating_the_Signal
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_2.1_(Harvey)/10%3A_Spectroscopic_Methods/10.03%3A_UV_Vis_and_IR_Spectroscopy
