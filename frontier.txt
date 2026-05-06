@@ -117,7 +117,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_II_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/11%3A_Basic_Science_of_Nanomaterials
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/12%3A_Resources_for_Students_and_Teachers
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/13%3A_Metals_and_Alloys_-_Mechanical_Properties
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/zz%3A_Back_Matter
@@ -4553,3 +4552,13 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inor
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/10%3A_Electronic_Properties_of_Materials_-_Superconductors_and_Semiconductors/10.09%3A_Discussion_Questions
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/10%3A_Electronic_Properties_of_Materials_-_Superconductors_and_Semiconductors/10.10%3A_Problems
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/10%3A_Electronic_Properties_of_Materials_-_Superconductors_and_Semiconductors/10.11%3A_References
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/11%3A_Basic_Science_of_Nanomaterials/11.01%3A_Prelude_to_Basic_Science_of_Nanomaterials
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/11%3A_Basic_Science_of_Nanomaterials/11.02%3A_Physics_and_Length_Scales-_Cavity_Laser_Coulomb_Blockade_Nanoscale_Magnets
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/11%3A_Basic_Science_of_Nanomaterials/11.03%3A_Semiconductor_Quantum_Dots
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/11%3A_Basic_Science_of_Nanomaterials/11.04%3A__Synthesis_of_Semiconductor_Nanocrystals
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/11%3A_Basic_Science_of_Nanomaterials/11.05%3A_Surface_Energy
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/11%3A_Basic_Science_of_Nanomaterials/11.06%3A_Nanoscale_Metal_Particles
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/11%3A_Basic_Science_of_Nanomaterials/11.07%3A_Applications_of_Nanomaterials
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/11%3A_Basic_Science_of_Nanomaterials/11.08%3A_Discussion_Questions
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/11%3A_Basic_Science_of_Nanomaterials/11.09%3A_Problems
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Inorganic_Chemistry_(Wikibook)/11%3A_Basic_Science_of_Nanomaterials/11.10%3A_References
