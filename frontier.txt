@@ -129,7 +129,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/09%3A_Metals_in_Medicine
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/zz%3A_Back_Matter/21%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/IUCr Commission on Crystallographic Nomenclature
@@ -5174,3 +5173,24 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Sur
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/00%3A_Front_Matter/02%3A_InfoPage
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/00%3A_Front_Matter/03%3A_Table_of_Contents
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/00%3A_Front_Matter/04%3A_Licensing
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.01%3A_The_Schlenk_Line
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.02%3A_Cycling_onto_the_Schlenk_Line
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.03%3A_Performing_Sensitive_Reactions_without_a_Schlenk_Line
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.04%3A_Transferring_Liquids
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.04%3A_Transferring_Liquids/1.4.01%3A_Cannula_Transfer
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.04%3A_Transferring_Liquids/1.4.02%3A_Syringes_and_Sure_Seals
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.05%3A_Inert_Atmosphere_Filtrations
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.05%3A_Inert_Atmosphere_Filtrations/1.5.01%3A_Cannula_Filtration
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.05%3A_Inert_Atmosphere_Filtrations/1.5.02%3A_Filtration_through_Celite
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.06%3A_NMR_Preparation
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.06%3A_NMR_Preparation/1.6.01%3A_Preparing_NMR_Samples_on_a_Schlenk_Line
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.06%3A_NMR_Preparation/1.6.02%3A_Removing_Solvent_from_NMR_tubes
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.07%3A_Distillations
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.07%3A_Distillations/1.7.01%3A_Static_Vacuum_Distillation
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.07%3A_Distillations/1.7.02%3A_Dynamic_Vacuum_Distillation
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.08%3A_Freeze-Pump-Thaw
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.09%3A_Drying_Solvents
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.10%3A_Removing_Solvent
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.11%3A_Addition_of_Solids
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.12%3A_Refluxing_Under_an_Inert_Atmosphere
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/The_Schlenk_Line_Survival_Guide_(Borys)/01%3A_Guides/1.13%3A_Gloveboxes
