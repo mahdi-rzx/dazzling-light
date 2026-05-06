@@ -1,0 +1,3685 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="16.E: Thermodynamics (Exercises)"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/16%3A_Thermodynamics/16.E%3A_Thermodynamics_(Exercises)"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content="These are homework exercises to accompany the Textmap created for &amp;quot;Chemistry&amp;quot; by OpenStax."/>
+        <meta property="article:published_time" content="2016-01-07T06:39:44Z"/>
+        <meta property="article:modified_time" content="2022-10-27T17:23:52Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="16.E: Thermodynamics (Exercises)"/>
+        <meta name="twitter:description" content="These are homework exercises to accompany the Textmap created for &amp;quot;Chemistry&amp;quot; by OpenStax."/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content="These are homework exercises to accompany the Textmap created for &amp;quot;Chemistry&amp;quot; by OpenStax."/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/16%3A_Thermodynamics/16.E%3A_Thermodynamics_(Exercises)"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529">{"@context":"http:\/\/schema.org","@type":"Article","name":"16.E: Thermodynamics (Exercises)","url":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)\/16%3A_Thermodynamics\/16.E%3A_Thermodynamics_(Exercises)","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2016-01-07T06:39:44Z","dateModified":"2022-10-27T17:23:52Z","description":"These are homework exercises to accompany the Textmap created for &quot;Chemistry&quot; by OpenStax.","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/42801\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)\/16%3A_Thermodynamics\/16.E%3A_Thermodynamics_(Exercises)"},"headline":"16.E: Thermodynamics (Exercises)","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"16.E: Thermodynamics (Exercises)","url":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)\/16%3A_Thermodynamics\/16.E%3A_Thermodynamics_(Exercises)","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)\/16%3A_Thermodynamics\/16.01%3A_Spontaneity","https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)\/16%3A_Thermodynamics\/16.02%3A_Entropy","https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)\/16%3A_Thermodynamics\/16.03%3A_The_Second_and_Third_Laws_of_Thermodynamics","https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)\/16%3A_Thermodynamics\/16.04%3A_Gibbs_Energy","https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)\/00%3A_Front_Matter"]}</script>
+        <script type="application/ld+json" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry","name":"General Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)","name":"Chemistry 1e (OpenSTAX)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Chemistry_1e_(OpenSTAX)\/16%3A_Thermodynamics","name":"16: Thermodynamics"}}]}</script>
+
+        <title>16.E: Thermodynamics (Exercises) - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+@media print {
+     
+
+.mt-content-container .mt-responsive-table, .mt-content-container table {
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 1rem !important;
+}
+
+.mt-content-container .mt-responsive-table caption, .mt-content-container table caption { 
+    display: table-caption;
+    text-align: center;
+    font-size: 90%;
+    padding: 0 0 0.2rem 0;
+}
+
+.mt-content-container .mt-responsive-table th, .mt-content-container table th {
+  font-size: inherit;
+  vertical-align: middle;
+  border-bottom: 1px solid #E8E8E8;
+  margin: inherit;
+  padding: 0.4em !important;
+}
+
+.mt-content-container .mt-responsive-table tr, .mt-content-container table tr {
+  page-break-inside:avoid; 
+  page-break-after:auto;
+  margin: inherit;
+  font-size: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+  border-bottom: 1px solid #E8E8E8;
+}
+    
+.mt-content-container .mt-responsive-table td, .mt-content-container table td {
+  border: 1px solid #E8E8E8;
+  page-break-inside: avoid !important;
+  page-break-before: avoid;
+  margin: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+}
+
+.mt-content-container table ol, 
+.mt-content-container table ul,
+.mt-content-container table p,
+.mt-content-container table ol,
+.mt-content-container table ul,
+.mt-content-container table p {
+    font-size: inherit;
+    margin: inherit;
+}
+
+mjx-container svg path,
+mjx-container svg use {
+  stroke: none !important;
+  stroke-width: 0 !important;
+}
+    
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":42801,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"16.E: Thermodynamics (Exercises)","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"8","pageSectionEditable":false,"pageTitle":"Bookshelves\/General Chemistry\/Chemistry 1e (OpenSTAX)\/16: Thermodynamics\/16.E: Thermodynamics (Exercises)","pageViewId":"5376c71c-c81b-4294-850d-390cdc70cfdf","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"NzU3ZDYwNGMtZGE4Yy00NGQ2LWI1ZTMtYWQ0NjJlNmEwM2ZifDIwMjYtMDUtMDZUMTY6MDQ6MzM=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778083474_fbb4b938c5f5b1c36287e2f707f72d7517d6faf26e54681a64618be9dbfbc828","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-generalchemistry-chemistry1e%28openstax%29-16%3Athermodynamics-16.e%3Athermodynamics%28exercises%29 columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">16: Thermodynamics</div><div style="display:none" id="parentParentTitleHolder">Chemistry 1e (OpenSTAX)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;16.01:_Spontaneity&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.02:_Entropy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.03:_The_Second_and_Third_Laws_of_Thermodynamics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.04:_Gibbs_Energy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.E:_Thermodynamics_(Exercises)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_Essential_Ideas_of_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_Atoms_Molecules_and_Ions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_Composition_of_Substances_and_Solutions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:_Stoichiometry_of_Chemical_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05:_Thermochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06:_Electronic_Structure_and_Periodic_Properties&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07:_Chemical_Bonding_and_Molecular_Geometry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08:_Advanced_Theories_of_Covalent_Bonding&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09:_Gases&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10:_Liquids_and_Solids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;11:_Solutions_and_Colloids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12:_Kinetics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Fundamental_Equilibrium_Concepts&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_Acid-Base_Equilibria&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Equilibria_of_Other_Reaction_Classes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Thermodynamics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;17:_Electrochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;18:_Representative_Metals_Metalloids_and_Nonmetals&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19:_Transition_Metals_and_Coordination_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20:_Organic_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21:_Nuclear_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;22:_Appendices&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Thu, 27 Oct 2022 17:23:52 GMT</div><div style="display:none" id="titleHolder">16.E: Thermodynamics (Exercises)</div><div style="display:none" id="IDHolder">42801</div><div style="display:none" id="pageIDHolder">42801</div><div style="display:none" id="pageAuthorHolder">admin</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;Author tag:OpenStax&quot;, &quot;authorname:openstax&quot;, &quot;showtoc:no&quot;, &quot;license:ccby&quot;, &quot;autonumheader:yes2&quot;, &quot;licenseversion:40&quot;, &quot;source@https://openstax.org/details/books/chemistry-2e&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;Author tag:OpenStax&quot;, &quot;authorname:openstax&quot;, &quot;showtoc:no&quot;, &quot;license:ccby&quot;, &quot;autonumheader:yes2&quot;, &quot;licenseversion:40&quot;, &quot;source@https://openstax.org/details/books/chemistry-2e&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FGeneral_Chemistry%2FChemistry_1e_(OpenSTAX)%2F16%253A_Thermodynamics%2F16.E%253A_Thermodynamics_(Exercises)</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FGeneral_Chemistry%2FChemistry_1e_%28OpenSTAX%29%2F16%3A_Thermodynamics%2F16.E%3A_Thermodynamics_%28Exercises%29" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FGeneral_Chemistry%2FChemistry_1e_%28OpenSTAX%29%2F16%3A_Thermodynamics%2F16.E%3A_Thermodynamics_%28Exercises%29" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/General_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    General Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Chemistry 1e (OpenSTAX)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/16%3A_Thermodynamics" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    16: Thermodynamics
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            16.E: Thermodynamics (Exercises)
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        16.E: Thermodynamics (Exercises)
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2022-10-27T17:23:52Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/42801/pdf/16.E%253A%2bThermodynamics%2b(Exercises).pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>42801</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+<div class="mt-author-container"><ul><li class="mt-author-image mt-author-image-crop"><img src="https://biz.libretexts.org/@api/deki/files/5084/girl-160172__340.png" alt=" " title="OpenStax" /></li><li class="mt-author-information"><a rel="external" target="_blank" href="https://openstax.org/">OpenStax</a></li><li class="mt-author-programname"><a rel="external" target="_blank" href="https://openstax.org">OpenStax</a></li></ul></div>
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#16.1:_Spontaneity_Exercises" rel="internal">16.1: Spontaneity Exercises</a><ol><li><a href="#Q16.1.1" rel="internal">Q16.1.1</a></li><li><a href="#S16.1.1" rel="internal">S16.1.1</a></li><li><a href="#Q16.1.2" rel="internal">Q16.1.2</a></li><li><a href="#Q16.1.3" rel="internal">Q16.1.3</a></li><li><a href="#S16.1.2" rel="internal">S16.1.2</a></li><li><a href="#Q16.1.4" rel="internal">Q16.1.4</a></li><li><a href="#Q16.1.5" rel="internal">Q16.1.5</a></li><li><a href="#S16.1.5" rel="internal">S16.1.5</a></li></ol></li><li><a href="#16.2:_Entropy_Exercises" rel="internal">16.2: Entropy Exercises</a><ol><li><a href="#Q16.2.1" rel="internal">Q16.2.1</a></li><li><a href="#Q16.2.2" rel="internal">Q16.2.2</a></li><li><a href="#S16.2.2" rel="internal">S16.2.2</a></li><li><a href="#Q16.2.3" rel="internal">Q16.2.3</a></li><li><a href="#Q16.2.4" rel="internal">Q16.2.4</a></li><li><a href="#S16.2.4" rel="internal">S16.2.4</a></li><li><a href="#Q16.2.5" rel="internal">Q16.2.5</a></li><li><a href="#Q16.2.6" rel="internal">Q16.2.6</a></li><li><a href="#S16.2.6" rel="internal">S16.2.6</a></li><li><a href="#Q16.2.7" rel="internal">Q16.2.7</a></li><li><a href="#Q16.2.8" rel="internal">Q16.2.8</a></li><li><a href="#S16.2.8" rel="internal">S16.2.8</a></li><li><a href="#Q16.2.9" rel="internal">Q16.2.9</a></li><li><a href="#Q16.2.11" rel="internal">Q16.2.11</a></li><li><a href="#S16.2.11" rel="internal">S16.2.11</a></li><li><a href="#Q16.2.11_2" rel="internal">Q16.2.11</a></li><li><a href="#Q16.2.12" rel="internal">Q16.2.12</a></li><li><a href="#S16.2.12" rel="internal">S16.2.12</a></li><li><a href="#Q16.2.13" rel="internal">Q16.2.13</a></li><li><a href="#Q16.2.14" rel="internal">Q16.2.14</a></li><li><a href="#S16.2.14" rel="internal">S16.2.14</a></li></ol></li><li><a href="#16.3:_The_Second_and_Third_law" rel="internal">16.3: The Second and Third law</a><ol><li><a href="#Q16.3.0" rel="internal">Q16.3.0</a></li><li><a href="#Q16.3.1" rel="internal">Q16.3.1</a></li><li><a href="#S16.3.1" rel="internal">S16.3.1</a></li><li><a href="#Q16.3.2" rel="internal">Q16.3.2</a></li><li><a href="#Q16.3.3" rel="internal">Q16.3.3</a></li><li><a href="#S16.3.3" rel="internal">S16.3.3</a></li><li><a href="#Q16.3.4" rel="internal">Q16.3.4</a></li><li><a href="#Q16.3.5" rel="internal">Q16.3.5</a></li><li><a href="#S16.3.5" rel="internal">S16.3.5</a></li><li><a href="#Q16.3.6" rel="internal">Q16.3.6</a></li><li><a href="#Q16.3.7" rel="internal">Q16.3.7</a></li><li><a href="#S16.3.7" rel="internal">S16.3.7</a></li><li><a href="#Q16.3.8" rel="internal">Q16.3.8</a></li><li><a href="#Q16.3.8_2" rel="internal">Q16.3.8</a></li></ol></li><li><a href="#16.4:_Free_Energy" rel="internal">16.4: Free Energy</a><ol><li><a href="#Q16.4.1" rel="internal">Q16.4.1</a></li><li><a href="#Q16.4.2" rel="internal">Q16.4.2</a></li><li><a href="#S16.4.2" rel="internal">S16.4.2</a></li><li><a href="#Q16.4.3" rel="internal">Q16.4.3</a></li><li><a href="#S16.4.3" rel="internal">S16.4.3</a></li><li><a href="#Q16.4.4" rel="internal">Q16.4.4</a></li><li><a href="#Q16.4.5" rel="internal">Q16.4.5</a></li><li><a href="#S16.4.5" rel="internal">S16.4.5</a></li><li><a href="#Q16.4.6" rel="internal">Q16.4.6</a></li><li><a href="#Q16.4.7" rel="internal">Q16.4.7</a></li><li><a href="#S16.4.7" rel="internal">S16.4.7</a></li><li><a href="#Q16.4.8" rel="internal">Q16.4.8</a></li><li><a href="#Q16.4.9" rel="internal">Q16.4.9</a></li><li><a href="#S16.4.9" rel="internal">S16.4.9</a></li><li><a href="#Q16.4.10" rel="internal">Q16.4.10</a></li><li><a href="#Q16.4.11" rel="internal">Q16.4.11</a></li><li><a href="#S16.4.11" rel="internal">S16.4.11</a></li><li><a href="#Q16.4.2_2" rel="internal">Q16.4.2</a></li><li><a href="#Q16.4.13" rel="internal">Q16.4.13</a></li><li><a href="#S16.4.13" rel="internal">S16.4.13</a></li><li><a href="#Q16.4.14" rel="internal">Q16.4.14</a></li><li><a href="#Q16.4.15" rel="internal">Q16.4.15</a></li><li><a href="#S16.4.16" rel="internal">S16.4.16</a></li><li><a href="#Q16.4.17" rel="internal">Q16.4.17</a></li><li><a href="#Q16.4.18" rel="internal">Q16.4.18</a></li><li><a href="#S16.4.18" rel="internal">S16.4.18</a></li><li><a href="#Q16.4.19" rel="internal">Q16.4.19</a></li><li><a href="#Q16.4.20" rel="internal">Q16.4.20</a></li><li><a href="#S16.4.20" rel="internal">S16.4.20</a></li><li><a href="#Q16.4.21" rel="internal">Q16.4.21</a></li><li><a href="#Q16.4.22" rel="internal">Q16.4.22</a></li><li><a href="#S16.4.22" rel="internal">S16.4.22</a></li><li><a href="#Q16.4.23" rel="internal">Q16.4.23</a></li><li><a href="#Q16.4.24" rel="internal">Q16.4.24</a></li><li><a href="#Q16.4.25" rel="internal">Q16.4.25</a></li><li><a href="#Q16.4.25B" rel="internal">Q16.4.25B</a></li><li><a href="#S16.4.25B" rel="internal">S16.4.25B</a></li><li><a href="#Q16.4.26" rel="internal">Q16.4.26</a></li><li><a href="#Q16.4.27A" rel="internal">Q16.4.27A</a></li><li><a href="#S16.4.27A" rel="internal">S16.4.27A</a></li><li><a href="#Q16.4.27" rel="internal">Q16.4.27</a></li><li><a href="#Q16.4.28" rel="internal">Q16.4.28</a></li><li><a href="#S16.4.28" rel="internal">S16.4.28</a></li><li><a href="#Q16.4.29" rel="internal">Q16.4.29</a></li><li><a href="#Q16.4.30" rel="internal">Q16.4.30</a></li><li><a href="#S16.4.30" rel="internal">S16.4.30</a></li><li><a href="#Q16.4.31" rel="internal">Q16.4.31</a></li><li><a href="#Q16.4.32" rel="internal">Q16.4.32</a></li><li><a href="#S16.4.32" rel="internal">S16.4.32</a></li><li><a href="#Q16.4.33" rel="internal">Q16.4.33</a></li><li><a href="#S16.4.33" rel="internal">S16.4.33</a></li><li><a href="#Q16.4.34" rel="internal">Q16.4.34</a></li><li><a href="#Q16.4.35" rel="internal">Q16.4.35</a></li><li><a href="#S16.4.35" rel="internal">S16.4.35</a></li></ol></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <div class="mt-contentreuse-widget" data-page="Homework_and_Exercises/Exercises%3A_General_Chemistry/Exercises%3A_OpenStax/16.E%3A_Exercises" data-section="" data-show="">
+<div class="mt-include" id="s44122">
+
+
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section" id="section_1"><span id="16.1:_Spontaneity_Exercises"></span><h2 id="16.1:_Spontaneity_Exercises-44122">16.1: Spontaneity Exercises</h2>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section" id="section_2"><span id="Q16.1.1"></span><h3 id="Q16.1.1-44122">Q16.1.1</h3>
+
+<p>What is a spontaneous reaction?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section" id="section_3"><span id="S16.1.1"></span><h3 id="S16.1.1-44122">S16.1.1</h3>
+
+<p>A reaction has a natural tendency to occur and takes place without the continual input of energy from an external source.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section" id="section_4"><span id="Q16.1.2"></span><h3 id="Q16.1.2-44122">Q16.1.2</h3>
+
+<p>What is a nonspontaneous reaction?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section" id="section_5"><span id="Q16.1.3"></span><h3 id="Q16.1.3-44122">Q16.1.3</h3>
+
+<p>Indicate whether the following processes are spontaneous or nonspontaneous.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>Liquid water freezing at a temperature below its freezing point</li>
+    <li>Liquid water freezing at a temperature above its freezing point</li>
+    <li>The combustion of gasoline</li>
+    <li>A ball thrown into the air</li>
+    <li>A raindrop falling to the ground</li>
+    <li>Iron rusting in a moist atmosphere</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section" id="section_6"><span id="S16.1.2"></span><h3 id="S16.1.2-44122">S16.1.2</h3>
+
+<p>spontaneous; nonspontaneous; spontaneous; nonspontaneous; spontaneous; spontaneous</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section" id="section_7"><span id="Q16.1.4"></span><h3 id="Q16.1.4-44122">Q16.1.4</h3>
+
+<p>A helium-filled balloon spontaneously deflates overnight as He atoms diffuse through the wall of the balloon. Describe the redistribution of matter and/or energy that accompanies this process.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section" id="section_8"><span id="Q16.1.5"></span><h3 id="Q16.1.5-44122">Q16.1.5</h3>
+
+<p>Many plastic materials are organic polymers that contain carbon and hydrogen. The oxidation of these plastics in air to form carbon dioxide and water is a spontaneous process; however, plastic materials tend to persist in the environment. Explain.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section" id="section_9"><span id="S16.1.5"></span><h3 id="S16.1.5-44122">S16.1.5</h3>
+
+<p>Although the oxidation of plastics is spontaneous, the rate of oxidation is very slow. Plastics are therefore kinetically stable and do not decompose appreciably even over relatively long periods of time.</p>
+
+</div></div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section" id="section_10"><span id="16.2:_Entropy_Exercises"></span><h2 id="16.2:_Entropy_Exercises-44122">16.2: Entropy Exercises</h2>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section" id="section_11"><span id="Q16.2.1"></span><h3 id="Q16.2.1-44122">Q16.2.1</h3>
+
+<section class="exercises">
+<p>In the below Figure all possible distributions and microstates are shown for four different particles shared between two boxes. Determine the entropy change, &Delta;<em>S</em>, if the particles are initially evenly distributed between the two boxes, but upon redistribution all end up in Box (b).</p>
+
+<p class="mt-align-center"><img style="width: 771px; height: 344px;" width="771px" height="344px" class="internal" alt="CNX_Chem_16_02_Microstates.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/67081/CNX_Chem_16_02_Microstates.jpg?revision=1&amp;size=bestfit&amp;width=771&amp;height=344" /></p>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.2.2"></span><h3 id="Q16.2.2-44122">Q16.2.2</h3>
+
+<p>In Figure all of the possible distributions and microstates are shown for four different particles shared between two boxes. Determine the entropy change, &Delta;<em>S</em>, for the system when it is converted from distribution to distribution (d).</p>
+
+<p class="mt-align-center"><img style="width: 748px; height: 333px;" width="748px" height="333px" class="internal" alt="CNX_Chem_16_02_Microstates.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/67081/CNX_Chem_16_02_Microstates.jpg?revision=1&amp;size=bestfit&amp;width=748&amp;height=333" /></p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.2.2"></span><h3 id="S16.2.2-44122">S16.2.2</h3>
+
+<p>There are four initial microstates and four final microstates.</p>
+
+<p class="mt-align-center">\[&Delta;S=k\ln\dfrac{W_\ce{f}}{W_\ce{i}}=\mathrm{1.38&times;10^{&minus;23}\:J/K&times;\ln\dfrac{4}{4}=0}\]</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.2.3"></span><h3 id="Q16.2.3-44122">Q16.2.3</h3>
+
+<p>How does the process described in the previous item relate to the system shown in <a href="http://cnx.org/contents/1ec31480-5f54-4666-9f50-50c208b22688@3#CNX_Chem_16_02_Gas" target="_blank" rel="external noopener nofollow" class="autogenerated-content external">[link]</a>?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.2.4"></span><h3 id="Q16.2.4-44122">Q16.2.4</h3>
+
+<p>Consider a system similar to the one below, except that it contains six particles instead of four. What is the probability of having all the particles in only one of the two boxes in the case? Compare this with the similar probability for the system of four particles that we have derived to be equal to \(\dfrac{1}{8}\). What does this comparison tell us about even larger systems?</p>
+
+<p class="mt-align-center"><img height="274" width="615" class="internal" alt="CNX_Chem_16_02_Microstates.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/67081/CNX_Chem_16_02_Microstates.jpg?revision=1" /></p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.2.4"></span><h3 id="S16.2.4-44122">S16.2.4</h3>
+
+<p>The probability for all the particles to be on one side is \(\dfrac{1}{32}\). This probability is noticeably lower than the \(\dfrac{1}{8}\) result for the four-particle system. The conclusion we can make is that the probability for all the particles to stay in only one part of the system will decrease rapidly as the number of particles increases, and, for instance, the probability for all molecules of gas to gather in only one side of a room at room temperature and pressure is negligible since the number of gas molecules in the room is very large.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.2.5"></span><h3 id="Q16.2.5-44122">Q16.2.5</h3>
+
+<p>Consider the system shown in Figure. What is the change in entropy for the process where the energy is initially associated only with particle A, but in the final state the energy is distributed between two different particles?</p>
+
+<p class="mt-align-center"><img style="width: 895px; height: 79px;" width="895px" height="79px" class="internal" alt="CNX_Chem_16_03_Matter_img.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/67082/CNX_Chem_16_03_Matter_img.jpg?revision=1&amp;size=bestfit&amp;width=895&amp;height=79" /></p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.2.6"></span><h3 id="Q16.2.6-44122">Q16.2.6</h3>
+
+<p>Consider the system shown in <a href="http://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6@9.110:97/Entropy#CNX_Chem_16_03_Energy" target="_blank" rel="external noopener nofollow" class="autogenerated-content external">Figure</a>. What is the change in entropy for the process where the energy is initially associated with particles A and B, and the energy is distributed between two particles in different boxes (one in A-B, the other in C-D)?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.2.6"></span><h3 id="S16.2.6-44122">S16.2.6</h3>
+
+<p>There is only one initial state. For the final state, the energy can be contained in pairs A-C, A-D, B-C, or B-D. Thus, there are four final possible states.</p>
+
+<p class="mt-align-center">\[&Delta;S=k\ln\left(\dfrac{W_\ce{f}}{W_\ce{i}}\right)=\mathrm{1.38&times;10^{&minus;23}\:J/K&times;\ln\left(\dfrac{4}{1}\right)=1.91&times;10^{&minus;23}\:J/K}\]</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.2.7"></span><h3 id="Q16.2.7-44122">Q16.2.7</h3>
+
+<p>Arrange the following sets of systems in order of increasing entropy. Assume one mole of each substance and the same temperature for each member of a set.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>H<sub>2</sub>(<em>g</em>), HBrO<sub>4</sub>(<em>g</em>), HBr(<em>g</em>)</li>
+    <li>H<sub>2</sub>O(<em>l</em>), H<sub>2</sub>O(<em>g</em>), H<sub>2</sub>O(<em>s</em>)</li>
+    <li>He(<em>g</em>), Cl<sub>2</sub>(<em>g</em>), P<sub>4</sub>(<em>g</em>)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.2.8"></span><h3 id="Q16.2.8-44122">Q16.2.8</h3>
+
+<p>At room temperature, the entropy of the halogens increases from I<sub>2</sub> to Br<sub>2</sub> to Cl<sub>2</sub>. Explain.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.2.8"></span><h3 id="S16.2.8-44122">S16.2.8</h3>
+
+<p>The masses of these molecules would suggest the opposite trend in their entropies. The observed trend is a result of the more significant variation of entropy with a physical state. At room temperature, I<sub>2</sub> is a solid, Br<sub>2</sub> is a liquid, and Cl<sub>2</sub> is a gas.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.2.9"></span><h3 id="Q16.2.9-44122">Q16.2.9</h3>
+
+<p>Consider two processes: sublimation of I<sub>2</sub>(<em>s</em>) and melting of I<sub>2</sub>(<em>s</em>) (Note: the latter process can occur at the same temperature but somewhat higher pressure).</p>
+
+<p class="mt-align-center">\[\ce{I2}(s)&#10230;\ce{I2}(g)\]</p>
+
+<p class="mt-align-center">\[\ce{I2}(s)&#10230;\ce{I2}(l)\]</p>
+
+<p>Is &Delta;<em>S</em> positive or negative in these processes? In which of the processes will the magnitude of the entropy change be greater?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.2.11"></span><h3 id="Q16.2.11-44122">Q16.2.11</h3>
+
+<p>Indicate which substance in the given pairs has the higher entropy value. Explain your choices.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>C<sub>2</sub>H<sub>5</sub>OH(<em>l</em>) or C<sub>3</sub>H<sub>7</sub>OH(<em>l</em>)</li>
+    <li>C<sub>2</sub>H<sub>5</sub>OH(<em>l</em>) or C<sub>2</sub>H<sub>5</sub>OH(<em>g</em>)</li>
+    <li>2Hor H(<em>g</em>)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.2.11"></span><h3 id="S16.2.11-44122">S16.2.11</h3>
+
+<p>C<sub>3</sub>H<sub>7</sub>OH(<em>l</em>) as it is a larger molecule (more complex and more massive), and so more microstates describing its motions are available at any given temperature. C<sub>2</sub>H<sub>5</sub>OH(<em>g</em>) as it is in the gaseous state. 2H(<em>g</em>), since entropy is an extensive property, and so two H atoms (or two moles of H atoms) possess twice as much entropy as one atom (or one mole of atoms).</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.2.11_2"></span><h3 id="Q16.2.11-44122">Q16.2.11</h3>
+
+<p>Predict the sign of the entropy change for the following processes:</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>An ice cube is warmed to near its melting point.</li>
+    <li>Exhaled breath forms fog on a cold morning.</li>
+    <li>Snow melts.</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.2.12"></span><h3 id="Q16.2.12-44122">Q16.2.12</h3>
+
+<p>Predict the sign of the enthalpy change for the following processes. Give a reason for your prediction.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>\(\ce{Pb^2+}(aq)+\ce{S^2-}(aq)&#10230;\ce{PbS}(s)\)</li>
+    <li>\(\ce{2Fe}(s)+\ce{3O2}(g)&#10230;\ce{Fe2O3}(s)\)</li>
+    <li>\(\ce{2C6H14}(l)+\ce{19O2}(g)&#10230;\ce{14H2O}(g)+\ce{12CO2}(g)\)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.2.12"></span><h3 id="S16.2.12-44122">S16.2.12</h3>
+
+<p>Negative. The relatively ordered solid precipitating decreases the number of mobile ions in solution. Negative. There is a net loss of three moles of gas from reactants to products. Positive. There is a net increase of seven moles of gas from reactants to products.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.2.13"></span><h3 id="Q16.2.13-44122">Q16.2.13</h3>
+
+<p>Write the balanced chemical equation for the combustion of methane, CH<sub>4</sub>(<em>g</em>), to give carbon dioxide and water vapor. Explain why it is difficult to predict whether &Delta;<em>S</em> is positive or negative for this chemical reaction.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.2.14"></span><h3 id="Q16.2.14-44122">Q16.2.14</h3>
+
+<p>Write the balanced chemical equation for the combustion of benzene, C<sub>6</sub>H<sub>6</sub>(<em>l</em>), to give carbon dioxide and water vapor. Would you expect &Delta;<em>S</em> to be positive or negative in this process?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.2.14"></span><h3 id="S16.2.14-44122">S16.2.14</h3>
+
+<p class="mt-align-center">\[\ce{C6H6}(l)+7.5\ce{O2}(g)&#10230;\ce{3H2O}(g)+\ce{6CO2}(g)\]</p>
+
+<p>There are 7.5 moles of gas initially, and 3 + 6 = 9 moles of gas in the end. Therefore, it is likely that the entropy increases as a result of this reaction, and &Delta;<em>S</em> is positive.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="16.3:_The_Second_and_Third_law"></span><h2 id="16.3:_The_Second_and_Third_law-44122">16.3: The Second and Third law</h2>
+
+
+<section class="exercises">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.3.0"></span><h3 id="Q16.3.0-44122">Q16.3.0</h3>
+
+<p>What is the difference between &Delta;<em>S</em>, &Delta;<em>S</em>&deg;, and \(&Delta;S^\circ_{298}\) for a chemical change?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.3.1"></span><h3 id="Q16.3.1-44122">Q16.3.1</h3>
+
+<p>Calculate \(&Delta;S^\circ_{298}\) for the following changes.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>\(\ce{SnCl4}(l)&#10230;\ce{SnCl4}(g)\)</li>
+    <li>\(\ce{CS2}(g)&#10230;\ce{CS2}(l)\)</li>
+    <li>\(\ce{Cu}(s)&#10230;\ce{Cu}(g)\)</li>
+    <li>\(\ce{H2O}(l)&#10230;\ce{H2O}(g)\)</li>
+    <li>\(\ce{2H2}(g)+\ce{O2}(g)&#10230;\ce{2H2O}(l)\)</li>
+    <li>\(\ce{2HCl}(g)+\ce{Pb}(s)&#10230;\ce{PbCl2}(s)+\ce{H2}(g)\)</li>
+    <li>\(\ce{Zn}(s)+\ce{CuSO4}(s)&#10230;\ce{Cu}(s)+\ce{ZnSO4}(s)\)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.3.1"></span><h3 id="S16.3.1-44122">S16.3.1</h3>
+
+<p>107 J/K; &minus;86.4 J/K; 133.2 J/K; 118.8 J/K; &minus;326.6 J/K; &minus;171.9 J/K; (g) &minus;7.2 J/K</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.3.2"></span><h3 id="Q16.3.2-44122">Q16.3.2</h3>
+
+<p>Determine the entropy change for the combustion of liquid ethanol, C<sub>2</sub>H<sub>5</sub>OH, under standard state conditions to give gaseous carbon dioxide and liquid water.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.3.3"></span><h3 id="Q16.3.3-44122">Q16.3.3</h3>
+
+<p>Determine the entropy change for the combustion of gaseous propane, C<sub>3</sub>H<sub>8</sub>, under standard state conditions to give gaseous carbon dioxide and water.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.3.3"></span><h3 id="S16.3.3-44122">S16.3.3</h3>
+
+<p>100.6 J/K</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.3.4"></span><h3 id="Q16.3.4-44122">Q16.3.4</h3>
+
+<p>&ldquo;Thermite&rdquo; reactions have been used for welding metal parts such as railway rails and in metal refining. One such thermite reaction is:</p>
+
+<p class="mt-align-center">\[\ce{Fe2O3}(s)+\ce{2Al}(s)&#10230;\ce{Al2O3}(s)+\ce{2Fe}(s)\]</p>
+
+<p>Is the reaction spontaneous at room temperature under standard conditions? During the reaction, the surroundings absorb 851.8 kJ/mol of heat.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.3.5"></span><h3 id="Q16.3.5-44122">Q16.3.5</h3>
+
+<p>Using the relevant \(S^\circ_{298}\) values listed in <a href="http://cnx.org/contents/da076442-9614-4d57-92ab-d045b9331829@3" target="_blank" rel="external noopener nofollow" class="target-chapter external">Appendix G</a>, calculate \(S^\circ_{298}\) for the following changes:</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>\(\ce{N2}(g)+\ce{3H2}(g)&#10230;\ce{2NH3}(g)\)</li>
+    <li>\(\ce{N2}(g)+\dfrac{5}{2}\ce{O2}(g)&#10230;\ce{N2O5}(g)\)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.3.5"></span><h3 id="S16.3.5-44122">S16.3.5</h3>
+
+<p>&minus;198.1 J/K; &minus;348.9 J/K</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.3.6"></span><h3 id="Q16.3.6-44122">Q16.3.6</h3>
+
+<p>From the following information, determine \(&Delta;S^\circ_{298}\) for the following:</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>\(\ce{N}(g)+\ce{O}(g)&#10230;\ce{NO}(g) \hspace{20px} &Delta;S^\circ_{298}=\,?\)</li>
+    <li>\(\ce{N2}(g)+\ce{O2}(g)&#10230;\ce{2NO}(g) \hspace{20px} &Delta;S^\circ_{298}=\mathrm{24.8\: J/K}\)</li>
+    <li>\(\ce{N2}(g)&#10230;\ce{2N}(g) \hspace{20px} &Delta;S^\circ_{298}=\mathrm{115.0\: J/K}\)</li>
+    <li>\(\ce{O2}(g)&#10230;\ce{2O}(g) \hspace{20px} &Delta;S^\circ_{298}=\mathrm{117.0\: J/K}\)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.3.7"></span><h3 id="Q16.3.7-44122">Q16.3.7</h3>
+
+<p>By calculating &Delta;<em>S</em><sub>univ</sub> at each temperature, determine if the melting of 1 mole of NaCl(<em>s</em>) is spontaneous at 500 &deg;C and at 700 &deg;C.</p>
+
+<p class="mt-align-center">\[S^\circ_{\ce{NaCl}(s)}=\mathrm{72.11\:\dfrac{J}{mol&sdot;K}}\hspace{40px} S^\circ_{\ce{NaCl}(l)}=\mathrm{95.06\:\dfrac{J}{mol&sdot;K}}\hspace{40px &Delta;H^\circ_\ce{fusion}=\mathrm{27.95\: kJ/mol}\]</p>
+
+<p>What assumptions are made about the thermodynamic information (entropy and enthalpy values) used to solve this problem?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.3.7"></span><h3 id="S16.3.7-44122">S16.3.7</h3>
+
+<p>As &Delta;<em>S</em><sub>univ</sub> &lt; 0 at each of these temperatures, melting is not spontaneous at either of them. The given values for entropy and enthalpy are for NaCl at 298 K. It is assumed that these do not change significantly at the higher temperatures used in the problem.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.3.8"></span><h3 id="Q16.3.8-44122">Q16.3.8</h3>
+
+<p>Use the standard entropy data in <a href="http://cnx.org/contents/da076442-9614-4d57-92ab-d045b9331829@3" target="_blank" rel="external noopener nofollow" class="target-chapter external">Appendix G</a> to determine the change in entropy for each of the reactions listed in <a href="http://cnx.org/contents/cd4f93bf-b332-4b76-92eb-eae29a3100b8@3#fs-idm195989408" target="_blank" rel="external noopener nofollow" class="autogenerated-content external">[link]</a>. All are run under standard state conditions and 25 &deg;C.</p>
+
+<section class="exercises">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.3.8_2"></span><h3 id="Q16.3.8-44122">Q16.3.8</h3>
+
+<p>2.86 J/K; 24.8 J/K; &minus;113.2 J/K; &minus;24.7 J/K; 15.5 J/K; 290.0 J/K</p>
+
+
+<section class="exercises">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="16.4:_Free_Energy"></span><h2 id="16.4:_Free_Energy-44122">16.4: Free Energy</h2>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.1"></span><h3 id="Q16.4.1-44122">Q16.4.1</h3>
+
+<p>What is the difference between &Delta;<em>G</em>, &Delta;<em>G</em>&deg;, and \(&Delta;G^\circ_{298}\) for a chemical change?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.2"></span><h3 id="Q16.4.2-44122">Q16.4.2</h3>
+
+<p>A reactions has \(&Delta;H^\circ_{298}\) = 100 kJ/mol and \(&Delta;S^\circ_{298}=\textrm{250 J/mol&sdot;K}\). Is the reaction spontaneous at room temperature? If not, under what temperature conditions will it become spontaneous?</p>
+
+<div class="ui-toggle-wrapper">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.2"></span><h3 id="S16.4.2-44122"><span class="mt-color-c0392b">S16.4.2</span></h3>
+
+<p>The reaction is nonspontaneous at room temperature. Above 400 K, &Delta;<em>G</em> will become negative, and the reaction will become spontaneous.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.3"></span><h3 id="Q16.4.3-44122">Q16.4.3</h3>
+
+<p>Explain what happens as a reaction starts with &Delta;<em>G</em> &lt; 0 (negative) and reaches the point where &Delta;<em>G</em> = 0.</p>
+
+<p>Use the standard free energy of formation data in <a href="http://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6@9.110:143" target="_blank" rel="external noopener nofollow" class="target-chapter external">Appendix G</a> to determine the free energy change for each of the following reactions, which are run under standard state conditions and 25 &deg;C. Identify each as either spontaneous or nonspontaneous at these conditions.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>\(\ce{MnO2}(s)&#10230;\ce{Mn}(s)+\ce{O2}(g)\)</li>
+    <li>\(\ce{H2}(g)+\ce{Br2}(l)&#10230;\ce{2HBr}(g)\)</li>
+    <li>\(\ce{Cu}(s)+\ce{S}(g)&#10230;\ce{CuS}(s)\)</li>
+    <li>\(\ce{2LiOH}(s)+\ce{CO2}(g)&#10230;\ce{Li2CO3}(s)+\ce{H2O}(g)\)</li>
+    <li>\(\ce{CH4}(g)+\ce{O2}(g)&#10230;\ce{C}(s,\,\ce{graphite})+\ce{2H2O}(g)\)</li>
+    <li>\(\ce{CS2}(g)+\ce{3Cl2}(g)&#10230;\ce{CCl4}(g)+\ce{S2Cl2}(g)\)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.3"></span><h3 id="S16.4.3-44122">S16.4.3</h3>
+
+<p>465.1 kJ nonspontaneous; &minus;106.86 kJ spontaneous; &minus;53.6 kJ spontaneous; &minus;83.4 kJ spontaneous; &minus;406.7 kJ spontaneous; &minus;30.0 kJ spontaneous</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.4"></span><h3 id="Q16.4.4-44122">Q16.4.4</h3>
+
+<p>Use the standard free energy data in <a href="http://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6@9.110:143" target="_blank" rel="external noopener nofollow" class="target-chapter external">Appendix G</a> to determine the free energy change for each of the following reactions, which are run under standard state conditions and 25 &deg;C. Identify each as either spontaneous or nonspontaneous at these conditions.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>\(\ce{C}(s,\, \ce{graphite})+\ce{O2}(g)&#10230;\ce{CO2}(g)\)</li>
+    <li>\(\ce{O2}(g)+\ce{N2}(g)&#10230;\ce{2NO}(g)\)</li>
+    <li>\(\ce{2Cu}(s)+\ce{S}(g)&#10230;\ce{Cu2S}(s)\)</li>
+    <li>\(\ce{CaO}(s)+\ce{H2O}(l)&#10230;\ce{Ca(OH)2}(s)\)</li>
+    <li>\(\ce{Fe2O3}(s)+\ce{3CO}(g)&#10230;\ce{2Fe}(s)+\ce{3CO2}(g)\)</li>
+    <li>\(\ce{CaSO4&sdot;2H2O}(s)&#10230;\ce{CaSO4}(s)+\ce{2H2O}(g)\)</li>
+</ol>
+
+<p>Given:</p>
+
+<p>\[\ce{P4}(s)+\ce{5O2}(g)&#10230;\ce{P4O10}(s) \hspace{20px} &Delta;G^\circ_{298}=\mathrm{&minus;2697.0\: kJ/mol}\]</p>
+
+<p>\[\ce{2H2}(g)+\ce{O2}(g)&#10230;\ce{2H2O}(g) \hspace{20px} &Delta;G^\circ_{298}=\mathrm{&minus;457.18\: kJ/mol}\]</p>
+
+<p>\[\ce{6H2O}(g)+\ce{P4O10}(g)&#10230;\ce{4H3PO4}(l) \hspace{20px} &Delta;G^\circ_{298}=\mathrm{&minus;428.66\: kJ/mol}\]</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.5"></span><h3 id="Q16.4.5-44122">Q16.4.5</h3>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>Determine the standard free energy of formation, \(&Delta;G^\circ_\ce{f}\), for phosphoric acid.</li>
+    <li>How does your calculated result compare to the value in <a href="http://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6@9.110:143" target="_blank" rel="external noopener nofollow" class="target-chapter external">Appendix G</a>? Explain.</li>
+</ol>
+
+<div class="ui-toggle-wrapper">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.5"></span><h3 id="S16.4.5-44122">S16.4.5</h3>
+
+<p>&minus;1124.3 kJ/mol for the standard free energy change. The calculation agrees with the value in <a href="http://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6@9.110:143" target="_blank" rel="external noopener nofollow" class="target-chapter external">Appendix G</a> because free energy is a state function (just like the enthalpy and entropy), so its change depends only on the initial and final states, not the path between them.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.6"></span><h3 id="Q16.4.6-44122">Q16.4.6</h3>
+
+<p>Is the formation of ozone (O<sub>3</sub>(<em>g</em>)) from oxygen (O<sub>2</sub>(<em>g</em>)) spontaneous at room temperature under standard state conditions?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.7"></span><h3 id="Q16.4.7-44122">Q16.4.7</h3>
+
+<p>Consider the decomposition of red mercury(II) oxide under standard state conditions.</p>
+
+<p class="mt-align-center">\[\ce{2HgO}(s,\,\ce{red})&#10230;\ce{2Hg}(l)+\ce{O2}(g)\]</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>Is the decomposition spontaneous under standard state conditions?</li>
+    <li>Above what temperature does the reaction become spontaneous?</li>
+</ol>
+
+<div class="ui-toggle-wrapper">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.7"></span><h3 id="S16.4.7-44122">S16.4.7</h3>
+
+<p>The reaction is nonspontaneous; Above 566 &deg;C the process is spontaneous.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.8"></span><h3 id="Q16.4.8-44122">Q16.4.8</h3>
+
+<p>Among other things, an ideal fuel for the control thrusters of a space vehicle should decompose in a spontaneous exothermic reaction when exposed to the appropriate catalyst. Evaluate the following substances under standard state conditions as suitable candidates for fuels.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>Ammonia: \(\ce{2NH3}(g)&#10230;\ce{N2}(g)+\ce{3H2}(g)\)</li>
+    <li>Diborane: \(\ce{B2H6}(g)&#10230;\ce{2B}(g)+\ce{3H2}(g)\)</li>
+    <li>Hydrazine: \(\ce{N2H4}(g)&#10230;\ce{N2}(g)+\ce{2H2}(g)\)</li>
+    <li>Hydrogen peroxide: \(\ce{H2O2}(l)&#10230;\ce{H2O}(g)+\dfrac{1}{2}\ce{O2}(g)\)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.9"></span><h3 id="Q16.4.9-44122">Q16.4.9</h3>
+
+<p>Calculate &Delta;<em>G</em>&deg; for each of the following reactions from the equilibrium constant at the temperature given.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>\(\ce{N2}(g)+\ce{O2}(g)&#10230;\ce{2NO}(g) \hspace{20px} \mathrm{T=2000\:&deg;C} \hspace{20px} K_p=4.1&times;10^{&minus;4}\)</li>
+    <li>\(\ce{H2}(g)+\ce{I2}(g)&#10230;\ce{2HI}(g) \hspace{20px} \mathrm{T=400\:&deg;C} \hspace{20px} K_p=50.0\)</li>
+    <li>\(\ce{CO2}(g)+\ce{H2}(g)&#10230;\ce{CO}(g)+\ce{H2O}(g) \hspace{20px} \mathrm{T=980\:&deg;C} \hspace{20px} K_p=1.67\)</li>
+    <li>\(\ce{CaCO3}(s)&#10230;\ce{CaO}(s)+\ce{CO2}(g) \hspace{20px} \mathrm{T=900\:&deg;C} \hspace{20px} K_p=1.04\)</li>
+    <li>\(\ce{HF}(aq)+\ce{H2O}(l)&#10230;\ce{H3O+}(aq)+\ce{F-}(aq) \hspace{20px} \mathrm{T=25\:&deg;C} \hspace{20px} K_p=7.2&times;10^{&minus;4}\)</li>
+    <li>\(\ce{AgBr}(s)&#10230;\ce{Ag+}(aq)+\ce{Br-}(aq) \hspace{20px} \mathrm{T=25\:&deg;C} \hspace{20px} K_p=3.3&times;10^{&minus;13}\)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.9"></span><h3 id="S16.4.9-44122">S16.4.9</h3>
+
+<p>1.5 &times; 10<sup>2</sup> kJ; &minus;21.9 kJ; &minus;5.34 kJ; &minus;0.383 kJ; 18 kJ; 71 kJ</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.10"></span><h3 id="Q16.4.10-44122">Q16.4.10</h3>
+
+<p>Calculate &Delta;<em>G</em>&deg; for each of the following reactions from the equilibrium constant at the temperature given.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>\(\ce{Cl2}(g)+\ce{Br2}(g)&#10230;\ce{2BrCl}(g) \hspace{20px} \mathrm{T=25\:&deg;C} \hspace{20px} K_p=4.7&times;10^{&minus;2}\)</li>
+    <li>\(\ce{2SO2}(g)+\ce{O2}(g)&#8652;\ce{2SO3}(g) \hspace{20px} \mathrm{T=500\:&deg;C} \hspace{20px} K_p=48.2\)</li>
+    <li>\(\ce{H2O}(l)&#8652;\ce{H2O}(g) \hspace{20px} \mathrm{T=60\:&deg;C} \hspace{20px} K_p=\mathrm{0.196\: atm}\)</li>
+    <li>\(\ce{CoO}(s)+\ce{CO}(g)&#8652;\ce{Co}(s)+\ce{CO2}(g) \hspace{20px} \mathrm{T=550\:&deg;C} \hspace{20px} K_p=4.90&times;10^2\)</li>
+    <li>\(\ce{CH3NH2}(aq)+\ce{H2O}(l)&#10230;\ce{CH3NH3+}(aq)+\ce{OH-}(aq) \hspace{20px} \mathrm{T=25\:&deg;C} \hspace{20px} K_p=4.4&times;10^{&minus;4}\)</li>
+    <li>\(\ce{PbI2}(s)&#10230;\ce{Pb^2+}(aq)+\ce{2I-}(aq) \hspace{20px} \mathrm{T=25\:&deg;C} \hspace{20px} K_p=8.7&times;10^{&minus;9}\)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.11"></span><h3 id="Q16.4.11-44122">Q16.4.11</h3>
+
+<p>Calculate the equilibrium constant at 25 &deg;C for each of the following reactions from the value of &Delta;<em>G</em>&deg; given.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>\(\ce{O2}(g)+\ce{2F2}(g)&#10230;\ce{2OF2}(g) \hspace{20px} &Delta;G&deg;=\mathrm{&minus;9.2\: kJ}\)</li>
+    <li>\(\ce{I2}(s)+\ce{Br2}(l)&#10230;\ce{2IBr}(g) \hspace{20px} &Delta;G&deg;=\mathrm{7.3\: kJ}\)</li>
+    <li>\(\ce{2LiOH}(s)+\ce{CO2}(g)&#10230;\ce{Li2CO3}(s)+\ce{H2O}(g) \hspace{20px} &Delta;G&deg;=\mathrm{&minus;79\: kJ}\)</li>
+    <li>\(\ce{N2O3}(g)&#10230;\ce{NO}(g)+\ce{NO2}(g) \hspace{20px} &Delta;G&deg;=\mathrm{&minus;1.6\: kJ}\)</li>
+    <li>\(\ce{SnCl4}(l)&#10230;\ce{SnCl4}(l) \hspace{20px} &Delta;G&deg;=\mathrm{8.0\: kJ}\)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.11"></span><h3 id="S16.4.11-44122">S16.4.11</h3>
+
+<p><em>K</em> = 41; <em>K</em> = 0.053; <em>K</em> = 6.9 &times; 10<sup>13</sup>; <em>K</em> = 1.9; <em>K</em> = 0.04</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.2_2"></span><h3 id="Q16.4.2-44122">Q16.4.2</h3>
+
+<p>Calculate the equilibrium constant at 25 &deg;C for each of the following reactions from the value of &Delta;<em>G</em>&deg; given.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>\(\ce{I2}(s)+\ce{Cl2}(g)&#10230;\ce{2ICl}(g) \hspace{20px} &Delta;G&deg;=\mathrm{&minus;10.88\: kJ}\)</li>
+    <li>\(\ce{H2}(g)+\ce{I2}(s)&#10230;\ce{2HI}(g) \hspace{20px} &Delta;G&deg;=\mathrm{3.4\: kJ}\)</li>
+    <li>\(\ce{CS2}(g)+\ce{3Cl2}(g)&#10230;\ce{CCl4}(g)+\ce{S2Cl2}(g) \hspace{20px} &Delta;G&deg;=\mathrm{&minus;39\: kJ}\)</li>
+    <li>\(\ce{2SO2}(g)+\ce{O2}(g)&#10230;\ce{2SO3}(g) \hspace{20px} &Delta;G&deg;=\mathrm{&minus;141.82\: kJ}\)</li>
+    <li>\(\ce{CS2}(g)&#10230;\ce{CS2}(l) \hspace{20px} &Delta;G&deg;=\mathrm{&minus;1.88\: kJ}\)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.13"></span><h3 id="Q16.4.13-44122">Q16.4.13</h3>
+
+<p>Calculate the equilibrium constant at the temperature given.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>(a) \(\ce{O2}(g)+\ce{2F2}(g)&#10230;\ce{2F2O}(g) \hspace{20px} \mathrm{(T=100\:&deg;C)}\)</li>
+    <li>\(\ce{I2}(s)+\ce{Br2}(l)&#10230;\ce{2IBr}(g) \hspace{20px} \mathrm{(T=0.0\:&deg;C)}\)</li>
+    <li>\(\ce{2LiOH}(s)+\ce{CO2}(g)&#10230;\ce{Li2CO3}(s)+\ce{H2O}(g) \hspace{20px} \mathrm{(T=575\:&deg;C)}\)</li>
+    <li>\(\ce{N2O3}(g)&#10230;\ce{NO}(g)+\ce{NO2}(g) \hspace{20px} \mathrm{(T=&minus;10.0\:&deg;C)}\)</li>
+    <li>\(\ce{SnCl4}(l)&#10230;\ce{SnCl4}(g) \hspace{20px} \mathrm{(T=200\:&deg;C)}\)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.13"></span><h3 id="S16.4.13-44122">S16.4.13</h3>
+
+<p>In each of the following, the value of &Delta;<em>G</em> is not given at the temperature of the reaction. Therefore, we must calculate &Delta;<em>G</em>&deg; from the values &Delta;<em>H</em>&deg; and &Delta;<em>S</em>&deg; and then calculate &Delta;<em>G</em> from the relation &Delta;G&deg; = &Delta;H&deg; &minus; T&Delta;S&deg;.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li><em>K</em> = 1.29</li>
+    <li><em>K</em> = 2.51 &times; 10<sup>&minus;3</sup></li>
+    <li><em>K</em> = 4.83 &times; 10<sup>3</sup></li>
+    <li><em>K</em> = 0.219</li>
+    <li><em>K</em> = 16.1</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.14"></span><h3 id="Q16.4.14-44122">Q16.4.14</h3>
+
+<p>Calculate the equilibrium constant at the temperature given.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>(a) \(\ce{I2}(s)+\ce{Cl2}(g)&#10230;\ce{2ICl}(g) \hspace{20px} \mathrm{(T=100\:&deg;C)}\)</li>
+    <li>\(\ce{H2}(g)+\ce{I2}(s)&#10230;\ce{2HI}(g) \hspace{20px} \mathrm{(T=0.0\:&deg;C)}\)</li>
+    <li>\(\ce{CS2}(g)+\ce{3Cl2}(g)&#10230;\ce{CCl4}(g)+\ce{S2Cl2}(g) \hspace{20px} \mathrm{(T=125\:&deg;C)}\)</li>
+    <li>\(\ce{2SO2}(g)+\ce{O2}(g)&#10230;\ce{2SO3}(g) \hspace{20px} \mathrm{(T=675\:&deg;C)}\)</li>
+    <li>\(\ce{CS2}(g)&#10230;\ce{CS2}(l) \hspace{20px} \mathrm{(T=90\:&deg;C)}\)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.15"></span><h3 id="Q16.4.15-44122">Q16.4.15</h3>
+
+<p>Consider the following reaction at 298 K:</p>
+
+<p class="mt-align-center">\[\ce{N2O4}(g)&#8652;\ce{2NO2}(g) \hspace{20px} K_P=0.142\]</p>
+
+<p>What is the standard free energy change at this temperature? Describe what happens to the initial system, where the reactants and products are in standard states, as it approaches equilibrium.</p>
+
+<div class="ui-toggle-wrapper">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.16"></span><h3 id="S16.4.16-44122">S16.4.16</h3>
+
+<p>The standard free energy change is \(&Delta;G^\circ_{298}=&minus;RT\ln K=\mathrm{4.84\: kJ/mol}\). When reactants and products are in their standard states (1 bar or 1 atm), <em>Q</em> = 1. As the reaction proceeds toward equilibrium, the reaction shifts left (the amount of products drops while the amount of reactants increases): <em>Q</em> &lt; 1, and \(&Delta;G_{298}\) becomes less positive as it approaches zero. At equilibrium, <em>Q</em> = <em>K</em>, and &Delta;<em>G</em> = 0.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.17"></span><h3 id="Q16.4.17-44122">Q16.4.17</h3>
+
+<p>Determine the normal boiling point (in kelvin) of dichloroethane, CH<sub>2</sub>Cl<sub>2</sub>. Find the actual boiling point using the Internet or some other source, and calculate the percent error in the temperature. Explain the differences, if any, between the two values.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.18"></span><h3 id="Q16.4.18-44122">Q16.4.18</h3>
+
+<p>Under what conditions is \(\ce{N2O3}(g)&#10230;\ce{NO}(g)+\ce{NO2}(g)\) spontaneous?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.18"></span><h3 id="S16.4.18-44122">S16.4.18</h3>
+
+<p>The reaction will be spontaneous at temperatures greater than 287 K.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.19"></span><h3 id="Q16.4.19-44122">Q16.4.19</h3>
+
+<p>At room temperature, the equilibrium constant (<em>K<sub>w</sub></em>) for the self-ionization of water is 1.00 &times; 10<sup>&minus;14</sup>. Using this information, calculate the standard free energy change for the aqueous reaction of hydrogen ion with hydroxide ion to produce water. (Hint: The reaction is the reverse of the self-ionization reaction.)</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.20"></span><h3 id="Q16.4.20-44122">Q16.4.20</h3>
+
+<p>Hydrogen sulfide is a pollutant found in natural gas. Following its removal, it is converted to sulfur by the reaction \(\ce{2H2S}(g)+\ce{SO2}(g)&#8652;\dfrac{3}{8}\ce{S8}(s,\,\ce{rhombic})+\ce{2H2O}(l)\). What is the equilibrium constant for this reaction? Is the reaction endothermic or exothermic?</p>
+
+<div class="ui-toggle-wrapper">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.20"></span><h3 id="S16.4.20-44122">S16.4.20</h3>
+
+<p><em>K</em> = 5.35 &times; 10<sup>15</sup></p>
+
+<p>The process is exothermic.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.21"></span><h3 id="Q16.4.21-44122">Q16.4.21</h3>
+
+<p>Consider the decomposition of CaCO<sub>3</sub>(<em>s</em>) into CaO(<em>s</em>) and CO<sub>2</sub>(<em>g</em>). What is the equilibrium partial pressure of CO<sub>2</sub> at room temperature?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.22"></span><h3 id="Q16.4.22-44122">Q16.4.22</h3>
+
+<p>In the laboratory, hydrogen chloride (HCl(<em>g</em>)) and ammonia (NH<sub>3</sub>(<em>g</em>)) often escape from bottles of their solutions and react to form the ammonium chloride (NH<sub>4</sub>Cl(<em>s</em>)), the white glaze often seen on glassware. Assuming that the number of moles of each gas that escapes into the room is the same, what is the maximum partial pressure of HCl and NH<sub>3</sub> in the laboratory at room temperature? (Hint: The partial pressures will be equal and are at their maximum value when at equilibrium.)</p>
+
+<div class="ui-toggle-wrapper">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.22"></span><h3 id="S16.4.22-44122">S16.4.22</h3>
+
+<p>1.0 &times; 10<sup>&minus;8</sup> atm. This is the maximum pressure of the gases under the stated conditions.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.23"></span><h3 id="Q16.4.23-44122">Q16.4.23</h3>
+
+<p>Benzene can be prepared from acetylene. \(\ce{3C2H2}(g)&#8652;\ce{C6H6}(g)\). Determine the equilibrium constant at 25 &deg;C and at 850 &deg;C. Is the reaction spontaneous at either of these temperatures? Why is all acetylene not found as benzene?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.24"></span><h3 id="Q16.4.24-44122">Q16.4.24</h3>
+
+<p>Carbon dioxide decomposes into CO and O<sub>2</sub> at elevated temperatures. What is the equilibrium partial pressure of oxygen in a sample at 1000 &deg;C for which the initial pressure of CO<sub>2</sub> was 1.15 atm?</p>
+
+<p class="mt-align-center">\[x=\mathrm{1.29&times;10^{&minus;5}\:atm}=P_{\ce{O2}}\]</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.25"></span><h3 id="Q16.4.25-44122">Q16.4.25</h3>
+
+<p>Carbon tetrachloride, an important industrial solvent, is prepared by the chlorination of methane at 850 K.</p>
+
+<p class="mt-align-center">\[\ce{CH4}(g)+\ce{4Cl2}(g)&#10230;\ce{CCl4}(g)+\ce{4HCl}(g)\]</p>
+
+<p>What is the equilibrium constant for the reaction at 850 K? Would the reaction vessel need to be heated or cooled to keep the temperature of the reaction constant?</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.25B"></span><h3 id="Q16.4.25B-44122">Q16.4.25B</h3>
+
+<p>Acetic acid, CH<sub>3</sub>CO<sub>2</sub>H, can form a dimer, (CH<sub>3</sub>CO<sub>2</sub>H)<sub>2</sub>, in the gas phase.</p>
+
+<p class="mt-align-center">\[\ce{2CH3CO2H}(g)&#10230;\ce{(CH3CO2H)2}(g)\]</p>
+
+<p>The dimer is held together by two hydrogen bonds with a total strength of 66.5 kJ per mole of dimer.</p>
+
+<p class="mt-align-center"><span><img alt="This Lewis structure shows a six-sided ring structure composed of a methyl group single bonded to a carbon, which is double bonded to an oxygen atom in an upward position and single bonded to an oxygen atom in a downward position. The lower oxygen is single bonded to a hydrogen, which is connected by a dotted line to an oxygen that is double bonded to a carbon in an upward position. This carbon is single bonded to a methyl group to its right and to an oxygen in the upward position that is single bonded to a hydrogen that is connected by a dotted line to the double bonded oxygen on the left." class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/126420/CNX_Chem_16_04_aceticdimr_img.jpg?revision=1" /> </span></p>
+
+<p>At 25 &deg;C, the equilibrium constant for the dimerization is 1.3 &times; 10<sup>3</sup> (pressure in atm). What is &Delta;<em>S</em>&deg; for the reaction?</p>
+
+<div class="ui-toggle-wrapper">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.25B"></span><h3 id="S16.4.25B-44122">S16.4.25B</h3>
+
+<p>&minus;0.16 kJ</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.26"></span><h3 id="Q16.4.26-44122">Q16.4.26</h3>
+
+<p>Nitric acid, HNO<sub>3</sub>, can be prepared by the following sequence of reactions:</p>
+
+<p class="mt-align-center">\[\ce{4NH3}(g)+\ce{5O2}(g)&#10230;\ce{4NO}(g)+\ce{6H2O}(g)\]</p>
+
+<p class="mt-align-center">\[\ce{2NO}(g)+\ce{O2}(g)&#10230;\ce{2NO2}(g)\]</p>
+
+<p class="mt-align-center">\[\ce{3NO2}(g)+\ce{H2O}(l)&#10230;\ce{2HNO3}(l)+\ce{NO}(g)\]</p>
+
+<p>How much heat is evolved when 1 mol of NH<sub>3</sub>(<em>g</em>) is converted to HNO<sub>3</sub>(<em>l</em>)? Assume standard states at 25 &deg;C.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.27A"></span><h3 id="Q16.4.27A-44122">Q16.4.27A</h3>
+
+<p>Determine &Delta;<em>G</em> for the following reactions.</p>
+
+<p>(a) Antimony pentachloride decomposes at 448 &deg;C. The reaction is:</p>
+
+<p class="mt-align-center">\[\ce{SbCl5}(g)&#10230;\ce{SbCl3}(g)+\ce{Cl2}(g)\]</p>
+
+<p>An equilibrium mixture in a 5.00 L flask at 448 &deg;C contains 3.85 g of SbCl<sub>5</sub>, 9.14 g of SbCl<sub>3</sub>, and 2.84 g of Cl<sub>2</sub>.</p>
+
+<p>Chlorine molecules dissociate according to this reaction:</p>
+
+<p class="mt-align-center">\[\ce{Cl2}(g)&#10230;\ce{2Cl}(g)\]</p>
+
+<p>1.00% of Cl<sub>2</sub> molecules dissociate at 975 K and a pressure of 1.00 atm.</p>
+
+<div class="ui-toggle-wrapper">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.27A"></span><h3 id="S16.4.27A-44122">S16.4.27A</h3>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>(a) &minus;22.1 kJ;</li>
+    <li>61.6 kJ/mol</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.27"></span><h3 id="Q16.4.27-44122">Q16.4.27</h3>
+
+<p>Given that the \(&Delta;G^\circ_\ce{f}\) for Pb<sup>2+</sup>(<em>aq</em>) and Cl<sup>&minus;</sup>(<em>aq</em>) is &minus;24.3 kJ/mole and &minus;131.2 kJ/mole respectively, determine the solubility product, <em>K</em><sub>sp</sub>, for PbCl<sub>2</sub>(<em>s</em>).</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.28"></span><h3 id="Q16.4.28-44122">Q16.4.28</h3>
+
+<p>Determine the standard free energy change, \(&Delta;G^\circ_\ce{f}\), for the formation of S<sup>2&minus;</sup>(<em>aq</em>) given that the \(&Delta;G^\circ_\ce{f}\) for Ag<sup>+</sup>(<em>aq</em>) and Ag<sub>2</sub>S(<em>s</em>) are 77.1 k/mole and &minus;39.5 kJ/mole respectively, and the solubility product for Ag<sub>2</sub>S(<em>s</em>) is 8 &times; 10<sup>&minus;51</sup>.</p>
+
+<div class="ui-toggle-wrapper">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.28"></span><h3 id="S16.4.28-44122">S16.4.28</h3>
+
+<p>90 kJ/mol</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.29"></span><h3 id="Q16.4.29-44122">Q16.4.29</h3>
+
+<p>Determine the standard enthalpy change, entropy change, and free energy change for the conversion of diamond to graphite. Discuss the spontaneity of the conversion with respect to the enthalpy and entropy changes. Explain why diamond spontaneously changing into graphite is not observed.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.30"></span><h3 id="Q16.4.30-44122">Q16.4.30</h3>
+
+<p>The evaporation of one mole of water at 298 K has a standard free energy change of 8.58 kJ.</p>
+
+<p class="mt-align-center">\[\ce{H2O}(l)&#8652;\ce{H2O}(g) \hspace{20px} &Delta;G^\circ_{298}=\mathrm{8.58\: kJ}\]</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>(a) Is the evaporation of water under standard thermodynamic conditions spontaneous?</li>
+    <li>Determine the equilibrium constant, <em>K<sub>P</sub></em>, for this physical process.</li>
+    <li>By calculating &#8710;<em>G</em>, determine if the evaporation of water at 298 K is spontaneous when the partial pressure of water, \(P_{\ce{H2O}}\), is 0.011 atm.</li>
+    <li>If the evaporation of water were always nonspontaneous at room temperature, wet laundry would never dry when placed outside. In order for laundry to dry, what must be the value of \(P_{\ce{H2O}}\) in the air?</li>
+</ol>
+
+<div class="ui-toggle-wrapper">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.30"></span><h3 id="S16.4.30-44122">S16.4.30</h3>
+
+<p>(a) Under standard thermodynamic conditions, the evaporation is nonspontaneous; <em>K<sub>p</sub></em> = 0.031; The evaporation of water is spontaneous; \(P_{\ce{H2O}}\) must always be less than <em>K<sub>p</sub></em> or less than 0.031 atm. 0.031 atm represents air saturated with water vapor at 25 &deg;C, or 100% humidity.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.31"></span><h3 id="Q16.4.31-44122">Q16.4.31</h3>
+
+<p>In glycolysis, the reaction of glucose (Glu) to form glucose-6-phosphate (G6P) requires ATP to be present as described by the following equation:</p>
+
+<p class="mt-align-center">\[\mathrm{Glu + ATP &#10230; G6P + ADP} \hspace{20px} &Delta;G^\circ_{298}=\mathrm{&minus;17\: kJ}\]</p>
+
+<p>In this process, ATP becomes ADP summarized by the following equation:</p>
+
+<p class="mt-align-center">\[\mathrm{ATP&#10230;ADP} \hspace{20px} &Delta;G^\circ_{298}=\mathrm{&minus;30\: kJ}\]</p>
+
+<p>Determine the standard free energy change for the following reaction, and explain why ATP is necessary to drive this process:</p>
+
+<p class="mt-align-center">\[\mathrm{Glu&#10230;G6P} \hspace{20px} &Delta;G^\circ_{298}=\:?\]</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.32"></span><h3 id="Q16.4.32-44122">Q16.4.32</h3>
+
+<p>One of the important reactions in the biochemical pathway glycolysis is the reaction of glucose-6-phosphate (G6P) to form fructose-6-phosphate (F6P):</p>
+
+<p class="mt-align-center">\[\mathrm{G6P&#8652;F6P} \hspace{20px} &Delta;G^\circ_{298}=\mathrm{1.7\: kJ}\]</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>(a) Is the reaction spontaneous or nonspontaneous under standard thermodynamic conditions?</li>
+    <li>Standard thermodynamic conditions imply the concentrations of G6P and F6P to be 1 <em>M</em>, however, in a typical cell, they are not even close to these values. Calculate &Delta;<em>G</em> when the concentrations of G6P and F6P are 120 &mu;<em>M</em> and 28 &mu;<em>M</em> respectively, and discuss the spontaneity of the forward reaction under these conditions. Assume the temperature is 37 &deg;C.</li>
+</ol>
+
+<div class="ui-toggle-wrapper">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.32"></span><h3 id="S16.4.32-44122">S16.4.32</h3>
+
+<p>(a) Nonspontaneous as \(&Delta;G^\circ_{298}&gt;0\); \(&Delta;G^\circ_{298}=&minus;RT\ln K,\)  \(&Delta;G = 1.7&times;10^3 + \left(8.314 &times; 335 &times; \ln\dfrac{28}{128}\right) = \mathrm{&minus;2.5\: kJ}\). The forward reaction to produce F6P is spontaneous under these conditions.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.33"></span><h3 id="Q16.4.33-44122">Q16.4.33</h3>
+
+<p>Without doing a numerical calculation, determine which of the following will reduce the free energy change for the reaction, that is, make it less positive or more negative, when the temperature is increased. Explain.</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>(a) \(\ce{N2}(g)+\ce{3H2}(g)&#10230;\ce{2NH3}(g)\)</li>
+    <li>\(\ce{HCl}(g)+\ce{NH3}(g)&#10230;\ce{NH4Cl}(s)\)</li>
+    <li>\(\ce{(NH4)2Cr2O7}(s)&#10230;\ce{Cr2O3}(s)+\ce{4H2O}(g)+\ce{N2}(g)\)</li>
+    <li>\(\ce{2Fe}(s)+\ce{3O2}(g)&#10230;\ce{Fe2O3}(s)\)</li>
+</ol>
+
+<p>When ammonium chloride is added to water and stirred, it dissolves spontaneously and the resulting solution feels cold. Without doing any calculations, deduce the signs of &Delta;<em>G</em>, &Delta;<em>H</em>, and &Delta;<em>S</em> for this process, and justify your choices.</p>
+
+<div class="ui-toggle-wrapper">
+<div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.33"></span><h3 id="S16.4.33-44122">S16.4.33</h3>
+
+<p>&Delta;<em>G</em> is negative as the process is spontaneous. &Delta;<em>H</em> is positive as with the solution becoming cold, the dissolving must be endothermic. &Delta;<em>S</em> must be positive as this drives the process, and it is expected for the dissolution of any soluble ionic compound.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.34"></span><h3 id="Q16.4.34-44122">Q16.4.34</h3>
+
+<p>An important source of copper is from the copper ore, chalcocite, a form of copper(I) sulfide. When heated, the Cu<sub>2</sub>S decomposes to form copper and sulfur described by the following equation:</p>
+
+<p class="mt-align-center">\[\ce{Cu2S}(s)&#10230;\ce{Cu}(s)+\ce{S}(s)\]</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>(a) Determine \(&Delta;G^\circ_{298}\) for the decomposition of Cu<sub>2</sub>S(<em>s</em>).</li>
+    <li>The reaction of sulfur with oxygen yields sulfur dioxide as the only product. Write an equation that describes this reaction, and determine \(&Delta;G^\circ_{298}\) for the process.</li>
+    <li>The production of copper from chalcocite is performed by roasting the Cu<sub>2</sub>S in air to produce the Cu. By combining the equations from Parts (a) and (b), write the equation that describes the roasting of the chalcocite, and explain why coupling these reactions together makes for a more efficient process for the production of the copper.</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="Q16.4.35"></span><h3 id="Q16.4.35-44122">Q16.4.35</h3>
+
+<p>What happens to \(&Delta;G^\circ_{298}\) (becomes more negative or more positive) for the following chemical reactions when the partial pressure of oxygen is increased?</p>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>(a) \(\ce{S}(s)+\ce{O2}(g)&#10230;\ce{SO2}(g)\)</li>
+    <li>\(\ce{2SO2}(g)+\ce{O2}(g)&#10230;\ce{SO3}(g)\)</li>
+    <li>\(\ce{HgO}(s)&#10230;\ce{Hg}(l)+\ce{O2}(g)\)</li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Exercises:_General_Chemistry/Exercises:_OpenStax/16.E:_Thermodynamics_(Exercises)" class="mt-section"><span id="S16.4.35"></span><h3 id="S16.4.35-44122">S16.4.35</h3>
+
+<ol start="1" style="list-style-type: lower-alpha;">
+    <li>(a) Increasing \(P_{\ce{O2}}\) will shift the equilibrium toward the products, which increases the value of <em>K</em>. \(&Delta;G^\circ_{298}\) therefore becomes more negative.</li>
+    <li>Increasing \(P_{\ce{O2}}\) will shift the equilibrium toward the products, which increases the value of <em>K</em>. \(&Delta;G^\circ_{298}\) therefore becomes more negative.</li>
+    <li>Increasing \(P_{\ce{O2}}\) will shift the equilibrium the reactants, which decreases the value of <em>K</em>. \(&Delta;G^\circ_{298}\) therefore becomes more positive.</li>
+</ol>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div></section>
+
+</div></section>
+</div></section>
+
+</div></section>
+</div></div></div>
+</div>
+
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><style>/*<![CDATA[*/
+.mt-content-container{counter-reset: h2}
+  h2 {counter-reset: h3}
+  h3 {counter-reset: h4}
+  h4 {counter-reset: h5}
+
+  h2:before {counter-increment: h2; content: "16.E." counter(h2) ": "}
+  h3:before {counter-increment: h3; content: "16.E." counter(h2) "." counter(h3) ": "}
+  h4:before {counter-increment: h4; content: "16.E." counter(h2) "." counter(h3) "." counter(h4) ": "}
+
+  h2.nocount:before, h3.nocount:before, h4.nocount:before { content: ""; counter-increment: none }
+
+  .NoAuto::before {
+    content:none !important;
+  }
+/*]]>*/</style>
+<script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "16.E: Thermodynamics (Exercises)";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p>This page titled <a target="_blank" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/16%3A_Thermodynamics/16.E%3A_Thermodynamics_(Exercises)" rel="internal" class="internal">16.E: Thermodynamics (Exercises)</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by/4.0" target="_blank">CC BY  4.0</a>  license and was authored, remixed, and/or curated by <a rel="nofollow" target="_blank" href="https://openstax.org/">OpenStax</a> via <a rel="nofollow" href="https://openstax.org/details/books/chemistry-2e" target="_blank">source content</a> that was edited to the style and standards of the LibreTexts platform.</p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/16%3A_Thermodynamics/16.04%3A_Gibbs_Energy" title="16.4: Gibbs Energy"><span>16.4: Gibbs Energy</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/17%3A_Electrochemistry" title="17: Electrochemistry"><span>17: Electrochemistry</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="8" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-authorname-openstax" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Author</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=authorname%3Aopenstax" data-ga-label="Classification">OpenStax</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-autonumheader-title with colon delimiters" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Autonumber Section Headings</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=autonumheader%3Ayes2" data-ga-label="Classification">title with colon delimiters</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accby" data-ga-label="Classification">CC BY</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-4.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A40" data-ga-label="Classification">4.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-author-tag:openstax" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=Author+tag%3AOpenStax" data-ga-label="Free tag"> Author tag:OpenStax</a></li>
+                <li class="mt-tag-link mt-tag-source@https://openstax.org/details/books/chemistry-2e" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=source%40https%3A%2F%2Fopenstax.org%2Fdetails%2Fbooks%2Fchemistry-2e" data-ga-label="Free tag"> source@https://openstax.org/details/books/chemistry-2e</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="8ff4b5082efddee13eec882e237edf08523cd5be46bc95f3bef2598c9c5d9529" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
