@@ -221,7 +221,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/18%3A_Aqueous_Ionic_Equilibrium
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/19%3A_Free_Energy_and_Thermodynamics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/20%3A_Electrochemistry
@@ -9717,3 +9716,14 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_P
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/16%3A_Chemical_Equilibrium/16.06%3A_The_Reaction_Quotient-_Predicting_the_Direction_of_Change
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/16%3A_Chemical_Equilibrium/16.07%3A_Finding_Equilibrium_Concentrations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/16%3A_Chemical_Equilibrium/16.08%3A_Le_Chateliers_Principle-_How_a_System_at_Equilibrium_Responds_to_Disturbances
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases/17.01%3A_Batmans_Basic_Blunder
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases/17.02%3A_The_Nature_of_Acids_and_Bases
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases/17.03%3A_Definitions_of_Acids_and_Bases
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases/17.04%3A_Acid_Strength_and_Molecular_Structure
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases/17.05%3A_Acid_Strength_and_the_Acid_Ionization_Constant_(Ka)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases/17.06%3A_Autoionization_of_Water_and_pH
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases/17.07%3A_Finding_the_H3O_and_pH_of_Strong_and_Weak_Acid_Solutions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases/17.08%3A_Finding_the_OH-_and_pH_of_Strong_and_Weak_Base_Solutions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases/17.09%3A_The_Acid-Base_Properties_of_Ions_and_Salts
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases/17.10%3A_Polyprotic_Acids
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases/17.11%3A_Lewis_Acids_and_Bases
