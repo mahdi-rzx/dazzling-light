@@ -131,7 +131,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/01%3A_Fundamental_1_-_Measurable_Properties
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/19%3A_Transition_Metals_and_Coordination_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/20%3A_Organic_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/21%3A_Nuclear_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/22%3A_Appendices
@@ -8344,3 +8343,7 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/18%3A_Representative_Metals_Metalloids_and_Nonmetals/18.11%3A_Occurrence_Preparation_and_Properties_of_Halogens
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/18%3A_Representative_Metals_Metalloids_and_Nonmetals/18.12%3A_Occurrence_Preparation_and_Properties_of_the_Noble_Gases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/18%3A_Representative_Metals_Metalloids_and_Nonmetals/18.E%3A_Representative_Metals_Metalloids_and_Nonmetals_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/19%3A_Transition_Metals_and_Coordination_Chemistry/19.01%3A_Properties_of_Transition_Metals_and_Their_Compounds
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/19%3A_Transition_Metals_and_Coordination_Chemistry/19.02%3A_Coordination_Chemistry_of_Transition_Metals
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/19%3A_Transition_Metals_and_Coordination_Chemistry/19.03%3A_Optical_and_Magnetic_Properties_of_Coordination_Compounds
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/19%3A_Transition_Metals_and_Coordination_Chemistry/19.E%3A_Transition_Metals_and_Coordination_Chemistry_(Exercises)
