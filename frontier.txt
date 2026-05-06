@@ -248,7 +248,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_C
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/21%3A_The_Chemistry_of_the_Main_Group_Elements
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/23%3A__Carbon%3A__Not_Just_Another_Element
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/24%3A__Biochemistry
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./22.E%3A_Chemistry_of_the_Nonmetals_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./22.E%3A_Chemistry_of_the_Nonmetals_(Exercises)/Alkali_Alkali_Earth_and_Noble_Gases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./23.E%3A_Metals_and_Metallurgy_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./25.E%3A_Organic_and_Biological_Chemistry_(Exercises)
@@ -10101,3 +10100,14 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/21%3A_Nuclear_Chemistry/21.02%3A_Patterns_of_Nuclear_Stability
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/21%3A_Nuclear_Chemistry/21.03%3A_Nuclear_Transmutations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/21%3A_Nuclear_Chemistry/21.04%3A_Rates_of_Radioactive_Decay
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/22%3A_Chemistry_of_the_Nonmetals/22.01%3A_General_Concepts-_Periodic_Trends_and_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/22%3A_Chemistry_of_the_Nonmetals/22.02%3A_Hydrogen
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/22%3A_Chemistry_of_the_Nonmetals/22.03%3A_Group_18-_Noble_Gases
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/22%3A_Chemistry_of_the_Nonmetals/22.04%3A_Group_17-_The_Halogens
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/22%3A_Chemistry_of_the_Nonmetals/22.05%3A_Oxygen
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/22%3A_Chemistry_of_the_Nonmetals/22.06%3A_The_Other_Group_16_Elements-_S_Se_Te_and_Po
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/22%3A_Chemistry_of_the_Nonmetals/22.07%3A_Nitrogen
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/22%3A_Chemistry_of_the_Nonmetals/22.08%3A_The_Other_Group_15_Elements-_P_AS_Sb_and_Bi
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/22%3A_Chemistry_of_the_Nonmetals/22.09%3A_Carbon
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/22%3A_Chemistry_of_the_Nonmetals/22.10%3A_The_Other_Group_14_Elements-_Si_Ge_Sn_and_Pb
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/22%3A_Chemistry_of_the_Nonmetals/22.11%3A_Boron
