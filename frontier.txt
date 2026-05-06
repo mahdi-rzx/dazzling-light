@@ -157,7 +157,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/23%3A_Chemistry_of_Coordination_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/24%3A_Chemistry_of_Life-_Organic_and_Biological_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/02%3A_Atoms_and_Elements
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/04%3A_Chemical_Reactions_and_Aqueous_Reactions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases
@@ -8748,3 +8747,12 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_App
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/01%3A_Matter_Measurement_and_Problem_Solving/1.07%3A_The_Reliability_of_a_Measurement
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/01%3A_Matter_Measurement_and_Problem_Solving/1.08%3A_Solving_Chemical_Problems
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/01%3A_Matter_Measurement_and_Problem_Solving/1.E%3A_Matter_Measurement_and_Problem_Solving_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/02%3A_Atoms_and_Elements/2.02%3A_Early_Ideas_about_the_Building_Blocks_of_Matter
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/02%3A_Atoms_and_Elements/2.03%3A_Modern_Atomic_Theory_and_the_Laws_That_Led_to_It
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/02%3A_Atoms_and_Elements/2.04%3A_The_Discovery_of_the_Electron
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/02%3A_Atoms_and_Elements/2.05%3A_The_Structure_of_The_Atom
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/02%3A_Atoms_and_Elements/2.06%3A_Protons_Neutrons_and_Electrons_in_Atoms
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/02%3A_Atoms_and_Elements/2.07%3A_Finding_Patterns_-_The_Periodic_Law_and_the_Periodic_Table
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/02%3A_Atoms_and_Elements/2.08%3A_The_Average_Mass_of_an_Elements_Atoms
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/02%3A_Atoms_and_Elements/2.09%3A_Molar_Mass_-_Counting_Atoms_by_Weighing_Them
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/02%3A_Atoms_and_Elements/2.E%3A_Atoms_and_Elements_(Exercises)
