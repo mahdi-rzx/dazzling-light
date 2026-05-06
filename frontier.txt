@@ -131,7 +131,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/01%3A_Fundamental_1_-_Measurable_Properties
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/14%3A_Acid-Base_Equilibria
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/15%3A_Equilibria_of_Other_Reaction_Classes
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/16%3A_Electrochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/17%3A_Kinetics
@@ -8704,3 +8703,15 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_Firs
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/13%3A_Fundamental_Equilibrium_Concepts/13.07%3A_Key_Equations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/13%3A_Fundamental_Equilibrium_Concepts/13.08%3A_Summary
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/13%3A_Fundamental_Equilibrium_Concepts/13.09%3A_Exercises
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/14%3A_Acid-Base_Equilibria/14.01%3A_Introduction
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/14%3A_Acid-Base_Equilibria/14.02%3A_Brnsted-Lowry_Acids_and_Bases
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/14%3A_Acid-Base_Equilibria/14.03%3A_pH_and_pOH
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/14%3A_Acid-Base_Equilibria/14.04%3A_Relative_Strengths_of_Acids_and_Bases
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/14%3A_Acid-Base_Equilibria/14.05%3A_Hydrolysis_of_Salt
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/14%3A_Acid-Base_Equilibria/14.06%3A_Polyprotic_Acids
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/14%3A_Acid-Base_Equilibria/14.07%3A_Buffers
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/14%3A_Acid-Base_Equilibria/14.08%3A_Acid-Base_Titrations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/14%3A_Acid-Base_Equilibria/14.09%3A_Key_Terms
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/14%3A_Acid-Base_Equilibria/14.10%3A_Key_Equations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/14%3A_Acid-Base_Equilibria/14.11%3A_Summary
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/14%3A_Acid-Base_Equilibria/14.12%3A_Exercises
