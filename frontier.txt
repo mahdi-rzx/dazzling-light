@@ -587,7 +587,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_M
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/05%3A_Dioxygen_Reactions/5.01%3A_Catalase_and_Peroxidase
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/01%3A_Introduction_-_The_Ambit_of_Chemistry/1.09%3A_Density
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/06%3A_Chemical_Bonding_-_Electron_Pairs_and_Octets/6.13%3A_The_Covalent_Bond
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/20%3A_Electrochemistry/20.02%3A_Balancing_Oxidation-Reduction_Equations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/20%3A_Electrochemistry/20.08%3A_Electrolysis-_Driving_Non-spontaneous_Chemical_Reactions_with_Electricity
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Arenes/Reactivity_of_Arenes/Halogenation_of_Benzene_and_Methylbenzene
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/23%3A_Transition_Metals_and_Coordination_Compounds/23.02%3A_Properties_of_Transition_Metals
@@ -1660,3 +1659,4 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_(Zumd
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_(Zumdahl_and_Decoste)/8%3A_Equilibria_in_Aqueous_Solutions/16.7_The_Dependence_of_Free_Energy_on_Pressure
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/18%3A_Aqueous_Ionic_Equilibrium/18.03%3A_Buffer_Effectiveness-_Buffer_Capacity_and_Buffer_Range
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/18%3A_Aqueous_Ionic_Equilibrium/18.05%3A_Solubility_Equilibria_and_the_Solubility_Product_Constant
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/20%3A_Electrochemistry/20.03%3A_Voltaic_(or_Galvanic)_Cells-_Generating_Electricity_from_Spontaneous_Chemical_Reactions
