@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/3.3_Nomenclature_of_Inorganic_Compounds
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/3%3A_Molecules_Molecular_Formula_Calculations_and_Nomenclature
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/4%3A_Balancing_Reactions_Limiting_Reactant_Problems_and_Determining_Net_Ionic_Equations
@@ -9372,3 +9371,15 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.7_Calculating_Gibbs_Free_Energy_(Grxn)_for_a_Reaction_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.8_Calculating_the_Temperature_at_Which_a_Reaction_Becomes_Spontaneous_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.9_Calculating_Grxn_using_Gf_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.10_Conversions_Between_Grams_Mol_and_Atoms_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.11_Periodic_Law_in_the_Periodic_Table_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.12_Different_Groups_in_the_Periodic_Table
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.13_Predicting_the_Charge_of_Atoms_Using_the_Periodic_Table_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.1_Fundamental_Experiments_in_Chemistry_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.2_The_Nuclear_Atom_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.3_How_Elements_Are_Represented_on_the_Periodic_Table_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.4_Ions_of_Atoms_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.5_Isotopes_of_Elements_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.6_Determining_the_Number_of_Electrons_Protons_and_Neutrons_in_an_Atom_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.7_Mass_Numbers_and_Atomic_Mass_of_Elements_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.8_Finding_the_Averaged_Atomic_Weight_of_an_Element_(Video)
