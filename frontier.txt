@@ -253,7 +253,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/13%3A_Properties_of_Solutions/13.06%3A_Colloids
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/13%3A_Mass_Spectrometry_Infrared_Spectroscopy_and_Ultraviolet_Visible_Spectroscopy/13.21%3A_Some_Uses_of_UV
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/13%3A_Mass_Spectrometry_Infrared_Spectroscopy_and_Ultraviolet_Visible_Spectroscopy/13.21%3A_Some_Uses_of_UV/13.21.01%3A_Some_Uses_of_UV
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/20%3A_More_About_Oxidation-Reduction_Reactions/20.06%3A_Designing_a_Synthesis_VIII-_Controlling_Stereochemistry
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/20%3A_More_About_Oxidation-Reduction_Reactions/20.07%3A_Oxidation_of_Alkenes_to_12_Diols
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/20%3A_More_About_Oxidation-Reduction_Reactions/20.08%3A_Oxidative_Cleavage_of_12_Diols
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/20%3A_More_About_Oxidation-Reduction_Reactions/20.09%3A_Oxidative_Cleavage_of_Alkenes
@@ -9145,3 +9144,5 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Equilibria/Solubilty/Common_Ion_Effect
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Spectroscopy/Magnetic_Resonance_Spectroscopies/Nuclear_Magnetic_Resonance/NMR_-_Theory
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Fundamentals/Hybrid_Orbitals
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Equilibria/Le_Chateliers_Principle/The_Contact_Process
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Acids_and_Bases/Monoprotic_Versus_Polyprotic_Acids_And_Bases/Polyprotic_Acids
