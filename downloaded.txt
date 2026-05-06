@@ -4720,3 +4720,4 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/05%3A_The_Distribution_of_Data/5.03%3A_The_Central_Limit_Theorem
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/05%3A_The_Distribution_of_Data/5.04%3A_Modeling_Distributions_Using_R
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/05%3A_The_Distribution_of_Data/5.05%3A_Exercises
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/06%3A_Uncertainty_of_Data/6.01%3A_Properties_of_a_Normal_Distribution
