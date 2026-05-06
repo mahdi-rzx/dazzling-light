@@ -4760,3 +4760,4 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/12%3A_Appendices/12.01%3A_Single-Sided_Normal_Distribution
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/12%3A_Appendices/12.02%3A_Critical_Values_for_t-Test
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/12%3A_Appendices/12.03%3A_Critical_Values_for_F-Test
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/12%3A_Appendices/12.04%3A_Critical_Values_for_Dixon's_Q-Test
