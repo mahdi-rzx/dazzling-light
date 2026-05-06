@@ -157,7 +157,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/23%3A_Chemistry_of_Coordination_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/24%3A_Chemistry_of_Life-_Organic_and_Biological_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/zz%3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/04%3A_Chemical_Reactions_and_Aqueous_Reactions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/05%3A_Gases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/06%3A_Thermochemistry
@@ -8756,3 +8755,15 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_App
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/02%3A_Atoms_and_Elements/2.08%3A_The_Average_Mass_of_an_Elements_Atoms
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/02%3A_Atoms_and_Elements/2.09%3A_Molar_Mass_-_Counting_Atoms_by_Weighing_Them
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/02%3A_Atoms_and_Elements/2.E%3A_Atoms_and_Elements_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations/3.01%3A_Hydrogen_Oxygen_and_Water
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations/3.02%3A_Chemical_Bonds
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations/3.03%3A_Representing_Compounds-_Chemical_Formulas_and_Molecular_Models
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations/3.04%3A_An_Atomic-Level_Perspective_of_Elements_and_Compounds
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations/3.05%3A_Ionic_Compounds-_Formulas_and_Names
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations/3.06%3A_Molecular_Compounds-_Formulas_and_Names
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations/3.07%3A_Summary_of_Inorganic_Nomenclature
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations/3.08%3A_Composition_of_Compounds
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations/3.09%3A_Determining_a_Chemical_Formula_from_Experimental_Data
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations/3.10%3A_Writing_and_Balancing_Chemical_Equations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations/3.11%3A_Organic_Compounds
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/03%3A_Molecules_Compounds_and_Chemical_Equations/3.E%3A_Molecules_Compounds_and_Chemical_Equations_(Exercises)
