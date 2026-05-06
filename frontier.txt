@@ -221,7 +221,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/19%3A_Electrochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/20%3A_Periodic_Trends_and_the_s-Block_Elements
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/21%3A_The_p-Block_Elements
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/22%3A_The_d-Block_Elements
@@ -9886,3 +9885,11 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemis
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics/18.06%3A_Spontaneity_and_Equilibrium
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics/18.07%3A_Comparing_Thermodynamics_and_Kinetics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics/18.08%3A_Thermodynamics_and_Life
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/19%3A_Electrochemistry/19.01%3A_Introduction
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/19%3A_Electrochemistry/19.02%3A_Describing_Electrochemical_Cells
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/19%3A_Electrochemistry/19.03%3A_Standard_Potentials
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/19%3A_Electrochemistry/19.04%3A_Comparing_Strengths_of_Oxidants_and_Reductants
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/19%3A_Electrochemistry/19.05%3A_Electrochemical_Cells_and_Thermodynamics
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/19%3A_Electrochemistry/19.06%3A_Commercial_Galvanic_Cells
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/19%3A_Electrochemistry/19.07%3A_Corrosion
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/19%3A_Electrochemistry/19.08%3A_Electrolysis
