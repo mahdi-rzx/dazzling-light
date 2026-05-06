@@ -183,7 +183,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/22%3A_Metals
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Thermodynamics_of_Chemical_Equilibria
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/17%3A_Chemical_Kinetics_and_Dynamics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/zz%3A_Back_Matter
@@ -9007,3 +9006,11 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/14%3A_Th
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/14%3A_Thermochemistry/14.04%3A_Thermochemistry_and_Calorimetry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/14%3A_Thermochemistry/14.06%3A_Applications_of_Thermochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/14%3A_Thermochemistry/14.0E%3A_14.E%3A_Thermochemistry_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Thermodynamics_of_Chemical_Equilibria/15.01%3A_Energy_Spreading_Drives_Spontaneous_Change
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Thermodynamics_of_Chemical_Equilibria/15.02%3A_Entropy_Rules
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Thermodynamics_of_Chemical_Equilibria/15.03%3A_The_Second_Law_of_Thermodynamics
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Thermodynamics_of_Chemical_Equilibria/15.04%3A_Free_Energy_and_the_Gibbs_Function
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Thermodynamics_of_Chemical_Equilibria/15.05%3A_Thermodynamics_of_Mixing_and_Dilution
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Thermodynamics_of_Chemical_Equilibria/15.06%3A_Free_energy_and_Equilibrium
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Thermodynamics_of_Chemical_Equilibria/15.07%3A_Some_Applications_of_Entropy_and_Free_Energy
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Thermodynamics_of_Chemical_Equilibria/15.08%3A_Quantum_states_Microstates_and_Energy_spreading_in_Reactions
