@@ -1,0 +1,3593 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="10.4: The Combined Gas Law"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/10%3A_Gases/10.04%3A_The_Combined_Gas_Law"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content=""/>
+        <meta property="article:published_time" content="2021-09-03T04:29:37Z"/>
+        <meta property="article:modified_time" content="2022-07-04T22:32:50Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="10.4: The Combined Gas Law"/>
+        <meta name="twitter:description" content=""/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content=""/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/10%3A_Gases/10.04%3A_The_Combined_Gas_Law"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4">{"@context":"http:\/\/schema.org","@type":"Article","name":"10.4: The Combined Gas Law","url":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/10%3A_Gases\/10.04%3A_The_Combined_Gas_Law","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2021-09-03T04:29:37Z","dateModified":"2022-07-04T22:32:50Z","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/349460\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/10%3A_Gases\/10.04%3A_The_Combined_Gas_Law"},"headline":"10.4: The Combined Gas Law","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"10.4: The Combined Gas Law","url":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/10%3A_Gases\/10.04%3A_The_Combined_Gas_Law","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/10%3A_Gases"]}</script>
+        <script type="application/ld+json" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry","name":"General Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)","name":"Map: General Chemistry: Principles, Patterns, and Applications (Averill)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/10%3A_Gases","name":"10: Gases"}}]}</script>
+
+        <title>10.4: The Combined Gas Law - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+@media print {
+     
+
+.mt-content-container .mt-responsive-table, .mt-content-container table {
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 1rem !important;
+}
+
+.mt-content-container .mt-responsive-table caption, .mt-content-container table caption { 
+    display: table-caption;
+    text-align: center;
+    font-size: 90%;
+    padding: 0 0 0.2rem 0;
+}
+
+.mt-content-container .mt-responsive-table th, .mt-content-container table th {
+  font-size: inherit;
+  vertical-align: middle;
+  border-bottom: 1px solid #E8E8E8;
+  margin: inherit;
+  padding: 0.4em !important;
+}
+
+.mt-content-container .mt-responsive-table tr, .mt-content-container table tr {
+  page-break-inside:avoid; 
+  page-break-after:auto;
+  margin: inherit;
+  font-size: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+  border-bottom: 1px solid #E8E8E8;
+}
+    
+.mt-content-container .mt-responsive-table td, .mt-content-container table td {
+  border: 1px solid #E8E8E8;
+  page-break-inside: avoid !important;
+  page-break-before: avoid;
+  margin: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+}
+
+.mt-content-container table ol, 
+.mt-content-container table ul,
+.mt-content-container table p,
+.mt-content-container table ol,
+.mt-content-container table ul,
+.mt-content-container table p {
+    font-size: inherit;
+    margin: inherit;
+}
+
+mjx-container svg path,
+mjx-container svg use {
+  stroke: none !important;
+  stroke-width: 0 !important;
+}
+    
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":349460,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"10.4: The Combined Gas Law","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"6","pageSectionEditable":false,"pageTitle":"Bookshelves\/General Chemistry\/Book: General Chemistry: Principles Patterns and Applications (Averill)\/10: Gases\/10.04: The Combined Gas Law","pageViewId":"0b9196ef-fb41-4c04-a055-6c49b66a4291","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"OWI2MWE1ZGQtZGQ2Ni00NDhiLWE4ZTctYWY3OTYyMjEwNzQ4fDIwMjYtMDUtMDZUMTc6MzU6MDU=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778088906_7cd9ef71c8f87b6aa8e4374d2ebfbc27af454eb47857cba92b608c2356c98223","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-generalchemistry-book%3Ageneralchemistry%3Aprinciplespatternsandapplications%28averill%29-10%3Agases-10.04%3Athecombinedgaslaw columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">10: Gases</div><div style="display:none" id="parentParentTitleHolder">Map: General Chemistry: Principles, Patterns, and Applications (Averill)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;10.01:_Gaseous_Elements_and_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10.02:_Gas_Pressure&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10.03:_The_Ideal_Gas_Law&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10.04:_The_Combined_Gas_Law&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10.05:_Gas_Mixtures&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10.06:_Stoichiometry_Involving_Gases&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10.07:_The_Kinetic_Theory_of_Gases&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10.08:_Real_Gases&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10.09:_Essential_Skills_5&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_Introduction_to_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_Molecules_Ions_and_Chemical_Formulas&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_Chemical_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:_Reactions_in_Aqueous_Solution&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05:_Energy_Changes_in_Chemical_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06:_The_Structure_of_Atoms&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07:_The_Periodic_Table_and_Periodic_Trends&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08:_Ionic_versus_Covalent_Bonding&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09:_Molecular_Geometry_and_Covalent_Bonding_Models&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10:_Gases&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;11:_Fluids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12:_Solids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Solutions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_Chemical_Kinetics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Chemical_Equilibrium&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Aqueous_AcidBase_Equilibriums&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;17:_Solubility_and_Complexation_Equilibria&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;18:_Chemical_Thermodynamics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19:_Electrochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20:_Periodic_Trends_and_the_s-Block_Elements&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21:_The_p-Block_Elements&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;22:_The_d-Block_Elements&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23:_Organic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;24:_Nuclear_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Mon, 04 Jul 2022 22:32:50 GMT</div><div style="display:none" id="titleHolder">10.4: The Combined Gas Law</div><div style="display:none" id="IDHolder">349460</div><div style="display:none" id="pageIDHolder">349460</div><div style="display:none" id="pageAuthorHolder">admin</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;hypothesis:yes&quot;, &quot;showtoc:yes&quot;, &quot;license:ccbyncsa&quot;, &quot;authorname:anonymous&quot;, &quot;source[1]-chem-21866&quot;, &quot;licenseversion:30&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;hypothesis:yes&quot;, &quot;showtoc:yes&quot;, &quot;license:ccbyncsa&quot;, &quot;authorname:anonymous&quot;, &quot;source[1]-chem-21866&quot;, &quot;licenseversion:30&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FGeneral_Chemistry%2FBook%253A_General_Chemistry%253A_Principles_Patterns_and_Applications_(Averill)%2F10%253A_Gases%2F10.04%253A_The_Combined_Gas_Law</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FGeneral_Chemistry%2FBook%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_%28Averill%29%2F10%3A_Gases%2F10.04%3A_The_Combined_Gas_Law" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FGeneral_Chemistry%2FBook%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_%28Averill%29%2F10%3A_Gases%2F10.04%3A_The_Combined_Gas_Law" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/General_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    General Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Map: General Chemistry: Principles, Patterns, and Applications (Averill)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/10%3A_Gases" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    10: Gases
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            10.4: The Combined Gas Law
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        10.4: The Combined Gas Law
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2022-07-04T22:32:50Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/349460/pdf/10.4%253A%2bThe%2bCombined%2bGas%2bLaw.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>349460</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+<div class="mt-author-container"><ul><li class="mt-author-image mt-author-image-crop"><img src="https://math.libretexts.org/@api/deki/files/77648/mini_logo.png" alt=" " title="Anonymous" /></li><li class="mt-author-information">Anonymous</li><li class="mt-author-companyname"><span>LibreTexts</span></li></ul></div>
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Learning_Objectives" rel="internal">Learning Objectives</a></li><li><a href="#Example_10.4.1" rel="internal">Example 10.4.1</a></li><li><a href="#Example_10.4.2" rel="internal">Example 10.4.2</a></li><li><a href="#Example_10.4.3" rel="internal">Example 10.4.3</a></li><li><a href="#The_Relationship_between_Pressure_and_Volume" rel="internal">The Relationship between Pressure and Volume</a><ol><li><a href="#Robert_Boyle_(1627.E2.80.931691)" rel="internal">Robert Boyle (1627&ndash;1691)</a></li></ol></li><li><a href="#The_Relationship_between_Temperature_and_Volume" rel="internal">The Relationship between Temperature and Volume</a><ol><li><a href="#Jacques_Alexandre_C.C3.A9sar_Charles_(1746.E2.80.931823)_and_Joseph-Louis_Gay-Lussac_(1778.E2.80.931850)" rel="internal">Jacques Alexandre C&eacute;sar Charles (1746&ndash;1823) and Joseph-Louis Gay-Lussac (1778&ndash;1850)</a></li></ol></li><li><a href="#The_Relationship_between_Amount_and_Volume" rel="internal">The Relationship between Amount and Volume</a><ol><li><a href="#Summary" rel="internal">Summary</a></li><li><a href="#Key_Takeaway" rel="internal">Key Takeaway</a></li><li><a href="#Conceptual_Problems" rel="internal">Conceptual Problems</a></li><li><a href="#Answer" rel="internal">Answer</a></li><li><a href="#Numerical_Problems" rel="internal">Numerical Problems</a></li><li><a href="#Answer_2" rel="internal">Answer</a></li><li><a href="#Contributors" rel="internal">Contributors</a></li></ol></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <p class="lt-chem-349460"></p>
+
+<div class="box-objectives"><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="Learning_Objectives"></span><h5 class="box-legend lt-chem-349460 editable"><span class="lt-icon-default">Learning Objectives</span></h5>
+
+<ul>
+    <li class="lt-chem-349460">To understand the relationships among pressure, temperature, volume, and the amount of a gas.</li>
+</ul>
+</div></div>
+
+<div id="book-content">
+<div class="section" lang="en">
+<p class="para lt-chem-349460">We often encounter cases where two of the variables <em>P</em>, <em>V</em>, n and <em>T</em> are allowed to vary for a given sample of gas, and we are interested in the change in the value of the third under the new conditions. If we rearrange the ideal gas law so that <em>P</em>, <em>V</em>, and <em>T</em>, the quantities that change, are on one side and the constant terms (<em>R</em> and <em>n</em> for a given sample of gas) are on the other, we obtain</p>
+
+<p class="lt-chem-349460">
+</p><p class="mt-align-center lt-chem-349460">\( \dfrac{PV}{T}=nR = constant \tag{10.4.1} \)</p>
+
+
+<p class="para lt-chem-349460">Thus the quantity <em>PV</em>/n<em>T</em> is constant</p>
+
+<p class="lt-chem-349460">
+</p><p class="title editable lt-chem-349460">\( \dfrac{P_{1}V_{1}}{n_{1}T_{1}}= \dfrac{P_{2}V_{2}}{n_{2}T_{2}} \tag{10.4.2} \)</p>
+
+
+<p class="para lt-chem-349460">In many of these problems one considers the changes in a sample of gas where the number of moles does not change. In such a case one can write the relationship as</p>
+
+<p class="lt-chem-349460">
+</p><p class="title editable lt-chem-349460">\( \dfrac{P_{1}V_{1}}{T_{1}}= \dfrac{P_{2}V_{2}}{T_{2}} \tag{10.4.3} \)</p>
+
+
+<p class="para lt-chem-349460">If two of the parameters specifying the thermodynamic state of the gas sample are held constant, one recovers simple proportional relationships among the other two which were experimentally observed centuries ago by</p>
+
+<p class="para lt-chem-349460"><em><strong>Robert Boyle</strong></em></p>
+
+<p class="para lt-chem-349460">\( V \propto \frac{1}{P} \left ( at \;constant\; n,\; V \right ) \tag{10.4.4} \)</p>
+
+<p class="para lt-chem-349460">expresses the idea that at constant composition (e.g. the number of moles of gas) and temperature the product PV is a constant.</p>
+
+<p class="para lt-chem-349460"><strong><em>Jacques Charles and Joseph-Louis</em> <em>Gay-Lussac</em></strong></p>
+
+<p class="para lt-chem-349460">\( V \propto T \left (at \;constant\; n, P \right ) \tag{10.4.5} \)</p>
+
+<p class="para lt-chem-349460">expresses the idea that at constant composition (e.g. the number of moles of gas) and pressure the ratio V/T is a constant. Using Boyle's law this also can be written as P/T being constant</p>
+
+<p class="para lt-chem-349460"><strong><em>Amedeo Avogadro</em></strong></p>
+
+<p class="para lt-chem-349460">\( V \propto n \left (at \;constant\; T, P \right ) \tag{10.4.6} \)</p>
+
+<p class="para lt-chem-349460">In its original formulation, Avogadro's law stated that equal volumes of gas at constant temperature and pressure held the same number of molecules</p>
+
+<p class="para lt-chem-349460">Brief descriptions of these scientists work are found at the end of this section.</p>
+
+<div class="exercises block">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="Example_10.4.1"></span><h3 class="lt-chem-349460 editable">Example 10.4.1</h3>
+
+<p class="para lt-chem-349460">Charles originally observed the change of volume with temperature in balloon ascents and descents that he made. Suppose that Charles had changed his plans and carried out his initial flight not in August but on a cold day in January, when the temperature at ground level was &minus;10&deg;C. How large a balloon would he have needed to contain the same amount of hydrogen gas at the same pressure as in Example 5?</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Given: </strong>temperature, pressure, amount, and volume in August; temperature in January</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Asked for: </strong>volume in January</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Strategy:</strong></p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">A</strong> Use the results from Example 5 for August as the initial conditions and then calculate the <em>change in volume</em> due to the change in temperature from 86&deg;F to 14&deg;F. Begin by constructing a table showing the initial and final conditions.</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">B</strong> Rearrange the ideal gas law to isolate those quantities that differ between the initial and final states on one side of the equation, in this case <em>V</em> and <em>T</em>.</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">C</strong> Equate the ratios of those terms that change for the two sets of conditions. Making sure to use the appropriate units, insert the quantities and solve for the unknown parameter.</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Solution:</strong></p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">A</strong> To see exactly which parameters have changed and which are constant, prepare a table of the initial and final conditions:</p>
+
+<div class="informaltable">
+<table class="mt-responsive-table" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <th align="center"> </th>
+            <th align="center">August (initial)</th>
+            <th align="center">January (final)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="lt-chem-349460"><em>T</em></td>
+            <td data-th="August (initial)" class="lt-chem-349460">30&deg;C = 303 K</td>
+            <td data-th="January (final)" class="lt-chem-349460">&minus;10&deg;C = 263 K</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-349460"><em>P</em></td>
+            <td data-th="August (initial)" class="lt-chem-349460">0.980 atm</td>
+            <td data-th="January (final)" class="lt-chem-349460">0.980 atm</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-349460"><em>n</em></td>
+            <td data-th="August (initial)" class="lt-chem-349460">1.23 &times; 10<sup>3</sup> mol H<sub>2</sub></td>
+            <td data-th="January (final)" class="lt-chem-349460">1.23 &times; 10<sup>3</sup> mol H<sub>2</sub></td>
+        </tr>
+        <tr>
+            <td class="lt-chem-349460"><em>V</em></td>
+            <td data-th="August (initial)" class="lt-chem-349460">31,150 L</td>
+            <td data-th="January (final)" class="lt-chem-349460">?</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<p class="para lt-chem-349460">Thus we are asked to calculate the effect of a change in temperature on the volume of a fixed amount of gas at constant pressure.</p>
+
+<p class="lt-chem-349460"><strong>B </strong>Both \(n\) and \(P\) are the same in both cases&#8203; (\(n_i=n_f,P_i=P_f\)). Therefore, Equation 10.4.3 can be simplified to:</p>
+
+<p class="lt-chem-349460">\[\dfrac{V_i}{T_i}=\dfrac{V_f}{T_f \notag }\]</p>
+
+<p class="lt-chem-349460">This is the relationship first noted by Charles.</p>
+
+<p class="lt-chem-349460"><strong>C</strong> &#8203;Solving the equation for \(V_f\), we get:</p>
+
+<p class="lt-chem-349460">\[V_f=V_i\times\dfrac{T_f}{T_i}=\rm31150\;L\times\dfrac{263\;K}{303\;K}=2.70\times10^4\;L \notag \]</p>
+
+<p class="lt-chem-349460">It is important to check your answer to be sure that it makes sense, just in case you have accidentally inverted a quantity or multiplied rather than divided. In this case, the temperature of the gas decreases. Because we know that gas volume decreases with decreasing temperature, the final volume must be less than the initial volume, so the answer makes sense. We could have calculated the new volume by plugging all the given numbers into the ideal gas law, but it is generally much easier and faster to focus on only the quantities that change.</p>
+
+<p class="para lt-chem-349460">It is important to check your answer to be sure that it makes sense, just in case you have accidentally inverted a quantity or multiplied rather than divided. In this case, the temperature of the gas decreases. Because we know that gas volume decreases with decreasing temperature, the final volume <em>must</em> be less than the initial volume, so the answer makes sense. We could have calculated the new volume by plugging all the given numbers into the ideal gas law, but it is generally much easier and faster to focus on only the quantities that change.</p>
+
+<p class="simpara lt-chem-349460">Exercise</p>
+
+<p class="para lt-chem-349460">At a laboratory party, a helium-filled balloon with a volume of 2.00 L at 22&deg;C is dropped into a large container of liquid nitrogen (<em>T</em> = &minus;196&deg;C). What is the final volume of the gas in the balloon?</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Answer: </strong>0.52 L</p>
+</div></div>
+
+<p class="para lt-chem-349460">Example 8 illustrates the relationship originally observed by Charles. We could work through similar examples illustrating the inverse relationship between pressure and volume noted by Boyle (<em>PV</em> = constant) and the relationship between volume and amount observed by Avogadro (<em>V</em>/<em>n</em> = constant). We will not do so for all cases, however, because it is more important to note that the historically important gas laws are only special cases of the ideal gas law in which two quantities are varied while the other two remain fixed. The method used in Example 8 can be applied in <em>any</em> such case, as we demonstrate in Example 9 (which also shows why heating a closed container of a gas, such as a butane lighter cartridge or an aerosol can, may cause an explosion).</p>
+
+<div class="exercises block">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="Example_10.4.2"></span><h3 class="lt-chem-349460 editable">Example 10.4.2</h3>
+
+<p class="para lt-chem-349460">Aerosol cans are prominently labeled with a warning such as &ldquo;Do not incinerate this container when empty.&rdquo; Assume that you did not notice this warning and tossed the &ldquo;empty&rdquo; aerosol can in Exercise 5 (0.025 mol in 0.406 L, initially at 25&deg;C and 1.5 atm internal pressure) into a fire at 750&deg;C. What would be the pressure inside the can (if it did not explode)?</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Given: </strong>initial volume, amount, temperature, and pressure; final temperature</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Asked for: </strong>final pressure</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Strategy:</strong></p>
+
+<p class="para lt-chem-349460">Follow the strategy outlined in Example 8.</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Solution:</strong></p>
+
+<p class="para lt-chem-349460">Prepare a table to determine which parameters change and which are held constant:</p>
+
+<div class="informaltable">
+<table class="mt-responsive-table" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <th align="center"> </th>
+            <th align="center">Initial</th>
+            <th align="center">Final</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="lt-chem-349460"><em>V</em></td>
+            <td data-th="Initial" class="lt-chem-349460">0.406 L</td>
+            <td data-th="Final" class="lt-chem-349460">0.406 L</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-349460"><em>n</em></td>
+            <td data-th="Initial" class="lt-chem-349460">0.025 mol</td>
+            <td data-th="Final" class="lt-chem-349460">0.025 mol</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-349460"><em>T</em></td>
+            <td data-th="Initial" class="lt-chem-349460">25&deg;C = 298 K</td>
+            <td data-th="Final" class="lt-chem-349460">750&deg;C = 1023 K</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-349460"><em>P</em></td>
+            <td data-th="Initial" class="lt-chem-349460">1.5 atm</td>
+            <td data-th="Final" class="lt-chem-349460">?</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<p class="para lt-chem-349460">Once again, two parameters are constant while one is varied, and we are asked to calculate the fourth. As before, we begin with the ideal gas law and rearrange it as necessary to get all the constant quantities on one side. In this case, because <em>V</em> and <em>n</em> are constant, we rearrange to obtain</p>
+
+<p class="mt-align-center lt-chem-349460">\( P=\left ( \dfrac{nR}{V} \right )\left ( T \right )= constant \times T \)</p>
+
+<p class="para lt-chem-349460">Dividing both sides by <em>T</em>, we obtain an equation analogous to the one in Example 6, <em>P</em>/<em>T</em> = <em>nR</em>/<em>V</em> = constant. Thus the ratio of <em>P</em> to <em>T</em> does not change if the amount and volume of a gas are held constant. We can thus write the relationship between any two sets of values of <em>P</em> and <em>T</em> for the same sample of gas at the same volume as</p>
+
+<p class="mt-align-center lt-chem-349460">\( \dfrac{P_{i}}{T_{i}}=\dfrac{P_{f}}{T_{f}} \notag \)</p>
+
+<p class="para lt-chem-349460">In this example, <em>P</em><sub>i</sub> = 1.5 atm, <em>T</em><sub>i</sub> = 298 K, and <em>T</em><sub>f</sub> = 1023 K, and we are asked to find <em>P</em><sub>f</sub>. Solving for <em>P</em><sub>f</sub> and substituting the appropriate values, we obtain</p>
+
+<p class="mt-align-center lt-chem-349460">\[P_f=P_i\times\dfrac{T_f}{T_i}=\rm1.5\;atm\times\dfrac{1023\;K}{298\;K}=5.1\;atm \notag \]</p>
+
+<p class="para lt-chem-349460">This pressure is more than enough to rupture a thin sheet metal container and cause an explosion!</p>
+
+<p class="simpara lt-chem-349460">Exercise</p>
+
+<p class="para lt-chem-349460">Suppose that a fire extinguisher, filled with CO<sub>2</sub> to a pressure of 20.0 atm at 21&deg;C at the factory, is accidentally left in the sun in a closed automobile in Tucson, Arizona, in July. The interior temperature of the car rises to 160&deg;F (71.1&deg;C). What is the internal pressure in the fire extinguisher?</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Answer: </strong>23.4 atm</p>
+</div></div>
+
+<div class="exercises block">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="Example_10.4.3"></span><h3 class="lt-chem-349460 editable">Example 10.4.3</h3>
+
+<p class="para lt-chem-349460">We saw in Example 5 that Charles used a balloon with a volume of 31,150 L for his initial ascent and that the balloon contained 1.23 &times; 10<sup>3</sup> mol of H<sub>2</sub> gas initially at 30&deg;C and 745 mmHg. Suppose that Gay-Lussac had also used this balloon for his record-breaking ascent to 23,000 ft and that the pressure and temperature at that altitude were 312 mmHg and &minus;30&deg;C, respectively. To what volume would the balloon have had to expand to hold the same amount of hydrogen gas at the higher altitude?</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Given: </strong>initial pressure, temperature, amount, and volume; final pressure and temperature</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Asked for: </strong>final volume</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Strategy:</strong></p>
+
+<p class="para lt-chem-349460">Follow the strategy outlined in Example 6.</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Solution:</strong></p>
+
+<p class="para lt-chem-349460">Begin by setting up a table of the two sets of conditions:</p>
+
+<div class="informaltable">
+<table class="mt-responsive-table" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <th align="center"> </th>
+            <th align="center">Initial</th>
+            <th align="center">Final</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="lt-chem-349460"><em>P</em></td>
+            <td data-th="Initial" class="lt-chem-349460">745 mmHg = 0.980 atm</td>
+            <td data-th="Final" class="lt-chem-349460">312 mmHg = 0.411 atm</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-349460"><em>T</em></td>
+            <td data-th="Initial" class="lt-chem-349460">30&deg;C = 303 K</td>
+            <td data-th="Final" class="lt-chem-349460">&minus;30&deg;C = 243 K</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-349460"><em>n</em></td>
+            <td data-th="Initial" class="lt-chem-349460">1.23 &times; 10<sup>3</sup> mol H<sub>2</sub></td>
+            <td data-th="Final" class="lt-chem-349460">1.23 &times; 10<sup>3</sup> mol H<sub>2</sub></td>
+        </tr>
+        <tr>
+            <td class="lt-chem-349460"><em>V</em></td>
+            <td data-th="Initial" class="lt-chem-349460">31,150 L</td>
+            <td data-th="Final" class="lt-chem-349460">?</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<p class="para lt-chem-349460">Thus all the quantities except <em>V</em><sub>2</sub> are known. Solving <a href="https://chem.libretexts.org/Courses/Howard_University/General_Chemistry%3A_An_Atoms_First_Approach/Unit_4%3A__Thermochemistry/Chapter_10%3A_Gases/Chapter_10.4%3A_The_Combined_Gas_Law#averill_1.0-ch10_s04_s02_eq02" rel="internal">Equation 10.4.3</a> for <em>V</em><sub>2</sub> and substituting the appropriate values give</p>
+
+<p class="mt-align-center lt-chem-349460">\[V_f=V_i\times\dfrac{P_i}{P_f}\dfrac{T_f}{T_i}=\rm3.115\times10^4\;L\times\dfrac{0.980\; \cancel{atm}}{0.411\;\cancel{atm}}\dfrac{243\;\cancel{K}}{303\;\cancel{K}}=5.96\times10^4\;L \notag \]</p>
+
+<p class="para lt-chem-349460">Does this answer make sense? Two opposing factors are at work in this problem: decreasing the pressure tends to <em>increase</em> the volume of the gas, while decreasing the temperature tends to <em>decrease</em> the volume of the gas. Which do we expect to predominate? The pressure drops by more than a factor of two, while the absolute temperature drops by only about 20%. Because the volume of a gas sample is directly proportional to both <em>T</em> and 1/<em>P</em>, the variable that changes the most will have the greatest effect on <em>V</em>. In this case, the effect of decreasing pressure predominates, and we expect the volume of the gas to increase, as we found in our calculation.</p>
+
+<p class="para lt-chem-349460">We could also have solved this problem by solving the ideal gas law for <em>V</em> and then substituting the relevant parameters for an altitude of 23,000 ft:</p>
+
+<p class="mt-align-center lt-chem-349460">\( V=\dfrac{nRT}{P}= \dfrac{\left ( 1.23\times 10^{3}\; \cancel{mol}\left [ 0.082057 \; \left ( L\cdot \cancel{atm} \right )/\left ( \cancel{K} \cdot \cancel{mol} \right ) \right ]\left ( 243 \; \cancel{K} \right ) \right )}{0.411 \; \cancel{atm}} = 5.97\times 10^{4} L \)</p>
+
+<p class="para lt-chem-349460">Except for a difference caused by rounding to the last significant figure, this is the same result we obtained previously. <em>There is often more than one &ldquo;right&rdquo; way to solve chemical problems.</em></p>
+
+<p class="simpara lt-chem-349460">Exercise</p>
+
+<p class="para lt-chem-349460">A steel cylinder of compressed argon with a volume of 0.400 L was filled to a pressure of 145 atm at 10&deg;C. At 1.00 atm pressure and 25&deg;C, how many 15.0 mL incandescent light bulbs could be filled from this cylinder? (Hint: find the number of moles of argon in each container.)</p>
+
+<p class="para lt-chem-349460"><strong class="emphasis bold">Answer: </strong>4.07 &times; 10<sup>3</sup></p>
+</div></div>
+
+<div class="section" id="averill_1.0-ch10_s03_s01">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="The_Relationship_between_Pressure_and_Volume"></span><h2 class="lt-chem-349460 editable">The Relationship between Pressure and Volume</h2>
+
+<p class="para lt-chem-349460" id="averill_1.0-ch10_s03_s01_p01">As the pressure on a gas increases, the volume of the gas decreases because the gas particles are forced closer together. Conversely, as the pressure on a gas decreases, the gas volume increases because the gas particles can now move farther apart. Weather balloons get larger as they rise through the atmosphere to regions of lower pressure because the volume of the gas has increased; that is, the atmospheric gas exerts less pressure on the surface of the balloon, so the interior gas expands until the internal and external pressures are equal.</p>
+
+<div class="callout" id="averill_1.0-ch10_s03_s01_n01">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="Robert_Boyle_(1627.E2.80.931691)"></span><h3 class="lt-chem-349460 editable">Robert Boyle (1627&ndash;1691)</h3>
+
+<p class="para lt-chem-349460" id="averill_1.0-ch10_s03_s01_p02">Boyle, the youngest (and 14th!) child of the Earl of Cork, was an important early figure in chemistry whose views were often at odds with accepted wisdom. Boyle&rsquo;s studies of gases are reported to have utilized a very tall J-tube that he set up in the entryway of his house, which was several stories tall. He is known for the gas law that bears his name and for his book, <em>The Sceptical Chymist</em>, which was published in 1661 and influenced chemists for many years after his death. In addition, one of Boyle&rsquo;s early essays on morals is said to have inspired Jonathan Swift to write <em>Gulliver&rsquo;s Travels</em>.</p>
+</div></div>
+
+<p class="para lt-chem-349460" id="averill_1.0-ch10_s03_s01_p03">The Irish chemist Robert Boyle (1627&ndash;1691) carried out some of the earliest experiments that determined the quantitative relationship between the pressure and the volume of a gas. Boyle used a J-shaped tube partially filled with mercury, as shown in <a href="https://chem.libretexts.org/Courses/Howard_University/General_Chemistry%3A_An_Atoms_First_Approach/Unit_4%3A__Thermochemistry/Chapter_10%3A_Gases/Chapter_10.4%3A_The_Combined_Gas_Law#averill_1.0-ch10_s03_s01_f01" rel="internal">Figure 10.4.1</a>. In these experiments, a small amount of a gas or air is trapped above the mercury column, and its volume is measured at atmospheric pressure and constant temperature. More mercury is then poured into the open arm to increase the pressure on the gas sample. The pressure on the gas is atmospheric pressure <em>plus</em> the difference in the heights of the mercury columns, and the resulting volume is measured. This process is repeated until either there is no more room in the open arm or the volume of the gas is too small to be measured accurately. Data such as those from one of Boyle&rsquo;s own experiments may be plotted in several ways (<a href="https://chem.libretexts.org/Courses/Howard_University/General_Chemistry%3A_An_Atoms_First_Approach/Unit_4%3A__Thermochemistry/Chapter_10%3A_Gases/Chapter_10.4%3A_The_Combined_Gas_Law#averill_1.0-ch10_s03_s01_f02" rel="internal">Figure 10.4.2 </a>). A simple plot of <em>V</em> versus <em>P</em> gives a curve called a <em>hyperbola</em> and reveals an <em>inverse</em> relationship between pressure and volume: as the pressure is doubled, the volume decreases by a factor of two. This relationship between the two quantities is described as follows:</p>
+
+<p class="lt-chem-349460">
+</p><p class="title editable lt-chem-349460">(\ PV = constant \tag{10.4.7} \)</p>
+
+
+<div class="figure large" id="averill_1.0-ch10_s03_s01_f01">
+<p class="mt-align-center lt-chem-349460"><strong><span class="title-prefix">Figure 10.4.1</span> Boyle&rsquo;s Experiment Using a J-Shaped Tube to Determine the Relationship between Gas Pressure and Volume</strong></p>
+
+<p class="mt-align-center lt-chem-349460"><a class="thumb" title="" rel="internal" href="https://chem.libretexts.org/@api/deki/files/39324/d1f582a45cd85b61ec352f2370af29a7.jpg?revision=1"><img style="width: 350px; height: 228px;" width="350px" height="228px" class="internal" alt="d1f582a45cd85b61ec352f2370af29a7.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/39324/d1f582a45cd85b61ec352f2370af29a7.jpg?revision=1&amp;size=bestfit&amp;width=350&amp;height=228" /></a></p>
+
+<p class="para lt-chem-349460"><em>(a) Initially the gas is at a pressure of 1 atm = 760 mmHg (the mercury is at the same height in both the arm containing the sample and the arm open to the atmosphere); its volume is <em>V</em>. (b) If enough mercury is added to the right side to give a difference in height of 760 mmHg between the two arms, the pressure of the gas is 760 mmHg (atmospheric pressure) + 760 mmHg = 1520 mmHg and the volume is <em>V</em>/2. (c) If an additional 760 mmHg is added to the column on the right, the total pressure on the gas increases to 2280 mmHg, and the volume of the gas decreases to <em>V</em>/3.</em></p>
+</div>
+
+<div class="figure large" id="averill_1.0-ch10_s03_s01_f02">
+<p class="mt-align-center lt-chem-349460"><strong><span class="title-prefix">Figure10.4.2</span> Plots of Boyle&rsquo;s Data</strong></p>
+
+<p class="mt-align-center lt-chem-349460"><a class="thumb" title="" rel="internal" href="https://chem.libretexts.org/@api/deki/files/39325/2faa801fa086d1653541af1249e7e069.jpg?revision=1"><img style="width: 550px; height: 179px;" width="550px" height="179px" class="internal" alt="2faa801fa086d1653541af1249e7e069.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/39325/2faa801fa086d1653541af1249e7e069.jpg?revision=1&amp;size=bestfit&amp;width=550&amp;height=179" /></a></p>
+
+<p class="para lt-chem-349460"><em>(a) Here are actual data from a typical experiment conducted by Boyle. Boyle used non-SI units to measure the volume (in.<sup>3</sup> rather than cm<sup>3</sup>) and the pressure (in. Hg rather than mmHg). (b) This plot of pressure versus volume is a hyperbola. Because <em>PV</em> is a constant, decreasing the pressure by a factor of two results in a twofold increase in volume and vice versa. (c) A plot of volume versus 1/pressure for the same data shows the inverse linear relationship between the two quantities, as expressed by the equation <em>V</em> = constant/<em>P</em>.</em></p>
+</div>
+
+<p class="para lt-chem-349460" id="averill_1.0-ch10_s03_s01_p04">Dividing both sides by <em>P</em> gives an equation illustrating the inverse relationship between <em>P</em> and <em>V</em>:</p>
+
+<p class="lt-chem-349460">
+</p><p class="title editable lt-chem-349460">\( V=\dfrac{constant}{P}=constant\left ( \dfrac{1}{P} \right )\; or\; V \propto \dfrac{1}{P} \tag{10.4.8}\)</p>
+
+
+<p class="para lt-chem-349460" id="averill_1.0-ch10_s03_s01_p05">where the &prop; symbol is read &ldquo;is proportional to.&rdquo; A plot of <em>V</em> versus 1/<em>P</em> is thus a straight line whose slope is equal to the constant in <a href="https://chem.libretexts.org/Courses/Howard_University/General_Chemistry%3A_An_Atoms_First_Approach/Unit_4%3A__Thermochemistry/Chapter_10%3A_Gases/Chapter_10.4%3A_The_Combined_Gas_Law#averill_1.0-ch10_s03_s01_eq01" rel="internal">Equation 10.4.7</a>. Dividing both sides of <a href="https://chem.libretexts.org/Courses/Howard_University/General_Chemistry%3A_An_Atoms_First_Approach/Unit_4%3A__Thermochemistry/Chapter_10%3A_Gases/Chapter_10.4%3A_The_Combined_Gas_Law#averill_1.0-ch10_s03_s01_eq01" rel="internal">Equation 10.4.7</a> by <em>V</em> instead of <em>P</em> gives a similar relationship between <em>P</em> and 1/<em>V</em>. The numerical value of the constant depends on the amount of gas used in the experiment and on the temperature at which the experiments are carried out. This relationship between pressure and volume is known as Boyle&rsquo;s law<span class="glossdef">A</span><span class="glossdef"> law that states that at constant temperature, the volume of a fixed amount of a gas is inversely proportional to its pressure.</span>, after its discoverer, and can be stated as follows: <em>At constant temperature, the volume of a fixed amount of a gas is inversely proportional to its pressure.</em></p>
+</div></div>
+
+<div class="section" id="averill_1.0-ch10_s03_s02">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="The_Relationship_between_Temperature_and_Volume"></span><h2 class="lt-chem-349460 editable">The Relationship between Temperature and Volume</h2>
+
+<p class="para lt-chem-349460" id="averill_1.0-ch10_s03_s02_p01">Hot air rises, which is why hot-air balloons ascend through the atmosphere and why warm air collects near the ceiling and cooler air collects at ground level. Because of this behavior, heating registers are placed on or near the floor, and vents for air-conditioning are placed on or near the ceiling. The fundamental reason for this behavior is that gases expand when they are heated. Because the same amount of substance now occupies a greater volume, hot air is less dense than cold air. The substance with the lower density&mdash;in this case hot air&mdash;rises through the substance with the higher density, the cooler air.</p>
+
+<p class="para lt-chem-349460" id="averill_1.0-ch10_s03_s02_p02">The first experiments to quantify the relationship between the temperature and the volume of a gas were carried out in 1783 by an avid balloonist, the French chemist Jacques Alexandre C&eacute;sar Charles (1746&ndash;1823). Charles&rsquo;s initial experiments showed that a plot of the volume of a given sample of gas versus temperature (in degrees Celsius) at constant pressure is a straight line. Similar but more precise studies were carried out by another balloon enthusiast, the Frenchman Joseph-Louis Gay-Lussac (1778&ndash;1850), who showed that a plot of <em>V</em> versus <em>T</em> was a straight line that could be extrapolated to a point at zero volume, a theoretical condition now known to correspond to &minus;273.15&deg;C (<a href="https://chem.libretexts.org/Courses/Howard_University/General_Chemistry%3A_An_Atoms_First_Approach/Unit_4%3A__Thermochemistry/Chapter_10%3A_Gases/Chapter_10.4%3A_The_Combined_Gas_Law#averill_1.0-ch10_s03_s02_f01" rel="internal">Figure 9.3.1 </a>) or absolute zero. <span class="footnote" id="averill_1.0-fn10_002">A sample of a real gas cannot <em>really</em> have a volume of zero because any sample of matter must have <em>some</em> volume. Furthermore, at 1 atm pressure all gases liquefy at temperatures well above &minus;273.15&deg;C.</span> However, the ideal gas model does allow for reaching absolute zero, but the second law of thermodynamics, which will be discussed in Unit 7, makes this impossible.</p>
+
+<div class="callout" id="averill_1.0-ch10_s03_s02_n01">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="Jacques_Alexandre_C.C3.A9sar_Charles_(1746.E2.80.931823)_and_Joseph-Louis_Gay-Lussac_(1778.E2.80.931850)"></span><h3 class="lt-chem-349460 editable">Jacques Alexandre C&eacute;sar Charles (1746&ndash;1823) and Joseph-Louis Gay-Lussac (1778&ndash;1850)</h3>
+
+<p class="para lt-chem-349460" id="averill_1.0-ch10_s03_s02_p03">In 1783, Charles filled a balloon (&ldquo;aerostatic globe&rdquo;) with hydrogen (generated by the reaction of iron with more than 200 kg of acid over several days) and flew successfully for almost an hour. When the balloon descended in a nearby village, however, the terrified townspeople destroyed it. In 1804, Gay-Lussac managed to ascend to 23,000 ft (more than 7000 m) to collect samples of the atmosphere to analyze its composition as a function of altitude. In the process, he had trouble breathing and nearly froze to death, but he set an altitude record that endured for decades. (To put Gay-Lussac&rsquo;s achievement in perspective, recall that modern jetliners cruise at only 35,000 ft!)</p>
+</div></div>
+
+<p class="para lt-chem-349460" id="averill_1.0-ch10_s03_s02_p05">We can state Charles&rsquo;s and Gay-Lussac&rsquo;s findings in simple terms: <em>At constant pressure, the volume of a fixed amount of gas is directly proportional to its absolute temperature (in Kelvin).</em> This relationship is often referred to as Charles&rsquo;s law</p>
+
+<p class="para lt-chem-349460" id="averill_1.0-ch10_s03_s02_p06">Charles&rsquo;s law is valid for virtually all gases at temperatures well above their boiling points. <em>Note that the temperature must be expressed in kelvins,</em> not <em>in degrees Celsius.</em></p>
+</div></div>
+
+<div class="section" id="averill_1.0-ch10_s03_s03">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="The_Relationship_between_Amount_and_Volume"></span><h2 class="lt-chem-349460 editable">The Relationship between Amount and Volume</h2>
+
+<p class="para lt-chem-349460" id="averill_1.0-ch10_s03_s03_p01">We can demonstrate the relationship between the volume and the amount of a gas by filling a balloon; as we add more gas, the balloon gets larger. The specific quantitative relationship was discovered by the Italian chemist Amedeo Avogadro, who recognized the importance of Gay-Lussac&rsquo;s work on combining volumes of gases. In 1811, Avogadro postulated that, at the same temperature and pressure, equal volumes of gases contain the same number of gaseous particles. (This is the historic &ldquo;Avogadro&rsquo;s hypothesis&rdquo; introduced in <a title="https://chem.libretexts.org/LibreTexts/Howard_University/General_Chemistry%3A_An_Atoms_First_Approach/Unit_1%3A__Atomic_Structure/Chapter_1%3A_Introduction/Chapter_1.4%3A_A_Brief_History_of_Chemistry" href="https://chem.libretexts.org/Courses/Howard_University/General_Chemistry%3A_An_Atoms_First_Approach/Unit_1%3A__Atomic_Structure/Chapter_1%3A_Introduction/Chapter_1.4%3A_A_Brief_History_of_Chemistry" rel="internal">Section 1.3</a>.) A logical corollary, sometimes called Avogadro&rsquo;s law<span class="glossdef">A</span><span class="glossdef"> law that states that at constant temperature and pressure, the volume of a sample of gas is directly proportional to the number of moles of gas in the sample.</span>, describes the relationship between the volume and the amount of a gas: <em>At constant temperature and pressure, the volume of a sample of gas is directly proportional to the number of moles of gas in the sample.</em> Stated mathematically,</p>
+
+<p class="lt-chem-349460">
+</p><p class="title editable lt-chem-349460">\( V=\left ( constant \right )\left (n \right )or\; V \propto n \left ( at \;constant \;T \;and \;P \right )\tag{10.3.4} \)</p>
+
+
+<p class="para lt-chem-349460" id="averill_1.0-ch10_s03_s03_p02">This relationship is valid for most gases at relatively low pressures, but deviations from strict linearity are observed at elevated pressures.</p>
+
+<div class="callout" id="averill_1.0-ch10_s03_s03_n02">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="Summary"></span><h3 class="lt-chem-349460 editable">Summary</h3>
+
+<p class="para lt-chem-349460" id="averill_1.0-ch10_s03_s03_p08">Boyle showed that the volume of a sample of a gas is inversely proportional to its pressure (<strong class="emphasis bold">Boyle&rsquo;s law</strong>), Charles and Gay-Lussac demonstrated that the volume of a gas is directly proportional to its temperature (in kelvins) at constant pressure (<strong class="emphasis bold">Charles&rsquo;s law</strong>), and Avogadro postulated that the volume of a gas is directly proportional to the number of moles of gas present (<strong class="emphasis bold">Avogadro&rsquo;s law</strong>). Plots of the volume of gases versus temperature extrapolate to zero volume at &minus;273.15&deg;C, which is <strong class="emphasis bold">absolute zero (0 K)</strong>, the lowest temperature possible. Charles&rsquo;s law implies that the volume of a gas is directly proportional to its absolute temperature.</p>
+</div></div>
+
+<div class="key_takeaways" id="averill_1.0-ch10_s03_s03_n03">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="Key_Takeaway"></span><h3 class="lt-chem-349460 editable">Key Takeaway</h3>
+
+<ul id="averill_1.0-ch10_s03_s03_l01">
+    <li class="lt-chem-349460">The volume of a gas is inversely proportional to its pressure and directly proportional to its temperature and the amount of gas.</li>
+</ul>
+</div></div>
+
+<div class="qandaset block" id="averill_1.0-ch10_s03_s03_qs01">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="Conceptual_Problems"></span><h3 class="lt-chem-349460 editable">Conceptual Problems</h3>
+
+<div class="question qandaentry">
+<ol class="qandadiv">
+    <li class="qandaentry lt-chem-349460">
+    <div class="question">
+    <p class="para lt-chem-349460">Sketch a graph of the volume of a gas versus the pressure on the gas. What would the graph of <em>V</em> versus <em>P</em> look like if volume was directly proportional to pressure?</p>
+    </div>
+    </li>
+    <li class="qandaentry lt-chem-349460">
+    <div class="question">
+    <p class="para lt-chem-349460">What properties of a gas are described by Boyle&rsquo;s law, Charles&rsquo;s law, and Avogadro&rsquo;s law? In each law, what quantities are held constant? Why does the constant in Boyle&rsquo;s law depend on the amount of gas used and the temperature at which the experiments are carried out?</p>
+    </div>
+    </li>
+    <li class="qandaentry lt-chem-349460">
+    <div class="question">
+    <p class="para lt-chem-349460">Use Charles&rsquo;s law to explain why cooler air sinks.</p>
+    </div>
+    </li>
+</ol>
+
+<div class="question qandaentry">
+<p class="para lt-chem-349460">4. Use Boyle&rsquo;s law to explain why it is dangerous to heat even a small quantity of water in a sealed container.</p>
+</div>
+
+<p class="para lt-chem-349460">For an ideal gas, is volume directly proportional or inversely proportional to temperature? What is the volume of an ideal gas at absolute zero?</p>
+
+
+
+<div class="question">
+<p class="para lt-chem-349460">For a given amount of a gas, the volume, temperature, and pressure under any one set of conditions are related to the volume, the temperature, and the pressure under any other set of conditions by the equation</p>
+
+<p class="para lt-chem-349460">\( \dfrac{P_{1}V_{1}}{T_{1}}= \dfrac{P_{2}V_{2}}{T_{2}} \)</p>
+
+<p class="para lt-chem-349460">Derive this equation from the ideal gas law. At constant temperature, this equation reduces to one of the laws discussed in <a title="https://chem.libretexts.org/LibreTexts/Howard_University/General_Chemistry%3A_An_Atoms_First_Approach/Unit_4%3A__Thermochemistry/Chapter_10%3A_Gases/Chapter_10.3%3A_The_Ideal_Gas_Law" href="https://chem.libretexts.org/Courses/Howard_University/General_Chemistry%3A_An_Atoms_First_Approach/Unit_4%3A__Thermochemistry/Chapter_10%3A_Gases/Chapter_10.3%3A_The_Ideal_Gas_Law" rel="internal">Section 10.3</a>; which one? At constant pressure, this equation reduces to one of the laws discussed in this section; which one?</p>
+</div>
+
+<div class="question">
+<p class="para lt-chem-349460">Predict the effect of each change on one variable if the other variables are held constant.</p>
+
+<ol>
+    <li class="lt-chem-349460">If the number of moles of gas increases, what is the effect on the temperature of the gas?</li>
+    <li class="lt-chem-349460">If the temperature of a gas decreases, what is the effect on the pressure of the gas?</li>
+    <li class="lt-chem-349460">If the volume of a gas increases, what is the effect on the temperature of the gas?</li>
+    <li class="lt-chem-349460">If the pressure of a gas increases, what is the effect on the number of moles of the gas?</li>
+</ol>
+</div>
+
+<div class="question">
+<p class="para lt-chem-349460">What would the ideal gas law be if the following were true?</p>
+
+<ol>
+    <li class="lt-chem-349460">volume were proportional to pressure</li>
+    <li class="lt-chem-349460">temperature were proportional to amount</li>
+    <li class="lt-chem-349460">pressure were inversely proportional to temperature</li>
+    <li class="lt-chem-349460">volume were inversely proportional to temperature</li>
+    <li class="lt-chem-349460">both pressure and volume were inversely proportional to temperature</li>
+</ol>
+</div>
+
+<div class="question">
+<p class="para lt-chem-349460">Given the following initial and final values, what additional information is needed to solve the problem using the ideal gas law?</p>
+
+<div class="informaltable">
+<table class="mt-responsive-table" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <th align="center">Given</th>
+            <th align="center">Solve for</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-th="Given" class="lt-chem-349460"><em>V</em><sub>1</sub>, <em>T</em><sub>1</sub>, <em>T</em><sub>2</sub>, <em>n</em><sub>1</sub></td>
+            <td align="right" data-th="Solve for" class="lt-chem-349460"><em>n</em> <sub>2</sub></td>
+        </tr>
+        <tr>
+            <td data-th="Given" class="lt-chem-349460"><em>P</em><sub>1</sub>, <em>P</em><sub>2</sub>, <em>T</em><sub>2</sub>, <em>n</em><sub>2</sub></td>
+            <td align="right" data-th="Solve for" class="lt-chem-349460"><em>n</em> <sub>1</sub></td>
+        </tr>
+        <tr>
+            <td data-th="Given" class="lt-chem-349460"><em>T</em><sub>1</sub>, <em>T</em><sub>2</sub></td>
+            <td align="right" data-th="Solve for" class="lt-chem-349460"><em>V</em> <sub>2</sub></td>
+        </tr>
+        <tr>
+            <td data-th="Given" class="lt-chem-349460"><em>P</em><sub>1</sub>, <em>n</em><sub>1</sub></td>
+            <td align="right" data-th="Solve for" class="lt-chem-349460"><em>P</em> <sub>2</sub></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+<div class="question">
+<p class="para lt-chem-349460">Given the following information and using the ideal gas law, what equation would you use to solve the problem?</p>
+
+<div class="informaltable">
+<table class="mt-responsive-table" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <th align="center">Given</th>
+            <th align="center">Solve for</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-th="Given" class="lt-chem-349460"><em>P</em><sub>1</sub>, <em>P</em><sub>2</sub>, <em>T</em><sub>1</sub></td>
+            <td align="right" data-th="Solve for" class="lt-chem-349460"><em>T</em> <sub>2</sub></td>
+        </tr>
+        <tr>
+            <td data-th="Given" class="lt-chem-349460"><em>V</em><sub>1</sub>, <em>n</em><sub>1</sub>, <em>n</em><sub>2</sub></td>
+            <td align="right" data-th="Solve for" class="lt-chem-349460"><em>V</em> <sub>2</sub></td>
+        </tr>
+        <tr>
+            <td data-th="Given" class="lt-chem-349460"><em>T</em><sub>1</sub>, <em>T</em><sub>2</sub>, <em>V</em><sub>1</sub>, <em>V</em><sub>2</sub>, <em>n</em><sub>2</sub></td>
+            <td align="right" data-th="Solve for" class="lt-chem-349460"><em>n</em> <sub>1</sub></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+<div class="question">
+<p class="para lt-chem-349460">Using the ideal gas law as a starting point, derive the relationship between the density of a gas and its molar mass. Which would you expect to be denser&mdash;nitrogen or oxygen? Why does radon gas accumulate in basements and mine shafts?</p>
+</div>
+
+<div class="question">
+<p class="para lt-chem-349460">Use the ideal gas law to derive an equation that relates the remaining variables for a sample of an ideal gas if the following are held constant.</p>
+
+<ol>
+    <li class="lt-chem-349460">amount and volume</li>
+    <li class="lt-chem-349460">pressure and amount</li>
+    <li class="lt-chem-349460">temperature and volume</li>
+    <li class="lt-chem-349460">temperature and amount</li>
+    <li class="lt-chem-349460">pressure and temperature</li>
+</ol>
+</div>
+
+<div class="question">
+<p class="para lt-chem-349460">Tennis balls that are made for Denver, Colorado, feel soft and do not bounce well at lower altitudes. Use the ideal gas law to explain this observation. Will a tennis ball designed to be used at sea level be harder or softer and bounce better or worse at higher altitudes?</p>
+</div>
+</div>
+</div></div>
+
+<div class="qandaset block" id="averill_1.0-ch10_s03_s03_qs01_ans">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="Answer"></span><h3 class="lt-chem-349460 editable">Answer</h3>
+
+<ol class="qandadiv">
+    <li class="qandaentry lt-chem-349460" id="averill_1.0-ch10_s03_s03_qs01_qd01_qa01_ans">
+    <div class="answer">
+    <div class="informalfigure medium"><img alt="Graph of Volume versus Pressure. Volume equals constant times pressure. Pressure times Volume equals constant." style="width: 160px; height: 142px;" width="160px" height="142px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/39329/6d08880971c67b599343b1294f47045a.jpg?revision=1&amp;size=bestfit&amp;width=160&amp;height=142" /></div>
+    </div>
+    </li>
+    <li class="qandaentry lt-chem-349460" id="averill_1.0-ch10_s03_s03_qs01_qd01_qa02_ans">
+    
+    </li>
+    <li class="qandaentry lt-chem-349460" id="averill_1.0-ch10_s03_s03_qs01_qd01_qa03_ans">
+    
+    </li>
+</ol>
+</div></div>
+
+<div class="qandaset block" id="averill_1.0-ch10_s03_s03_qs02">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="Numerical_Problems"></span><h3 class="lt-chem-349460 editable">Numerical Problems</h3>
+
+<ol class="qandadiv" id="averill_1.0-ch10_s03_s03_qs02_qd01">
+    <li class="qandaentry lt-chem-349460" id="averill_1.0-ch10_s03_s03_qs02_qd01_qa01">
+    <div class="question">
+    <p class="para lt-chem-349460">A 1.00 mol sample of gas at 25&deg;C and 1.0 atm has an initial volume of 22.4 L. Calculate the results of each change, assuming all the other conditions remain constant.</p>
+
+    <ol>
+        <li class="lt-chem-349460">The pressure is changed to 85.7 mmHg. How many milliliters does the gas occupy?</li>
+        <li class="lt-chem-349460">The volume is reduced to 275 mL. What is the pressure in millimeters of mercury?</li>
+        <li class="lt-chem-349460">The pressure is increased to 25.3 atm. What is the temperature in degrees Celsius?</li>
+        <li class="lt-chem-349460">The sample is heated to 30&deg;C. What is the volume in liters?</li>
+        <li class="lt-chem-349460">The sample is compressed to 1255 mL, and the pressure is increased to 2555 torr. What is the temperature of the gas in kelvins?</li>
+    </ol>
+    </div>
+    </li>
+    <li class="qandaentry lt-chem-349460" id="averill_1.0-ch10_s03_s03_qs02_qd01_qa02">
+    <div class="question">
+    <p class="para lt-chem-349460">A 1.00 mol sample of gas is at 300 K and 4.11 atm. What is the volume of the gas under these conditions? The sample is compressed to 6.0 atm at constant temperature, giving a volume of 3.99 L. Is this result consistent with Boyle&rsquo;s law?</p>
+
+    <div class="question">
+    <ol>
+        <li class="lt-chem-349460">m</li>
+    </ol>
+    </div>
+
+    <div class="question">
+    <p class="para lt-chem-349460">A 8.60 L tank of nitrogen gas at a pressure of 455 mmHg is connected to an empty tank with a volume of 5.35 L. What is the final pressure in the system after the valve connecting the two tanks is opened? Assume that the temperature is constant.</p>
+    </div>
+
+    <div class="question">
+    <p class="para lt-chem-349460">At constant temperature, what pressure in atmospheres is needed to compress 14.2 L of gas initially at 25.2 atm to a volume of 12.4 L? What pressure is needed to compress 27.8 L of gas to 20.6 L under similar conditions?</p>
+    </div>
+
+    <div class="question">
+    <p class="para lt-chem-349460">One method for preparing hydrogen gas is to pass HCl gas over hot aluminum; the other product of the reaction is AlCl<span class="subscript">3</span>. If you wanted to use this reaction to fill a balloon with a volume of 28,500 L at sea level and a temperature of 78&deg;F, what mass of aluminum would you need? What volume of HCl at STP would you need?</p>
+    </div>
+
+    <div class="question">
+    <p class="para lt-chem-349460">An 3.50 g sample of acetylene is burned in excess oxygen according to the following reaction:</p>
+    <span class="informalequation"><span class="mathphrase">2 C<span class="subscript">2</span>H<span class="subscript">2</span>(g) + 5 O<span class="subscript">2</span>(g) &rarr; 4 CO<span class="subscript">2</span>(g) + 2 H<span class="subscript">2</span>O(l)</span></span>
+
+    <p class="para lt-chem-349460">At STP, what volume of CO<span class="subscript">2</span>(g) is produced?</p>
+    </div>
+
+    <div class="question">
+    <p class="para lt-chem-349460">Calculate the density of ethylene (C<span class="subscript">2</span>H<span class="subscript">4</span>) under each set of conditions.</p>
+
+    <ol>
+        <li class="lt-chem-349460">7.8 g at 0.89 atm and 26&deg;C</li>
+        <li class="lt-chem-349460">6.3 mol at 102.6 kPa and 38&deg;C</li>
+        <li class="lt-chem-349460">9.8 g at 3.1 atm and &minus;45&deg;C</li>
+    </ol>
+    </div>
+
+    <div class="question">
+    <p class="para lt-chem-349460">Determine the density of O<span class="subscript">2</span> under each set of conditions.</p>
+
+    <ol>
+        <li class="lt-chem-349460">42 g at 1.1 atm and 25&deg;C</li>
+        <li class="lt-chem-349460">0.87 mol at 820 mmHg and 45&deg;C</li>
+        <li class="lt-chem-349460">16.7 g at 2.4 atm and 67&deg;C</li>
+    </ol>
+    </div>
+
+    <div class="question">
+    <p class="para lt-chem-349460">At 140&deg;C, the pressure of a diatomic gas in a 3.0 L flask is 635 kPa. The mass of the gas is 88.7 g. What is the most likely identity of the gas?</p>
+    </div>
+
+    <div class="question">
+    <p class="para lt-chem-349460">What volume must a balloon have to hold 6.20 kg of H<span class="subscript">2</span> for an ascent from sea level to an elevation of 20,320 ft, where the temperature is &minus;37&deg;C and the pressure is 369 mmHg?</p>
+    </div>
+
+    <div class="question">
+    <p class="para lt-chem-349460">What must be the volume of a balloon that can hold 313.0 g of helium gas and ascend from sea level to an elevation of 1.5 km, where the temperature is 10.0&deg;C and the pressure is 635.4 mmHg?</p>
+    </div>
+
+    <div class="question">
+    <p class="para lt-chem-349460">A typical automobile tire is inflated to a pressure of 28.0 lb/in.<sup>2</sup> Assume that the tire is inflated when the air temperature is 20&deg;C; the car is then driven at high speeds, which increases the temperature of the tire to 43&deg;C. What is the pressure in the tire? If the volume of the tire had increased by 8% at the higher temperature, what would the pressure be?</p>
+    </div>
+
+    <div class="question">
+    <p class="para lt-chem-349460">The average respiratory rate for adult humans is 20 breaths per minute. If each breath has a volume of 310 mL of air at 20&deg;C and 0.997 atm, how many moles of air does a person inhale each day? If the density of air is 1.19 kg/m<sup>3</sup>, what is the average molecular mass of air?</p>
+    </div>
+
+    <div class="question">
+    <p class="para lt-chem-349460">Kerosene has a self-ignition temperature of 255&deg;C. It is a common accelerant used by arsonists, but its presence is easily detected in fire debris by a variety of methods. If a 1.0 L glass bottle containing a mixture of air and kerosene vapor at an initial pressure of 1 atm and an initial temperature of 23&deg;C is pressurized, at what pressure would the kerosene vapor ignite?</p>
+    </div>
+    </div>
+    </li>
+</ol>
+</div></div>
+
+<div class="qandaset block" id="averill_1.0-ch10_s03_s03_qs02_ans">
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="Answer_2"></span><h3 class="lt-chem-349460 editable">Answer</h3>
+
+<ol class="qandadiv">
+    <li class="qandaentry lt-chem-349460" id="averill_1.0-ch10_s03_s03_qs02_qd01_qa01_ans">
+    <div class="answer">
+    
+
+    <ol>
+        <li class="lt-chem-349460">1.99 &times; 10<sup>5</sup> mL</li>
+        <li class="lt-chem-349460">6.19 &times; 10<sup>4</sup> mmHg</li>
+        <li class="lt-chem-349460">7270&deg;C</li>
+        <li class="lt-chem-349460">22.8 L</li>
+        <li class="lt-chem-349460">51.4 K</li>
+    </ol>
+    </div>
+    </li>
+    <li class="qandaentry lt-chem-349460" id="averill_1.0-ch10_s03_s03_qs02_qd01_qa02_ans">
+    
+    </li>
+</ol>
+</div></div>
+</div></div>
+</div>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/10:_Gases/10.04:_The_Combined_Gas_Law" class="mt-section"><span id="Contributors"></span><h3 class="lt-chem-349460 editable">Contributors</h3>
+
+<p class="lt-chem-349460"><ul> <li>Anonymous</li> </ul></p>
+
+<p class="lt-chem-349460">Modified by Joshua Halpern</p>
+
+<p class="lt-chem-349460">Thumbnail from <a title="https://upload.wikimedia.org/Wikipedia/commons/thumb/9/92/Ideal_gas_isotherms.svg/2000px-Ideal_gas_isotherms.svg.png" href="https://upload.wikimedia.org/Wikipedia/commons/thumb/9/92/Ideal_gas_isotherms.svg/2000px-Ideal_gas_isotherms.svg.png" target="_blank" rel="external noopener nofollow" class="link-https">Wikimedia</a></p>
+</div></div>
+
+
+                    <footer class="mt-content-footer">
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "10.4: The Combined Gas Law";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p>This page titled <a target="_blank" class="internal mt-self-link" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/10%3A_Gases/10.04%3A_The_Combined_Gas_Law" rel="internal">10.4: The Combined Gas Law</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/3.0" target="_blank">CC BY-NC-SA  3.0</a>  license and was authored, remixed, and/or curated by <a rel="nofollow" target="_blank" href="">Anonymous</a>. </p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/10%3A_Gases/10.03%3A_The_Ideal_Gas_Law" title="10.3: The Ideal Gas Law"><span>10.3: The Ideal Gas Law</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/10%3A_Gases/10.05%3A_Gas_Mixtures" title="10.5: Gas Mixtures"><span>10.5: Gas Mixtures</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="6" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-authorname-anonymous" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Author</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=authorname%3Aanonymous" data-ga-label="Classification">Anonymous</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by-nc-sa" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accbyncsa" data-ga-label="Classification">CC BY-NC-SA</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-3.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A30" data-ga-label="Classification">3.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-yes on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ayes" data-ga-label="Classification">yes on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-hypothesis:yes" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=hypothesis%3Ayes" data-ga-label="Free tag"> hypothesis:yes</a></li>
+                <li class="mt-tag-link mt-tag-source[1]-chem-21866" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=source%5B1%5D-chem-21866" data-ga-label="Free tag"> source[1]-chem-21866</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="016a0336a5a0559a17cb3e878a938d936cca8f407bd2e410380c497c309885b4" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
