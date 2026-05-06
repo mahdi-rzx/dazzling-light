@@ -1,0 +1,3287 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="27.7: Polymerase Chain Reactions"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/27%3A_Nucleic_Acids/27.07%3A_Polymerase_Chain_Reactions"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content="Polymerase chain reactions can be used to synthesize DNA in a test tube."/>
+        <meta property="article:published_time" content="2022-12-28T18:39:46Z"/>
+        <meta property="article:modified_time" content="2022-12-28T18:50:37Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="27.7: Polymerase Chain Reactions"/>
+        <meta name="twitter:description" content="Polymerase chain reactions can be used to synthesize DNA in a test tube."/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content="Polymerase chain reactions can be used to synthesize DNA in a test tube."/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/27%3A_Nucleic_Acids/27.07%3A_Polymerase_Chain_Reactions"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d">{"@context":"http:\/\/schema.org","@type":"Article","name":"27.7: Polymerase Chain Reactions","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/27%3A_Nucleic_Acids\/27.07%3A_Polymerase_Chain_Reactions","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2022-12-28T18:39:46Z","dateModified":"2022-12-28T18:50:37Z","description":"Polymerase chain reactions can be used to synthesize DNA in a test tube.","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/424475\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/27%3A_Nucleic_Acids\/27.07%3A_Polymerase_Chain_Reactions"},"headline":"27.7: Polymerase Chain Reactions","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"27.7: Polymerase Chain Reactions","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/27%3A_Nucleic_Acids\/27.07%3A_Polymerase_Chain_Reactions","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/27%3A_Nucleic_Acids"]}</script>
+        <script type="application/ld+json" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry","name":"Organic Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II","name":"Map: Organic Chemistry (Wade), Complete and Semesters I and II"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)","name":"Map: Organic Chemistry II (Wade)"}},{"@type":"ListItem","position":5,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/27%3A_Nucleic_Acids","name":"27: Nucleic Acids"}}]}</script>
+
+        <title>27.7: Polymerase Chain Reactions - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/#mt-toc-container {
+    display: none !important;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint{
+    visibility: visible !important;
+    display: block !important;
+}
+.showprint{
+    visibility: hidden !important;
+    display: none !important;
+}
+
+@media print {
+
+    
+
+    
+    
+    
+    
+    table.mt-responsive-table {
+        table-layout: auto;
+    }
+
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+        visibility: hidden !important;
+        display: none !important;
+	}
+
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+
+	main.elm-skin-container {
+		display: inline;
+	}
+
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+
+    .twocolumn {
+	    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    	-moz-column-count: 2; /* Firefox */
+    	column-count: 2;
+    }
+
+    .threecolumn {
+    	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    	-moz-column-count: 3; /* Firefox */
+    	column-count: 3;
+    }
+
+	.hideprint {
+		visibility: hidden !important;;
+		display: none !important;;
+	}
+
+	.showprint {
+		visibility: visible !important;;
+		display: block !important;;
+	}
+
+	.printOnly {
+		display: block;
+	}
+
+	.printHide {
+		display: none;
+	}
+
+	img {
+		zoom: 0.65;
+		page-break-inside: avoid;
+	}
+
+	.mt-author-container img {
+		zoom: 1;
+	}
+
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+
+	blockquote {
+		padding: 1px !important;
+		margin-top: 10px !important;
+		margin-bottom: 10px !important;
+	}
+
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin: 0.3em 0 0.3em 0 !important;
+	}
+
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+		/*page-break-inside: avoid;*/
+	}
+
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+
+	ol.elm-meta-top {
+		display: none;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+        font-size: 90%;
+	}
+
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+
+	body {
+		font-size: 0.75em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+
+	h1, h2, h3, h4, h5 {
+		color: hsl(205, 82%, 42%) !important;
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-transform: uppercase;
+		text-align: left !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+		margin: 0.8em 0 0 0 !important;
+	}
+
+    h1 {
+		font-size: 18px !important;
+   		margin: 0 0 0 0 !important;
+	}
+    
+	h2 {
+		font-size: 14px !important;
+	}
+
+	h3 {
+		font-size: 12px !important;
+        font-weight: 700 !important;
+        /*color: hsl(0, 0%, 0%) !important;*/
+	}
+    
+    h4 {
+		font-size: 10px !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+        /*color: hsl(0, 0%, 0%) !important;*/
+	}
+
+	.mt-new-features-container {
+		display: none;
+	}
+
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+        line-height: 80 % !important;
+		background: none;
+        font-variant: small-caps !important;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+
+	dt {
+		color: initial;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+
+	caption {
+		display: table-caption;
+		text-align: center;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.2em !important;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+
+	table {
+		-webkit-print-color-adjust: exact;
+		page-break-inside: avoid;
+	}
+
+	table caption {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		text-align: center;
+		vertical-align: middle ";
+	}
+
+	ul, ol {
+		text-align: justify !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+    
+
+	ol li {
+		text-align: justify !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+
+	ul li {
+		text-align: justify !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+
+	/* author bar */
+	.mt-author-container {
+		background: @secondary-container-background-color;
+		border: 1px solid @secondary-container-border-color;
+		border-radius: @border-radius-default;
+		clear: both;
+		color: @tertiary-font-color;
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+
+	.mt-author-container .mt-author-image-crop {
+		border: 1px solid @primary-container-border-color;
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+
+	elm-skin-container {
+		display: block !important;
+	}
+
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+    /*
+	canvas, img, object, video {
+		max-width: 100%;
+		max-height: 500px;
+	}
+    */
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":424475,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"27.7: Polymerase Chain Reactions","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"1","pageSectionEditable":false,"pageTitle":"Bookshelves\/Organic Chemistry\/Map: Organic Chemistry (Wade) Complete and Semesters I and II\/Map: Organic Chemistry II (Wade)\/27: Nucleic Acids\/27.07: Polymerase Chain Reactions","pageViewId":"80b51faa-eb8f-411d-8f4e-03ad8e2f5068","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"YjU2OTVhNjQtYjliYy00YzQ5LTkyZWItZWY2YWMwOWVmNjg1fDIwMjYtMDUtMDZUMTA6NDE6NTc=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778064117_c6d2edf9a90c2f9dee82eb4556ffa31ec14cc22a964d0ae923aba4927f5de0ea","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-organicchemistry-map%3Aorganicchemistry%28wade%29completeandsemestersiandii-map%3Aorganicchemistryii%28wade%29-27%3Anucleicacids-27.07%3Apolymerasechainreactions columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">27: Nucleic Acids</div><div style="display:none" id="parentParentTitleHolder">Map: Organic Chemistry II (Wade)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;27.01:_Nucleotides_and_Nucleic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27.02:_DNA_Base_Pairs&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27.03:_DNA_Replication&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27.04:_Transcription_of_DNA&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27.05:_Translation_of_RNA-_Protein_Biosynthesis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27.06:_DNA_Sequencing&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27.07:_Polymerase_Chain_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Structure_and_Synthesis_of_Alcohols&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_Reactions_of_Alcohols&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Ethers_Epoxides_and_Thioethers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Conjugated_Systems_Orbital_Symmetry_and_Ultraviolet_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;17:_Aromatic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;18:_Reactions_of_Aromatic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19:_Ketones_and_Aldehydes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20:_Amines&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21:_Carboxylic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;22:_Carboxylic_Acid_Derivatives_and_Nitriles&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23:_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;24:_Carbohydrates&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;25:_Amino_Acids_Peptides_and_Proteins&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;26:_Lipids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27:_Nucleic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Wed, 28 Dec 2022 18:39:46 GMT</div><div style="display:none" id="titleHolder">27.7: Polymerase Chain Reactions</div><div style="display:none" id="IDHolder">424475</div><div style="display:none" id="pageIDHolder">424475</div><div style="display:none" id="pageAuthorHolder">Joshua Halpern</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;transcluded:yes&quot;, &quot;cssprint:dense&quot;, &quot;source[1]-chem-166532&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;transcluded:yes&quot;, &quot;cssprint:dense&quot;, &quot;source[1]-chem-166532&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FMap%253A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II%2FMap%253A_Organic_Chemistry_II_(Wade)%2F27%253A_Nucleic_Acids%2F27.07%253A_Polymerase_Chain_Reactions</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FMap%3A_Organic_Chemistry_%28Wade%29_Complete_and_Semesters_I_and_II%2FMap%3A_Organic_Chemistry_II_%28Wade%29%2F27%3A_Nucleic_Acids%2F27.07%3A_Polymerase_Chain_Reactions" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FMap%3A_Organic_Chemistry_%28Wade%29_Complete_and_Semesters_I_and_II%2FMap%3A_Organic_Chemistry_II_%28Wade%29%2F27%3A_Nucleic_Acids%2F27.07%3A_Polymerase_Chain_Reactions" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Map: Organic Chemistry (Wade), Complete and Semesters I and II
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Map: Organic Chemistry II (Wade)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/27%3A_Nucleic_Acids" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    27: Nucleic Acids
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            27.7: Polymerase Chain Reactions
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        27.7: Polymerase Chain Reactions
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2022-12-28T18:39:46Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/424475/pdf/27.7%253A%2bPolymerase%2bChain%2bReactions.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>424475</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <em>No headers</em>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <div class="mt-contentreuse-widget" data-page="Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_(Wade)/27%3A_Nucleic_Acids/27.07%3A_Polymerase_Chain_Reactions" data-section="" data-show="false">
+				<div class="mt-include" id="s166532">
+
+<div class="box-objectives"><p class="box-legend"><span> </span></p>
+</div>
+
+<p>In the mid 80's a new method was developed to copy (amplify) DNA in a test tube. It doesn't require a plasmid or a virus. It just requires a DNA fragment, some primers (small polynucleotides complementary to sections of DNA on each strand and straddling the section of DNA to be amplified. Just add to this mixture dATP, dCTP, dGTP, dTTP, and a heat stable DNA polymerase from the organism Thermophilus aquaticus (which lives in hot springs), and off you go. The mixture is first heated to a temperature which will cause the DsDNA strands to separate. The temperature is cooled allowing a large stoichimetric excess of the primers to anneal to the ssDNA. The heat stable Taq polymerase (from Thermophilus aquaticus) polymerizes DNA from the primers. The temperature is raised again, allowing dsDNA strand separation. On cooling the primers anneal again to the original and newly synthesized DNA from the last cycle and synthesis of DNA occurs again. This cycle is repeated as shown in the diagram. This chain reaction is called the polymerase chain reaction (PCR). The target DNA synthesized is amplified a million times in 20 cycles, or a billion times in 30 cycles, which can be done in a few hours.</p>
+
+<p><em><strong>Figure</strong>: Copying DNA in the test tube - the polymerase chain reaction (PCR)</em></p>
+
+<p class="mt-align-center"><img alt="alt" src="data:image/png;base64,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" /></p>
+
+<hr />
+<p>Figure: <a class="external" href="http://employees.csbsju.edu/hjakubowski/classes/ch331/dna/polymerase.gif" rel="external nofollow" target="_blank" title="http://employees.csbsju.edu/hjakubowski/classes/ch331/dna/polymerase.gif">Another View of PCR</a></p>
+
+<p class="mt-align-center"><img alt="alt" src="data:image/png;base64,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" /></p>
+</div>
+				</div>
+				
+
+                    <footer class="mt-content-footer">
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "27.7: Polymerase Chain Reactions";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p><a target="_blank" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/27%3A_Nucleic_Acids/27.07%3A_Polymerase_Chain_Reactions" rel="internal" class="internal">27.7: Polymerase Chain Reactions</a> is shared under a <a rel="nofollow" href="" target="_blank">not declared  </a>  license and was authored, remixed, and/or curated by LibreTexts.</p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/27%3A_Nucleic_Acids/27.06%3A_DNA_Sequencing" title="27.6: DNA Sequencing"><span>27.6: DNA Sequencing</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/zz%3A_Back_Matter" title="Back Matter"><span>Back Matter</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="1" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-cssprint-dense" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Print CSS</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=cssprint%3Adense" data-ga-label="Classification">Dense</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-transcluded-yes" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Transcluded</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=transcluded%3Ayes" data-ga-label="Classification">yes</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-source[1]-chem-166532" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=source%5B1%5D-chem-166532" data-ga-label="Free tag"> source[1]-chem-166532</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="36eec6b182664b8869ebcb9b7df51cc1c3f62efdfe1b83c66f02c317b77df94d" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
