@@ -131,7 +131,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/01%3A_Fundamental_1_-_Measurable_Properties
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/07%3A_Chemical_Bonding_and_Molecular_Geometry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/08%3A_Advanced_Theories_of_Covalent_Bonding
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/09%3A_Gases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/10%3A_Liquids_and_Solids
@@ -8427,3 +8426,14 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/06%3A_Electronic_Structure_and_Periodic_Properties/6.07%3A_Key_Equations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/06%3A_Electronic_Structure_and_Periodic_Properties/6.08%3A_Summary
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/06%3A_Electronic_Structure_and_Periodic_Properties/6.09%3A_Exercises
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/07%3A_Chemical_Bonding_and_Molecular_Geometry/7.00%3A_Introduction
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/07%3A_Chemical_Bonding_and_Molecular_Geometry/7.01%3A_Ionic_Bonding
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/07%3A_Chemical_Bonding_and_Molecular_Geometry/7.02%3A_Covalent_Bonding
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/07%3A_Chemical_Bonding_and_Molecular_Geometry/7.03%3A_Lewis_Symbols_and_Structures
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/07%3A_Chemical_Bonding_and_Molecular_Geometry/7.04%3A_Formal_Charges_and_Resonance
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/07%3A_Chemical_Bonding_and_Molecular_Geometry/7.05%3A_Strengths_of_Ionic_and_Covalent_Bonds
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/07%3A_Chemical_Bonding_and_Molecular_Geometry/7.06%3A_Molecular_Structure_and_Polarity
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/07%3A_Chemical_Bonding_and_Molecular_Geometry/7.07%3A_Key_Terms
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/07%3A_Chemical_Bonding_and_Molecular_Geometry/7.08%3A_Key_Equations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/07%3A_Chemical_Bonding_and_Molecular_Geometry/7.09%3A_Summary
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/07%3A_Chemical_Bonding_and_Molecular_Geometry/7.10%3A_Exercises
