@@ -129,7 +129,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/09%3A_Metals_in_Medicine
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/05%3A_Blochs_Theorem
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/06%3A_Irreducible_Representations_of_Space_Groups
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/07%3A_Summary
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/zz%3A_Back_Matter
@@ -5166,3 +5165,9 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theor
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/03%3A_Space_Groups/3.07%3A_Volume_A_of_the_International_Tables_of_Crystallography
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/03%3A_Space_Groups/3.08%3A_Group-Subgroup_Relationships
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/04%3A_Electronic_and_Vibrational_States_of_Crystals/4.01%3A_Schrodingers_Equation
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/05%3A_Blochs_Theorem/5.01%3A_Introduction_to_Blochs_Theorem
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/05%3A_Blochs_Theorem/5.02%3A_The_First_Brillouin_Zone
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/05%3A_Blochs_Theorem/5.03%3A_Bloch_Functions_for_L.C.A.O._Methods
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/05%3A_Blochs_Theorem/5.04%3A_Electronic_Wavefunctions_and_Energies_in_1-d
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/05%3A_Blochs_Theorem/5.05%3A_Vibrational_States_and_Phonon_Dispersion_Curves
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/04%3A_Electronic_and_Vibrational_States_of_Crystals/4.02%3A_RECIPROCAL_SPACE
