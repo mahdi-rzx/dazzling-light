@@ -1,0 +1,3250 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="16.5: Typical Carbonyl-Addition Reactions"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16%3A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05%3A_Typical_Carbonyl-Addition_Reactions"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content="We turn now to discuss a few specific addition reactions of the carbonyl groups of aldehydes and ketones. We shall not attempt to provide an extensive catalog of reactions, but will try to emphasize &hellip;"/>
+        <meta property="article:published_time" content="2014-11-26T05:35:32Z"/>
+        <meta property="article:modified_time" content="2021-07-31T17:07:59Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="16.5: Typical Carbonyl-Addition Reactions"/>
+        <meta name="twitter:description" content="We turn now to discuss a few specific addition reactions of the carbonyl groups of aldehydes and ketones. We shall not attempt to provide an extensive catalog of reactions, but will try to emphasize &hellip;"/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content="We turn now to discuss a few specific addition reactions of the carbonyl groups of aldehydes and ketones. We shall not attempt to provide an extensive catalog of reactions, but will try to emphasize &hellip;"/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16%3A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05%3A_Typical_Carbonyl-Addition_Reactions"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f">{"@context":"http:\/\/schema.org","@type":"Article","name":"16.5: Typical Carbonyl-Addition Reactions","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)\/16%3A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group\/16.05%3A_Typical_Carbonyl-Addition_Reactions","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2014-11-26T05:35:32Z","dateModified":"2021-07-31T17:07:59Z","description":"We turn now to discuss a few specific addition reactions of the carbonyl groups of aldehydes and ketones. We shall not attempt to provide an extensive catalog of reactions, but will try to emphasize the principles involved with especially important reactions that are useful in synthesis.","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/22268\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)\/16%3A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group\/16.05%3A_Typical_Carbonyl-Addition_Reactions"},"headline":"16.5: Typical Carbonyl-Addition Reactions","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"16.5: Typical Carbonyl-Addition Reactions","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)\/16%3A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group\/16.05%3A_Typical_Carbonyl-Addition_Reactions","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Supplemental_Modules_(Organic_Chemistry)\/Reactions\/Organic_Reactions\/Cannizzaro_Reaction","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Supplemental_Modules_(Organic_Chemistry)\/Organo-phosphorus_Compounds\/Reactivity_of_Phosphorus_Compounds\/Reactions_of_Ylides","https:\/\/chem.libretexts.org\/Ancillary_Materials\/Reference\/Organic_Chemistry_Glossary\/Ylide","https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_Structure_and_Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_(Schaller)\/III%3A_Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_1\/03%3A_Addition_to_Carbonyls\/3.13%3A_Addition_of_Ylides","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)\/16%3A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group\/16.06%3A_Catalytic_Hydrogenation"]}</script>
+        <script type="application/ld+json" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry","name":"Organic Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)","name":"Basic Principles of Organic Chemistry (Roberts and Caserio)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)\/16%3A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group","name":"16: Carbonyl Compounds I- Aldehydes and Ketones. Addition Reactions of the Carbonyl Group"}}]}</script>
+
+        <title>16.5: Typical Carbonyl-Addition Reactions - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+@media print {
+     
+
+.mt-content-container .mt-responsive-table, .mt-content-container table {
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 1rem !important;
+}
+
+.mt-content-container .mt-responsive-table caption, .mt-content-container table caption { 
+    display: table-caption;
+    text-align: center;
+    font-size: 90%;
+    padding: 0 0 0.2rem 0;
+}
+
+.mt-content-container .mt-responsive-table th, .mt-content-container table th {
+  font-size: inherit;
+  vertical-align: middle;
+  border-bottom: 1px solid #E8E8E8;
+  margin: inherit;
+  padding: 0.4em !important;
+}
+
+.mt-content-container .mt-responsive-table tr, .mt-content-container table tr {
+  page-break-inside:avoid; 
+  page-break-after:auto;
+  margin: inherit;
+  font-size: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+  border-bottom: 1px solid #E8E8E8;
+}
+    
+.mt-content-container .mt-responsive-table td, .mt-content-container table td {
+  border: 1px solid #E8E8E8;
+  page-break-inside: avoid !important;
+  page-break-before: avoid;
+  margin: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+}
+
+.mt-content-container table ol, 
+.mt-content-container table ul,
+.mt-content-container table p,
+.mt-content-container table ol,
+.mt-content-container table ul,
+.mt-content-container table p {
+    font-size: inherit;
+    margin: inherit;
+}
+
+mjx-container svg path,
+mjx-container svg use {
+  stroke: none !important;
+  stroke-width: 0 !important;
+}
+    
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":22268,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"16.5: Typical Carbonyl-Addition Reactions","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"15","pageSectionEditable":false,"pageTitle":"Bookshelves\/Organic Chemistry\/Basic Principles of Organic Chemistry (Roberts and Caserio)\/16: Carbonyl Compounds I- Aldehydes and Ketones. Addition Reactions of the Carbonyl Group\/16.05: Typical Carbonyl-Addition Reactions","pageViewId":"b3f953c9-27b4-4480-8f39-acfd9c3fe874","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"MWNhNDZlMWYtN2RjMS00YmY5LWFiMWQtNjAxNjM4MmIwMDYwfDIwMjYtMDUtMDJUMDE6NTc6MDU=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778041940_9ab684d25a1fc6fc4946d376abd38fa476f0bedcbc03a02febc1303245f8ead1","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-organicchemistry-basicprinciplesoforganicchemistry%28robertsandcaserio%29-16%3Acarbonylcompoundsi-aldehydesandketones.additionreactionsofthecarbonylgroup-16.05%3Atypicalcarbonyl-additionreactions columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">16: Carbonyl Compounds I- Aldehydes and Ketones. Addition Reactions of the Carbonyl Group</div><div style="display:none" id="parentParentTitleHolder">Basic Principles of Organic Chemistry (Roberts and Caserio)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;16.01:_Prelude_to_Aldehydes_and_Ketones&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.02:_The_Carbonyl_Bond&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.03:_Physical_Properties&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.04:_Spectroscopic_Properties&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.05:_Typical_Carbonyl-Addition_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.06:_Catalytic_Hydrogenation&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.07:_Reduction_of_Carbonyl_Compounds_to_Hydrocarbons&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.08:_Oxidation_of_Carbonyl_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.09:_Protection_of_Carbonyl_Groups&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.10:_Preparative_Methods_for_Aldehydes_and_Ketones&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.11:_General_Methods_for_the_Preparation_of_Aldehydes_and_Ketones&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16.E:_Carbonyl_Compounds_I_(Exercises)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_Introduction_to_Organic_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_Structural_Organic_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_Organic_Nomenclature&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:_Alkanes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05:_Stereoisomerism_of_Organic_Molecules&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06:_Bonding_in_Organic_Molecules&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07:_Other_Compounds_than_Hydrocarbons&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08:_Nucleophilic_Substitution_and_Elimination_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09:_Separation_Purification_and_Identification_of_Organic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10:_Alkenes_and_Alkynes_I_-_Ionic_and_Radical_Addition_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;11:_Alkenes_and_Alkynes_II_-_Oxidation_and_Reduction_Reactions._Acidity_of_Alkynes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12:_Cycloalkanes_Cycloalkenes_and_Cycloalkynes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Polyfunctional_Compounds_Alkadienes_and_Approaches_to_Organic_Synthesis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_Organohalogen_and_Organometallic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Alcohols_and_Ethers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;17:_Carbonyl_Compounds_II-_Enols_and_Enolate_Anions._Unsaturated_and_Polycarbonyl_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;18:_Carboxylic_Acids_and_Their_Derivatives&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19:_More_on_Stereochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20:_Carbohydrates&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21:_Resonance_and_Molecular_Orbital_Methods&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;22:_Arenes_Electrophilic_Aromatic_Substitution&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23:_Organonitrogen_Compounds_I_-_Amines&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;24:_Organonitrogen_Compounds_II_-_Amides_Nitriles_and_Nitro_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;25:_Amino_Acids_Peptides_and_Proteins&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;26:_More_on_Aromatic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27:_More_about_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;28:_Photochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;29:_Polymers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;30:_Natural_Products_and_Biosynthesis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;31:_Transition_Metal_Organic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Sat, 31 Jul 2021 17:07:59 GMT</div><div style="display:none" id="titleHolder">16.5: Typical Carbonyl-Addition Reactions</div><div style="display:none" id="IDHolder">22268</div><div style="display:none" id="pageIDHolder">22268</div><div style="display:none" id="pageAuthorHolder">admin</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;Ylides&quot;, &quot;Witting rearrangement&quot;, &quot;Cannizzaro reaction&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;autonumheader:yes2&quot;, &quot;authorname:robertscaserio&quot;, &quot;licenseversion:40&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;Ylides&quot;, &quot;Witting rearrangement&quot;, &quot;Cannizzaro reaction&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;autonumheader:yes2&quot;, &quot;authorname:robertscaserio&quot;, &quot;licenseversion:40&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FBasic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)%2F16%253A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group%2F16.05%253A_Typical_Carbonyl-Addition_Reactions</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FBasic_Principles_of_Organic_Chemistry_%28Roberts_and_Caserio%29%2F16%3A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group%2F16.05%3A_Typical_Carbonyl-Addition_Reactions" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FBasic_Principles_of_Organic_Chemistry_%28Roberts_and_Caserio%29%2F16%3A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group%2F16.05%3A_Typical_Carbonyl-Addition_Reactions" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Basic Principles of Organic Chemistry (Roberts and Caserio)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16%3A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    16: Carbonyl Compounds I- Aldehydes and Ketones. Addition Reactions of the Carbonyl Group
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            16.5: Typical Carbonyl-Addition Reactions
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        16.5: Typical Carbonyl-Addition Reactions
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2021-07-31T17:07:59Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/22268/pdf/16.5%253A%2bTypical%2bCarbonyl-Addition%2bReactions.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>22268</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+<div class="mt-author-container"><ul><li class="mt-author-image mt-author-image-crop"><img src="https://biz.libretexts.org/@api/deki/files/5084/girl-160172__340.png" alt=" " title="John D. Roberts and Marjorie C. Caserio" /></li><li class="mt-author-information"><a rel="external" target="_blank" href="https://en.wikipedia.org/wiki/John_D._Roberts">John D. Roberts and Marjorie C. Caserio</a></li><li class="mt-author-companyname"><a rel="external" target="_blank" href="https://www.caltech.edu">California Institute of Technology</a></li></ul></div>
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Addition_of_Carbon_Nucleophiles" rel="internal">Addition of Carbon Nucleophiles</a><ol><li><a href="#Cyanohydrin_Formation" rel="internal">Cyanohydrin Formation</a></li><li><a href="#Addition_of_Organometallic_Reagents_(See_Section_14-12A)" rel="internal">Addition of Organometallic Reagents (See Section 14-12A)</a></li><li><a href="#Addition_of_Enolate_Anions_(See_Section_17-3)" rel="internal">Addition of Enolate Anions (See Section 17-3)</a></li><li><a href="#Addition_of_Ylide_Reagents" rel="internal">Addition of Ylide Reagents</a></li></ol></li><li><a href="#Addition_of_Oxygen_and_Sulfur_Nucleophiles" rel="internal">Addition of Oxygen and Sulfur Nucleophiles</a><ol><li><a href="#Alcohols.2C_Thiols.2C_Water" rel="internal">Alcohols, Thiols, Water</a></li><li><a href="#Hydrogen_Sulfite_(Bisulfite)_Addition_to_Carbonyl_Compound" rel="internal">Hydrogen Sulfite (Bisulfite) Addition to Carbonyl Compound</a></li><li><a href="#Polymerization_of_Aldehydes" rel="internal">Polymerization of Aldehydes</a></li></ol></li><li><a href="#Nitrogen_Nucleophiles" rel="internal">Nitrogen Nucleophiles</a><ol><li><a href="#Reactions_of_.5C(.5Cce.7BRNH_2.7D.5C)_Derivatives_with_Carbonyl_Compounds" rel="internal">Reactions of \(\ce{RNH_2}\) Derivatives with Carbonyl Compounds</a></li><li><a href="#Addition_of_Ammonia_to_Aldehydes" rel="internal">Addition of Ammonia to Aldehydes</a></li><li><a href="#Enamines" rel="internal">Enamines</a></li></ol></li><li><a href="#Hydrogen-Halide_Addition_to_Carbonyl_Groups_and_Replacement_of_Carbonyl_by_Halogen" rel="internal">Hydrogen-Halide Addition to Carbonyl Groups and Replacement of Carbonyl by Halogen</a></li><li><a href="#Hydride_as_a_Nucleophile._Reduction_of_Carbonyl_Compounds" rel="internal">Hydride as a Nucleophile. Reduction of Carbonyl Compounds</a><ol><li><a href="#Metal_and_Boron_Hydrides" rel="internal">Metal and Boron Hydrides</a></li><li><a href="#The_Cannizzaro_Reaction" rel="internal">The Cannizzaro Reaction</a></li><li><a href="#Reduction_with_Aluminum_Alkoxides" rel="internal">Reduction with Aluminum Alkoxides</a></li><li><a href="#Biological_Reactions" rel="internal">Biological Reactions</a></li></ol></li><li><a href="#Contributors_and_Attributions" rel="internal">Contributors and Attributions</a></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <p class="lt-chem-22268">We turn now to discuss a few specific addition reactions of the carbonyl groups of aldehydes and ketones. We shall not attempt to provide an extensive catalog of reactions, but will try to emphasize the principles involved with especially important reactions that are useful in synthesis.</p>
+
+<p class="lt-chem-22268">Grignard reagents, organolithium compounds, and the like generally add to aldehydes and ketones rapidly and irreversibly, but the same is not true of many other reagents; their addition reactions may require acidic or basic catalysts; the adducts may be formed reversibly and with relatively unfavorable equilibrium constants. Also, the initial adducts may be unstable and react further by elimination. (We recommend that you review Section 15-4E to see examples of these points.) To organize this very large number of addition reactions, we have arranged the reactions according to the nucleophile that adds to the carbonyl carbon. The types of nucleophiles considered here form \(\ce{C-C}\), \(\ce{C-O}\), \(\ce{C-N}\), \(\ce{C}\)-halogen, \(\ce{C-S}\), and \(\ce{C-H}\) bonds. A summary is given in Table 16-4.</p>
+
+<p class="mt-align-center lt-chem-22268"><strong><em>Table 16-4:</em></strong><em> Addition Reactions of Aldehydes and </em><em>Ketones</em></p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 492px; height: 723px;" width="492px" height="723px" class="internal" alt="Roberts and Caserio Screenshot 16-4-1.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86602/Roberts_and_Caserio_Screenshot_16-4-1.png?revision=1&amp;size=bestfit&amp;width=492&amp;height=723" /></p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 480px; height: 229px;" width="480px" height="229px" class="internal" alt="Roberts and Caserio Screenshot 16-4-2.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86603/Roberts_and_Caserio_Screenshot_16-4-2.png?revision=1&amp;size=bestfit&amp;width=480&amp;height=229" /></p>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_1"><span id="Addition_of_Carbon_Nucleophiles"></span><h2 class="lt-chem-22268 editable">Addition of Carbon Nucleophiles</h2>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_2"><span id="Cyanohydrin_Formation"></span><h3 class="lt-chem-22268 editable">Cyanohydrin Formation</h3>
+
+<p class="lt-chem-22268">Hydrogen cyanide adds to many aldehydes and ketones to give hydroxylnitriles, usually called &quot;cyanohydrins&quot;:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 337px; height: 78px;" width="337px" height="78px" class="internal" alt="Roberts and Caserio Screenshot 16-4-3.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86604/Roberts_and_Caserio_Screenshot_16-4-3.png?revision=1&amp;size=bestfit&amp;width=337&amp;height=78" /></p>
+
+<p class="lt-chem-22268">The products are useful in synthesis - for example, in the preparation of cyanoalkenes and hydroxy acids:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 476px; height: 150px;" width="476px" height="150px" class="internal" alt="Roberts and Caserio Screenshot 16-4-4.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86605/Roberts_and_Caserio_Screenshot_16-4-4.png?revision=1&amp;size=bestfit&amp;width=476&amp;height=150" /></p>
+
+<p class="lt-chem-22268">An important feature of cyanohydrin formation is that it requires a basic catalyst. In the absence of base, the reaction does not proceed, or is at best very slow. In principle, the basic catalyst may activate either the carbonyl group or hydrogen cyanide. With hydroxide ion as the base, one reaction to be expected is a reversible addition of hydroxide to the carbonyl group:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 236px; height: 87px;" width="236px" height="87px" class="internal" alt="Roberts and Caserio Screenshot 16-4-5.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86606/Roberts_and_Caserio_Screenshot_16-4-5.png?revision=1&amp;size=bestfit&amp;width=236&amp;height=87" /></p>
+
+<p class="lt-chem-22268">However, such addition is not likely to facilitate formation of cyanohydrin because it represents a <em>competitive</em> saturation of the carbonyl double bond. Indeed, if the equilibrium constant for this addition were large, an excess of hydroxide ion could inhibit cyanohydrin formation by tying up the ketone as the adduct \(1\).</p>
+
+<p class="lt-chem-22268">Hydrogen cyanide itself has no unshared electron pair on carbon and does not form a <em>carbon-carbon</em> bond to a carbonyl carbon. However, a small amount of a strong base can activate hydrogen cyanide by converting it to cyanide ion, which can function as a carbon nucleophile. A complete sequence for cyanohydrin formation follows:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 343px; height: 159px;" width="343px" height="159px" class="internal" alt="Roberts and Caserio Screenshot 16-4-6.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86607/Roberts_and_Caserio_Screenshot_16-4-6.png?revision=1&amp;size=bestfit&amp;width=343&amp;height=159" /></p>
+
+<p class="lt-chem-22268">The second step regenerates the cyanide ion. Each step of the reaction is reversible but, with aldehydes and most nonhindered ketones, formation of the cyanohydrin is reasonably favorable. In practical syntheses of cyanohydrins, it is convenient to add a strong acid to a mixture of sodium cyanide and the carbonyl compound, so that hydrogen cyanide is generated <em>in situ</em>. The amount of acid added should be insufficient to consume all the cyanide ion, therefore sufficiently alkaline conditions are maintained for rapid addition.</p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_3"><span id="Addition_of_Organometallic_Reagents_(See_Section_14-12A)"></span><h3 class="lt-chem-22268 editable">Addition of Organometallic Reagents (See Section 14-12A)</h3>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_4"><span id="Addition_of_Enolate_Anions_(See_Section_17-3)"></span><h3 class="lt-chem-22268 editable">Addition of Enolate Anions (See Section 17-3)</h3>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_5"><span id="Addition_of_Ylide_Reagents"></span><h3 class="lt-chem-22268 editable">Addition of Ylide Reagents</h3>
+
+<p class="lt-chem-22268">There are a number of rather interesting substances for which we can write important dipolar valence-bond structures of the type <img style="width: 54px; height: 44px;" width="54px" height="44px" class="internal" alt="Roberts and Caserio Screenshot 16-4-7.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86608/Roberts_and_Caserio_Screenshot_16-4-7.png?revision=1&amp;size=bestfit&amp;width=54&amp;height=44" />. The important factor with these structures is that the negative end of the dipole is <em>carbon with an unshared electron pair</em>. The positive end of the dipole can be several kinds of atoms or groups, the most usual being sulfur, phosphorus, or nitrogen. Some examples (each written here as a single dipolar valence-bond structure) are:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 406px; height: 118px;" width="406px" height="118px" class="internal" alt="Roberts and Caserio Screenshot 16-4-8.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86609/Roberts_and_Caserio_Screenshot_16-4-8.png?revision=1&amp;size=bestfit&amp;width=406&amp;height=118" /></p>
+
+<p class="lt-chem-22268">The systematic naming of these substances is cumbersome, but they have come to be known as <strong>ylides</strong>. The genesis of this name may seem obscure, but it is an attempt to reconcile the presence of a \(\ce{C-X}\) \(\sigma\) bond, which is covalent and nonpolar as in alk<em>yl</em> derivatives, as well as an ionic bond as in metal hal<em>ides</em>. Hence, the combination <em>yl-lide</em>.\(^2\)</p>
+
+<p class="lt-chem-22268">As we might expect from the dipolar structure, ylides can behave as carbon nucleophiles to form carbon-carbon bonds by addition to the carbonyl groups of aldehydes and ketones:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 215px; height: 75px;" width="215px" height="75px" class="internal" alt="Roberts and Caserio Screenshot 16-4-9.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86610/Roberts_and_Caserio_Screenshot_16-4-9.png?revision=1&amp;size=bestfit&amp;width=215&amp;height=75" /></p>
+
+<p class="lt-chem-22268">However, the further course of reaction depends on the type of ylide used. In the case of phosphorus ylides, the overall reaction amounts to a very useful <em>synthesis of alkenes</em> by the transfer of oxygen to phosphorus and carbon to carbon, as summarized in Equation 16-1. This is called the <b>Witting reaction</b>:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 477px; height: 132px;" width="477px" height="132px" class="internal" alt="Roberts and Caserio Screenshot 16-4-10.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86611/Roberts_and_Caserio_Screenshot_16-4-10.png?revision=1&amp;size=bestfit&amp;width=477&amp;height=132" /></p>
+
+<p class="lt-chem-22268">Reactions with sulfur ylides proceed differently. The prodcuts are oxacylcopropanes (oxiranes) - not alkenes. The addition step proceeds as with the phosphorus ylides, but the negatively charged oxygen of the dipolar adduct then displaces the sulfonium group as a neutral sulfide. This is an intramolecular \(S_\text{N}2\) reaction similar to the formation of oxacyclopropanes from vicinal chloroalcohols (Section 15-11C):</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 342px; height: 80px;" width="342px" height="80px" class="internal" alt="Roberts and Caserio Screenshot 16-4-11.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86612/Roberts_and_Caserio_Screenshot_16-4-11.png?revision=1&amp;size=bestfit&amp;width=342&amp;height=80" /></p>
+
+<p class="lt-chem-22268">As for the nitrogen ylides, a useful reagent of this type is diazomethane, \(\ce{CH_2N_2}\). Diaxomethane can react with carbonyl compounds in different ways, depending on what happens to the initial adduct \(2\). Oxacyclopropanes are formed if the nitrogen is simply displaced (as \(\ce{N_2}\)) by oxygen (Path \(a\), Equation 16-2). Ketones of rearranged carbon framework result if nitrogen is displaced \(as \(\ce{N_2}\)) by \(\ce{R}^\ominus\) which moves over to the \(\ce{CH_2}\) group (Path \(b\), Equation 16-2):</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 479px; height: 122px;" width="479px" height="122px" class="internal" alt="Roberts and Caserio Screenshot 16-4-12.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86613/Roberts_and_Caserio_Screenshot_16-4-12.png?revision=1&amp;size=bestfit&amp;width=479&amp;height=122" /></p>
+
+<p class="lt-chem-22268">Diazoketones, \(\ce{RCOCHN_2}\), are formed if there is a good leaving group, such as halogen, on the carbonyl (Equation 16-3). Under these circumstances the reactant is an acid halide, not an aldehyde or ketone:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 439px; height: 162px;" width="439px" height="162px" class="internal" alt="Roberts and Caserio Screenshot 16-4-13.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86614/Roberts_and_Caserio_Screenshot_16-4-13.png?revision=1&amp;size=bestfit&amp;width=439&amp;height=162" /></p>
+
+</div></div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_6"><span id="Addition_of_Oxygen_and_Sulfur_Nucleophiles"></span><h2 class="lt-chem-22268 editable">Addition of Oxygen and Sulfur Nucleophiles</h2>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_7"><span id="Alcohols.2C_Thiols.2C_Water"></span><h3 class="lt-chem-22268 editable">Alcohols, Thiols, Water</h3>
+
+<p class="lt-chem-22268">We already have discussed additions of alcohols and, by analogy, thiols \(\left( \ce{RSH} \right)\) to carbonyl compounds (see Section 15-4E). We will not repeat this discussion here except to point out that addition of <em>water</em> to the carbonyl group of an aldehyde is analogous to hemiacetal formation (Section 15-4E) and is catalyzed both by acids and bases:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 409px; height: 72px;" width="409px" height="72px" class="internal" alt="Roberts and Caserio Screenshot 16-4-14.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86813/Roberts_and_Caserio_Screenshot_16-4-14.png?revision=1&amp;size=bestfit&amp;width=409&amp;height=72" /></p>
+
+<p class="lt-chem-22268">The equilibrium for hydrate formation depends both on steric and electrical factors. Methanal is \(99.99\%\) hydrated in aqueous solution, ethanal is \(58\%\) hydrated, and 2-propanone is not hydrated significantly. The hydrates seldom can be isolated because they readily revert to the parent aldehyde. The only stable crystalline hydrates known are those having strongly electronegative groups associated with the carbonyl (see Section 15-7).</p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_8"><span id="Hydrogen_Sulfite_(Bisulfite)_Addition_to_Carbonyl_Compound"></span><h3 class="lt-chem-22268 editable">Hydrogen Sulfite (Bisulfite) Addition to Carbonyl Compound</h3>
+
+<p class="lt-chem-22268">Several carbonyl additions have characteristics similar to those of cyanohydrin formation. A typical example is the addition of sodium hydrogen sulfite, which proceeds readily with good conversion in aqueous solution with most aldehydes, methyl ketones, and unhindered cyclic ketones to form a carbon-sulfur bond. No catalyst is required because sulfite is an efficient nucleophilic agent. The addition step evidently involves the sulfite ion - not hydrogen sulfite ion:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 348px; height: 194px;" width="348px" height="194px" class="internal" alt="Roberts and Caserio Screenshot 16-4-15.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86814/Roberts_and_Caserio_Screenshot_16-4-15.png?revision=1&amp;size=bestfit&amp;width=348&amp;height=194" /></p>
+
+<p class="lt-chem-22268">The addition products often are nicely crystalline solids that are insoluble in excess concentrated sodium hydrogen sulfite solution. Whether soluble or insoluble, the addition products are useful for separating carbonyl compounds from substances that do not react with sodium hydrogen sulfite.</p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_9"><span id="Polymerization_of_Aldehydes"></span><h3 class="lt-chem-22268 editable">Polymerization of Aldehydes</h3>
+
+<p class="lt-chem-22268">A reaction closely related to acetal formation is the polymerization of aldehydes. Both linear and cyclic polymers are obtained. For example, methanal in water solution polymerizes to a solid ling-chain polymer called paraformaldehyde or &quot;polyoxymethylene&quot;:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 439px; height: 58px;" width="439px" height="58px" class="internal" alt="Roberts and Caserio Screenshot 16-4-16.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86815/Roberts_and_Caserio_Screenshot_16-4-16.png?revision=1&amp;size=bestfit&amp;width=439&amp;height=58" /></p>
+
+<p class="lt-chem-22268">This material, when strongly heated, reverts to methanal; it therefore is a convenient source of gaseous methanal. When heated with dilute acid, paraformaldehyde yields the solid trimer, 1,3,5-trioxycyclohexane (mp \(61^\text{o}\)). The cyclic tetramer is also known.</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 130px; height: 114px;" width="130px" height="114px" class="internal" alt="Roberts and Caserio Screenshot 16-4-17.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86816/Roberts_and_Caserio_Screenshot_16-4-17.png?revision=1&amp;size=bestfit&amp;width=130&amp;height=114" /></p>
+
+<p class="lt-chem-22268">Long-chain methanal polymers have become very important as plastics in recent years. The low cost of paraformaldehyde is highly favorable in this connection, but the instability of the material to elevated temperatures and dilute acids precludes its use in plastics. However, the &quot;end-capping&quot; of polyoxymethylene chains through formation of esters or acetals produces a remarkable increase in stability, and such modified polymers have excellent properties as plastics. Delrin (DuPont) is a stabilized methanal polymer with exceptional strengths and ease of molding.</p>
+
+<p class="lt-chem-22268">Ethanal (acetaldehyde) polymerizes under the influence of acids to the cyclic trimer, &quot;paraldehyde&quot;, and a cyclic tetramer, &quot;metaldehyde&quot;. Paraldehyde has been used as a relatively nontoxic sleep-producing drug (hypnotic). Metaldehyde is used as a poison for snails and slugs, &quot;Snarol&quot;. Ketones do not appear to form stable polymers like those of aldehydes.</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 402px; height: 152px;" width="402px" height="152px" class="internal" alt="Roberts and Caserio Screenshot 16-4-18.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86817/Roberts_and_Caserio_Screenshot_16-4-18.png?revision=1&amp;size=bestfit&amp;width=402&amp;height=152" /></p>
+
+</div></div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_10"><span id="Nitrogen_Nucleophiles"></span><h2 class="lt-chem-22268 editable">Nitrogen Nucleophiles</h2>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_11"><span id="Reactions_of_.5C(.5Cce.7BRNH_2.7D.5C)_Derivatives_with_Carbonyl_Compounds"></span><h3 class="lt-chem-22268 editable">Reactions of \(\ce{RNH_2}\) Derivatives with Carbonyl Compounds</h3>
+
+<p class="lt-chem-22268">A wide variety of substances with \(\ce{-NH_2}\) groups react with aldehydes and ketones by an addition-elimination sequence to give <img style="width: 62px; height: 36px;" width="62px" height="36px" class="internal" alt="Roberts and Caserio Screenshot 16-4-19.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86818/Roberts_and_Caserio_Screenshot_16-4-19.png?revision=1&amp;size=bestfit&amp;width=62&amp;height=36" /> compounds and water. These reactions usually require acid catalysts:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 296px; height: 59px;" width="296px" height="59px" class="internal" alt="Roberts and Caserio Screenshot 16-4-20.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86819/Roberts_and_Caserio_Screenshot_16-4-20.png?revision=1&amp;size=bestfit&amp;width=296&amp;height=59" /></p>
+
+<p class="lt-chem-22268">Table 16-5 summarizes several important reactions of this type and the nomenclature of the reactants and products.</p>
+
+<p class="mt-align-center lt-chem-22268"><strong><em>Table 16-5:</em></strong><em> Products from Reactions of Carbonyl Compounds with \(\ce{RNH_2}\) Derivatives</em></p>
+
+<figure><img style="width: 480px; height: 704px;" width="480px" height="704px" class="internal" alt="Roberts and Caserio Screenshot 16-4-22.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86821/Roberts_and_Caserio_Screenshot_16-4-22.png?revision=1&amp;size=bestfit&amp;width=480&amp;height=704" /><figcaption>Figure 16-4 shows schematically the type of behavior observed. We can understand the maximum in rate by considering the rates and equilibria involving \(\ce{RNH_2}\) and the carbonyl compound as well as the rate of dehydration, Equations 16-4 through 16-6.</figcaption></figure>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 367px; height: 150px;" width="367px" height="150px" class="internal" alt="Roberts and Caserio Screenshot 16-4-21.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86820/Roberts_and_Caserio_Screenshot_16-4-21.png?revision=1&amp;size=bestfit&amp;width=367&amp;height=150" /></p>
+
+<figure><img style="width: 288px; height: 224px;" width="288px" height="224px" class="internal" alt="Roberts and Caserio Screenshot 16-4-23.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86822/Roberts_and_Caserio_Screenshot_16-4-23.png?revision=1&amp;size=bestfit&amp;width=288&amp;height=224" /><figcaption>Figure 16-4: Schematic variation of the rate of condensation of \(\ce{RNH_2}\) with a carbonyl compound as a function of pH.</figcaption></figure>
+
+<p class="lt-chem-22268">Clearly, if the unshared electron pair on the nitrogen of \(\ce{RNH_2}\) is combined with a proton, Equation 16-4, it cannot attack the carbonyl carbon to give the aminoalkanol as in Equation 16-5. So at high acid concentration (low pH) we expect the rate and the equilibrium for the overall reaction to be unfavorable. In more dilute acid, the rate picks up because there is more free \(\ce{RNH_2}\) in solution. Dehydration of the aminoalkanol (Equation 16-6) is acid catalyzed; this reaction normally is fast at pH values smaller than 3-4. Therefore, the slow step at pH \(&lt;\) 4 is addition of \(\ce{RNH_2}\) to the carbonyl group as per Equation 16-5. As the pH is increased above 4, the addition becomes progressively faster because less \(\ce{RNH_2}\) is tied up as \(\ce{RNH_3^+}\). However, then the dehydration step, Equation 16-6, decreases in rate because it requires an acid catalyst. At pH 6 (remember that going from pH 4 to pH 6 is a 100-fold decrease in \(\ce{H}^\oplus\) concentration), dehydration is the slow step, and at higher pH values it finally becomes too slow to give a useful overall rate of reaction. This sequence of changes in rate and equilibria has been shown to account precisely for rate <em>vs</em>. pH curves such as in Figure 16-4.</p>
+
+<p class="lt-chem-22268">Dehydration of \(\ce{(CH_3)_2CHNR(OH)}\) to \(\ce{(CH_3)_2C=NR}\) involves acid catalysis in very much the same way as in acetal formation (Section 15-4E):</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 428px; height: 71px;" width="428px" height="71px" class="internal" alt="Roberts and Caserio Screenshot 16-4-24.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86823/Roberts_and_Caserio_Screenshot_16-4-24.png?revision=1&amp;size=bestfit&amp;width=428&amp;height=71" /></p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_12"><span id="Addition_of_Ammonia_to_Aldehydes"></span><h3 class="lt-chem-22268 editable">Addition of Ammonia to Aldehydes</h3>
+
+<p class="lt-chem-22268">Ammonia adds readily to many aldehydes. For example,</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 390px; height: 121px;" width="390px" height="121px" class="internal" alt="Roberts and Caserio Screenshot 16-4-25.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86824/Roberts_and_Caserio_Screenshot_16-4-25.png?revision=1&amp;size=bestfit&amp;width=390&amp;height=121" /></p>
+
+<p class="lt-chem-22268">The aldehyde-ammonia adducts usually are not very stable. They readily undergo dehydration and polymerization. 1-Aminoethanol, for example, gives a cyclic trimer composition \(\ce{C_6H_{15}N_3} \cdot 3 \ce{H_2O}\), mp \(97^\text{o}\), with structure \(4\):</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 296px; height: 121px;" width="296px" height="121px" class="internal" alt="Roberts and Caserio Screenshot 16-4-26.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86825/Roberts_and_Caserio_Screenshot_16-4-26.png?revision=1&amp;size=bestfit&amp;width=296&amp;height=121" /></p>
+
+<p class="lt-chem-22268">Methanal and ammonia react by a different course with the formation of a substance known as &quot;hexamethylenetetramine&quot;:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 235px; height: 51px;" width="235px" height="51px" class="internal" alt="Roberts and Caserio Screenshot 16-4-27.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86826/Roberts_and_Caserio_Screenshot_16-4-27.png?revision=1&amp;size=bestfit&amp;width=235&amp;height=51" /></p>
+
+<p class="lt-chem-22268">The product is a high-melting solid (mp \(&gt; \: 230^\text{o}\) d.) and its structure has been established by x-ray diffraction (Section 9-3). In fact, it was the first organic substance whose structure was determined in this way. The high melting point is clearly associated with the considerable symmetry and rigidity of the cage structure:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 180px; height: 156px;" width="180px" height="156px" class="internal" alt="Roberts and Caserio Screenshot 16-4-28.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86827/Roberts_and_Caserio_Screenshot_16-4-28.png?revision=1&amp;size=bestfit&amp;width=180&amp;height=156" /></p>
+
+<p class="lt-chem-22268">The corresponding all-carbon compound, adamantane (Section 12-8), also has a high melting point \(\left( 268^\text{o} \right)\):</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 201px; height: 119px;" width="201px" height="119px" class="internal" alt="Roberts and Caserio Screenshot 16-4-29.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86828/Roberts_and_Caserio_Screenshot_16-4-29.png?revision=1&amp;size=bestfit&amp;width=201&amp;height=119" /></p>
+
+<p class="lt-chem-22268">Treatment of hexamethylenetetramine with nitric acid gives the high explosive &quot;cyclonite&quot;, which often is designated as RDX and was widely used in World War II:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 375px; height: 103px;" width="375px" height="103px" class="internal" alt="Roberts and Caserio Screenshot 16-4-30.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86829/Roberts_and_Caserio_Screenshot_16-4-30.png?revision=1&amp;size=bestfit&amp;width=375&amp;height=103" /></p>
+
+<p class="lt-chem-22268">Then methanal and ammonia that split off the cage structure during the reaction with nitric acid need not be wasted. In the large-scale manufacture of cyclonite, a combination of nitric acid, ammonium nitrate, and ethanoic anhydride is used, which results in full utilization of the methanal and ammonia:</p>
+
+<p class="mt-align-center lt-chem-22268">\[\ce{C_6H_{12}N_4} + 4 \ce{HNO_3} + 2 \ce{NH_4NO_3} + 6 \ce{(CH_3CO)_2O} \rightarrow 2 \ce{C_3H_6O_6N_6} + 12 \ce{CH_3CO_2H}\]</p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_13"><span id="Enamines"></span><h3 class="lt-chem-22268 editable">Enamines</h3>
+
+<p class="lt-chem-22268">Secondary amino compounds of the type \(\ce{R_2N-H}\) add to aldehyde and ketone carbonyl groups in an acid-catalyzed reaction in much the same way as do \(\ce{RNH_2}\) compounds - with one important difference. The product contains the structural unit \(\ce{C=C-N}\) rather than \(\ce{C-C=N}\); and because there is a carbon-carbon double bond, such a substance is called an enamine (alk<em>ene</em> \(+\) <em>amine</em>). An example is:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 349px; height: 106px;" width="349px" height="106px" class="internal" alt="Roberts and Caserio Screenshot 16-4-31.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86830/Roberts_and_Caserio_Screenshot_16-4-31.png?revision=1&amp;size=bestfit&amp;width=349&amp;height=106" /></p>
+
+<p class="lt-chem-22268">The course of this reaction can be understood if we notice that loss of \(\ce{OH}\) from the initial product leads to an immonium ion, \(5\), that cannot lose a proton and form a \(\ce{C=N}\) bond:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 477px; height: 90px;" width="477px" height="90px" class="internal" alt="Roberts and Caserio Screenshot 16-4-32.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86831/Roberts_and_Caserio_Screenshot_16-4-32.png?revision=1&amp;size=bestfit&amp;width=477&amp;height=90" /></p>
+
+<p class="lt-chem-22268">However, if there is a hydrogen on a carbon attached to the immonium carbon, it is possible for such a hydrogen to be lost as a proton with concurrent formation of the neutral enamine:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 347px; height: 99px;" width="347px" height="99px" class="internal" alt="Roberts and Caserio Screenshot 16-4-33.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86832/Roberts_and_Caserio_Screenshot_16-4-33.png?revision=1&amp;size=bestfit&amp;width=347&amp;height=99" /></p>
+
+<p class="lt-chem-22268">Enamine formation, like many other carbonyl addition reactions, is readily reversible, and the carbonyl compound can be recovered by hydrolysis with aqueous acids. For this reason, to obtain a good conversion of carbonyl compound to enamine, it usually is necessary to remove the water that is formed by distilling it away from the reaction mixture.</p>
+
+<p class="lt-chem-22268">Enamines are useful synthetic intermediates for the formation of carbon-carbon bonds, as we will discuss in greater detail in Section 17-4B.</p>
+
+<p class="lt-chem-22268">Enamines generally are unstable if there is a hydrogen on nitrogen. They rearrange to the corresponding imine. This behavior is analogous to the rearrangement of alkenols to carbonyl compounds (Section 10-5A):</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 213px; height: 168px;" width="213px" height="168px" class="internal" alt="Roberts and Caserio Screenshot 16-4-34.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86833/Roberts_and_Caserio_Screenshot_16-4-34.png?revision=1&amp;size=bestfit&amp;width=213&amp;height=168" /></p>
+
+</div></div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_14"><span id="Hydrogen-Halide_Addition_to_Carbonyl_Groups_and_Replacement_of_Carbonyl_by_Halogen"></span><h2 class="lt-chem-22268 editable">Hydrogen-Halide Addition to Carbonyl Groups and Replacement of Carbonyl by Halogen</h2>
+
+<p class="lt-chem-22268">Addition of hydrogen halides to carbonyl groups usually is so easily reversible as to preclude isolation of the addition products:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 219px; height: 75px;" width="219px" height="75px" class="internal" alt="Roberts and Caserio Screenshot 16-4-35.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86834/Roberts_and_Caserio_Screenshot_16-4-35.png?revision=1&amp;size=bestfit&amp;width=219&amp;height=75" /></p>
+
+<p class="lt-chem-22268">However, many aldehydes react with alcohols in the presence of an excess of hydrogen chloride to give \(\alpha\)-chloro ethers:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 476px; height: 97px;" width="476px" height="97px" class="internal" alt="Roberts and Caserio Screenshot 16-4-36.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86835/Roberts_and_Caserio_Screenshot_16-4-36.png?revision=1&amp;size=bestfit&amp;width=476&amp;height=97" /></p>
+
+<p class="lt-chem-22268">In carrying out laboratory syntheses of \(\alpha\)-chloro ethers, gaseous hydrogen chloride is passed into a mixture of the alcohol and aldehyde. Aqueous \(\ce{HCl}\) is not useful because the excess water gives an unfavorable equilibrium. \(\alpha\)-Chloro ethers are highly reactive compounds that very readily undergo \(S_\text{N}2\) as well as \(S_\text{N}1\) and \(E1\) reactions. Two simple examples, methoxychloromethane (chloromethyl methyl ether) and chloromethoxychloromethane (bis-chloromethyl ether), have been put under severe restrictions as the result of tests that show they have strong chemical carcinogenic properties.</p>
+
+<p class="lt-chem-22268">Replacement of the carbonyl function by two chlorines occurs with phosphorus pentachloride in ether:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 298px; height: 61px;" width="298px" height="61px" class="internal" alt="Roberts and Caserio Screenshot 16-4-37.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86836/Roberts_and_Caserio_Screenshot_16-4-37.png?revision=1&amp;size=bestfit&amp;width=298&amp;height=61" /></p>
+
+<p class="lt-chem-22268">This reaction is useful in conjunction with \(E2\) elimination to prepare alkenyl halides, allenes, and alkynes. Cycloalkenyl halides are easily prepared, but because of angle strain the cycloalkynes and cycloallenes with fewer than eight atoms in the ring cannot be isolated (see Section 12-7):</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 473px; height: 78px;" width="473px" height="78px" class="internal" alt="Roberts and Caserio Screenshot 16-4-38.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86837/Roberts_and_Caserio_Screenshot_16-4-38.png?revision=1&amp;size=bestfit&amp;width=473&amp;height=78" /></p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 163px; height: 80px;" width="163px" height="80px" class="internal" alt="Roberts and Caserio Screenshot 16-4-39.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86838/Roberts_and_Caserio_Screenshot_16-4-39.png?revision=1&amp;size=bestfit&amp;width=163&amp;height=80" /></p>
+
+<p class="lt-chem-22268">Replacement of a carbonyl group by <em>gem</em>-fluorines\(^3\) can be achieved with molybdenum hexafluoride or sulfur tetrafluoride. Sulfur tetrafluoride converts carboxyl functions to trifluoromethyl groups:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 411px; height: 106px;" width="411px" height="106px" class="internal" alt="Roberts and Caserio Screenshot 16-4-40.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86839/Roberts_and_Caserio_Screenshot_16-4-40.png?revision=1&amp;size=bestfit&amp;width=411&amp;height=106" /></p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_15"><span id="Hydride_as_a_Nucleophile._Reduction_of_Carbonyl_Compounds"></span><h2 class="lt-chem-22268 editable">Hydride as a Nucleophile. Reduction of Carbonyl Compounds</h2>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_16"><span id="Metal_and_Boron_Hydrides"></span><h3 class="lt-chem-22268 editable">Metal and Boron Hydrides</h3>
+
+<p class="lt-chem-22268">In recent years, inorganic hydrides such as lithium aluminum hydride, \(\ce{LiAlH_4}\), and sodium borohydride, \(\ce{NaBH_4}\), have become extremely important as reducing agents of carbonyl compounds. These reagents have considerable utility, especially with sensitive and expensive carbonyl compounds. The reduction of cyclobutanone to cyclobutanol is a good example, and you will notice that the net reaction is the addition of hydrogen across the carbonyl double bond, <img style="width: 46px; height: 38px;" width="46px" height="38px" class="internal" alt="Roberts and Caserio Screenshot 16-4-41.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86840/Roberts_and_Caserio_Screenshot_16-4-41.png?revision=1&amp;size=bestfit&amp;width=46&amp;height=38" /> \(\overset{ 2 \left[ \ce{H} \right]}{\longrightarrow}\) <img style="width: 69px; height: 38px;" width="69px" height="38px" class="internal" alt="Roberts and Caserio Screenshot 16-4-42.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86841/Roberts_and_Caserio_Screenshot_16-4-42.png?revision=1&amp;size=bestfit&amp;width=69&amp;height=38" />,</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 318px; height: 74px;" width="318px" height="74px" class="internal" alt="Roberts and Caserio Screenshot 16-4-43.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86842/Roberts_and_Caserio_Screenshot_16-4-43.png?revision=1&amp;size=bestfit&amp;width=318&amp;height=74" /></p>
+
+<p class="lt-chem-22268">With the metal hydrides, the key step is transfer of a hydride ion to the carbonyl carbon of the substance being reduced.</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 321px; height: 82px;" width="321px" height="82px" class="internal" alt="Roberts and Caserio Screenshot 16-4-44.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86843/Roberts_and_Caserio_Screenshot_16-4-44.png?revision=1&amp;size=bestfit&amp;width=321&amp;height=82" /></p>
+
+<p class="lt-chem-22268">The hydride transfer is analogous to the transfer of \(\ce{R}^\ominus\) from organometallic compounds to carbonyl groups (Section 14-12A).</p>
+
+<p class="lt-chem-22268">Lithium aluminum hydride is best handled like a Grignard reagent, because it is soluble in ether and is sensitive to both oxygen and moisture. (Lithium hydride is insoluble in organic solvents and is not an effective reducing agent for organic compounds.) All four hydrogens on aluminum can be utilized:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 474px; height: 120px;" width="474px" height="120px" class="internal" alt="Roberts and Caserio Screenshot 16-4-45.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86844/Roberts_and_Caserio_Screenshot_16-4-45.png?revision=1&amp;size=bestfit&amp;width=474&amp;height=120" /></p>
+
+<p class="lt-chem-22268">The reaction products must be decomposed with water and acid as with the Grignard complexes. Any excess lithium aluminum hydride is decomposed by water and an acid with evolution of hydrogen:</p>
+
+<p class="mt-align-center lt-chem-22268">\[\ce{LiAlH_4} + 2 \ce{H_2SO_4} \rightarrow \frac{1}{2} \ce{Li_2SO_4} + \frac{1}{2} \ce{Al_2(SO_4)_3} + 4 \ce{H_2}\]</p>
+
+<p class="lt-chem-22268">Lithium aluminum hydride usually reduces carbonyl groups without affecting carbon-carbon double bonds. It is, in addition, a good reducing agent for carbonyl groups of carboxylic acids, esters, and other acid derivatives, as will be described in Chapter 18.</p>
+
+<p class="lt-chem-22268">Sodium borohydride is a milder reducing agent than lithium aluminum hydride and will reduce aldehydes and ketones, but not acids or esters. It reacts sufficiently slowly with water in neutral or alkaline solution that reductions which are reasonably rapid can be carried out in water solution without appreciable hydrolysis of the reagent:</p>
+
+<p class="mt-align-center lt-chem-22268">\[\ce{NaBH_4} + 4 \ce{CH_2=O} + 3 \ce{H_2O} \rightarrow 4 \ce{CH_3OH} + \ce{NaOB(OH)_2}\]</p>
+
+<p class="lt-chem-22268">Borane (as \(\ce{BH_3}\) in tetrahydrofuran or dimethyl sulfide) is an even milder reducing agent than \(\ce{BH_4^+}\) for the carbonyl group of aldehydes and ketones. This difference in reactivity can be used to advantage when selective reduction is necessary. For example, borohydride reduces a ketone carbonyl more rapidly than a carbon-carbon double bond, whereas borane reduces the carbon-carbon double bond more rapidly than carbonyl:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 276px; height: 110px;" width="276px" height="110px" class="internal" alt="Roberts and Caserio Screenshot 16-4-46.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86845/Roberts_and_Caserio_Screenshot_16-4-46.png?revision=1&amp;size=bestfit&amp;width=276&amp;height=110" /></p>
+
+<p class="lt-chem-22268">A useful comparison of the reactivities of boranes and metal hydrides toward various types of multiple bonds is given in Table 16-6.</p>
+
+<p class="mt-align-center lt-chem-22268"><strong><em>Table 16-6:</em></strong><em> Comparison of Products and Reactivities of Functional Groups for Reduction with Borane and Metal Hydrides\(^{a,b}\)</em></p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 485px; height: 505px;" width="485px" height="505px" class="internal" alt="Roberts and Caserio Screenshot 16-4-48.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86847/Roberts_and_Caserio_Screenshot_16-4-48.png?revision=1&amp;size=bestfit&amp;width=485&amp;height=505" /></p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_17"><span id="The_Cannizzaro_Reaction"></span><h3 class="lt-chem-22268 editable">The Cannizzaro Reaction</h3>
+
+<p class="lt-chem-22268">A characteristic reaction of aldehydes without \(\alpha\) hydrogens is the self oxidation-reduction they undergo in the presence of strong base. With methanal as an example,</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 330px; height: 77px;" width="330px" height="77px" class="internal" alt="Roberts and Caserio Screenshot 16-4-47.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86846/Roberts_and_Caserio_Screenshot_16-4-47.png?revision=1&amp;size=bestfit&amp;width=330&amp;height=77" /></p>
+
+<p class="lt-chem-22268">If the aldehyde has \(\alpha\) hydrogens, other reactions usually occur more rapidly.</p>
+
+<p class="lt-chem-22268">The mechanism of this reaction, usually called the <strong>Cannizzaro reaction</strong>,\(^4\) combines many features of other processes studied in this chapter. The first step is reversible addition of hydroxide ion to the carbonyl group:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 217px; height: 74px;" width="217px" height="74px" class="internal" alt="Roberts and Caserio Screenshot 16-4-49.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86848/Roberts_and_Caserio_Screenshot_16-4-49.png?revision=1&amp;size=bestfit&amp;width=217&amp;height=74" /></p>
+
+<p class="lt-chem-22268">A hydrogen can be transferred as hydride ion to methanal from the hydroxyalkoxide ion, thereby reducing the methanal to methanol:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 475px; height: 164px;" width="475px" height="164px" class="internal" alt="Roberts and Caserio Screenshot 16-4-50.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86849/Roberts_and_Caserio_Screenshot_16-4-50.png?revision=1&amp;size=bestfit&amp;width=475&amp;height=164" /></p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_18"><span id="Reduction_with_Aluminum_Alkoxides"></span><h3 class="lt-chem-22268 editable">Reduction with Aluminum Alkoxides</h3>
+
+<p class="lt-chem-22268">Hydride transfer similar to that of the Cannizzaro reaction also may be achieved from a \(\ce{C-H}\) grouping in an alkoxide ion corresponding to a primary or secondary, but not a tertiary, alcohol. This is expected to be a reversible reaction, because the products are another alkoxide and another carbonyl compound:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 318px; height: 77px;" width="318px" height="77px" class="internal" alt="Roberts and Caserio Screenshot 16-4-51.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86850/Roberts_and_Caserio_Screenshot_16-4-51.png?revision=1&amp;size=bestfit&amp;width=318&amp;height=77" /></p>
+
+<p class="lt-chem-22268">To utilize this equilibrium process as a practical reduction method requires rather special conditions. It is preferable to use an aluminum alkoxide, \(\ce{Al(OR)_3}\), rather than a sodium alkoxide, \(\overset{\oplus}{\ce{Na}} \overset{\ominus}{\ce{O}} \ce{R}\), to ensure that the reaction mixture is not too strongly basic. (Carbonyl compounds, particularly aldehydes, are sensitive to strong bases.) The overall reaction may be written</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 491px; height: 59px;" width="491px" height="59px" class="internal" alt="Roberts and Caserio Screenshot 16-4-52.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86851/Roberts_and_Caserio_Screenshot_16-4-52.png?revision=1&amp;size=bestfit&amp;width=491&amp;height=59" /></p>
+
+<p class="lt-chem-22268">for which the alkoxide is derived from 2-propanol. The advantage of this method is that the reaction can be driven essentially to completion by distilling out the 2-propanone as it is formed. The reduction product subsequently can be obtained by acid hydrolysis of the aluminum alkoxide:</p>
+
+<p class="mt-align-center lt-chem-22268"><img style="width: 292px; height: 59px;" width="292px" height="59px" class="internal" alt="Roberts and Caserio Screenshot 16-4-53.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/86852/Roberts_and_Caserio_Screenshot_16-4-53.png?revision=1&amp;size=bestfit&amp;width=292&amp;height=59" /></p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_19"><span id="Biological_Reactions"></span><h3 class="lt-chem-22268 editable">Biological Reactions</h3>
+
+<p class="lt-chem-22268">These have been discussed already in the context of the reverse reactions - oxidation of alcohols (Section 15-6C).</p>
+
+<p class="lt-chem-22268">\(^2\)Pronounced variously as <em>ill</em><em>/</em><em>id</em>, <em>yill/id</em>, <em>ill/ide</em>, <em>yill/ide</em>. The dipolar structures usually written for ylides are an oversimplified representation of the bonding in these substances.</p>
+
+<p class="lt-chem-22268">\(^3\)<em>Gem</em> is an abbreviation for <i>geminal</i> (twinned) and is a common <em>conversational </em>designation for arrangements having two identical substituents on one carbon.</p>
+
+<p class="lt-chem-22268">\(^4\)Named after its discoverer, the same Cannizzaro who, in 1860, made an enormous contribution to the problem of obtaining self-consistent atomic weights (Section 1-1).</p>
+
+</div></div><div mt-section-origin="Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16:_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05:_Typical_Carbonyl-Addition_Reactions" class="mt-section" id="section_20"><span id="Contributors_and_Attributions"></span><h2 class="lt-chem-22268 editable">Contributors and Attributions</h2>
+
+<p class="lt-chem-22268"><p><span class="person_name">John D. Robert </span>and <span class="person_name">Marjorie C.</span> <span class="person_name">Caserio </span>(1977) <em>Basic Principles of Organic Chemistry, second edition.</em> W. A. Benjamin, Inc. , Menlo Park, CA. ISBN 0-8053-8329-8. This content is copyrighted under the following conditions, &quot;You are granted permission for individual, educational, research and non-commercial reproduction, distribution, display and performance of this work in any format.&quot;</p>
+</p>
+</div>
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><style>/*<![CDATA[*/
+.mt-content-container{counter-reset: h2}
+  h2 {counter-reset: h3}
+  h3 {counter-reset: h4}
+  h4 {counter-reset: h5}
+
+  h2:before {counter-increment: h2; content: "16.5." counter(h2) ": "}
+  h3:before {counter-increment: h3; content: "16.5." counter(h2) "." counter(h3) ": "}
+  h4:before {counter-increment: h4; content: "16.5." counter(h2) "." counter(h3) "." counter(h4) ": "}
+
+  h2.nocount:before, h3.nocount:before, h4.nocount:before { content: ""; counter-increment: none }
+
+  .NoAuto::before {
+    content:none !important;
+  }
+/*]]>*/</style>
+<script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "16.5: Typical Carbonyl-Addition Reactions";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p>This page titled <a target="_blank" class="internal mt-self-link" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16%3A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.05%3A_Typical_Carbonyl-Addition_Reactions" rel="internal">16.5: Typical Carbonyl-Addition Reactions</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank">CC BY-NC-SA  4.0</a>  license and was authored, remixed, and/or curated by <a rel="nofollow" target="_blank" href="https://en.wikipedia.org/wiki/John_D._Roberts">John D. Roberts and Marjorie C. Caserio</a>. </p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16%3A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.04%3A_Spectroscopic_Properties" title="16.4: Spectroscopic Properties"><span>16.4: Spectroscopic Properties</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Basic_Principles_of_Organic_Chemistry_(Roberts_and_Caserio)/16%3A_Carbonyl_Compounds_I-_Aldehydes_and_Ketones._Addition_Reactions_of_the_Carbonyl_Group/16.06%3A_Catalytic_Hydrogenation" title="16.6: Catalytic Hydrogenation"><span>16.6: Catalytic Hydrogenation</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="15" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-authorname-john d. roberts and marjorie c. caserio" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Author</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=authorname%3Arobertscaserio" data-ga-label="Classification">John D. Roberts and Marjorie C. Caserio</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-autonumheader-title with colon delimiters" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Autonumber Section Headings</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=autonumheader%3Ayes2" data-ga-label="Classification">title with colon delimiters</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by-nc-sa" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accbyncsa" data-ga-label="Classification">CC BY-NC-SA</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-4.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A40" data-ga-label="Classification">4.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-cannizzaro-reaction" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=Cannizzaro+reaction" data-ga-label="Free tag"> Cannizzaro reaction</a></li>
+                <li class="mt-tag-link mt-tag-witting-rearrangement" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=Witting+rearrangement" data-ga-label="Free tag"> Witting rearrangement</a></li>
+                <li class="mt-tag-link mt-tag-ylides" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=Ylides" data-ga-label="Free tag"> Ylides</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="a06b9333a5ef84c71dd39471f68546c8e0ab1aa025f470d48ee3dc4192f0178f" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
