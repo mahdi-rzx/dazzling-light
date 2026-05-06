@@ -10181,3 +10181,4 @@ https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textb
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/08%3A_Quantum_Teleportation/8.75%3A_Qubit_Quantum_Mechanics
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/08%3A_Quantum_Teleportation/8.76%3A_Implementation_of_Deutsch's_Algorithm_Using_Mathcad
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/08%3A_Quantum_Teleportation/8.77%3A_Using_Quantum_Gates_to_Create_Superpositions_and_Entangled_States
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Tutorials_(Rioux)/08%3A_Quantum_Teleportation/8.78%3A_A_Simple_Quantum_Computer
