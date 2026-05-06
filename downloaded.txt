@@ -4725,3 +4725,4 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/06%3A_Uncertainty_of_Data/6.03%3A_Using_R_to_Model_Properties_of_a_Normal_Distribution
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/06%3A_Uncertainty_of_Data/6.04%3A_Using_R_to_Find_Confidence_Intervals
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/06%3A_Uncertainty_of_Data/6.05%3A_Exercises
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07%3A_Testing_the_Significance_of_Data/7.01%3A_Significance_Testing
