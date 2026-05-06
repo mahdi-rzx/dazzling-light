@@ -131,7 +131,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/01%3A_Fundamental_1_-_Measurable_Properties
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/06%3A_Electronic_Structure_and_Periodic_Properties
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/07%3A_Chemical_Bonding_and_Molecular_Geometry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/08%3A_Advanced_Theories_of_Covalent_Bonding
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/09%3A_Gases
@@ -8262,3 +8261,9 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05%3A_Thermochemistry/5.03%3A_Calorimetry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05%3A_Thermochemistry/5.04%3A_Enthalpy
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/05%3A_Thermochemistry/5.E%3A_Thermochemistry_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/06%3A_Electronic_Structure_and_Periodic_Properties/6.01%3A_Electromagnetic_Energy
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/06%3A_Electronic_Structure_and_Periodic_Properties/6.02%3A_The_Bohr_Model
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/06%3A_Electronic_Structure_and_Periodic_Properties/6.03%3A_Development_of_Quantum_Theory
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/06%3A_Electronic_Structure_and_Periodic_Properties/6.04%3A_Electronic_Structure_of_Atoms_(Electron_Configurations)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/06%3A_Electronic_Structure_and_Periodic_Properties/6.05%3A_Periodic_Variations_in_Element_Properties
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/06%3A_Electronic_Structure_and_Periodic_Properties/6.E%3A_Electronic_Structure_and_Periodic_Properties_(Exercises)
