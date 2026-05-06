@@ -1,0 +1,2973 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="29.8: Physical Properties of Polymers"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/29%3A_Synthetic_Polymers/29.08%3A_Physical_Properties_of_Polymers"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content=""/>
+        <meta property="article:published_time" content="2014-06-19T22:35:03Z"/>
+        <meta property="article:modified_time" content="2020-07-14T01:21:27Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="29.8: Physical Properties of Polymers"/>
+        <meta name="twitter:description" content=""/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content=""/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/29%3A_Synthetic_Polymers/29.08%3A_Physical_Properties_of_Polymers"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687">{"@context":"http:\/\/schema.org","@type":"Article","name":"29.8: Physical Properties of Polymers","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Bruice)\/29%3A_Synthetic_Polymers\/29.08%3A_Physical_Properties_of_Polymers","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2014-06-19T22:35:03Z","dateModified":"2020-07-14T01:21:27Z","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/14217\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Bruice)\/29%3A_Synthetic_Polymers\/29.08%3A_Physical_Properties_of_Polymers"},"headline":"29.8: Physical Properties of Polymers","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"29.8: Physical Properties of Polymers","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Bruice)\/29%3A_Synthetic_Polymers\/29.08%3A_Physical_Properties_of_Polymers","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Bruice)\/29%3A_Synthetic_Polymers\/29.03%3A_Stereochemistry_of_Polymerization__Ziegler-_Natta_Catalysts","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Bruice)\/29%3A_Synthetic_Polymers\/29.01%3A_There_Are_Two_Major_Classes_of_Synthetic_Polymers","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Bruice)\/29%3A_Synthetic_Polymers\/29.02%3A_Chain-Growth_Polymers","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Bruice)\/29%3A_Synthetic_Polymers\/29.04%3A_Polymerization_of_Dienes__The_Manufacture_of_Rubber","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Bruice)\/29%3A_Synthetic_Polymers\/29.05%3A_Copolymers"]}</script>
+        <script type="application/ld+json" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry","name":"Organic Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Bruice)","name":"Map: Organic Chemistry (Bruice)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Bruice)\/29%3A_Synthetic_Polymers","name":"29: Synthetic Polymers"}}]}</script>
+
+        <title>29.8: Physical Properties of Polymers - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+@media print {
+     
+
+.mt-content-container .mt-responsive-table, .mt-content-container table {
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 1rem !important;
+}
+
+.mt-content-container .mt-responsive-table caption, .mt-content-container table caption { 
+    display: table-caption;
+    text-align: center;
+    font-size: 90%;
+    padding: 0 0 0.2rem 0;
+}
+
+.mt-content-container .mt-responsive-table th, .mt-content-container table th {
+  font-size: inherit;
+  vertical-align: middle;
+  border-bottom: 1px solid #E8E8E8;
+  margin: inherit;
+  padding: 0.4em !important;
+}
+
+.mt-content-container .mt-responsive-table tr, .mt-content-container table tr {
+  page-break-inside:avoid; 
+  page-break-after:auto;
+  margin: inherit;
+  font-size: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+  border-bottom: 1px solid #E8E8E8;
+}
+    
+.mt-content-container .mt-responsive-table td, .mt-content-container table td {
+  border: 1px solid #E8E8E8;
+  page-break-inside: avoid !important;
+  page-break-before: avoid;
+  margin: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+}
+
+.mt-content-container table ol, 
+.mt-content-container table ul,
+.mt-content-container table p,
+.mt-content-container table ol,
+.mt-content-container table ul,
+.mt-content-container table p {
+    font-size: inherit;
+    margin: inherit;
+}
+
+mjx-container svg path,
+mjx-container svg use {
+  stroke: none !important;
+  stroke-width: 0 !important;
+}
+    
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":14217,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"29.8: Physical Properties of Polymers","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"2","pageSectionEditable":false,"pageTitle":"Bookshelves\/Organic Chemistry\/Map: Organic Chemistry (Bruice)\/29: Synthetic Polymers\/29.08: Physical Properties of Polymers","pageViewId":"8a4476e4-ebfa-4952-9c40-93d5febd3635","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"ZWRiYzRiZjktYTVjNi00NmRlLWIyZWItNzA0YTJmNGI5ODRhfDIwMjYtMDUtMDZUMTA6MTM6MDY=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778062387_16b7b17aa7ae625d71d438c67aba5f8b0e6966af0cefef7f255d8e5cd6c9d0d7","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-organicchemistry-map%3Aorganicchemistry%28bruice%29-29%3Asyntheticpolymers-29.08%3Aphysicalpropertiesofpolymers columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">29: Synthetic Polymers</div><div style="display:none" id="parentParentTitleHolder">Map: Organic Chemistry (Bruice)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;29.01:_There_Are_Two_Major_Classes_of_Synthetic_Polymers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;29.02:_Chain-Growth_Polymers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;29.03:_Stereochemistry_of_Polymerization__Ziegler-_Natta_Catalysts&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;29.04:_Polymerization_of_Dienes__The_Manufacture_of_Rubber&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;29.05:_Copolymers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;29.06:_Step-Growth_Polymers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;29.07:_Classes_of_Step-Growth_Polymers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;29.08:_Physical_Properties_of_Polymers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;29.09:_Biodegradable_Polymers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_Electronic_Structure_and_Bonding_(Acids_and_Bases)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_An_Introduction_to_Organic_Compounds-_Nomenclature_Physical_Properties_and_Representation_of_Structure&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_Alkenes-_Structure_Nomenclature_and_an_Introduction_to_Reactivity__Thermodynamics_and_Kinetics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:_The_Reactions_of_Alkenes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05:_Stereochemistry-_The_Arrangement_of_Atoms_in_Space_The_Stereochemistry_of_Addition_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06:_The_Reactions_of_Alkynes-_An_Introduction_to_Multistep_Synthesis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07:_Delocalized_Electrons_and_Their_Effect_on_Stability_Reactivity_and_pKa_(More_About_Molecular_Orbital_Theory)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08:_Substitution_Reactions_of_Alkyl_Halides&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09:_Elimination_Reactions_of_Alkyl_Halides_(Competition_between_Substitution_and_Elimination)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10:_Reactions_of_Alcohols_Ethers_Epoxides_Amine_and_Sulfur-_Containing_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;11:_Organometallic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12:_Radicals_(Reactions_of_Alkanes)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Mass_Spectrometry_Infrared_Spectroscopy_and_Ultraviolet_Visible_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_NMR_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Aromaticity_(Reactions_of_Benzene)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Reactions_of_Substituted_Benzenes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;17:_Carbonyl_Compounds_I-_Reactions_of_Carboxylic_Acids_and_Carboxylic_Derivatives&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;18:_Carbonyl_Compounds_II-_Reactions_of_Aldehydes_and_Ketones__More_Reactions_of_Carboxylic_Acid_Derivatives__Reactions_of__-_Unsaturated_Carbonyl_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19:_Carbonyl_Compounds_III-_Reactions_at_the_-_Carbon&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20:_More_About_Oxidation-Reduction_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21:_More_About_Amines_(Heterocylic_Compounds)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;22:_The_Organic_Chemistry_of_Carbohydrates&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23:_The_Organic_Chemistry_of_Amino_Acids_Peptides_and_Proteins&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;24:_Catalysis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;25:_Compounds_Derived_from_Vitamins&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;26:_The_Organic_Chemistry_of_Metabolic_Pathways&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27:_The_Organic_Chemistry_of_Lipids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;28:_The_Chemistry_of_Nucleic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;29:_Synthetic_Polymers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;30:_Pericyclic_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;31:_The_Organic_Chemistry_of_Drugs-_Discovery_and_Design&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Sun, 20 Jul 2014 19:18:31 GMT</div><div style="display:none" id="titleHolder">29.8: Physical Properties of Polymers</div><div style="display:none" id="IDHolder">14217</div><div style="display:none" id="pageIDHolder">14217</div><div style="display:none" id="pageAuthorHolder">Steve Farmer</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;licenseversion:40&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;licenseversion:40&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FMap%253A_Organic_Chemistry_(Bruice)%2F29%253A_Synthetic_Polymers%2F29.08%253A_Physical_Properties_of_Polymers</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FMap%3A_Organic_Chemistry_%28Bruice%29%2F29%3A_Synthetic_Polymers%2F29.08%3A_Physical_Properties_of_Polymers" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FMap%3A_Organic_Chemistry_%28Bruice%29%2F29%3A_Synthetic_Polymers%2F29.08%3A_Physical_Properties_of_Polymers" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Map: Organic Chemistry (Bruice)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/29%3A_Synthetic_Polymers" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    29: Synthetic Polymers
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            29.8: Physical Properties of Polymers
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        29.8: Physical Properties of Polymers
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2014-07-20T19:18:31Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/14217/pdf/29.8%253A%2bPhysical%2bProperties%2bof%2bPolymers.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>14217</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Contributors" rel="internal">Contributors</a></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <p><div class="mt-include" id="s5434"><p class="lt-chem-5434">A comparison of the properties of polyethylene (both LDPE &amp; HDPE) with the natural polymers rubber and cellulose is instructive. As noted above, synthetic HDPE macromolecules have masses ranging from 105 to 106 amu (LDPE molecules are more than a hundred times smaller). Rubber and cellulose molecules have similar mass ranges, but fewer monomer units because of the monomer's larger size. The physical properties of these three polymeric substances differ from each other, and of course from their monomers.</p>
+
+<ul>
+    <li class="lt-chem-5434">HDPE is a rigid translucent solid which softens on heating above 100&ordm; C, and can be fashioned into various forms including films. It is not as easily stretched and deformed as is LDPE. HDPE is insoluble in water and most organic solvents, although some swelling may occur on immersion in the latter. HDPE is an excellent electrical insulator.</li>
+    <li class="lt-chem-5434">LDPE is a soft translucent solid which deforms badly above 75&ordm; C. Films made from LDPE stretch easily and are commonly used for wrapping. LDPE is insoluble in water, but softens and swells on exposure to hydrocarbon solvents. Both LDPE and HDPE become brittle at very low temperatures (below -80&ordm; C). Ethylene, the common monomer for these polymers, is a low boiling (-104&ordm; C) gas.</li>
+    <li class="lt-chem-5434">Natural (latex) rubber is an opaque, soft, easily deformable solid that becomes sticky when heated (above. 60&ordm; C), and brittle when cooled below -50&ordm; C. It swells to more than double its size in nonpolar organic solvents like toluene, eventually dissolving, but is impermeable to water. The C5H8 monomer isoprene is a volatile liquid (b.p. 34&ordm; C).</li>
+    <li class="lt-chem-5434">Pure cellulose, in the form of cotton, is a soft flexible fiber, essentially unchanged by variations in temperature ranging from -70 to 80&ordm; C. Cotton absorbs water readily, but is unaffected by immersion in toluene or most other organic solvents. Cellulose fibers may be bent and twisted, but do not stretch much before breaking. The monomer of cellulose is the C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> aldohexose D-glucose. Glucose is a water soluble solid melting below 150&ordm; C.</li>
+</ul>
+
+<p class="mt-align-center lt-chem-5434"><img alt="" src="data:image/png;base64,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" style="" /></p>
+
+<p class="lt-chem-5434">To account for the differences noted here we need to consider the nature of the aggregate macromolecular structure, or morphology, of each substance. Because polymer molecules are so large, they generally pack together in a non-uniform fashion, with ordered or crystalline-like regions mixed together with disordered or amorphous domains. In some cases the entire solid may be amorphous, composed entirely of coiled and tangled macromolecular chains. Crystallinity occurs when linear polymer chains are structurally oriented in a uniform three-dimensional matrix. In the diagram on the right, crystalline domains are colored blue.<br />
+Increased crystallinity is associated with an increase in rigidity, tensile strength and opacity (due to light scattering). Amorphous polymers are usually less rigid, weaker and more easily deformed. They are often transparent.</p>
+
+<p class="lt-chem-5434">Three factors that influence the degree of crystallinity are:<br />
+i) Chain length<br />
+ii) Chain branching<br />
+iii) Interchain bonding</p>
+
+<p class="lt-chem-5434">The importance of the first two factors is nicely illustrated by the differences between LDPE and HDPE. As noted earlier, HDPE is composed of very long unbranched hydrocarbon chains. These pack together easily in crystalline domains that alternate with amorphous segments, and the resulting material, while relatively strong and stiff, retains a degree of flexibility. In contrast, LDPE is composed of smaller and more highly branched chains which do not easily adopt crystalline structures. This material is therefore softer, weaker, less dense and more easily deformed than HDPE. As a rule, mechanical properties such as ductility, tensile strength, and hardness rise and eventually level off with increasing chain length.</p>
+
+<p class="lt-chem-5434">The nature of cellulose supports the above analysis and demonstrates the importance of the third factor (iii). To begin with, cellulose chains easily adopt a stable rod-like conformation. These molecules align themselves side by side into fibers that are stabilized by inter-chain hydrogen bonding between the three hydroxyl groups on each monomer unit. Consequently, crystallinity is high and the cellulose molecules do not move or slip relative to each other. The high concentration of hydroxyl groups also accounts for the facile absorption of water that is characteristic of cotton.</p>
+
+<p class="lt-chem-5434">Natural rubber is a completely amorphous polymer. Unfortunately, the potentially useful properties of raw latex rubber are limited by temperature dependence; however, these properties can be modified by chemical change. The cis-double bonds in the hydrocarbon chain provide planar segments that stiffen, but do not straighten the chain. If these rigid segments are completely removed by hydrogenation (H2 &amp; Pt catalyst), the chains lose all constrainment, and the product is a low melting paraffin-like semisolid of little value. If instead, the chains of rubber molecules are slightly cross-linked by sulfur atoms, a process called vulcanization which was discovered by Charles Goodyear in 1839, the desirable elastomeric properties of rubber are substantially improved. At 2 to 3% crosslinking a useful soft rubber, that no longer suffers stickiness and brittleness problems on heating and cooling, is obtained. At 25 to 35% crosslinking a rigid hard rubber product is formed. The following illustration shows a cross-linked section of amorphous rubber. By clicking on the diagram it will change to a display of the corresponding stretched section. The more highly-ordered chains in the stretched conformation are entropically unstable and return to their original coiled state when allowed to relax</p>
+
+<p class="mt-align-center lt-chem-5434"><img alt="" src="data:image/png;base64,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" /></p>
+
+<p class="mt-align-center lt-chem-5434"><img alt="" src="data:image/png;base64,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" /></p>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Polymers/Properties_of_Polymers" class="mt-section" id="section_1"><span id="Contributors"></span><h2 class="lt-chem-5434" id="Contributors-5434">Contributors</h2>
+
+<p class="lt-chem-5434"><p class="contrib">William Reusch, Professor Emeritus (<a class="external" href="http://www.msu.edu/" rel="external nofollow" target="_blank" title="http://www.msu.edu/">Michigan State U.</a>), <a class="external" href="https://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/intro1.htm" rel="external nofollow" target="_blank" title="Template:ContribReusch">Virtual Textbook of&nbsp;Organic&nbsp;Chemistry</a></p>
+</p>
+</div></div></p>
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "29.8: Physical Properties of Polymers";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p><a target="_blank" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/29%3A_Synthetic_Polymers/29.08%3A_Physical_Properties_of_Polymers" rel="internal" class="internal">29.8: Physical Properties of Polymers</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank">CC BY-NC-SA  4.0</a>  license and was authored, remixed, and/or curated by LibreTexts.</p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/29%3A_Synthetic_Polymers/29.07%3A_Classes_of_Step-Growth_Polymers" title="29.7: Classes of Step-Growth Polymers"><span>29.7: Classes of Step-Growth Polymers</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Bruice)/29%3A_Synthetic_Polymers/29.09%3A_Biodegradable_Polymers" title="29.9: Biodegradable Polymers"><span>29.9: Biodegradable Polymers</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="2" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by-nc-sa" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accbyncsa" data-ga-label="Classification">CC BY-NC-SA</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-4.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A40" data-ga-label="Classification">4.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+        </ol>
+            This page has no tags.
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="aa56f8ff46470d978cb277c19fcad0b57b610cb4ec93cd3e0869ffe498750687" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
