@@ -1,0 +1,3325 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="9.1: Interferometry"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09%3A_Surface_Morphology_and_Structure/9.01%3A_Interferometry"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content="The processes which occur at the surfaces of crystals depend on many external and internal factors such as crystal structure and composition, conditions of a medium where the crystal surface exists &hellip;"/>
+        <meta property="article:published_time" content="2016-07-14T00:57:29Z"/>
+        <meta property="article:modified_time" content="2022-08-28T20:01:53Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="9.1: Interferometry"/>
+        <meta name="twitter:description" content="The processes which occur at the surfaces of crystals depend on many external and internal factors such as crystal structure and composition, conditions of a medium where the crystal surface exists &hellip;"/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content="The processes which occur at the surfaces of crystals depend on many external and internal factors such as crystal structure and composition, conditions of a medium where the crystal surface exists &hellip;"/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09%3A_Surface_Morphology_and_Structure/9.01%3A_Interferometry"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c">{"@context":"http:\/\/schema.org","@type":"Article","name":"9.1: Interferometry","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)\/09%3A_Surface_Morphology_and_Structure\/9.01%3A_Interferometry","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2016-07-14T00:57:29Z","dateModified":"2022-08-28T20:01:53Z","description":"The processes which occur at the surfaces of crystals depend on many external and internal factors such as crystal structure and composition, conditions of a medium where the crystal surface exists and others. The appearance of a crystal surface is the result of complexity of interactions between the crystal surface and the environment.","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/55935\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)\/09%3A_Surface_Morphology_and_Structure\/9.01%3A_Interferometry"},"headline":"9.1: Interferometry","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"9.1: Interferometry","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)\/09%3A_Surface_Morphology_and_Structure\/9.01%3A_Interferometry","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)\/09%3A_Surface_Morphology_and_Structure\/9.02%3A_Atomic_Force_Microscopy_(AFM)","https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)\/09%3A_Surface_Morphology_and_Structure\/9.03%3A_SEM_and_its_Applications_for_Polymer_Science","https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)\/09%3A_Surface_Morphology_and_Structure\/9.04%3A_Catalyst_Characterization_Using_Thermal_Conductivity_Detector","https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)\/09%3A_Surface_Morphology_and_Structure\/9.05%3A_Nanoparticle_Deposition_Studies_Using_a_Quartz_Crystal_Microbalance","https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)\/00%3A_Front_Matter"]}</script>
+        <script type="application/ld+json" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry","name":"Analytical Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)","name":"Physical Methods in Chemistry and Nano Science (Barron)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)\/09%3A_Surface_Morphology_and_Structure","name":"9: Surface Morphology and Structure"}}]}</script>
+
+        <title>9.1: Interferometry - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+@media print {
+     
+
+.mt-content-container .mt-responsive-table, .mt-content-container table {
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 1rem !important;
+}
+
+.mt-content-container .mt-responsive-table caption, .mt-content-container table caption { 
+    display: table-caption;
+    text-align: center;
+    font-size: 90%;
+    padding: 0 0 0.2rem 0;
+}
+
+.mt-content-container .mt-responsive-table th, .mt-content-container table th {
+  font-size: inherit;
+  vertical-align: middle;
+  border-bottom: 1px solid #E8E8E8;
+  margin: inherit;
+  padding: 0.4em !important;
+}
+
+.mt-content-container .mt-responsive-table tr, .mt-content-container table tr {
+  page-break-inside:avoid; 
+  page-break-after:auto;
+  margin: inherit;
+  font-size: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+  border-bottom: 1px solid #E8E8E8;
+}
+    
+.mt-content-container .mt-responsive-table td, .mt-content-container table td {
+  border: 1px solid #E8E8E8;
+  page-break-inside: avoid !important;
+  page-break-before: avoid;
+  margin: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+}
+
+.mt-content-container table ol, 
+.mt-content-container table ul,
+.mt-content-container table p,
+.mt-content-container table ol,
+.mt-content-container table ul,
+.mt-content-container table p {
+    font-size: inherit;
+    margin: inherit;
+}
+
+mjx-container svg path,
+mjx-container svg use {
+  stroke: none !important;
+  stroke-width: 0 !important;
+}
+    
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":55935,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"9.1: Interferometry","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"28","pageSectionEditable":false,"pageTitle":"Bookshelves\/Analytical Chemistry\/Physical Methods in Chemistry and Nano Science (Barron)\/09: Surface Morphology and Structure\/9.01: Interferometry","pageViewId":"b43c734a-822d-4225-890a-dfd654e42f61","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"ZjI3OTVjODEtM2Q4ZC00NzJiLWJiZmQtZmU5MzY4ZTk5MDFhfDIwMjYtMDUtMDZUMDk6MzE6MTY=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778059876_78fc64217c8adecfd72d5ae8eb733c2cd948ce83cbf6494820314d9af456584b","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-analyticalchemistry-physicalmethodsinchemistryandnanoscience%28barron%29-09%3Asurfacemorphologyandstructure-9.01%3Ainterferometry columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">9: Surface Morphology and Structure</div><div style="display:none" id="parentParentTitleHolder">Physical Methods in Chemistry and Nano Science (Barron)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;9.01:_Interferometry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;9.02:_Atomic_Force_Microscopy_(AFM)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;9.03:_SEM_and_its_Applications_for_Polymer_Science&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;9.04:_Catalyst_Characterization_Using_Thermal_Conductivity_Detector&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;9.05:_Nanoparticle_Deposition_Studies_Using_a_Quartz_Crystal_Microbalance&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_Elemental_Analysis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_Physical_and_Thermal_Analysis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_Principles_of_Gas_Chromatography&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:_Chemical_Speciation&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05:_Reactions_Kinetics_and_Pathways&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06:_Dynamic_Processes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07:_Molecular_and_Solid_State_Structure&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08:_Structure_at_the_Nano_Scale&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09:_Surface_Morphology_and_Structure&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10:_Device_Performance&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Sun, 28 Aug 2022 20:01:53 GMT</div><div style="display:none" id="titleHolder">9.1: Interferometry</div><div style="display:none" id="IDHolder">55935</div><div style="display:none" id="pageIDHolder">55935</div><div style="display:none" id="pageAuthorHolder">admin</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;license:ccby&quot;, &quot;authorname:abarron&quot;, &quot;interferometry&quot;, &quot;vertical scanning interferometry&quot;, &quot;dual polarization interferometry&quot;, &quot;white-light interferometry&quot;, &quot;licenseversion:40&quot;, &quot;source@http://cnx.org/contents/ba27839d-5042-4a40-afcf-c0e6e39fb454@25.2&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;license:ccby&quot;, &quot;authorname:abarron&quot;, &quot;interferometry&quot;, &quot;vertical scanning interferometry&quot;, &quot;dual polarization interferometry&quot;, &quot;white-light interferometry&quot;, &quot;licenseversion:40&quot;, &quot;source@http://cnx.org/contents/ba27839d-5042-4a40-afcf-c0e6e39fb454@25.2&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FAnalytical_Chemistry%2FPhysical_Methods_in_Chemistry_and_Nano_Science_(Barron)%2F09%253A_Surface_Morphology_and_Structure%2F9.01%253A_Interferometry</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FAnalytical_Chemistry%2FPhysical_Methods_in_Chemistry_and_Nano_Science_%28Barron%29%2F09%3A_Surface_Morphology_and_Structure%2F9.01%3A_Interferometry" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FAnalytical_Chemistry%2FPhysical_Methods_in_Chemistry_and_Nano_Science_%28Barron%29%2F09%3A_Surface_Morphology_and_Structure%2F9.01%3A_Interferometry" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Analytical Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Physical Methods in Chemistry and Nano Science (Barron)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09%3A_Surface_Morphology_and_Structure" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    9: Surface Morphology and Structure
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            9.1: Interferometry
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        9.1: Interferometry
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2022-08-28T20:01:53Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/55935/pdf/9.1%253A%2bInterferometry.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>55935</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+<div class="mt-author-container"><ul><li class="mt-author-image mt-author-image-crop"><img alt=" " title="Pavan M. V. Raja &amp; Andrew R. Barron" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/170683/Barron.gif?revision=1" /></li><li class="mt-author-information"><a rel="external" target="_blank" href="http://barron.rice.edu/Barron.html#arb">Pavan M. V. Raja &amp; Andrew R. Barron</a></li><li class="mt-author-companyname"><a rel="external" target="_blank" href="https://chemistry.rice.edu/">Rice University</a><span class="mt-author-written"> via </span><a rel="external" target="_blank" href="https://cnx.org/contents/uieDnVBC@25.2:uZ0soqWw@11/Introduction">OpenStax CNX</a></li></ul></div>
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#The_Application_of_Vertical_Scanning_Interferometry_to_the_Study_of_Crystal_Surface_Processes" rel="internal">The Application of Vertical Scanning Interferometry to the Study of Crystal Surface Processes</a><ol><li><a href="#Physical_Principles_of_Optical_Interferometry" rel="internal">Physical Principles of Optical Interferometry</a></li><li><a href="#A_Comparison_of_Common_Methods_to_Determine_Surface_Topography:_SEM.2C_AFM_and_VSI" rel="internal">A Comparison of Common Methods to Determine Surface Topography: SEM, AFM and VSI</a><ol><li><a href="#Scanning_Electron_Microscopy" rel="internal">Scanning Electron Microscopy</a></li><li><a href="#Atomic_Force_Microscopy" rel="internal">Atomic Force Microscopy</a></li><li><a href="#Comparison_of_Techniques" rel="internal">Comparison of Techniques</a></li></ol></li><li><a href="#The_Experimental_Studying_of_Surface_Processes_Using_Microscopic_Techniques" rel="internal">The Experimental Studying of Surface Processes Using Microscopic Techniques</a></li></ol></li><li><a href="#Dual_Polarization_Interferometry_for_Thin_Film_Characterization" rel="internal">Dual Polarization Interferometry for Thin Film Characterization</a><ol><li><a href="#Overview" rel="internal">Overview</a></li><li><a href="#History" rel="internal">History</a></li><li><a href="#Instrumentation" rel="internal">Instrumentation</a><ol><li><a href="#Theory" rel="internal">Theory</a></li><li><a href="#Optics" rel="internal">Optics</a></li></ol></li><li><a href="#Comparison_of_DPI_with_Other_Techniques" rel="internal">Comparison of DPI with Other Techniques</a><ol><li><a href="#Initial_DPI_Evaluations" rel="internal">Initial DPI Evaluations</a></li><li><a href="#DPI_Comparison_with_orthogonal_Analytical_Techniques" rel="internal">DPI Comparison with orthogonal Analytical Techniques</a></li></ol></li><li><a href="#Applications_of_DPI" rel="internal">Applications of DPI</a><ol><li><a href="#Protein_Studies" rel="internal">Protein Studies</a></li><li><a href="#Thin_Film_Studies" rel="internal">Thin Film Studies</a></li></ol></li><li><a href="#Thin_Layer_Adsorption_Studies" rel="internal">Thin Layer Adsorption Studies</a></li><li><a href="#Hg2.2B_Biosensing_Studies" rel="internal">Hg2+ Biosensing Studies</a></li></ol></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_1"><span id="The_Application_of_Vertical_Scanning_Interferometry_to_the_Study_of_Crystal_Surface_Processes"></span><h2 class="lt-chem-55935 editable">The Application of Vertical Scanning Interferometry to the Study of Crystal Surface Processes</h2>
+
+<p class="lt-chem-55935">The processes which occur at the surfaces of crystals depend on many external and internal factors such as crystal structure and composition, conditions of a medium where the crystal surface exists and others. The appearance of a crystal surface is the result of complexity of interactions between the crystal surface and the environment. The mechanisms of surface processes such as dissolution or growth are studied by the physical chemistry of surfaces. There are a lot of computational techniques which allows us to predict the changing of surface morphology of different minerals which are influenced by different conditions such as temperature, pressure, pH and chemical composition of solution reacting with the surface. For example, Monte Carlo method is widely used to simulate the dissolution or growth of crystals. However, the theoretical models of surface processes need to be verified by natural observations. We can extract a lot of useful information about the surface processes through studying the changing of crystal surface structure under influence of environmental conditions. The changes in surface structure can be studied through the observation of crystal surface topography. The topography can be directly observed macroscopically or by using microscopic techniques. Microscopic observation allows us to study even very small changes and estimate the rate of processes by observing changing the crystal surface topography in time.</p>
+
+<p class="lt-chem-55935">Much laboratory worked under the reconstruction of surface changes and interpretation of dissolution and precipitation kinetics of crystals. Invention of AFM made possible to monitor changes of surface structure during dissolution or growth. However, to detect and quantify the results of dissolution processes or growth it is necessary to determine surface area changes over a significantly larger field of view than AFM can provide. More recently, vertical scanning interferometry (VSI) has been developed as new tool to distinguish and trace the reactive parts of crystal surfaces. VSI and AFM are complementary techniques and practically well suited to detect surface changes.</p>
+
+<p class="lt-chem-55935">VSI technique provides a method for quantification of surface topography at the angstrom to nanometer level. Time-dependent VSI measurements can be used to study the surface-normal retreat across crystal and other solid surfaces during dissolution process. Therefore, VSI can be used to directly and nondirectly measure mineral dissolution rates with high precision. Analogically, VSI can be used to study kinetics of crystal growth.</p>
+
+<div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_2"><span id="Physical_Principles_of_Optical_Interferometry"></span><h4 class="lt-chem-55935 editable">Physical Principles of Optical Interferometry</h4>
+
+<p class="lt-chem-55935">Optical interferometry allows us to make extremely accurate measurements and has been used as a laboratory technique for almost a hundred years. Thomas Young observed interference of light and measured the wavelength of light in an experiment, performed around 1801. This experiment gave an evidence of Young's arguments for the wave model for light. The discovery of interference gave a basis to development of interferomertry techniques widely successfully used as in microscopic investigations, as in astronomic investigations.</p>
+
+<p class="lt-chem-55935">The physical principles of optical interferometry exploit the wave properties of light. Light can be thought as electromagnetic wave propagating through space. If we assume that we are dealing with a linearly polarized wave propagating in a vacuum in z direction, electric field E can be represented by a sinusoidal function of distance and time.</p>
+
+<p class="lt-chem-55935">\[ E(x,y,z,t)\ =\ a \cos[2\pi (vt\ -\ z/\lambda )] \label{1}   \]</p>
+
+<p class="lt-chem-55935">Where a is the amplitude of the light wave, v is the frequency, and &lambda; is its wavelength. The term within the square brackets is called the phase of the wave. Let&rsquo;s rewrite this equation in more compact form,</p>
+
+<p class="lt-chem-55935">\[ E(x,y,z,t)\ =\ a \cos(\omega t\ -\ kz) \label{2}   \]</p>
+
+<p class="lt-chem-55935">where &omega;=2&pi;v is the circular frequency, and k=2&pi;/&lambda; is the propagation constant. Let&rsquo;s also transform this second equation into a complex exponential form,</p>
+
+<p class="lt-chem-55935">\[ E(x,y,z,t)\ =\ Re(a\ e^{i(\psi + \omega t)})\ =\ Re(a\ e^{i\omega t}) \label{3}   \]</p>
+
+<p class="lt-chem-55935">where &#981;=2&pi;z/&lambda; and A=e<sup>&minus;i&#981;</sup> is known as the complex amplitude. If n is a refractive index of a medium where the light propagates, the light wave traverses a distance d in such a medium. The equivalent optical path in this case is</p>
+
+<p class="lt-chem-55935">\[ p\ =\ n\ \cdot \ d \label{4}   \]</p>
+
+<p class="lt-chem-55935">When two light waves are superposed, the result intensity at any point depends on whether reinforce or cancel each other (Figure \(\PageIndex{1}\)). This is well known phenomenon of interference. We will assume that two waves are propagating in the same direction and are polarized with their field vectors in the same plane. We will also assume that they have the same frequency. The complex amplitude at any point in the interference pattern is then the sum of the complex amplitudes of the two waves, so that we can write,</p>
+
+<p class="lt-chem-55935">\[ A\ =\ A_{1}\ +\ A_{2} \label{5}   \]</p>
+
+<p class="lt-chem-55935">where A1=a1exp(&minus;i&#981;<sub>1</sub>) and A2=a2exp(&minus;i&#981;<sub>2</sub>) are the complex amplitudes of two waves. The resultant intensity is, therefore,</p>
+
+<p class="lt-chem-55935">\[ I\ =\ |A|^{2}\ =\ I_{1}\ +\ I_{2}\ +\ 2(I_{1}I_{2})^{1/2} cos (\Delta \psi) \label{6}   \]</p>
+
+<p class="lt-chem-55935">where I<sub>1</sub> and I<sub>2</sub> are the intensities of two waves acting separately, and &Delta;&#981;=&#981;<sub>1</sub>&minus;&#981;<sub>2</sub> is the phase difference between them. If the two waves are derived from a common source, the phase difference corresponds to an optical path difference,</p>
+
+<p class="lt-chem-55935">\[ \Delta p\ =\ (\lambda /2 \pi) \Delta \psi \label{7}   \]</p>
+
+<figure><img data-media-type="image/jpg" data-print-width="4.5in" height="459" width="525" class="internal" alt="graphics1.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418307/graphics1.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{1}\) The scheme of interferometric wave interaction when two waves interact with each other, the amplitude of resulting wave will increase or decrease. The value of this amplitude depends on phase difference between two original waves.</figcaption>
+</figure>
+
+<p class="lt-chem-55935">If &Delta;&#981;, the phase difference between the beams, varies linearly across the field of view, the intensity varies cosinusoidally, giving rise to alternating light and dark bands or fringes (Figure \(\PageIndex{1}\)). The intensity of an interference pattern has its maximum value:</p>
+
+<p class="lt-chem-55935">\[ I_{max}\ =\ I_{1}\ +\ I_{2}\ +\ 2(I_{1}I_{2})^{1/2} \label{8}   \]</p>
+
+<p class="lt-chem-55935">when &Delta;&#981;=2m&pi;, where m is an integer and its minimum value i determined by:</p>
+
+<p class="lt-chem-55935">\[ I_{min}\ =\ I_{1}\ +\ I_{2}\ -\ 2(I_{1}I_{2})^{1/2} \label{9}   \]</p>
+
+<p class="lt-chem-55935">when &Delta;&#981;=(2m+1)&pi; The principle of interferometry is widely used to develop many types of interferometric set ups. One of the earliest set ups is Michelson interferometry. The idea of this interferometry is quite simple: interference fringes are produced by splitting a beam of monochromatic light so that one beam strikes a fixed mirror and the other a movable mirror. An interference pattern results when the reflected beams are brought back together. The Michelson interferometric scheme is shown in Figure \(\PageIndex{2}\).</p>
+
+<figure><img data-media-type="image/jpg" data-print-width="3.5in" width="518" class="internal" alt="graphics2.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418302/graphics2.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{2}\) Schematic representation of a Michelson interferometry set-up.</figcaption>
+</figure>
+
+<p class="lt-chem-55935">The difference of path lengths between two beams is 2x because beams traverse the designated distances twice. The interference occurs when the path difference is equal to integer numbers of wavelengths,</p>
+
+<p class="lt-chem-55935">\[ \Delta p\ =\ 2x\ m\lambda (m= 0, \pm 1, \pm 2 ... ) \label{10}   \]</p>
+
+<p class="lt-chem-55935">Modern interferometric systems are more complicated. Using special phase-measurement techniques they capable to perform much more accurate height measurements than can be obtained just by directly looking at the interference fringes and measuring how they depart from being straight and equally spaced. Typically interferometric system consist of lights source, beamsplitter, objective system, system of registration of signals and transformation into digital format and computer which process data. Vertical scanning interferometry is contains all these parts. Figure \(\PageIndex{3}\) shows a configuration of a VSI interferometric system.</p>
+
+<figure><img data-media-type="image/jpg" data-print-width="4.5in" width="600" class="internal" alt="Fig3.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418306/Fig3.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{3}\) Schematic representation of the Vertical scanning interferometry (VSI) system.</figcaption>
+</figure>
+
+<p class="lt-chem-55935">Many of modern interferometric systems use Mirau objective in their constructions. Mireau objective is based on a Michelson interferometer. This objective consists of a lens, a reference mirror and a beamsplitter. The idea of getting interfering beams is simple: two beams (red lines) travel along the optical axis. Then they are reflected from the reference surface and the sample surface respectively (blue lines). After this these beams are recombined to interfere with each other. An illumination or light source system is used to direct light onto a sample surface through a cube beam splitter and the Mireau objective. The sample surface within the field of view of the objective is uniformly illuminated by those beams with different incidence angles. Any point on the sample surface can reflect those incident beams in the form of divergent cone. Similarly, the point on the reference symmetrical with that on the sample surface also reflects those illuminated beams in the same form.</p>
+
+<p class="lt-chem-55935">The Mireau objective directs the beams reflected of the reference and the sample surface onto a CCD (charge-coupled device) sensor through a tube lens. The CCD sensor is an analog shift register that enables the transportation of analog signals (electric charges) through successive stages (capacitors), controlled by a clock signal. The resulting interference fringe pattern is detected by CCD sensor and the corresponding signal is digitized by a frame grabber for further processing with a computer.</p>
+
+<p class="lt-chem-55935">The distance between a minimum and a maximum of the interferogram produced by two beams reflected from the reference and sample surface is known. That is, exactly half the wavelength of the light source. Therefore, with a simple interferogram the vertical resolution of the technique would be also limited to &lambda;/2. If we will use a laser light as a light source with a wavelength of 300 nm the resolution would be only 150 nm. This resolution is not good enough for a detailed near-atomic scale investigation of crystal surfaces. Fortunately, the vertical resolution of the technique can be improved significantly by moving either the reference or the sample by a fraction of the wavelength of the light. In this way, several interferograms are produced. Then they are all overlayed, and their phase shifts compared by the computer software Figure. This method is widely known as phase shift interferometry (PSI).</p>
+
+<figure><img data-media-type="image/jpg" data-print-width="4.5in" height="438" width="587" class="internal" alt="graphics4.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418305/graphics4.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{4}\): Sketch illustrating phase-shift technology. The sample is continuously moved along the vertical axes in order to scan surface topography. All interferograms are automatically overlayed using computer software.</figcaption>
+</figure>
+
+<p class="lt-chem-55935">Most optical testing interferometers now use phase-shifting techniques not only because of high resolution but also because phase-shifting is a high accuracy rapid way of getting the interferogram information into the computer. Also usage of this technique makes the inherent noise in the data taking process very low. As the result in a good environment angstrom or sub-angstrom surface height measurements can be performed. As it was said above, in phase-shifting interferometry the phase difference between the interfering beams is changed at a constant rate as the detector is read out. Once the phase is determined across the interference field, the corresponding height distribution on the sample surface can be determined. The phase distribution \(&phi;(x, y)\) is recorded by using the CCD camera.</p>
+
+<p class="lt-chem-55935">Let&rsquo;s assign \(A(x, y)\), \(B(x, y)\), \(C(x, y)\) and \(D(x, y)\) to the resulting interference light intensities which are corresponded to phase-shifting steps of 0, &pi;/2, &pi; and 3&pi;/2. These intensities can be obtained by moving the reference mirror through displacements of &lambda;/8, &lambda;/4 and 3&lambda;/8, respectively. The equations for the resulting intensities would be:</p>
+
+<p class="lt-chem-55935">\[ A(x,y)\ =\ I_{1}(x,y)\ +\ I_{2}(x,y) \cos(\alpha (x,y)) \label{11}   \]</p>
+
+<p class="lt-chem-55935">\[ B(x,y)\ =\ I_{1}(x,y)\ -\ I_{2}(x,y) \sin(\alpha (x,y)) \label{12}   \]</p>
+
+<p class="lt-chem-55935">\[ C(x,y)\ =\ I_{1}(x,y)\ -\ I_{2}(x,y) \cos(\alpha (x,y)) \label{13}   \]</p>
+
+<p class="lt-chem-55935">\[ D(x,y)\ =\ I_{1}(x,y)\ +\ I_{2}(x,y) \sin(\alpha (x,y)) \label{14}   \]</p>
+
+<p class="lt-chem-55935">where \(I_1(x,y)\) and \(I_2(x,y)\) are two overlapping beams from two symmetric points on the test surface and the reference respectively. Solving Equations \ref{11} - \ref{14}, the phase map \(&phi;(x, y)\) of a sample surface will be given by the relation:</p>
+
+<p class="lt-chem-55935">\[ \psi (x,y)\ =\ \frac{B(x,y)\ -\ D(x,y)}{A(x,y)\ -\ C(x,y)} \label{15}   \]</p>
+
+<p class="lt-chem-55935">Once the phase is determined across the interference field pixel by pixel on a two-dimensional CCD array, the local height distribution/contour, \(h(x, y)\), on the test surface is given by</p>
+
+<p class="lt-chem-55935">\[ h(x,y)\ =\ \frac{\lambda}{4\pi } \psi (x,y) \label{16}   \]</p>
+
+<p class="lt-chem-55935">Normally the resulted fringe can be in the form of a linear fringe pattern by adjusting the relative position between the reference mirror and sample surfaces. Hence any distorted interference fringe would indicate a local profile/contour of the test surface.</p>
+
+<p class="lt-chem-55935">It is important to note that the Mireau objective is mounted on a capacitive closed-loop controlled PZT (piezoelectric actuator) as to enable phase shifting to be accurately implemented. The PZT is based on piezoelectric effect referred to the electric potential generated by applying pressure to piezoelectric material. This type of materials is used to convert electrical energy to mechanical energy and vice-versa. The precise motion that results when an electric potential is applied to a piezoelectric material has an importance for nanopositioning. Actuators using the piezo effect have been commercially available for 35 years and in that time have transformed the world of precision positioning and motion control.</p>
+
+<p class="lt-chem-55935">Vertical scanning interferometer also has another name; <strong>white-light interferometry</strong> (WLI) because of using the white light as a source of light. With this type of source a separate fringe system is produced for each wavelength, and the resultant intensity at any point of examined surface is obtained by summing these individual patterns. Due to the broad bandwidth of the source the coherent length L of the source is short:</p>
+
+<p class="lt-chem-55935">\[ L\ =\ \frac{\lambda ^{2}}{n \Delta \lambda} \label{17}   \]</p>
+
+<p class="lt-chem-55935">where &lambda; is the center wavelength, n is the refractive index of the medium, &#8710;&lambda; is the spectral width of the source. In this way good contrast fringes can be obtained only when the lengths of interfering beams pathways are closed to each other. If we will vary the length of a pathway of a beam reflected from sample, the height of a sample can be determined by looking at the position for which a fringe contrast is a maximum. In this case interference pattern exist only over a very shallow depth of the surface. When we vary a pathway of sample-reflected beam we also move the sample in a vertical direction in order to get the phase at which maximum intensity of fringes will be achieved. This phase will be converted in height of a point at the sample surface.</p>
+
+<p class="lt-chem-55935">The combination of phase shift technology with white-light source provides a very powerful tool to measure the topography of quite rough surfaces with the amplitude in heights about and the precision up to 1-2 nm. Through a developed software package for quantitatively evaluating the resulting interferogram, the proposed system can retrieve the surface profile and topography of the sample objects Figure \(\PageIndex{5}\).</p>
+
+<figure><img data-media-type="image/jpg" data-print-width="4.5in" height="468" width="613" class="internal" alt="graphics5.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418308/graphics5.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{5}\): Example of muscovite surface topography, obtained by using VSI- 50x objective.</figcaption>
+</figure>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_3"><span id="A_Comparison_of_Common_Methods_to_Determine_Surface_Topography:_SEM.2C_AFM_and_VSI"></span><h4 class="lt-chem-55935 editable">A Comparison of Common Methods to Determine Surface Topography: SEM, AFM and VSI</h4>
+
+<p class="lt-chem-55935">Except the interferometric methods described above, there are a several other microscopic techniques for studying crystal surface topography. The most common are scanning electron microscopy (SEM) and atomic force microscopy (AFM). All these techniques are used to obtain information about the surface structure. However they differ from each other by the physical principles on which they based.</p>
+
+<div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_4"><span id="Scanning_Electron_Microscopy"></span><h6 class="lt-chem-55935 editable">Scanning Electron Microscopy</h6>
+
+<p class="lt-chem-55935">SEM allows us to obtain images of surface topography with the resolution much higher than the conventional light microscopes do. Also it is able to provide information about other surface characteristics such as chemical composition, electrical conductivity etc, see Figure \(\PageIndex{6}\). All types of data are generated by the reflecting of accelerated electron beams from the sample surface. When electrons strike the sample surface, they lose their energy by repeated random scattering and adsorption within an outer layer into the depth varying from 100 nm to 5 microns.</p>
+
+<figure><img data-media-type="image/jpg" data-print-width="4.5in" height="235" width="600" class="internal" alt="graphics6.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418312/graphics6.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{6}\) Scheme of electron beam-sample interaction at SEM analysis</figcaption>
+</figure>
+
+<p class="lt-chem-55935">The thickness of this outer layer also knows as interactive layer depends on energy of electrons in the beam, composition and density of a sample. Result of the interaction between electron beam and the surface provides several types of signals. The main type is secondary or inelastic scattered electrons. They are produced as a result of interaction between the beam of electrons and weakly bound electrons in the conduction band of the sample. Secondary electrons are ejected from the k-orbitals of atoms within the surface layer of thickness about a few nanometers. This is because secondary electrons are low energy electrons (&lt;50 eV), so only those formed within the first few nanometers of the sample surface have enough energy to escape and be detected. Secondary backscattered electrons provide the most common signal to investigate surface topography with lateral resolution up to 0.4 - 0.7 nm.</p>
+
+<p class="lt-chem-55935">High energy beam electrons are elastic scattered back from the surface. This type of signal gives information about chemical composition of the surface because the energy of backscattered electrons depends on the weight of atoms within the interaction layer. Also this type of electrons can form secondary electrons and escape from the surface or travel father into the sample than the secondary. The SEM image formed is the result of the intensity of the secondary electron emission from the sample at each x,y data point during the scanning of the surface.</p>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_5"><span id="Atomic_Force_Microscopy"></span><h6 class="lt-chem-55935 editable">Atomic Force Microscopy</h6>
+
+<p class="lt-chem-55935">AFM is a very popular tool to study surface dissolution. AFM set up consists of scanning a sharp tip on the end of a flexible cantilever which moves across a sample surface. The tips typically have an end radius of 2 to 20 nm, depending on tip type. When the tip touch the surface the forces of these interactions leads to deflection of a cantilever. The interaction between tip and sample surface involve mechanical contact forces, van der Waals forces, capillary forces, chemical bonding, electrostatic forces, magnetic forces etc. The deflection of a cantilever is usually measured by reflecting a laser beam off the back of the cantilever into a split photodiode detector. A schematic drawing of AFM can be seen in Figure \(\PageIndex{7}\). The two most commonly used modes of operation are contact mode AFM and tapping mode AFM, which are conducted in air or liquid environments.</p>
+
+<figure><img data-media-type="image/jpg" data-print-width="2.9in" width="400" class="internal" alt="graphics7.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418315/graphics7.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{7}\) Schematic drawing of an AFM apparatus.</figcaption>
+</figure>
+
+<p class="lt-chem-55935">Working under the contact mode AFM scans the sample while monitoring the change in cantilever deflection with the split photodiode detector. Loop maintains a constant cantilever reflection by vertically moving the scanner to get a constant signal. The distance which the scanner goes by moving vertically at each x,y data point is stored by the computer to form the topographic image of the sample surface. Working under the tapping mode AFM oscillates the cantilever at its resonance frequency (typically~300 kHz) and lightly &ldquo;taps&rdquo; the tip on the surface during scanning. The electrostatic forces increase when tip gets close to the sample surface, therefore the amplitude of the oscillation decreases. The laser deflection method is used to detect the amplitude of cantilever oscillation. Similar to the contact mode, feedback loop maintains a constant oscillation amplitude by moving the scanner vertically at every x,y data point. Recording this movement forms the topographical image. The advantage of tapping mode over contact mode is that it eliminates the lateral, shear forces present in contact mode. This enables tapping mode to image soft, fragile, and adhesive surfaces without damaging them while work under contact mode allows the damage to occur.</p>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_6"><span id="Comparison_of_Techniques"></span><h6 class="lt-chem-55935 editable">Comparison of Techniques</h6>
+
+<p class="lt-chem-55935">All techniques described above are widely used in studying of surface nano- and micromorphology. However, each method has its own limitations and the proper choice of analytical technique depends on features of analyzed surface and primary goals of research.</p>
+
+<p class="lt-chem-55935">All these techniques are capable to obtain an image of a sample surface with quite good resolution. The lateral resolution of VSI is much less, then for other techniques: 150 nm for VSI and 0.5 nm for AFM and SEM. Vertical resolution of AFM (0.5 &#506;) is better then for VSI (1 - 2 nm), however VSI is capable to measure a high vertical range of heights (1 mm) which makes possible to study even very rough surfaces. On the contrary, AFM allows us to measure only quite smooth surfaces because of its relatively small vertical scan range (7 &micro;m). SEM has less resolution, than AFM because it requires coating of a conductive material with the thickness within several nm.</p>
+
+<p class="lt-chem-55935">The significant advantage of VSI is that it can provide a large field of view (845 &times; 630 &micro;m for 10x objective) of tested surfaces. Recent studies of surface roughness characteristics showed that the surface roughness parameters increase with the increasing field of view until a critical size of 250,000 &micro;m is reached. This value is larger then the maximum field of view produced by AFM (100 &times; 100 &micro;m) but can be easily obtained by VSI. SEM is also capable to produce images with large field of view. However, SEM is able to provide only 2D images from one scan while AFM and VSI let us to obtain 3D images. It makes quantitative analysis of surface topography more complicated, for example, topography of membranes is studied by cross section and top view images.</p>
+
+<table class="mt-responsive-table">
+    <thead>
+        <tr>
+            <th scope="col"> </th>
+            <th scope="col"><strong>VSI</strong></th>
+            <th scope="col"><strong>AFM</strong></th>
+            <th scope="col"><strong>SEM</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="lt-chem-55935">Lateral resolution</td>
+            <td data-th="VSI" class="lt-chem-55935">0.5 - 1.2&micro;m</td>
+            <td data-th="AFM" class="lt-chem-55935">0.5 nm</td>
+            <td data-th="SEM" class="lt-chem-55935">0.5 - 1 nm</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-55935">Vertical Resolution</td>
+            <td data-th="VSI" class="lt-chem-55935">2 nm</td>
+            <td data-th="AFM" class="lt-chem-55935">0.5 &Aring;</td>
+            <td data-th="SEM" class="lt-chem-55935">Only 2D images</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-55935">Field of View</td>
+            <td data-th="VSI" class="lt-chem-55935">845 x 630 &micro;m (10x objective)</td>
+            <td data-th="AFM" class="lt-chem-55935">100 x 100 &micro;m</td>
+            <td data-th="SEM" class="lt-chem-55935">1 - 2 mm</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-55935">Vertical Range of Scan</td>
+            <td data-th="VSI" class="lt-chem-55935">1 mm</td>
+            <td data-th="AFM" class="lt-chem-55935">10 &micro;m</td>
+            <td data-th="SEM" class="lt-chem-55935">-</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-55935">Preparation of Sample</td>
+            <td data-th="VSI" class="lt-chem-55935">-</td>
+            <td data-th="AFM" class="lt-chem-55935">-</td>
+            <td data-th="SEM" class="lt-chem-55935">Required coating of a conducted material</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-55935">Required environment</td>
+            <td data-th="VSI" class="lt-chem-55935">Air</td>
+            <td data-th="AFM" class="lt-chem-55935">Air, liquid</td>
+            <td data-th="SEM" class="lt-chem-55935">Vacuum</td>
+        </tr>
+    </tbody>
+    <caption>Table \(\PageIndex{1}\) A comparison of VSI sample and resolution with AFM and SEM.</caption>
+</table>
+
+</div></div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_7"><span id="The_Experimental_Studying_of_Surface_Processes_Using_Microscopic_Techniques"></span><h4 class="lt-chem-55935 editable">The Experimental Studying of Surface Processes Using Microscopic Techniques</h4>
+
+<p class="lt-chem-55935">The limitations of each technique described above are critically important to choose appropriate technique for studying surface processes. Let&rsquo;s explore application of these techniques to study dissolution of crystals.</p>
+
+<p class="lt-chem-55935">When crystalline matter dissolves the changes of the crystal surface topography can be observed by using microscopic techniques. If we will apply an unreactive mask (silicon for example) on crystal surface and place a crystalline sample into the experiment reactor then we get two types of surfaces: dissolving and remaining the same or unreacted. After some period of time the crystal surface starts to dissolve and change its z-level. In order to study these changes ex situ we can pull out a sample from the reaction cell then remove a mask and measure the average height difference &Delta;h bar between the unreacted and dissolved areas. The average heights of dissolved and unreacted areas are obtained through digital processing of data obtained by microscopes. The velocity of normal surface retreat v<sub>SNR</sub> during the time interval &#8710;t is defined by \ref{18}</p>
+
+<p class="lt-chem-55935">\[ \nu _{SNR}\ =\ \frac{\Delta \hbar}{\Delta t} \label{18}   \]</p>
+
+<p class="lt-chem-55935">Dividing this velocity by the molar volume <img class="internal" alt="gif.latexbarV" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418317/gif.latexbarV?revision=1" /> (cm<sup>3</sup>/mol) gives a global dissolution rate in the familiar units of moles per unit area per unit time:</p>
+
+<p class="lt-chem-55935">\[ R\ =\ \frac{\nu _{SNR}}{\bar{V}} \label{19}   \]</p>
+
+<p class="lt-chem-55935">This method allows us to obtain experimental values of dissolution rates just by precise measuring of average surface heights. Moreover, using this method we can measure local dissolution rates at etch pits by monitoring changes in the volume and density of etch pits across the surface over time. VSI technique is capable to perform these measurements because of large vertical range of scanning. In order to get precise values of rates which are not depend on observing place of crystal surface we need to measure enough large areas. VSI technique provides data from areas which are large enough to study surfaces with heterogeneous dissolution dynamics and obtain average dissolution rates. Therefore, VSI makes possible to measure rates of normal surface retreat during the dissolution and observe formation, growth and distribution of etch pits on the surface.</p>
+
+<p class="lt-chem-55935">However, if the mechanism of dissolution is controlled by dynamics of atomic steps and kink sites within a smooth atomic surface area, the observation of the dissolution process need to use a more precise technique. AFM is capable to provide information about changes in step morphology in situ when the dissolution occurs. For example, immediate response of the dissolved surface to the changing of environmental conditions (concentrations of ions in the solution, pH etc.) can be studied by using AFM.</p>
+
+<p class="lt-chem-55935">SEM is also used to examine micro and nanotexture of solid surfaces and study dissolution processes. This method allows us to observe large areas of crystal surface with high resolution which makes possible to measure a high variety of surfaces. The significant disadvantage of this method is the requirement to cover examine sample by conductive substance which limits the resolution of SEM. The other disadvantage of SEM is that the analysis is conducted in vacuum. Recent technique, environmental SEM or ESEM overcomes these requirements and makes possible even examine liquids and biological materials. The third disadvantage of this technique is that it produces only 2D images. This creates some difficulties to measure &Delta;h<sub>bar</sub> within the dissolving area. One of advantages of this technique is that it is able to measure not only surface topography but also chemical composition and other surface characteristics of the surface. This fact is used to monitor changing in chemical composition during the dissolution.</p>
+
+</div></div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_8"><span id="Dual_Polarization_Interferometry_for_Thin_Film_Characterization"></span><h2 class="lt-chem-55935 editable">Dual Polarization Interferometry for Thin Film Characterization</h2>
+
+<div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_9"><span id="Overview"></span><h4 class="lt-chem-55935 editable">Overview</h4>
+
+<p class="lt-chem-55935">As research interests begin to focus on progressively smaller dimensions, the need for nanoscale characterization techniques has seen a steep rise in demand. In addition, the wide scope of nanotechnology across all fields of science has perpetuated the application of characterization techniques to a multitude of disciplines. Dual polarization interferometry (DPI) is an example of a technique developed to solve a specific problem, but was expanded and utilized to characterize fields ranging surface science, protein studies, and crystallography. With a simple optical instrument, DPI can perform label-free sensing of refractive index and layer thickness in real time, which provides vital information about a system on the nanoscale, including the elucidation of structure-function relationships.</p>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_10"><span id="History"></span><h4 class="lt-chem-55935 editable">History</h4>
+
+<p class="lt-chem-55935">DPI was conceived in 1996 by Dr. Neville Freeman and Dr. Graham Cross (Figure \(\PageIndex{8}\)) when they recognized a need to measure refractive index and adlayer thickness simultaneously in protein membranes to gain a true understanding of the dynamics of the system. They patented the technique in 1998, and the instrument was commercialized by Farfield Group Ltd. in 2000.</p>
+
+<figure><img alt="NanoModule Figure 1." data-media-type="image/jpeg" data-print-width="2.5in" width="300" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418318/NanoModule_Figure_1.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{8}\) English physicist Graham Cross. Copyright: Durham University.</figcaption>
+</figure>
+
+<p class="lt-chem-55935">Freeman and Cross unveiled the first full publication describing the technique in 2003, where they chose to measure well-known protein systems and compare their data to X-ray crystallography and neutron reflection data. The first system they studied was sulpho-NHS-LC-biotin coated with streptavidin and a biotinylated peptide capture antibody, and the second system was BS<sup>3</sup> coated with anti-HSA. Molecular structures are shown in Figure \(\PageIndex{9}\). Their results showed good agreement with known layer thicknesses, and the method showed clear advantages over neutron reflection and surface plasmon resonance. A schematic and picture of the instrument used by Freeman and Cross in this publication is shown in Figure \(\PageIndex{10}\) and Figure \(\PageIndex{11}\), respectively.</p>
+
+<figure><img alt="NanoModule Figure 2." data-media-type="image/jpeg" data-print-width="5in" width="500" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418316/NanoModule_Figure_2.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{9}\) Molecular structures of (a) sulpho-NHS-LC-biotin and (b) bis-(sulphosuccinimydyl) suberate (BS3). Reprinted with permission from G. H. Cross, A. A. Reeves, S. Brand, J. F. Popplewell, L. L. Peel, M. J. Swann, and N. J. Freeman, Biosens. Bioelectron., 2003, 19, 383. Copyright: Biosensors &amp; Bioelectronics (2003).</figcaption>
+</figure>
+
+<figure><img alt="NanoModule Figure 3a." data-media-type="image/jpeg" data-print-width="4in" width="500" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418320/NanoModule_Figure_3a.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{10}\) The first DPI schematic and instrument. Reprinted with permission from G. H. Cross, A. A. Reeves, S. Brand, J. F. Popplewell, L. L. Peel, M. J. Swann, and N. J. Freeman, Biosens. Bioelectron., 2003, 19, 383. Copyright: Biosensors &amp; Bioelectronics (2003).</figcaption>
+</figure>
+
+<figure><img alt="NanoModule Figure 3b." data-media-type="image/jpeg" data-print-width="4in" width="500" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418321/NanoModule_Figure_3b.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{11}\) Picture of the DPI instrument used by Freeman and Cross.</figcaption>
+</figure>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_11"><span id="Instrumentation"></span><h4 class="lt-chem-55935 editable">Instrumentation</h4>
+
+<div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_12"><span id="Theory"></span><h6 class="lt-chem-55935 editable">Theory</h6>
+
+<p class="lt-chem-55935">The optical power of DPS comes from the ability to measure two different interference fringe patterns simultaneously in real time. Phase changes in these fringe patterns result from changes in refractive index and layer thickness that can be detected by the waveguide interferometer, and resolving these interference patterns provides refractive index and layer thickness values.</p>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_13"><span id="Optics"></span><h6 class="lt-chem-55935 editable">Optics</h6>
+
+<p class="lt-chem-55935">A representation of the interferometer is shown in Figure \(\PageIndex{12}\). The interferometer is composed of a simplified slab waveguide, which guides a wave of light in one transverse direction without scattering. A broad laser light is shone on the side facet of stacked waveguides separated with a cladding layer, where the waveguides act as a sensing layer and a reference layer that produce an interference pattern in a decaying (evanescent) electric field.</p>
+
+<figure><img alt="NanoModule Figure 4." data-media-type="image/jpeg" data-print-width="5in" width="600" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418322/NanoModule_Figure_4.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{12}\) Basic representation of a slab waveguide interferometer. Reprinted with permission from M. Wang, S. Uusitalo, C. Liedert, J. Hiltunen, L. Hakalahti, and R. Myllyla, Appl. Optics, 2012, 12, 1886. Copyright: Applied Optics (2012).</figcaption>
+</figure>
+
+<p class="lt-chem-55935">A full representation of DPI theory and instrumentation is shown in Figure \(\PageIndex{13}\) and Figure \(\PageIndex{14}\), respectively. The layer thickness and refractive index measurements are determined by measuring two phase changes in the system simultaneously because both transverse-electric and transverse-magnetic polarizations are allowed through the waveguides. Phase changes in each polarization of the light wave are lateral shifts of the wave peak from a given reference peak. The phase shifts are caused by changes in refractive index and layer thickness that result from molecular fluctuations in the sample. Switching between transverse-electric and transverse-magnetic polarizations happens very rapidly at 2 ms, where the switching mechanism is performed by a liquid crystal wave plate. This enables real-time measurements of the parameters to be obtained simultaneously.</p>
+
+<figure><img alt="NanoModule Figure 5." data-media-type="image/jpeg" data-print-width="4.5in" width="600" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418324/NanoModule_Figure_5.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{13}\) DPI sensing apparatus and fringe pattern collection from transverse-magnetic and transverse-electric polarizations of light. Adapted from J. Escorihuela, M.A. Gonzalez-Martinez, J.L. Lopez-Paz, R. Puchades, A. Maquieira, and D. Gimenez-Romero, Chem. Rev., 2015, 115, 265. Copyright: Chemical Reviews, (2015).</figcaption>
+</figure>
+
+<figure><img alt="NanoModule Figure 6." data-media-type="image/jpeg" data-print-width="5in" width="600" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418325/NanoModule_Figure_6.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{14}\) Fringe pattern detection of the waveguides and phase change determination between the sensing and reference interference patterns. Adapted from J. Escorihuela, M.A. Gonzalez-Martinez, J.L. Lopez-Paz, R. Puchades, A. Maquieira, and D. Gimenez-Romero, Chem. Rev., 2015, 115, 265. Copyright: Chemical Reviews, (2015).</figcaption>
+</figure>
+
+</div></div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_14"><span id="Comparison_of_DPI_with_Other_Techniques"></span><h4 class="lt-chem-55935 editable">Comparison of DPI with Other Techniques</h4>
+
+<div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_15"><span id="Initial_DPI_Evaluations"></span><h6 class="lt-chem-55935 editable">Initial DPI Evaluations</h6>
+
+<p class="lt-chem-55935">The first techniques rigorously compared to DPI were neutron reflection (NR) and X-ray diffraction. These studies demonstrated that DPI had a very high precision of 40 pm, which is comparable to NR and superior to X-ray diffraction. Additionally, DPI can provide real time information and conditions similar to an in-vivo environment, and the instrumental requirements are far simpler than those for NR. However, NR and X-ray diffraction are able to provide structural information that DPI cannot determine.</p>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_16"><span id="DPI_Comparison_with_orthogonal_Analytical_Techniques"></span><h6 class="lt-chem-55935 editable">DPI Comparison with orthogonal Analytical Techniques</h6>
+
+<p class="lt-chem-55935">Comparisons between DPI and alternative techniques have been performed since the initial evaluations, with techniques including surface plasmon resonance (SPR), atomic force microscopy (AFM), and quartz crystal microbalance with dissipation monitoring (QCM-D).</p>
+
+<p class="lt-chem-55935">SPR is well-established for characterizing protein adsorption and has been used before DPI was developed. These techniques are very similar in that they both use an optical element based on an evanescent field, but they differ greatly in the method of calculating the mass of adsorbed protein. Rigorous testing showed that both tests give very accurate results, but their strengths differ. Because SPR uses spot-testing with an area of 0.26 mm2 while DPI uses the average measurements over the length of the entire 15 mm chip, SPR is recommended for use in kinetic studies where diffusion in involved. However, DPI shows much greater accuracy than SPR when measuring refractive index and layer thickness.</p>
+
+<p class="lt-chem-55935">Atomic Force Microscopy is a very different analytical technique than DPI because it is a type of microscopy used for high-resolution surface characterization. Hence, AFM and DPI are well-suited to be used in conjunction because AFM can provide accurate molecular structures and surface mapping while DPI provides layer thickness that AFM cannot determine.</p>
+
+<p class="lt-chem-55935">QCM-D is a technique that can be used with DPI to provide complementary data. QCM-D differs from DPI by calculating both mass of the solvent and the mass of the adsorbed protein layer. These techniques can be used together to determine the amount of hydration in the adsorbed layer. QCM-D can also quantify the supramolecular conformation of the adlayer using energy dissipation calculations, while DPI can detect these conformational changes using birefringence, thus making these techniques orthogonal. One way that DPI is superior to QCM-D is that the latter techniques loses accuracy as the film becomes very thin, while DPI retains accuracy throughout the angstrom scale.</p>
+
+<p class="lt-chem-55935">A tabulated representation of these techniques and their ability to measure structural detail, in-vivoconditions, and real time data is shown in Table \(\PageIndex{2}\).</p>
+
+<table class="mt-responsive-table">
+    <thead>
+        <tr>
+            <th scope="col"><strong>Technique</strong></th>
+            <th scope="col"><strong>Real Time</strong></th>
+            <th scope="col"><strong>Close to In-vivo</strong></th>
+            <th scope="col"><strong>Structural Details</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-th="Technique" class="lt-chem-55935">QCM-D</td>
+            <td data-th="Real Time" class="lt-chem-55935">Yes</td>
+            <td data-th="Close to In-vivo" class="lt-chem-55935">Yes</td>
+            <td data-th="Structural Details" class="lt-chem-55935">Medium</td>
+        </tr>
+        <tr>
+            <td data-th="Technique" class="lt-chem-55935">SPR</td>
+            <td data-th="Real Time" class="lt-chem-55935">Yes</td>
+            <td data-th="Close to In-vivo" class="lt-chem-55935">Yes</td>
+            <td data-th="Structural Details" class="lt-chem-55935">Low</td>
+        </tr>
+        <tr>
+            <td data-th="Technique" class="lt-chem-55935">X-ray</td>
+            <td data-th="Real Time" class="lt-chem-55935">No</td>
+            <td data-th="Close to In-vivo" class="lt-chem-55935">No</td>
+            <td data-th="Structural Details" class="lt-chem-55935">Very high</td>
+        </tr>
+        <tr>
+            <td data-th="Technique" class="lt-chem-55935">AFM</td>
+            <td data-th="Real Time" class="lt-chem-55935">No</td>
+            <td data-th="Close to In-vivo" class="lt-chem-55935">No</td>
+            <td data-th="Structural Details" class="lt-chem-55935">High</td>
+        </tr>
+        <tr>
+            <td data-th="Technique" class="lt-chem-55935">NR</td>
+            <td data-th="Real Time" class="lt-chem-55935">No</td>
+            <td data-th="Close to In-vivo" class="lt-chem-55935">Yes</td>
+            <td data-th="Structural Details" class="lt-chem-55935">High</td>
+        </tr>
+        <tr>
+            <td data-th="Technique" class="lt-chem-55935">DPI</td>
+            <td data-th="Real Time" class="lt-chem-55935">Yes</td>
+            <td data-th="Close to In-vivo" class="lt-chem-55935">Yes</td>
+            <td data-th="Structural Details" class="lt-chem-55935">Medium</td>
+        </tr>
+    </tbody>
+    <caption>Table \(\PageIndex{2}\): Comparison of DPI with other analytical techniques. Data reproduced from J. Escorihuela, M. A. Gonzalez-Martinez, J. L. Lopez-Paz, R. Puchades, A. Maquieira, and D. Gimenez-Romero, Chem. Rev., 2015, 115, 265.a Close to in-vivo means that the sensor can provide information that is similar to those experiences under in-vivo conditions. Copyright: Chemical Reviews, (2015).</caption>
+</table>
+
+</div></div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_17"><span id="Applications_of_DPI"></span><h4 class="lt-chem-55935 editable">Applications of DPI</h4>
+
+<div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_18"><span id="Protein_Studies"></span><h6 class="lt-chem-55935 editable">Protein Studies</h6>
+
+<p class="lt-chem-55935">DPI has been most heavily applied to protein studies. It has been used to elucidate membrane crystallization, protein orientation in a membrane, and conformational changes. It has also been used to study protein-protein interactions, protein-antibody interactions, and the stoichiometry of binding events.</p>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_19"><span id="Thin_Film_Studies"></span><h6 class="lt-chem-55935 editable">Thin Film Studies</h6>
+
+<p class="lt-chem-55935">Since its establishment using protein interaction studies, DPI has seen its applications expanded to include thin film studies. DPI was compared to ellipsometry and QCM-D studies to indicate that it can be applied to heterogeneous thin films by applying revised analytical formulas to estimate the thickness, refractive index, and extinction coefficient of heterogeneous films that absorb light. A non-uniform density distribution model was developed and tested on polyethylenimine deposited onto silica and compared to QCD-M measurements. Additionally, this revised model was able to calculate the mass of multiple species of molecules in composite films, even if the molecules absorbed different amounts of light. This information is valuable for providing surface composition. The structure of polyethylenimine used to form an adsorbing film is shown in Figure \(\PageIndex{15}\).</p>
+
+<figure><img alt="NanoModule Figure 7." data-media-type="image/png" data-print-width="3in" width="400" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418328/NanoModule_Figure_7.png?revision=1" />
+<figcaption>Figure \(\PageIndex{15}\) Structure of polyethylenimine used to form a thin film for DPI measurements.</figcaption>
+</figure>
+
+<p class="lt-chem-55935">A challenge of measuring layer thickness in thin films such as polyethylenimine is that DPI&rsquo;s evanescent field will create inaccurate measurements in inhomogeneous films as the film thickness increases. An error of approximately 5% was seen when layer thickness was increased to 90 nm. Data from this study determining the densities throughout the polyethylenimine film are shown in Figure \(\PageIndex{16}\).</p>
+
+<figure><img alt="NanoModule Figure 8." data-media-type="image/jpeg" data-print-width="5in" width="700" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418330/NanoModule_Figure_8.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{16}\) Density distribution of a polyethylenimine film using heterogeneous layer equations for DPI and QCM-D. Reproduced from P. D. Coffey, M. J.Swann, T. A. Waigh, Q. Mua, and J. R. Lu, <em data-effect="italics">RSC Adv.</em>, 2013, <strong>3</strong>, 3316.</figcaption>
+</figure>
+
+</div></div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_20"><span id="Thin_Layer_Adsorption_Studies"></span><h4 class="lt-chem-55935 editable">Thin Layer Adsorption Studies</h4>
+
+<p class="lt-chem-55935">Similar to thin film characterization studies, thin layers of adsorbed polymers have also been elucidated using DPI. It has been demonstrated that two different adsorption conformations of polyacrylamide form on resin, which provides useful information about adsorption behaviors of the polymer. This information is industrially important because polyacrylamide is widely used through the oil industry, and the adsorption of polyacrylamide onto resin is known to affect the oil/water interfacial stability.</p>
+
+<p class="lt-chem-55935">Initial adsorption kinetics and conformations were also illuminated using DPI on bottlebrush polyelectrolytes. Bottlebrush polyelectrolytes are show in Figure \(\PageIndex{17}\). It was shown that polyelectrolytes with high charge density initially adsorbed in layers that were parallel to the surface, but as polyelectrolytes were replaced with low charge density species, alignment changed to prefer perpendicular arrangement to the surface.</p>
+
+<figure><img alt="NanoModule Figure 9." data-media-type="image/jpeg" data-print-width="6in" width="700" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418335/NanoModule_Figure_9.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{17}\) A representation of bottlebrush polyelectrolytes and how they adsorb to a layer differently over time as determined by DPI. Reproduced from G. Bijelic, A. Shovsky, I. Varga, R. Makuska, and P. M. Claesson, J. Colloid Interf. Sci., 2010, 348, 189. Copyright: Journal of Colloid and Interface Science, (2010).</figcaption>
+</figure>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09:_Surface_Morphology_and_Structure/9.01:_Interferometry" class="mt-section" id="section_21"><span id="Hg2.2B_Biosensing_Studies"></span><h4 class="lt-chem-55935 editable">Hg<sup>2+</sup> Biosensing Studies</h4>
+
+<p class="lt-chem-55935">In 2009, it was shown by Wang et al. that DPI could be used for small molecule sensing. In their first study describing this use of DPI, they used single stranded DNA that was rich in thymine to complex Hg2+ ions. When DNA complexed with Hg2+, the DNA transformed from a random coil structure to a hairpin structure. This change in structure could be detected by DPI at Hg2+ concentrations smaller than the threshold concentration allowed in drinking water, indicating the sensitivity of this label-free method for Hg2+ detection. High selectivity was indicated when the authors did not observe similar structural changes for Mg2+, Ca2+, Mn2+, Fe3+, Cd2+, Co2+, Ni2+, Zn2+ or Pb2+ ions. A graphical description of this experiment is shown in Figure. Wang et al. later demonstrated that biosensing of small molecules and other metal cations can be achieved using other forms of functionalized DNA that specifically bind the desired analytes. Examples of molecules detected in this manner are shown in Figure \(\PageIndex{18}\).</p>
+
+<figure><img alt="NanoModule Figure 10." data-media-type="image/jpeg" data-print-width="5in" width="600" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418332/NanoModule_Figure_10.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{18}\) Selective Hg2+ detection using single strand DNA to complex the cation and measure the conformational changes in the DNA with DPI. Reproduced from J. Escorihuela, M. A. Gonzalez-Martinez, J. L. Lopez-Paz, R. Puchades, A. Maquieira, and D. Gimenez-Romero, Chem. Rev., 2015, 115, 265. Copyright: Chemical Reviews, (2015).</figcaption>
+</figure>
+
+<figure><img alt="NanoModule Figure 11." data-media-type="image/jpeg" data-print-width="6in" width="600" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/418334/NanoModule_Figure_11.jpg?revision=1" />
+<figcaption>Figure \(\PageIndex{19}\) Small molecules detected using DPI measurements of functionalized DNA biosensors. Reproduced from J. Escorihuela, M. A. Gonzalez-Martinez, J. L. Lopez-Paz, R. Puchades, A. Maquieira, and D. Gimenez-Romero, <em data-effect="italics">Chem. Rev</em>., 2015, <strong>115</strong>, 265. Copyright: Chemical Reviews, (2015).</figcaption>
+</figure>
+</div></div>
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "9.1: Interferometry";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p>This page titled <a target="_blank" class="internal mt-self-link" href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09%3A_Surface_Morphology_and_Structure/9.01%3A_Interferometry" rel="internal">9.1: Interferometry</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by/4.0" target="_blank">CC BY  4.0</a>  license and was authored, remixed, and/or curated by <a rel="nofollow" target="_blank" href="http://barron.rice.edu/Barron.html#arb">Pavan M. V. Raja &amp; Andrew R. Barron</a> (<a rel="nofollow" target="_blank" href="https://cnx.org/contents/uieDnVBC@25.2:uZ0soqWw@11/Introduction">OpenStax CNX</a>)  via <a rel="nofollow" href="http://cnx.org/contents/ba27839d-5042-4a40-afcf-c0e6e39fb454@25.2" target="_blank">source content</a> that was edited to the style and standards of the LibreTexts platform.</p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09%3A_Surface_Morphology_and_Structure" title="9: Surface Morphology and Structure"><span>9: Surface Morphology and Structure</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/09%3A_Surface_Morphology_and_Structure/9.02%3A_Atomic_Force_Microscopy_(AFM)" title="9.2: Atomic Force Microscopy (AFM)"><span>9.2: Atomic Force Microscopy (AFM)</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="28" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-authorname-pavan m. v. raja &amp; andrew r. barron" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Author</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=authorname%3Aabarron" data-ga-label="Classification">Pavan M. V. Raja &amp; Andrew R. Barron</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accby" data-ga-label="Classification">CC BY</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-4.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A40" data-ga-label="Classification">4.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-dual-polarization-interferometry" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=dual+polarization+interferometry" data-ga-label="Free tag"> dual polarization interferometry</a></li>
+                <li class="mt-tag-link mt-tag-interferometry" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=interferometry" data-ga-label="Free tag"> interferometry</a></li>
+                <li class="mt-tag-link mt-tag-source@http://cnx.org/contents/ba27839d-5042-4a40-afcf-c0e6e39fb454@25.2" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=source%40http%3A%2F%2Fcnx.org%2Fcontents%2Fba27839d-5042-4a40-afcf-c0e6e39fb454%4025.2" data-ga-label="Free tag"> source@http://cnx.org/contents/ba27839d-5042-4a40-afcf-c0e6e39fb454@25.2</a></li>
+                <li class="mt-tag-link mt-tag-vertical-scanning-interferometry" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=vertical+scanning+interferometry" data-ga-label="Free tag"> vertical scanning interferometry</a></li>
+                <li class="mt-tag-link mt-tag-white-light-interferometry" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=white-light+interferometry" data-ga-label="Free tag"> white-light interferometry</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="5ad2b437c7f1e85a3d2fbaa80a6a29790cc744b0b6203047eb035f2a67e0826c" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
