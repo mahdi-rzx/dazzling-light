@@ -631,7 +631,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics/6.04%3A_Transition_State_Theory
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Map%3A_Inorganic_Chemistry_(Housecroft)/19%3A_d-Block_Metal_Chemistry_-_General_Considerations/19.05%3A_Characteristic_Properties_-_A_General_Perspective
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/15%3A_Thermodynamics-_Atoms_Molecules_and_Energy/15.11%3A_Bond_Enthalpies_and_Exothermic_or_Endothermic_Reactions
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/21%3A_Amines_and_Their_Derivatives/21.07%3A_Synthesis_of_Amines__from__Carboxylic_Amides
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/22%3A_Chemistry_of_the_Benzene_Substituents%3A_Alkylbenzenes_Phenols_and_Benzenamines/22.04%3A_Preparation__of_Phenols%3A__Nucleophilic__Aromatic__Substitution
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/22%3A_Chemistry_of_the_Benzene_Substituents%3A_Alkylbenzenes_Phenols_and_Benzenamines/22.08%3A_Oxidation_of_Phenols%3A__Benzoquinones
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/24%3A_Carbohydrates%3A_Polyfunctional_Compounds_in_Nature/24.04%3A_Polyfunctional__Chemistry__of_Sugars%3A__Oxidation__to_Carboxylic__Acids
@@ -1390,3 +1389,4 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Mor
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/22%3A_Carbonyl_Alpha-Substitution_Reactions/22.07%3A_Alkylation_of_Enolate_Ions
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/17%3A_Alcohols_and_Phenols/17.02%3A_Properties_of_Alcohols_and_Phenols
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/21%3A_Amines_and_Their_Derivatives/21.05%3A_Synthesis_of_Amines__by_Alkylation
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Vollhardt_and_Schore)/21%3A_Amines_and_Their_Derivatives/21.06%3A_Synthesis_of_Amines__by_Reductive_Amination
