@@ -183,7 +183,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/22%3A_Metals
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/13%3A_Acid-Base_Equilibria
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/14%3A_Thermochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/15%3A_Thermodynamics_of_Chemical_Equilibria
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry
@@ -8996,3 +8995,10 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/11%3A_Ch
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/11%3A_Chemical_Equilibrium/11.06%3A_Phase_Distribution_Equilibria
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Coordination_Chemistry/Complex_Ion_Equilibria/Complex-Ion_Equilibria
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Descriptive_Chemistry/Elements_Organized_by_Group/Group_02_Elements%3A_The_Alkaline_Earth_Metals
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/13%3A_Acid-Base_Equilibria/13.01%3A_Introduction_to_Acid_Base_Equilibria
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/13%3A_Acid-Base_Equilibria/13.02%3A_Strong_Monoprotic_Acids_and_Bases
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/13%3A_Acid-Base_Equilibria/13.03%3A_Finding_the_pH_of_weak_Acids_Bases_and_Salts
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/13%3A_Acid-Base_Equilibria/13.04%3A_Conjugate_Pairs_and_Buffers
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/13%3A_Acid-Base_Equilibria/13.05%3A_Acid_Base_Titration
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/13%3A_Acid-Base_Equilibria/13.06%3A_Applications_of_Acid-Base_Equilibria
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/13%3A_Acid-Base_Equilibria/13.07%3A_Exact_Calculations_and_Approximations
