@@ -129,7 +129,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/09%3A_Metals_in_Medicine
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Thermodynamics/Thermodynamic_Cycles/Carnot_Cycle
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantitative_NMR_(Larive_and_Korir)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
@@ -7045,3 +7044,16 @@ https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textb
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/11%3A_Chemical_Kinetics_I/11.11%3A_Transition_State_Theory
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/11%3A_Chemical_Kinetics_I/11.E%3A_Chemical_Kinetics_I_(Exercises)
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/11%3A_Chemical_Kinetics_I/11.S%3A_Chemical_Kinetics_I_(Summary)
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II/12.01%3A_Reaction_Mechanisms
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II/12.02%3A_Concentration_Profiles_for_Some_Simple_Mechanisms
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II/12.03%3A_The_Connection_between_Reaction_Mechanisms_and_Reaction_Rate_Laws
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II/12.04%3A_The_Rate_Determining_Step_Approximation
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II/12.05%3A_The_Steady-State_Approximation
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II/12.06%3A_The_Equilibrium_Approximation
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II/12.07%3A_The_Lindemann_Mechanism
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II/12.08%3A_The_Michaelis-Menten_Mechanism
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II/12.09%3A_Chain_Reactions
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II/12.10%3A_Catalysis
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II/12.11%3A_Oscillating_Reactions
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II/12.E%3A_Chemical_Kinetics_II_(Exercises)
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_(Fleming)/12%3A_Chemical_Kinetics_II/12.S%3A_Chemical_Kinetics_II_(Summary)
