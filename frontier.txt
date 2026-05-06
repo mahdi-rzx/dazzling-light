@@ -585,7 +585,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/07%3A_Thermochemistry/7.5%3A_The_First_Law_of_Thermodynamics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/13%3A_Spontaneous_Processes_and_Thermodynamic_Equilibrium/13.8%3A_Carnot_Cycle_Efficiency_and_Entropy
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/05%3A_Dioxygen_Reactions/5.01%3A_Catalase_and_Peroxidase
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/17%3A_Kinetics/17.8%3A_Catalysis
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/18%3A_Representative_Metals_Metalloids_and_Nonmetals/18.02%3A_Occurrence_and_Preparation_of_the_Representative_Metals
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/18%3A_Representative_Metals_Metalloids_and_Nonmetals/18.12%3A_Occurrence_Preparation_and_Properties_of_the_Noble_Gases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/19%3A_Transition_Metals_and_Coordination_Chemistry/19.2%3A_Coordination_Chemistry_of_Transition_Metals
@@ -1691,3 +1690,4 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_Firs
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/14%3A_Acid-Base_Equilibria/14.6%3A_Buffers
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/16%3A_Electrochemistry/16.3%3A_Standard_Reduction_Potentials
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/17%3A_Kinetics/17.2%3A_Factors_Affecting_Reaction_Rates
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/17%3A_Kinetics/17.6%3A_Reaction_Mechanisms
