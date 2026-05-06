@@ -4751,3 +4751,4 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/10%3A_Cleaning_Up_Data/10.5%3A_Exercises
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/11%3A_Finding_Structure_in_Data/11.01%3A_What_Do_We_Mean_By_Structure_and_Order
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/11%3A_Finding_Structure_in_Data/11.02%3A_Cluster_Analysis
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/11%3A_Finding_Structure_in_Data/11.03%3A_Principal_Component_Analysis
