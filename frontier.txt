@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_17%3A_Dynamic_Equilibrium
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/zz%3A_Back_Matter
@@ -9442,3 +9441,17 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/9%3A_Quantum_Numbers/Chapter_5.4_Calculations_Involving_Dilution%3A_https%3A__youtu.be_Yq3cNk29_Ao
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/9%3A_Quantum_Numbers/Chapter_9.3_Magnetic_Quantum_Number_(ml)_and_Spin_Quantum_Number_(ms)_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/9%3A_Quantum_Numbers/Chapter_9.5_Assigning_4_Quantum_Numbers_to_Electrons_in_Subshells_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.10_Finding_the_Molecular_Weight_of_an_Unknown_using_Colligative_Properties_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.11.1_Finding_the_Vapor_Pressure_of_a_Solution_(Nonionic-Nonvolatile_Solute)_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.11.2_Finding_the_Vapor_Pressure_of_a_Solution_(Ionic-Nonvolatile_Solute)_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.11.3_Finding_Vapor_Pressure_of_a_Solution_(Nonionic-Volatile_Solute)_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.11_Introduction_to_the_Vapor_Pressure_of_a_Solution_(Raoults_Law)_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.1_The_Miscibility_of_Liquids__(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.2_Why_do_Ionic_Solids_Dissolve_in_Water_(Ion-Dipole_IMF)_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.3_Measures_of_Concentration_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.4_Converting_Units_of_Concentration_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.5_Why_do_Gases_Dissolve_in_Water_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.6_Henry's_Law_(The_Solubility_of_Gases_in_Solvents)_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.7_Colligative_Properties_in_Solutions_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.8_Osmotic_Pressure_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions/15.9_Boiling_Point_Elevation_and_Freezing_Point_Depression_(Video)
