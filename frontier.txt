@@ -117,7 +117,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_II_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/02%3A_Assignments
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/03%3A_Exams
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/zz%3A_Back_Matter
@@ -5056,3 +5055,17 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorga
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/00%3A_Front_Matter/02%3A_InfoPage
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/00%3A_Front_Matter/03%3A_Table_of_Contents
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/00%3A_Front_Matter/04%3A_Licensing
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.01%3A_Untitled_Chapter_2
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.02%3A_Untitled_Chapter_3
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.03%3A_Untitled_Chapter_4
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.04%3A_Untitled_Chapter_5
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.05%3A_New_Page
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.06%3A_New_Page
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.07%3A_New_Page
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.08%3A_New_Page
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.09%3A_New_Page
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.10%3A_General_electronic_considerations_of_metal-ligand_complexes
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.11%3A_Frontier_molecular_orbitals_of_-donor_-donor_and_-acceptor_ligands
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.12%3A_Octahedral_ML_Sigma_Complexes
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.13%3A_Octahedral_ML__complexes
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Principles_of_Inorganic_Chemistry_II_(Nocera)/01%3A_Chapters/1.14%3A_Angular_Overlap_Method_and_M-L_Diatomics
