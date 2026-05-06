@@ -183,7 +183,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/22%3A_Metals
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/17%3A_Chemical_Kinetics_and_Dynamics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Structure_and_Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_(Schaller)/V%3A__Reactivity_in_Organic_Biological_and_Inorganic_Chemistry_3/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Concept_Development_Studies_in_Chemistry_(Hutchinson)/01%3A_Preface_to_Concept_Development_Studies_in_Chemistry
@@ -9023,3 +9022,10 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_El
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.08%3A_Electrochemical_Corrosion
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.09%3A_Corrosion_Gallery
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.10%3A_Electrolytic_Cells_and_Electrolysis
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/17%3A_Chemical_Kinetics_and_Dynamics/17.01%3A_Rates_of_reactions_and_rate_laws
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/17%3A_Chemical_Kinetics_and_Dynamics/17.02%3A_Reaction_Rates_Typically_Change_with_Time
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/17%3A_Chemical_Kinetics_and_Dynamics/17.03%3A_Collision_and_activation-_the_Arrhenius_law
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/17%3A_Chemical_Kinetics_and_Dynamics/17.04%3A_Reaction_Mechanisms
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/17%3A_Chemical_Kinetics_and_Dynamics/17.05%3A_Kinetics_of_Reactions_in_Solution
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/17%3A_Chemical_Kinetics_and_Dynamics/17.06%3A_Catalysts_and_Catalysis
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/17%3A_Chemical_Kinetics_and_Dynamics/17.07%3A_Experimental_methods_of_chemical_kinetics
