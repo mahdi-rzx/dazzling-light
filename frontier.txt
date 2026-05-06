@@ -221,7 +221,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/22%3A_The_d-Block_Elements
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/23%3A_Organic_Compounds
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/24%3A_Nuclear_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/zz%3A_Back_Matter
@@ -9905,3 +9904,9 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemis
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/21%3A_The_p-Block_Elements/21.05%3A_The_Elements_of_Group_17_(The_Halogens)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/21%3A_The_p-Block_Elements/21.06%3A_The_Elements_of_Group_18_(The_Noble_Gases)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/21%3A_The_p-Block_Elements/21.E%3A_The_p-Block_Elements_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/22%3A_The_d-Block_Elements/22.01%3A_General_Trends_among_the_Transition_Metals
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/22%3A_The_d-Block_Elements/22.02%3A_A_Brief_Survey_of_Transition-Metal_Chemistry
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/22%3A_The_d-Block_Elements/22.03%3A_Metallurgy
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/22%3A_The_d-Block_Elements/22.04%3A_Coordination_Compounds
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/22%3A_The_d-Block_Elements/22.05%3A_Crystal_Field_Theory
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/22%3A_The_d-Block_Elements/22.06%3A_Transition_Metals_in_Biology
