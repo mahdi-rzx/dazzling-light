@@ -221,7 +221,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/16%3A_Aqueous_AcidBase_Equilibriums
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/17%3A_Solubility_and_Complexation_Equilibria
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/19%3A_Electrochemistry
@@ -9869,3 +9868,9 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemis
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/15%3A_Chemical_Equilibrium/15.05%3A_Factors_That_Affect_Equilibrium
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/15%3A_Chemical_Equilibrium/15.06%3A_Controlling_the_Products_of_Reactions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/15%3A_Chemical_Equilibrium/15.07%3A_Essential_Skills_7
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/16%3A_Aqueous_AcidBase_Equilibriums/16.01%3A_The_Autoionization_of_Water
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/16%3A_Aqueous_AcidBase_Equilibriums/16.02%3A_A_Qualitative_Description_of__Acid-Base_Equilibria
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/16%3A_Aqueous_AcidBase_Equilibriums/16.03%3A_Molecular_Structure_and_Acid-Base_Strength
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/16%3A_Aqueous_AcidBase_Equilibriums/16.04%3A_Quantitative_Aspects_of_Acid-Base_Equilibria
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/16%3A_Aqueous_AcidBase_Equilibriums/16.05%3A_Acid-Base_Titrations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/16%3A_Aqueous_AcidBase_Equilibriums/16.06%3A_Buffers
