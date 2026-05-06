@@ -579,7 +579,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/06%3A_Chemical_Bonding_-_Electron_Pairs_and_Octets/6.18%3A_Ionic_Compounds_Containing_Polyatomic_Ions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/15%3A_Thermodynamics-_Atoms_Molecules_and_Energy/15.08%3A_State_Functions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/10%3A_Solids_Liquids_and_Solutions/10.07%3A_Viscosity
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/19%3A_Electrochemistry/19.02%3A_Balancing_Oxidation-Reduction_Equations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/09%3A_Gases/9.16%3A_Kinetic_Theory_of_Gases_-_Graham's_Law_of_Diffusion
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/19%3A_Electrochemistry/19.08%3A_Electrolysis-_Driving_Non-spontaneous_Chemical_Reactions_with_Electricity
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/21%3A_Organic_Chemistry/21.02%3A_Carbon-_Why_It_Is_Unique
@@ -2240,3 +2239,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_App
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/17%3A_Aqueous_Ionic_Equilibrium/17.07%3A_Qualitative_Chemical_Analysis
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/18%3A_Gibbs_Energy_and_Thermodynamics/18.03%3A_Entropy_and_the_Second_Law_of_Thermodynamics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/18%3A_Gibbs_Energy_and_Thermodynamics/18.08%3A_Gibbs_Energy_Changes_in_Chemical_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/20%3A_Electrochemistry/20.01%3A_Oxidation_States_and_Redox_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/20%3A_Electrochemistry/20.02%3A_Balanced_Oxidation-Reduction_Equations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_A_Molecular_Approach_(Tro)/19%3A_Electrochemistry/19.03%3A_Voltaic_(or_Galvanic)_Cells-_Generating_Electricity_from_Spontaneous_Chemical_Reactions
