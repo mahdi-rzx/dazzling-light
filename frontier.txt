@@ -280,7 +280,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/02._Fundamental_Concepts_of_Quantum_Mechanics
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/06._One_Dimensional_Harmonic_Oscillator
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/09._The_Hydrogen_Atom
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.06%3A_Batteries_and_Fuel_Cells
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.07%3A_Timeline_of_Battery_Development
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.08%3A_Electrochemical_Corrosion
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/16%3A_Electrochemistry/16.09%3A_Corrosion_Gallery
@@ -3704,3 +3703,4 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/11%3A_Reactions_in_Aqueous_Solutions/11.02%3A_Ions_in_Solution_(Electrolytes)
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Map%3A_Inorganic_Chemistry_(Housecroft)/14%3A_The_Group_14_Elements/14.04%3A_Allotropes_of_Carbon
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/07%3A_Thermochemistry/7.5%3A_The_First_Law_of_Thermodynamics
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/13%3A_Spontaneous_Processes_and_Thermodynamic_Equilibrium/13.8%3A_Carnot_Cycle_Efficiency_and_Entropy
