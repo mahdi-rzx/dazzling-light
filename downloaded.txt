@@ -4756,3 +4756,4 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/11%3A_Finding_Structure_in_Data/11.05%3A_Using_R_for_a_Cluster_Analysis
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/11%3A_Finding_Structure_in_Data/11.06%3A_Using_R_for_a_Principal_Component_Analysis
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/11%3A_Finding_Structure_in_Data/11.07%3A_Using_R_For_A_Multivariate_Regression
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/11%3A_Finding_Structure_in_Data/11.08%3A_Exercises
