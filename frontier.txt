@@ -117,7 +117,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_II_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/03%3A_Simple_Bonding_Theory
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/04%3A_Symmetry_and_Group_Theory
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/05%3A_Molecular_Orbitals
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/06%3A_Acid-Base_and_Donor-Acceptor_Chemistry
@@ -4121,3 +4120,15 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/02%3A_Atomic_Structure/2.03%3A_Periodic_Properties_of_Atoms/2.3.02%3A_Electron_Affinity
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/02%3A_Atomic_Structure/2.03%3A_Periodic_Properties_of_Atoms/2.3.03%3A_Covalent_and_Ionic_Radii
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/02%3A_Atomic_Structure/2.04%3A_Problems_(do_we_want_this_here)
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/03%3A_Simple_Bonding_Theory/3.01%3A_Lewis_Electron-Dot_Diagrams
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/03%3A_Simple_Bonding_Theory/3.01%3A_Lewis_Electron-Dot_Diagrams/3.1.01%3A_Resonance
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/03%3A_Simple_Bonding_Theory/3.01%3A_Lewis_Electron-Dot_Diagrams/3.1.02%3A_Breaking_the_octet_rule_with_higher_electron_counts_(hypervalent_atoms)
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/03%3A_Simple_Bonding_Theory/3.01%3A_Lewis_Electron-Dot_Diagrams/3.1.03%3A_Formal_Charge
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/03%3A_Simple_Bonding_Theory/3.01%3A_Lewis_Electron-Dot_Diagrams/3.1.04%3A_Lewis_Fails_to_Predict_Unusual_Cases_-_Boron_and_Beryllium
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/03%3A_Simple_Bonding_Theory/3.02%3A_Valence_Shell_Electron-Pair_Repulsion
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/03%3A_Simple_Bonding_Theory/3.02%3A_Valence_Shell_Electron-Pair_Repulsion/3.2.01%3A_Lone_Pair_Repulsion
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/03%3A_Simple_Bonding_Theory/3.02%3A_Valence_Shell_Electron-Pair_Repulsion/3.2.02%3A_Multiple_Bonds
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/03%3A_Simple_Bonding_Theory/3.02%3A_Valence_Shell_Electron-Pair_Repulsion/3.2.03%3A_Electronegativity_and_Atomic_Size_Effects
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/03%3A_Simple_Bonding_Theory/3.02%3A_Valence_Shell_Electron-Pair_Repulsion/3.2.04%3A_Ligand_Close_Packing
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/03%3A_Simple_Bonding_Theory/3.03%3A_Molecular_Polarity
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(LibreTexts)/03%3A_Simple_Bonding_Theory/3.04%3A_Hydrogen_Bonding
