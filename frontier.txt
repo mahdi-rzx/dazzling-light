@@ -131,7 +131,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/01%3A_Fundamental_1_-_Measurable_Properties
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/17%3A_Electrochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/18%3A_Representative_Metals_Metalloids_and_Nonmetals
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/19%3A_Transition_Metals_and_Coordination_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/20%3A_Organic_Chemistry
@@ -8518,3 +8517,15 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/16%3A_Thermodynamics/16.06%3A_Key_Equations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/16%3A_Thermodynamics/16.07%3A_Summary
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/16%3A_Thermodynamics/16.08%3A_Exercises
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/17%3A_Electrochemistry/17.00%3A_Introduction
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/17%3A_Electrochemistry/17.01%3A_Review_of_Redox_Chemistry
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/17%3A_Electrochemistry/17.02%3A_Galvanic_Cells
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/17%3A_Electrochemistry/17.03%3A_Electrode_and_Cell_Potentials
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/17%3A_Electrochemistry/17.04%3A_Potential_Free_Energy_and_Equilibrium
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/17%3A_Electrochemistry/17.05%3A_Batteries_and_Fuel_Cells
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/17%3A_Electrochemistry/17.06%3A_Corrosion
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/17%3A_Electrochemistry/17.07%3A_Electrolysis
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/17%3A_Electrochemistry/17.08%3A_Key_Terms
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/17%3A_Electrochemistry/17.09%3A_Key_Equations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/17%3A_Electrochemistry/17.10%3A_Summary
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/17%3A_Electrochemistry/17.11%3A_Exercises
