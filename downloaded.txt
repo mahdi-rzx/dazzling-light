@@ -4713,3 +4713,4 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/03%3A_Visualizing_Data/3.03%3A_Creating_Plots_From_Scratch_in_R_Using_Base_Graphics
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/03%3A_Visualizing_Data/3.04%3A_Exercises
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/04%3A_Summarizing_Data/4.01%3A_Ways_to_Summarize_Data
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/04%3A_Summarizing_Data/4.02%3A_Using_R_to_Summarize_Data
