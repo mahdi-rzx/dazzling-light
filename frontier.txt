@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemical_Principles_(Dickerson)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/General_Chemistry_Supplement_(Eames)/00%3A_Front_Matter
@@ -9469,3 +9468,17 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_17%3A_Dynamic_Equilibrium/17.7_Finding_Equilibrium_Concentrations_for_Reactions_with_a_Small_K_Value_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_17%3A_Dynamic_Equilibrium/17.8_Using_ICE_Tables_to_find_Eq._Concentrations_and_Kc_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_17%3A_Dynamic_Equilibrium/17.9_Using_ICE_Tables_to_find_Kc_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.10_Predicting_the_Results_of_an_Acid_Base_Reaction_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.11_Ions_as_Acids_and_Bases_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.12_Solving_for_Ka_or_Kb_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.13_Polyprotic_Acids_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.15_pH_Indicators_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.1_Definitions_of_Acids_and_Bases_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.2_Acid_Base_Equilibria_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.3_Self-Ionization_of_Water_(Kw)_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.4_How_is_the_Kw_Equilibrium_Affected_by_the_Addition_of_Acids_or_Bases_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.5_Introduction_to_pH_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.6_Calculating_pH_in_Strong_Acid_or_Strong_Base_Solutions__(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.7_Conjugate_Acid-Base_Pairs_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.8_Calculating_the_pH_of_Weak_Acids_and_Weak_Bases_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_18%3A_Acid___Base_Chemistry/18.9_Solving_when_X_is_not_Small_(Video)
