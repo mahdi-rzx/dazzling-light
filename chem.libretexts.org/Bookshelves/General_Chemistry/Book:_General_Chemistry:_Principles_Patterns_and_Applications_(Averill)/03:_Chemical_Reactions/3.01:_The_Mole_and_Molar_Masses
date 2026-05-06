@@ -1,0 +1,3739 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="3.1: The Mole and Molar Masses"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/03%3A_Chemical_Reactions/3.01%3A_The_Mole_and_Molar_Masses"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content=""/>
+        <meta property="article:published_time" content="2014-10-14T21:57:40Z"/>
+        <meta property="article:modified_time" content="2022-07-04T22:34:14Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="3.1: The Mole and Molar Masses"/>
+        <meta name="twitter:description" content=""/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content=""/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/03%3A_Chemical_Reactions/3.01%3A_The_Mole_and_Molar_Masses"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256">{"@context":"http:\/\/schema.org","@type":"Article","name":"3.1: The Mole and Molar Masses","url":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/03%3A_Chemical_Reactions\/3.01%3A_The_Mole_and_Molar_Masses","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2014-10-14T21:57:40Z","dateModified":"2022-07-04T22:34:14Z","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/19947\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/03%3A_Chemical_Reactions\/3.01%3A_The_Mole_and_Molar_Masses"},"headline":"3.1: The Mole and Molar Masses","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"3.1: The Mole and Molar Masses","url":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/03%3A_Chemical_Reactions\/3.01%3A_The_Mole_and_Molar_Masses","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/03%3A_Chemical_Reactions\/3.06%3A_Chemical_Reactions_in_the_Atmosphere","https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/03%3A_Chemical_Reactions\/3.02%3A_Determining_Empirical_and_Molecular_Formulas","https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/01%3A_Introduction_to_Chemistry","https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/02%3A_Molecules_Ions_and_Chemical_Formulas","https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/04%3A_Reactions_in_Aqueous_Solution"]}</script>
+        <script type="application/ld+json" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry","name":"General Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)","name":"Map: General Chemistry: Principles, Patterns, and Applications (Averill)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/General_Chemistry\/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)\/03%3A_Chemical_Reactions","name":"3: Chemical Reactions"}}]}</script>
+
+        <title>3.1: The Mole and Molar Masses - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+@media print {
+     
+
+.mt-content-container .mt-responsive-table, .mt-content-container table {
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 1rem !important;
+}
+
+.mt-content-container .mt-responsive-table caption, .mt-content-container table caption { 
+    display: table-caption;
+    text-align: center;
+    font-size: 90%;
+    padding: 0 0 0.2rem 0;
+}
+
+.mt-content-container .mt-responsive-table th, .mt-content-container table th {
+  font-size: inherit;
+  vertical-align: middle;
+  border-bottom: 1px solid #E8E8E8;
+  margin: inherit;
+  padding: 0.4em !important;
+}
+
+.mt-content-container .mt-responsive-table tr, .mt-content-container table tr {
+  page-break-inside:avoid; 
+  page-break-after:auto;
+  margin: inherit;
+  font-size: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+  border-bottom: 1px solid #E8E8E8;
+}
+    
+.mt-content-container .mt-responsive-table td, .mt-content-container table td {
+  border: 1px solid #E8E8E8;
+  page-break-inside: avoid !important;
+  page-break-before: avoid;
+  margin: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+}
+
+.mt-content-container table ol, 
+.mt-content-container table ul,
+.mt-content-container table p,
+.mt-content-container table ol,
+.mt-content-container table ul,
+.mt-content-container table p {
+    font-size: inherit;
+    margin: inherit;
+}
+
+mjx-container svg path,
+mjx-container svg use {
+  stroke: none !important;
+  stroke-width: 0 !important;
+}
+    
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":19947,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"3.1: The Mole and Molar Masses","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"26","pageSectionEditable":false,"pageTitle":"Bookshelves\/General Chemistry\/Book: General Chemistry: Principles Patterns and Applications (Averill)\/03: Chemical Reactions\/3.01: The Mole and Molar Masses","pageViewId":"d0856f7b-c683-4709-8b07-4376f9bd7f0d","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"MTNlNmQxNzQtZGU2Ni00ZDgwLThlYTQtZGVhNDVkZWY2MWNhfDIwMjYtMDUtMDZUMTU6NTA6NDI=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778088795_3417de4f672ef8271366fce7cf31e05fb0dd73962f89e8b73a07b678b6890c1e","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-generalchemistry-book%3Ageneralchemistry%3Aprinciplespatternsandapplications%28averill%29-03%3Achemicalreactions-3.01%3Athemoleandmolarmasses columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">3: Chemical Reactions</div><div style="display:none" id="parentParentTitleHolder">Map: General Chemistry: Principles, Patterns, and Applications (Averill)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;3.01:_The_Mole_and_Molar_Masses&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;3.02:_Determining_Empirical_and_Molecular_Formulas&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;3.03:_Chemical_Equations&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;3.04:_Mass_Relationships_in_Chemical_Equations&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;3.05:_Types_of_Chemical_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;3.06:_Chemical_Reactions_in_the_Atmosphere&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;3.07:__Essential_Skills_2&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_Introduction_to_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_Molecules_Ions_and_Chemical_Formulas&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_Chemical_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:_Reactions_in_Aqueous_Solution&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05:_Energy_Changes_in_Chemical_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06:_The_Structure_of_Atoms&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07:_The_Periodic_Table_and_Periodic_Trends&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08:_Ionic_versus_Covalent_Bonding&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09:_Molecular_Geometry_and_Covalent_Bonding_Models&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10:_Gases&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;11:_Fluids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12:_Solids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Solutions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_Chemical_Kinetics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Chemical_Equilibrium&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Aqueous_AcidBase_Equilibriums&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;17:_Solubility_and_Complexation_Equilibria&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;18:_Chemical_Thermodynamics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19:_Electrochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20:_Periodic_Trends_and_the_s-Block_Elements&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21:_The_p-Block_Elements&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;22:_The_d-Block_Elements&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23:_Organic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;24:_Nuclear_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Mon, 04 Jul 2022 22:34:14 GMT</div><div style="display:none" id="titleHolder">3.1: The Mole and Molar Masses</div><div style="display:none" id="IDHolder">19947</div><div style="display:none" id="pageIDHolder">19947</div><div style="display:none" id="pageAuthorHolder">admin</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;authorname:anonymous&quot;, &quot;program:hidden&quot;, &quot;licenseversion:30&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;authorname:anonymous&quot;, &quot;program:hidden&quot;, &quot;licenseversion:30&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FGeneral_Chemistry%2FBook%253A_General_Chemistry%253A_Principles_Patterns_and_Applications_(Averill)%2F03%253A_Chemical_Reactions%2F3.01%253A_The_Mole_and_Molar_Masses</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FGeneral_Chemistry%2FBook%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_%28Averill%29%2F03%3A_Chemical_Reactions%2F3.01%3A_The_Mole_and_Molar_Masses" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FGeneral_Chemistry%2FBook%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_%28Averill%29%2F03%3A_Chemical_Reactions%2F3.01%3A_The_Mole_and_Molar_Masses" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/General_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    General Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Map: General Chemistry: Principles, Patterns, and Applications (Averill)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/03%3A_Chemical_Reactions" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    3: Chemical Reactions
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            3.1: The Mole and Molar Masses
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        3.1: The Mole and Molar Masses
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2022-07-04T22:34:14Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/19947/pdf/3.1%253A%2bThe%2bMole%2band%2bMolar%2bMasses.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>19947</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+<div class="mt-author-container"><ul><li class="mt-author-image mt-author-image-crop"><img src="https://math.libretexts.org/@api/deki/files/77648/mini_logo.png" alt=" " title="Anonymous" /></li><li class="mt-author-information">Anonymous</li><li class="mt-author-companyname"><span>LibreTexts</span></li></ul></div>
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Learning_Objectives" rel="internal">Learning Objectives</a></li><li><a href="#Molecular_and_Formula_Masses" rel="internal">Molecular and Formula Masses</a><ol><li><ol><li><a href="#Example_.5C(.5CPageIndex.7B1.7D.5C)" rel="internal">Example \(\PageIndex{1}\)</a></li><li><a href="#Exercise_.5C(.5CPageIndex.7B1.7D.5C)" rel="internal">Exercise \(\PageIndex{1}\)</a></li></ol></li><li><a href="#Note_the_Pattern" rel="internal">Note the Pattern</a><ol><li><a href="#Example_.5C(.5CPageIndex.7B2.7D.5C)" rel="internal">Example \(\PageIndex{2}\)</a></li><li><a href="#Exercise_.5C(.5CPageIndex.7B2.7D.5C)" rel="internal">Exercise \(\PageIndex{2}\)</a></li></ol></li></ol></li><li><a href="#The_Mole" rel="internal">The Mole</a><ol><li><a href="#Note_the_Pattern_2" rel="internal">Note the Pattern</a></li></ol></li><li><a href="#Molar_Mass" rel="internal">Molar Mass</a><ol><li><a href="#Note_the_Pattern_3" rel="internal">Note the Pattern</a><ol><li><a href="#Example_.5C(.5CPageIndex.7B3.7D.5C)" rel="internal">Example \(\PageIndex{3}\)</a></li><li><a href="#Exercise_.5C(.5CPageIndex.7B3.7D.5C)" rel="internal">Exercise \(\PageIndex{3}\)</a></li><li><a href="#Example_.5C(.5CPageIndex.7B4.7D.5C)" rel="internal">Example \(\PageIndex{4}\)</a></li><li><a href="#Exercise_.5C(.5CPageIndex.7B4.7D.5C)" rel="internal">Exercise \(\PageIndex{4}\)</a></li></ol></li><li><a href="#Summary" rel="internal">Summary</a></li><li><a href="#KEY_TAKEAWAY" rel="internal">KEY TAKEAWAY</a></li><li><a href="#CONCEPTUAL_PROBLEMS" rel="internal">CONCEPTUAL PROBLEMS</a></li><li><a href="#Answer" rel="internal">Answer</a></li><li><a href="#NUMERICAL_PROBLEMS" rel="internal">NUMERICAL PROBLEMS</a></li></ol></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <div class="box-objectives"><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section"><span id="Learning_Objectives"></span><h5 class="box-legend lt-chem-19947 editable"><span class="lt-icon-default">Learning Objectives</span></h5>
+
+<ul>
+    <li class="lt-chem-19947">To calculate the molecular mass of a covalent compound and the formula mass of an ionic compound and to calculate the number of atoms, molecules, or formula units in a sample of a substance.</li>
+</ul>
+</div></div>
+
+<p class="lt-chem-19947">
+As you learned in <u style="font-size: 16px; color: rgb(0, 0, 0); font-weight: 400;"><a title="1: Introduction to Chemistry" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/01%3A_Introduction_to_Chemistry" rel="internal">Chapter 1</a></u><span class="mt-color-000000 mt-font-size-16" style="font-weight:400;">, the </span><strong style="font-size: 16px; color: rgb(0, 0, 0);">mass number</strong><span class="mt-color-000000 mt-font-size-16" style="font-weight:400;"> is the sum of the numbers of protons and neutrons present in the nucleus of an atom. The mass number is an integer that is approximately equal to the numerical value of the atomic mass. Although the mass number is </span>unitless<span class="mt-color-000000 mt-font-size-16" style="font-weight:400;">, it is assigned units called </span><strong style="font-size: 16px; color: rgb(0, 0, 0);">atomic mass units (amu)</strong><span class="mt-color-000000 mt-font-size-16" style="font-weight:400;">. Because a molecule or a </span>polyatomic<span class="mt-color-000000 mt-font-size-16" style="font-weight:400;"> ion is an assembly of atoms whose identities are given in its molecular or ionic formula, we can calculate the average atomic mass of any molecule or </span>polyatomic<span class="mt-color-000000 mt-font-size-16" style="font-weight:400;"> ion from its composition by adding together the masses of the constituent atoms. The average mass of a monatomic ion is the same as the average mass of an atom of the element because the mass of electrons is so small that it is insignificant in most calculations.</span></p>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section" id="section_1"><span id="Molecular_and_Formula_Masses"></span><h2 class="lt-chem-19947 editable">Molecular and Formula Masses</h2>
+
+<p id="averill_1.0-ch03_s01_s01_p01" class="lt-chem-19947">The <strong>molecular mass</strong> of a substance is the sum of the average masses of the atoms in one molecule of a substance. It is calculated by adding together the atomic masses of the elements in the substance, each multiplied by its subscript (written or implied) in the molecular formula. Because the units of atomic mass are atomic mass units, the units of molecular mass are also atomic mass units. The procedure for calculating molecular masses is illustrated in Example 1.</p>
+
+<div class="box-example"><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B1.7D.5C)"></span><h5 class="box-legend lt-chem-19947 editable"><span class="lt-icon-default">Example \(\PageIndex{1}\)</span></h5>
+
+<p id="averill_1.0-ch03_s01_s01_p02" class="lt-chem-19947">Calculate the molecular mass of ethanol, whose condensed structural formula is CH<sub>3</sub>CH<sub>2</sub>OH. Among its many uses, ethanol is a fuel for internal combustion engines.</p>
+
+<p id="averill_1.0-ch03_s01_s01_p03" class="lt-chem-19947"><strong>Given: </strong>molecule</p>
+
+<p id="averill_1.0-ch03_s01_s01_p04" class="lt-chem-19947"><strong>Asked for: </strong>molecular mass</p>
+
+<p id="averill_1.0-ch03_s01_s01_p05" class="lt-chem-19947"><strong>Strategy:</strong></p>
+
+<p id="averill_1.0-ch03_s01_s01_p06" class="lt-chem-19947"><strong>A</strong> Determine the number of atoms of each element in the molecule.</p>
+
+<p id="averill_1.0-ch03_s01_s01_p07" class="lt-chem-19947"><strong>B</strong> Obtain the atomic masses of each element from the periodic table and multiply the atomic mass of each element by the number of atoms of that element.</p>
+
+<p id="averill_1.0-ch03_s01_s01_p08" class="lt-chem-19947"><strong>C</strong> Add together the masses to give the molecular mass.</p>
+
+<p class="lt-chem-19947"><strong>Solution</strong></p>
+
+<p id="averill_1.0-ch03_s01_s01_p10" class="lt-chem-19947"><strong>A</strong> The molecular formula of ethanol may be written in three different ways: CH<sub>3</sub>CH<sub>2</sub>OH (which illustrates the presence of an ethyl group, CH<sub>3</sub>CH<sub>2</sub>&minus;, and an &minus;OH group), C<sub>2</sub>H<sub>5</sub>OH, and C<sub>2</sub>H<sub>6</sub>O; all show that ethanol has two carbon atoms, six hydrogen atoms, and one oxygen atom.</p>
+
+<p id="averill_1.0-ch03_s01_s01_p11" class="lt-chem-19947"><strong>B</strong> Taking the atomic masses from the periodic table, we obtain</p>
+
+<p class="lt-chem-19947">\[ \begin{matrix}<br />
+2\times\; atomic\; mass\; of\; carbon = 2\; \cancel{atoms}\dfrac{12.011\; amu}{\cancel{atom}}=24.022\; amu\\<br />
+6\times\; atomic\; mass\; of\; hydrogen = 6\; \cancel{atoms}\dfrac{1.0079\; amu}{\cancel{atom}}=6.0474\; amu\\<br />
+1\times\; atomic\; mass\; of\; oxygen = 1\; \cancel{atoms}\dfrac{15.994\; amu}{\cancel{atom}}=15.994\; amu<br />
+\end{matrix} \notag \]</p>
+
+<p id="averill_1.0-ch03_s01_s01_p12" class="lt-chem-19947"><strong>C</strong> Adding together the masses gives the molecular mass:</p>
+
+<p class="mt-align-center lt-chem-19947">24.022 amu + 6.0474 amu + 15.9994 amu = 46.069 amu</p>
+
+<p id="averill_1.0-ch03_s01_s01_p13" class="lt-chem-19947">Alternatively, we could have used unit conversions to reach the result in one step, as described in Essential Skills 2 (<u><a title="3.8: Essential Skills 2" class="mt-disabled" rel="broken">Section 3.7</a></u>):</p>
+
+<p class="lt-chem-19947">\[ \left [ 2\; \cancel{atoms\; C} \left ( \dfrac{12.011\; amu}{1 \cancel{atom\;C}} \right ) \right ]+ \left [ 6\; \cancel{atoms\; H} \left ( \dfrac{1.0079\; amu}{1 \cancel{atom\;H}} \right ) \right ]+ \left [ 1\; \cancel{atoms\; O} \left ( \dfrac{15.994\; amu}{1 \cancel{atom\;C}} \right ) \right ]= 46.069 \notag \]</p>
+
+<p id="averill_1.0-ch03_s01_s01_p14" class="lt-chem-19947">The same calculation can also be done in a tabular format, which is especially helpful for more complex molecules:</p>
+
+
+
+<table class="mt-responsive-table" align="center" cellpadding="1" cellspacing="1">
+    <thead>
+        <tr>
+            <th scope="col">Atoms</th>
+            <th scope="col">Atomic weights</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">2C</td>
+            <td data-th="Atomic weights" class="lt-chem-19947">(2 atoms)(12.011 amu/atom) = 24.022 amu</td>
+        </tr>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">6H</td>
+            <td data-th="Atomic weights" class="lt-chem-19947">(6 atoms)(1.0079 amu/atom) = 6.0474 amu</td>
+        </tr>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">1O</td>
+            <td data-th="Atomic weights" class="lt-chem-19947"><u>(1 atoms)(15.9994 amu/atom) = 15.9994 amu</u></td>
+        </tr>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">C<sub><span>2</span></sub>H<sub><span>6</span></sub>O</td>
+            <td data-th="Atomic weights" class="lt-chem-19947">molecular mass of ethanol = 46.069 amu</td>
+        </tr>
+    </tbody>
+</table>
+</div></div>
+
+
+
+<div class="box-exercise"><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B1.7D.5C)"></span><h5 class="box-legend lt-chem-19947 editable"><span class="lt-icon-default">Exercise \(\PageIndex{1}\)</span></h5>
+
+<p id="averill_1.0-ch03_s01_s01_p15" class="lt-chem-19947">Calculate the molecular mass of trichlorofluoromethane, also known as Freon-11, whose condensed structural formula is CCl<sub>3</sub>F. Until recently, it was used as a refrigerant. The structure of a molecule of Freon-11 is as follows:</p>
+
+<p class="lt-chem-19947"><img style="width: 322.996px; height: 272.996px;" width="322.996px" height="272.996px" class="internal" alt="cb5c2d42f01ca4770e6e33b0aa6d14b4.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390283/cb5c2d42f01ca4770e6e33b0aa6d14b4.jpg?revision=1" /></p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p class="lt-chem-19947">137.368 amu</p>
+    </dd>
+</dl>
+</div></div>
+
+<p id="averill_1.0-ch03_s01_s01_p17" class="lt-chem-19947">Unlike molecules, which have covalent bonds, ionic compounds do not have a readily identifiable molecular unit. So for ionic compounds we use the <em>formula mass</em> (also called the <strong>empirical formula mass</strong>) of the compound rather than the molecular mass. The <strong>formula mass</strong> is the sum of the atomic masses of all the elements in the empirical formula, each multiplied by its subscript (written or implied). It is directly analogous to the molecular mass of a covalent compound. Once again, the units are atomic mass units.</p>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section" id="section_2"><span id="Note_the_Pattern"></span><h3 class="lt-chem-19947 editable">Note the Pattern</h3>
+
+<p id="averill_1.0-ch03_s01_s01_p18" class="lt-chem-19947">Atomic mass, molecular mass, and formula mass all have the same units: atomic mass units.</p>
+
+<div class="box-example"><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B2.7D.5C)"></span><h5 class="box-legend lt-chem-19947 editable"><span class="lt-icon-default">Example \(\PageIndex{2}\)</span></h5>
+
+<p id="averill_1.0-ch03_s01_s01_p19" class="lt-chem-19947">Calculate the formula mass of Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>, commonly called calcium phosphate. This compound is the principal source of calcium found in bovine milk.</p>
+
+<p id="averill_1.0-ch03_s01_s01_p20" class="lt-chem-19947"><strong>Given: </strong>ionic compound</p>
+
+<p id="averill_1.0-ch03_s01_s01_p21" class="lt-chem-19947"><strong>Asked for: </strong>formula mass</p>
+
+<p id="averill_1.0-ch03_s01_s01_p22" class="lt-chem-19947"><strong>Strategy:</strong></p>
+
+<p id="averill_1.0-ch03_s01_s01_p23" class="lt-chem-19947"><strong>A</strong> Determine the number of atoms of each element in the empirical formula.</p>
+
+<p id="averill_1.0-ch03_s01_s01_p24" class="lt-chem-19947"><strong>B</strong> Obtain the atomic masses of each element from the periodic table and multiply the atomic mass of each element by the number of atoms of that element.</p>
+
+<p id="averill_1.0-ch03_s01_s01_p25" class="lt-chem-19947"><strong>C</strong> Add together the masses to give the formula mass.</p>
+
+<p class="lt-chem-19947"><strong>Solution</strong></p>
+
+<p id="averill_1.0-ch03_s01_s01_p27" class="lt-chem-19947"><strong>A</strong> The empirical formula&mdash;Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>&mdash;indicates that the simplest electrically neutral unit of calcium phosphate contains three Ca<sup>2+</sup> ions and two PO<sub>4</sub><sup>3&minus;</sup> ions. The formula mass of this molecular unit is calculated by adding together the atomic masses of three calcium atoms, two phosphorus atoms, and eight oxygen atoms.</p>
+
+<p id="averill_1.0-ch03_s01_s01_p28" class="lt-chem-19947"><strong>B</strong> Taking atomic masses from the periodic table, we obtain</p>
+
+<p class="lt-chem-19947">\( atomic\; mass\; of\; calcium=3\cancel{atoms}\left ( \dfrac{40.078\; amu}{\cancel{atom}} \right )=120.234\; amu \)&#8203;</p>
+
+<p class="lt-chem-19947">\( atomic\; mass\; of\; phosphorus=2\cancel{atoms}\left ( \dfrac{30.973761\; amu}{\cancel{atom}} \right )=61.947522\; amu \)</p>
+
+<p class="lt-chem-19947">\( atomic\; mass\; of\; oxygen=8\cancel{atoms}\left ( \dfrac{15.9994\; amu}{\cancel{atom}} \right )=127.9952\; amu \)</p>
+
+<p id="averill_1.0-ch03_s01_s01_p29" class="lt-chem-19947"><strong>C</strong> Adding together the masses gives the formula mass of Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>:</p>
+
+<p class="mt-align-center lt-chem-19947">\[ 120.234\; amu + 61.947522\; amu + 127.9952\; amu = 310.177\; amu \]&#8203;</p>
+
+<p id="averill_1.0-ch03_s01_s01_p30" class="lt-chem-19947">We could also find the formula mass of Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> in one step by using unit conversions or a tabular format:</p>
+
+<p class="lt-chem-19947">\( \left [3\; atoms \; Ca\left ( \dfrac{40.078\; amu}{1\; atom\; Ca} \right ) \right ] + \left [2\; atoms\;  P\left ( \dfrac{30.973761\; amu}{1\; atom\; P} \right ) \right ]+ \left [8\; atoms \; O\left ( \dfrac{15.9994\; amu}{1\; atom\; O} \right ) \right ]=310.177\; amu \notag \)</p>
+
+<table class="mt-responsive-table" align="center" cellpadding="1" cellspacing="1">
+    <thead>
+        <tr>
+            <th scope="col">Atoms</th>
+            <th scope="col">Atomic weights</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">3Ca</td>
+            <td data-th="Atomic weights" class="lt-chem-19947">(3 atoms)(40.078 amu/atom) = 24.022 amu</td>
+        </tr>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">2P</td>
+            <td data-th="Atomic weights" class="lt-chem-19947">(2 atoms)(30.973761 amu/atom) = 6.0474 amu</td>
+        </tr>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">8O</td>
+            <td data-th="Atomic weights" class="lt-chem-19947"><u>(8 atoms)(15.9994 amu/atom) = 127.9952 amu</u></td>
+        </tr>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">Ca<sub>3</sub>P<sub>2</sub>O<sub>8</sub></td>
+            <td data-th="Atomic weights" class="lt-chem-19947">formula mass of Ca<sub>3</sub>(PO<sub>4</sub>) = 310.177 <sub>2</sub>amu</td>
+        </tr>
+    </tbody>
+</table>
+</div></div>
+
+
+
+<div class="box-exercise"><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B2.7D.5C)"></span><h5 class="box-legend lt-chem-19947 editable"><span class="lt-icon-default">Exercise \(\PageIndex{2}\)</span></h5>
+
+<p class="lt-chem-19947">Calculate the formula mass of Si<sub>3</sub>N<sub>4</sub>, commonly called silicon nitride. It is an extremely hard and inert material that is used to make cutting tools for machining hard metal alloys.</p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p class="lt-chem-19947">140.29 amu</p>
+    </dd>
+</dl>
+</div></div>
+
+</div></div><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section" id="section_3"><span id="The_Mole"></span><h2 class="lt-chem-19947 editable">The Mole</h2>
+
+<p id="averill_1.0-ch03_s01_s02_p01" class="lt-chem-19947">In <u><a title="1: Introduction to Chemistry" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/01%3A_Introduction_to_Chemistry" rel="internal">Chapter 1</a></u>, we described Dalton&rsquo;s theory that each chemical compound has a particular combination of atoms and that the ratios of the <em>numbers</em> of atoms of the elements present are usually small whole numbers. We also described the <strong>law of multiple proportions</strong>, which states that the ratios of the <em>masses</em> of elements that form a series of compounds are small whole numbers. The problem for Dalton and other early chemists was to discover the quantitative relationship between the number of atoms in a chemical substance and its mass. Because the masses of individual atoms are so minuscule (on the order of 10<sup>&minus;23</sup> g/atom), chemists do not measure the mass of individual atoms or molecules. In the laboratory, for example, the masses of compounds and elements used by chemists typically range from milligrams to grams, while in industry, chemicals are bought and sold in kilograms and tons. To analyze the transformations that occur between individual atoms or molecules in a <strong>chemical reaction</strong>, it is therefore absolutely essential for chemists to know how many atoms or molecules are contained in a measurable quantity in the laboratory&mdash;a given mass of sample. The unit that provides this link is the <strong>mole (mol)</strong>, from the Latin <em>moles</em>, meaning &ldquo;pile&rdquo; or &ldquo;heap&rdquo; (<em>not</em> from the small subterranean animal!).</p>
+
+<p id="averill_1.0-ch03_s01_s02_p02" class="lt-chem-19947">Many familiar items are sold in numerical quantities that have unusual names. For example, cans of soda come in a six-pack, eggs are sold by the dozen (12), and pencils often come in a gross (12 dozen, or 144). Sheets of printer paper are packaged in reams of 500, a seemingly large number. Atoms are so small, however, that even 500 atoms are too small to see or measure by most common techniques. Any readily measurable mass of an element or compound contains an extraordinarily large number of atoms, molecules, or ions, so an extraordinarily large numerical unit is needed to count them. The mole is used for this purpose.</p>
+
+<p id="averill_1.0-ch03_s01_s02_p03" class="lt-chem-19947">A <strong>mole</strong> is defined as the amount of a substance that contains the number of carbon atoms in exactly 12 g of isotopically pure carbon-12. According to the most recent experimental measurements, this mass of carbon-12 contains 6.022142 &times; 10<sup>23</sup> atoms, but for most purposes 6.022 &times; 10<sup>23</sup> provides an adequate number of significant figures. Just as 1 mol of atoms contains 6.022 &times; 10<sup>23</sup> atoms, 1 mol of eggs contains 6.022 &times; 10<sup>23</sup> eggs. The number in a mole is called <strong>Avogadro&rsquo;s number</strong>, after the 19th-century Italian scientist who first proposed a relationship between the volumes of gases and the numbers of particles they contain.</p>
+
+<p id="averill_1.0-ch03_s01_s02_p04" class="lt-chem-19947">It is not obvious why eggs come in dozens rather than 10s or 14s, or why a ream of paper contains 500 sheets rather than 400 or 600. The definition of a mole&mdash;that is, the decision to base it on 12 g of carbon-12&mdash;is also arbitrary. The important point is that <em>1 mol of carbon&mdash;or of anything else, whether atoms, compact discs, or houses&mdash;always has the same number of objects: 6.022 &times; 10</em><sup><em>23</em></sup><em>.</em></p>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section" id="section_4"><span id="Note_the_Pattern_2"></span><h3 class="lt-chem-19947 editable">Note the Pattern</h3>
+
+<p id="averill_1.0-ch03_s01_s02_p05" class="lt-chem-19947">One mole always has the same number of objects: 6.022 &times; 10<sup>23</sup>.</p>
+
+<p id="averill_1.0-ch03_s01_s02_p06" class="lt-chem-19947">To appreciate the magnitude of Avogadro&rsquo;s number, consider a mole of pennies. Stacked vertically, a mole of pennies would be 4.5 &times; 10<sup>17</sup> mi high, or almost six times the diameter of the Milky Way galaxy. If a mole of pennies were distributed equally among the entire population on Earth, each person would get more than one trillion dollars. Clearly, the mole is so large that it is useful only for measuring very small objects, such as atoms.</p>
+
+<p id="averill_1.0-ch03_s01_s02_p07" class="lt-chem-19947">The concept of the mole allows us to count a specific number of individual atoms and molecules by weighing measurable quantities of elements and compounds. To obtain 1 mol of carbon-12 atoms, we would weigh out 12 g of isotopically pure carbon-12. Because each element has a different atomic mass, however, a mole of each element has a different mass, even though it contains the same number of atoms (6.022 &times; 10<sup>23</sup>). This is analogous to the fact that a dozen extra large eggs weighs more than a dozen small eggs, or that the total weight of 50 adult humans is greater than the total weight of 50 children. Because of the way in which the mole is defined, for every element the number of grams in a mole is the same as the number of atomic mass units in the atomic mass of the element. For example, the mass of 1 mol of magnesium (atomic mass = 24.305 amu) is 24.305 g. Because the atomic mass of magnesium (24.305 amu) is slightly more than twice that of a carbon-12 atom (12 amu), the mass of 1 mol of magnesium atoms (24.305 g) is slightly more than twice that of 1 mol of carbon-12 (12 g). Similarly, the mass of 1 mol of helium (atomic mass = 4.002602 amu) is 4.002602 g, which is about one-third that of 1 mol of carbon-12. Using the concept of the mole, we can now restate Dalton&rsquo;s theory: <em>1 mol of a compound is formed by combining elements in amounts whose mole ratios are small whole numbers.</em> For example, 1 mol of water (H<sub>2</sub>O) has 2 mol of hydrogen atoms and 1 mol of oxygen atoms.</p>
+
+</div></div><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section" id="section_5"><span id="Molar_Mass"></span><h2 class="lt-chem-19947 editable">Molar Mass</h2>
+
+<p id="averill_1.0-ch03_s01_s03_p01" class="lt-chem-19947">The <strong>molar mass</strong> of a substance is defined as the mass in grams of 1 mol of that substance. One mole of isotopically pure carbon-12 has a mass of 12 g. For an element, the molar mass is the mass of 1 mol of atoms of that element; for a covalent molecular compound, it is the mass of 1 mol of molecules of that compound; for an ionic compound, it is the mass of 1 mol of formula units. That is, the molar mass of a substance is the mass (in grams per mole) of 6.022 &times; 10<sup>23</sup> atoms, molecules, or formula units of that substance. In each case, the number of grams in 1 mol is the same as the number of atomic mass units that describe the atomic mass, the molecular mass, or the formula mass, respectively.</p>
+
+<div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section" id="section_6"><span id="Note_the_Pattern_3"></span><h3 class="lt-chem-19947 editable">Note the Pattern</h3>
+
+<p id="averill_1.0-ch03_s01_s03_p02" class="lt-chem-19947">The molar mass of any substance is its atomic mass, molecular mass, or formula mass in grams per mole.</p>
+
+<p id="averill_1.0-ch03_s01_s03_p03" class="lt-chem-19947">The periodic table lists the atomic mass of carbon as 12.011 amu; the average molar mass of carbon&mdash;the mass of 6.022 &times; 10<sup>23</sup> carbon atoms&mdash;is therefore 12.011 g/mol:</p>
+
+<table class="mt-responsive-table" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <th align="center">Substance (formula)</th>
+            <th align="center">Atomic, Molecular, or Formula Mass (amu)</th>
+            <th align="center">Molar Mass (g/mol)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="lt-chem-19947">carbon (C)</td>
+            <td align="right" class="lt-chem-19947">12.011 (atomic mass)</td>
+            <td align="right" class="lt-chem-19947">12.011</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-19947">ethanol (C<sub>2</sub>H<sub>5</sub>OH)</td>
+            <td align="right" class="lt-chem-19947">46.069 (molecular mass)</td>
+            <td align="right" class="lt-chem-19947">46.069</td>
+        </tr>
+        <tr>
+            <td class="lt-chem-19947">calcium phosphate [Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>]</td>
+            <td align="right" class="lt-chem-19947">310.177 (formula mass)</td>
+            <td align="right" class="lt-chem-19947">310.177</td>
+        </tr>
+    </tbody>
+</table>
+
+<p id="averill_1.0-ch03_s01_s03_p04" class="lt-chem-19947">The molar mass of naturally occurring carbon is different from that of carbon-12 and is not an integer because carbon occurs as a mixture of carbon-12, carbon-13, and carbon-14. One mole of carbon still has 6.022 &times; 10<sup>23</sup> carbon atoms, but 98.89% of those atoms are carbon-12, 1.11% are carbon-13, and a trace (about 1 atom in 10<sup>12</sup>) are carbon-14. (For more information, see <u><a title="1.7: Isotopes and Atomic Masses" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/01%3A_Introduction_to_Chemistry/1.07%3A_Isotopes_and_Atomic_Masses" rel="internal">Section 1.7</a></u>.) Similarly, the molar mass of uranium is 238.03 g/mol, and the molar mass of iodine is 126.90 g/mol. When we deal with elements such as iodine and sulfur, which occur as a diatomic molecule (I<sub>2</sub>) and a polyatomic molecule (S<sub>8</sub>), respectively, molar mass usually refers to the mass of 1 mol of <em>atoms</em> of the element&mdash;in this case I and S, <em>not</em> to the mass of 1 mol of <em>molecules</em> of the element (I<sub>2</sub> and S<sub>8</sub>).</p>
+
+<p id="averill_1.0-ch03_s01_s03_p05" class="lt-chem-19947">The molar mass of ethanol is the mass of ethanol (C<sub>2</sub>H<sub>5</sub>OH) that contains 6.022 &times; 10<sup>23</sup> ethanol molecules. As you calculated in Example 1, the molecular mass of ethanol is 46.069 amu. Because 1 mol of ethanol contains 2 mol of carbon atoms (2 &times; 12.011 g), 6 mol of hydrogen atoms (6 &times; 1.0079 g), and 1 mol of oxygen atoms (1 &times; 15.9994 g), its molar mass is 46.069 g/mol. Similarly, the formula mass of calcium phosphate [Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>] is 310.177 amu, so its molar mass is 310.177 g/mol. This is the mass of calcium phosphate that contains 6.022 &times; 10<sup>23</sup> formula units.  Figure \(\PageIndex{1}\) shows samples that contain precisely one molar mass of several common substances.</p>
+
+
+
+<p class="lt-chem-19947">Figure \(\PageIndex{1}\)<em> Samples of 1 Mol of Some Common Substances (CC-BY-SA-NC-4.0  </em><a title="https://elquarkencantado.wordpress.com/fisica-y-quimica-4o-eso/reacciones-quimicas/" href="https://elquarkencantado.wordpress.com/fisica-y-quimica-4o-eso/reacciones-quimicas/" target="_blank" rel="external noopener nofollow" class="link-https">Los cambios qu&iacute;micos</a>,  <a href="https://elquarkencantado.wordpress.com/" target="_blank" rel="external noopener nofollow" class="link-https">Marta Espina Fern&aacute;ndez</a><em>)</em></p>
+
+<p class="lt-chem-19947"><img class="internal" alt="22512721ca0ad7f4ee979d01b755f5d5.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390286/22512721ca0ad7f4ee979d01b755f5d5.jpg?revision=1" /></p>
+
+
+
+<p id="averill_1.0-ch03_s01_s03_p06" class="lt-chem-19947">The mole is the basis of quantitative chemistry. It provides chemists with a way to convert easily between the mass of a substance and the number of individual atoms, molecules, or formula units of that substance. Conversely, it enables chemists to calculate the mass of a substance needed to obtain a desired number of atoms, molecules, or formula units. For example, to convert moles of a substance to mass, we use the relationship</p>
+
+<p class="mt-align-center lt-chem-19947">\[ (moles)(molar \; mass) &rarr; mass \tag{7.1.1} \]&#8203;</p>
+
+<p class="lt-chem-19947">or, more specifically,</p>
+
+<p class="mt-align-center lt-chem-19947">\( \cancel{moles}\left ( \dfrac{grams}{\cancel{mole}} \right )=grams \)</p>
+
+<p id="averill_1.0-ch03_s01_s03_p08" class="lt-chem-19947">Conversely, to convert the mass of a substance to moles, we use</p>
+
+<p class="lt-chem-19947">\( moles\left ( \dfrac{grams}{mole} \right ) = grams \)&#8203;&#8203;</p>
+
+<p class="lt-chem-19947">
+</p><p class="mt-align-center lt-chem-19947">\( \left ( \dfrac{mass}{molar\; mass} \right )\rightarrow moles \tag{7.2.2}\)&#8203;</p>
+
+<p class="mt-align-center lt-chem-19947">\( \left ( \dfrac{grams}{grams/mole} \right )=grams\left ( \dfrac{mole}{grams} \right )=moles \)&#8203;</p>
+
+
+<p id="averill_1.0-ch03_s01_s03_p09" class="lt-chem-19947">Be sure to pay attention to the units when converting between mass and moles.</p>
+
+<p id="averill_1.0-ch03_s01_s03_p10" class="lt-chem-19947">Figure \(\PageIndex{2}\) is a flowchart for converting between mass; the number of moles; and the number of atoms, molecules, or formula units. The use of these conversions is illustrated in Example 3 and Example 4.</p>
+
+
+
+<p class="lt-chem-19947">Figure \(\PageIndex{2}\)<em> A Flowchart for Converting between Mass; the Number of Moles; and the Number of Atoms, Molecules, or Formula Units</em></p>
+
+<p class="lt-chem-19947"><img class="internal" alt="6f244d8d68e1c24d267d2fc64fe5bedc.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390282/6f244d8d68e1c24d267d2fc64fe5bedc.jpg?revision=1" /></p>
+
+
+
+<div class="box-example"><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B3.7D.5C)"></span><h5 class="box-legend lt-chem-19947 editable"><span class="lt-icon-default">Example \(\PageIndex{3}\)</span></h5>
+
+<p id="averill_1.0-ch03_s01_s03_p11" class="lt-chem-19947">For 35.00 g of ethylene glycol (HOCH<sub>2</sub>CH<sub>2</sub>OH), which is used in inks for ballpoint pens, calculate the number of</p>
+
+<ol id="averill_1.0-ch03_s01_s03_l01" numeration="loweralpha">
+    <li class="lt-chem-19947">moles.</li>
+    <li class="lt-chem-19947">molecules.</li>
+</ol>
+
+<p id="averill_1.0-ch03_s01_s03_p12" class="lt-chem-19947"><strong>Given: </strong>mass and molecular formula</p>
+
+<p id="averill_1.0-ch03_s01_s03_p13" class="lt-chem-19947"><strong>Asked for: </strong>number of moles and number of molecules</p>
+
+<p id="averill_1.0-ch03_s01_s03_p14" class="lt-chem-19947"><strong>Strategy:</strong></p>
+
+<p id="averill_1.0-ch03_s01_s03_p15" class="lt-chem-19947"><strong>A</strong> Use the molecular formula of the compound to calculate its molecular mass in grams per mole.</p>
+
+<p id="averill_1.0-ch03_s01_s03_p16" class="lt-chem-19947"><strong>B</strong> Convert from mass to moles by dividing the mass given by the compound&rsquo;s molar mass.</p>
+
+<p id="averill_1.0-ch03_s01_s03_p17" class="lt-chem-19947"><strong>C</strong> Convert from moles to molecules by multiplying the number of moles by Avogadro&rsquo;s number.</p>
+
+<p class="lt-chem-19947"><strong>Solution</strong></p>
+
+<ol id="averill_1.0-ch03_s01_s03_l02" numeration="loweralpha">
+    <li class="lt-chem-19947">
+    <p class="lt-chem-19947"><strong>A</strong> The molecular mass of ethylene glycol can be calculated from its molecular formula using the method illustrated in Example 1:<br />
+    \[<br />
+    \begin{array}{rrr}<br />
+    2 \mathrm{C} &amp; (2 \text { atoms })(12.011 \mathrm{amu} / \text { atom }) &amp; =24.022 \mathrm{amu} \\<br />
+    6 \mathrm{H} &amp; (6 \text { atoms })(1.0079 \mathrm{amu} / \text { atom }) &amp; =6.0474 \mathrm{amu} \\<br />
+    +2 \mathrm{O} &amp; (2 \text { atoms })(15.9994 \mathrm{amu} / \text { atom }) &amp; =31.9988 \mathrm{amu} \\<br />
+    \hline \mathrm{C}_{2} \mathrm{H}_{6} \mathrm{O}_{2} &amp; \text { molecular mass of ethylene glycol } &amp; =62.068 \mathrm{amu}<br />
+    \end{array}<br />
+    \]<br />
+     </p>
+
+    <table class="mt-responsive-table" align="center" cellpadding="1" cellspacing="1" style="text-align:center;">
+        <thead>
+            <tr>
+                <th scope="col">Atoms</th>
+                <th scope="col">Atomic weights</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td data-th="Atoms" class="lt-chem-19947">2C</td>
+                <td data-th="Atomic weights" class="lt-chem-19947">(2 atoms)(12.011 amu/atom) = 24.022 amu</td>
+            </tr>
+            <tr>
+                <td data-th="Atoms" class="lt-chem-19947">6H</td>
+                <td data-th="Atomic weights" class="lt-chem-19947">(6 atoms)(1.0079 amu/atom) = 6.0474 amu</td>
+            </tr>
+            <tr>
+                <td data-th="Atoms" class="lt-chem-19947">2O</td>
+                <td data-th="Atomic weights" class="lt-chem-19947"><u>(2 atoms)(15.9994 amu/atom) = 31.9988 amu</u></td>
+            </tr>
+            <tr>
+                <td data-th="Atoms" class="lt-chem-19947">C<span>2</span>H<span>6</span>O</td>
+                <td data-th="Atomic weights" class="lt-chem-19947">molecular mass of ethanol = 62.068 amu</td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+    The molar mass of ethylene glycol is 62.068 g/mol.</li>
+    <li class="lt-chem-19947"><strong>B</strong> The number of moles of ethylene glycol present in 35.00 g can be calculated by dividing the mass (in grams) by the molar mass (in grams per mole):
+
+    <p class="lt-chem-19947">\[<br />
+    \dfrac{\text { mass of ethylene glycol }(\mathrm{g})}{\text { molar mass }(\mathrm{g} / \mathrm{mol})}=\text { moles ethylene glycol (mol) }<br />
+    \]</p>
+
+    <p id="averill_1.0-ch03_s01_s03_p21" class="lt-chem-19947">So</p>
+
+    <p class="lt-chem-19947">\[<br />
+    35.00 \text { g ethylene glycol }\left(\frac{1 \text { mol ethylene glycol }}{62.068 \text { g ethylene glycol }}\right)=0.5639 \text { mol ethylene glycol }<br />
+    \]</p>
+
+    <p id="averill_1.0-ch03_s01_s03_p22" class="lt-chem-19947"><em>It is always a good idea to estimate the answer </em><em>before </em><em>you do the actual calculation</em>. In this case, the mass given (35.00 g) is <em>less</em> than the molar mass, so the answer should be less than 1 mol. The calculated answer (0.5639 mol) is indeed less than 1 mol, so we have probably not made a major error in the calculations.</p>
+    </li>
+    <li class="lt-chem-19947"><strong>C</strong> To calculate the number of molecules in the sample, we multiply the number of moles by Avogadro&rsquo;s number:
+
+    <p class="lt-chem-19947">\[<br />
+    \begin{aligned}<br />
+    &amp;\text { molecules of ethylene glycol }=0.5639 \text { mol }\left(\dfrac{6.022 \times 10^{23} \text { molecules }}{1 \text { mol }}\right)\\<br />
+    &amp;=3.396 \times 10^{23} \text { molecules }<br />
+    \end{aligned}<br />
+    \]</p>
+
+    <p id="averill_1.0-ch03_s01_s03_p23" class="lt-chem-19947">Because we are dealing with slightly more than 0.5 mol of ethylene glycol, we expect the number of molecules present to be slightly more than one-half of Avogadro&rsquo;s number, or slightly more than 3 &times; 10<sup>23</sup> molecules, which is indeed the case.</p>
+    </li>
+</ol>
+</div></div>
+
+
+
+<div class="box-exercise"><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B3.7D.5C)"></span><h5 class="box-legend lt-chem-19947 editable"><span class="lt-icon-default">Exercise \(\PageIndex{3}\)</span></h5>
+
+<p id="averill_1.0-ch03_s01_s03_p24" class="lt-chem-19947">For 75.0 g of CCl<sub>3</sub>F (Freon-11), calculate the number of</p>
+
+<ol id="averill_1.0-ch03_s01_s03_l03" numeration="loweralpha">
+    <li class="lt-chem-19947">moles.</li>
+    <li class="lt-chem-19947">molecules.</li>
+</ol>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p class="lt-chem-19947">a. 0.546 mol</p>
+
+    <p class="lt-chem-19947">b. 3.29 &times; 10<sup>23</sup> molecules</p>
+    </dd>
+</dl>
+</div></div>
+
+
+<div class="box-example"><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B4.7D.5C)"></span><h5 class="box-legend lt-chem-19947 editable"><span class="lt-icon-default">Example \(\PageIndex{4}\)</span></h5>
+
+<p id="averill_1.0-ch03_s01_s03_p26" class="lt-chem-19947">Calculate the mass of 1.75 mol of each compound.</p>
+
+<ol id="averill_1.0-ch03_s01_s03_l05" numeration="loweralpha">
+    <li class="lt-chem-19947">S<sub>2</sub>Cl<sub>2</sub> (common name: sulfur monochloride; systematic name: disulfur dichloride)</li>
+    <li class="lt-chem-19947">Ca(ClO)<sub>2</sub> (calcium hypochlorite)</li>
+</ol>
+
+<p id="averill_1.0-ch03_s01_s03_p27" class="lt-chem-19947"><strong>Given: </strong>number of moles and molecular or empirical formula</p>
+
+<p id="averill_1.0-ch03_s01_s03_p28" class="lt-chem-19947"><strong>Asked for: </strong>mass</p>
+
+<p id="averill_1.0-ch03_s01_s03_p29" class="lt-chem-19947"><strong>Strategy:</strong></p>
+
+<p id="averill_1.0-ch03_s01_s03_p30" class="lt-chem-19947"><strong>A</strong> Calculate the molecular mass of the compound in grams from its molecular formula (if covalent) or empirical formula (if ionic).</p>
+
+<p id="averill_1.0-ch03_s01_s03_p31" class="lt-chem-19947"><strong>B</strong> Convert from moles to mass by multiplying the moles of the compound given by its molar mass.</p>
+
+<p class="lt-chem-19947"><strong>Solution</strong></p>
+
+<p class="para lt-chem-19947" id="av_1.0-ch07_s01_s03_p33">We begin by calculating the molecular mass of S<sub>2</sub>Cl<sub>2</sub> and the formula mass of Ca(ClO)<sub>2</sub>.</p>
+
+<p class="para lt-chem-19947"><strong class="emphasis bold">A</strong> The molar mass of S<sub>2</sub>Cl<sub>2</sub> is obtained from its molecular mass as follows:</p>
+
+<table class="mt-responsive-table" align="center" cellpadding="1" cellspacing="1">
+    <thead>
+        <tr>
+            <th scope="col">Atoms</th>
+            <th scope="col">Atomic weights</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">2S</td>
+            <td data-th="Atomic weights" class="lt-chem-19947">(2 atoms)(32.065 amu/atom) = 64.130 amu</td>
+        </tr>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">2Cl</td>
+            <td data-th="Atomic weights" class="lt-chem-19947"><u>(2 atoms)(35.353 amu/atom) = 70.906 amu</u></td>
+        </tr>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">S<sub>2</sub>Cl<sub>&#8203;2</sub></td>
+            <td data-th="Atomic weights" class="lt-chem-19947">molecular mass of S<sub>2</sub>Cl<sub>&#8203;2</sub> = 135.036 amu</td>
+        </tr>
+    </tbody>
+</table>
+
+<p class="para lt-chem-19947" id="av_1.0-ch07_s01_s03_p34">The molar mass of S<sub>2</sub>Cl<sub>2</sub> is 135.036 g/mol.</p>
+
+<p class="para lt-chem-19947" id="av_1.0-ch07_s01_s03_p35"><strong class="emphasis bold">B</strong> The mass of 1.75 mol of S<sub>2</sub>Cl<sub>2</sub> is calculated as follows:</p>
+
+<p class="para lt-chem-19947"><span>\( moles\; S{_{2}}Cl_{2} \left [molar\; mass \dfrac{g}{mol} \right ]= mass\; S{_{2}}Cl_{2} \)</span></p>
+
+<p class="para lt-chem-19947"><span>\( 1.75\; mol\; S{_{2}}Cl_{2}\left ( \dfrac{135.036\; g\; S{_{2}}Cl_{2}}{1\;mol\;S{_{2}}Cl_{2}} \right )=236\;g\; S{_{2}}Cl_{2} \)</span></p>
+
+<p class="para lt-chem-19947"><strong class="emphasis bold">A</strong> The formula mass of Ca(ClO)<sub>2</sub> is obtained as follows:</p>
+
+<table class="mt-responsive-table" align="center" cellpadding="1" cellspacing="1">
+    <thead>
+        <tr>
+            <th scope="col">Atoms</th>
+            <th scope="col">Atomic weights</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">1Ca</td>
+            <td data-th="Atomic weights" class="lt-chem-19947">(1 atom )(40.078 amu/atom) = 40.078 amu</td>
+        </tr>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">2Cl</td>
+            <td data-th="Atomic weights" class="lt-chem-19947">(2 atoms)(35.453 amu/atom) = 70.906 amu</td>
+        </tr>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">2O</td>
+            <td data-th="Atomic weights" class="lt-chem-19947"><u>(2 atoms)(15.9994 amu/atom) = 31.9988 amu</u></td>
+        </tr>
+        <tr>
+            <td data-th="Atoms" class="lt-chem-19947">Ca(ClO)<sub>2</sub></td>
+            <td data-th="Atomic weights" class="lt-chem-19947"><strong>formula</strong> mass of Ca(ClO)<sub>2</sub> = 142.983 amu</td>
+        </tr>
+    </tbody>
+</table>
+
+<p class="para lt-chem-19947" id="av_1.0-ch07_s01_s03_p36">The molar mass of Ca(ClO)<sub>2</sub> 142.983 g/mol.</p>
+
+<p class="para lt-chem-19947" id="av_1.0-ch07_s01_s03_p37"><strong class="emphasis bold">B</strong> The mass of 1.75 mol of Ca(ClO)<sub>2</sub> is calculated as follows:</p>
+
+<p class="para lt-chem-19947"><span>\( moles\; Ca\left ( ClO \right )_{2}\left [ \dfrac{molar\; mass\; Ca\left ( ClO \right )_{2}}{1\; mol\; Ca\left ( ClO \right )_{2}} \right ]=mass\; Ca\left ( ClO \right )_{2} \)</span></p>
+
+<p class="para lt-chem-19947"><span>\( 1.75\; mol\; Ca\left ( ClO \right )_{2}\left [ \dfrac{142.983\; g Ca\left ( ClO \right )_{2}}{1\; mol\; Ca\left ( ClO \right )_{2}} \right ]=250.\; g\; Ca\left ( ClO \right )_{2} \)&#8203;</span></p>
+
+<p class="para lt-chem-19947" id="av_1.0-ch07_s01_s03_p38">Because 1.75 mol is less than 2 mol, the final quantity in grams in both cases should be less than twice the molar mass, which it is.</p>
+</div></div>
+
+
+
+<div class="box-exercise"><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B4.7D.5C)"></span><h5 class="box-legend lt-chem-19947 editable"><span class="lt-icon-default">Exercise \(\PageIndex{4}\)</span></h5>
+
+<p id="averill_1.0-ch03_s01_s03_p39" class="lt-chem-19947">Calculate the mass of 0.0122 mol of each compound.</p>
+
+<ol id="averill_1.0-ch03_s01_s03_l07" numeration="loweralpha">
+    <li class="lt-chem-19947">Si<sub>3</sub>N<sub>4</sub> (silicon nitride), used as bearings and rollers</li>
+    <li class="lt-chem-19947">(CH<sub>3</sub>)<sub>3</sub>N (trimethylamine), a corrosion inhibitor</li>
+</ol>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <ol>
+        <li class="lt-chem-19947">1.71 g</li>
+        <li class="lt-chem-19947">0.721 g</li>
+    </ol>
+    </dd>
+</dl>
+</div></div>
+
+
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section" id="section_7"><span id="Summary"></span><h3 class="lt-chem-19947 editable">Summary</h3>
+
+<p id="averill_1.0-ch03_s01_s03_p41" class="lt-chem-19947">The <strong>molecular mass</strong> and the <strong>formula mass</strong> of a compound are obtained by adding together the atomic masses of the atoms present in the molecular formula or empirical formula, respectively; the units of both are atomic mass units (amu). The <strong>mole</strong> is a unit used to measure the number of atoms, molecules, or (in the case of ionic compounds) formula units in a given mass of a substance. The mole is defined as the amount of substance that contains the number of carbon atoms in exactly 12 g of carbon-12 and consists of <strong>Avogadro&rsquo;s number</strong> (6.022 &times; 10<sup>23</sup>) of atoms of carbon-12. The <strong>molar mass</strong> of a substance is defined as the mass of 1 mol of that substance, expressed in grams per mole, and is equal to the mass of 6.022 &times; 10<sup>23</sup> atoms, molecules, or formula units of that substance.</p>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section" id="section_8"><span id="KEY_TAKEAWAY"></span><h3 class="lt-chem-19947 editable">KEY TAKEAWAY</h3>
+
+<ul id="averill_1.0-ch03_s01_s03_l09">
+    <li class="lt-chem-19947">To analyze chemical transformations, it is essential to use a standardized unit of measure called the mole.</li>
+</ul>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section" id="section_9"><span id="CONCEPTUAL_PROBLEMS"></span><h3 class="lt-chem-19947 editable">CONCEPTUAL PROBLEMS</h3>
+
+<p class="lt-chem-19947"><em>Please be sure you are familiar with the topics discussed in Essential Skills 2 (<u><a title="3.8: Essential Skills 2" class="mt-disabled" rel="broken">Section 3.7</a></u>) before proceeding to the Conceptual Problems.</em></p>
+
+<ol id="averill_1.0-ch03_s01_s03_qs01_qd01">
+    <li class="lt-chem-19947">Describe the relationship between an atomic mass unit and a gram.
+    </li>
+    <li class="lt-chem-19947">Is it correct to say that ethanol has a formula mass of 46? Why or why not?
+    </li>
+    <li class="lt-chem-19947">If 2 mol of sodium react completely with 1 mol of chlorine to produce sodium chloride, does this mean that 2 g of sodium reacts completely with 1 g of chlorine to give the same product? Explain your answer.
+    </li>
+    <li class="lt-chem-19947">Construct a flowchart to show how you would calculate the number of moles of silicon in a 37.0 g sample of orthoclase (KAlSi<sub>3</sub>O<sub>8</sub>), a mineral used in the manufacture of porcelain.
+    </li>
+    <li class="lt-chem-19947">Construct a flowchart to show how you would calculate the number of moles of nitrogen in a 22.4 g sample of nitroglycerin that contains 18.5% nitrogen by mass.
+    </li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section" id="section_10"><span id="Answer"></span><h3 class="lt-chem-19947 editable">Answer</h3>
+
+<ol>
+    <li audience="instructoronly" id="averill_1.0-ch03_s01_s03_qs01_qd01_qa01_ans" class="lt-chem-19947"> </li>
+    <li audience="instructoronly" id="averill_1.0-ch03_s01_s03_qs01_qd01_qa02_ans" class="lt-chem-19947"> </li>
+    <li audience="instructoronly" id="averill_1.0-ch03_s01_s03_qs01_qd01_qa03_ans" class="lt-chem-19947"> </li>
+    <li audience="instructoronly" id="averill_1.0-ch03_s01_s03_qs01_qd01_qa04_ans" class="lt-chem-19947"> </li>
+    <li id="averill_1.0-ch03_s01_s03_qs01_qd01_qa05_ans" class="lt-chem-19947">
+    
+    A = %N by mass, expressed as a decimal
+
+    <p class="lt-chem-19947">B =1molar  mass  of  nitrogen  in  g</p>
+
+    <p class="lt-chem-19947">g  nitroglycerin&minus;&rarr;&times;AgN&minus;&rarr;&times;Bmol N</p>
+    </li>
+</ol>
+
+</div><div mt-section-origin="Bookshelves/General_Chemistry/Book:_General_Chemistry:_Principles_Patterns_and_Applications_(Averill)/03:_Chemical_Reactions/3.01:_The_Mole_and_Molar_Masses" class="mt-section" id="section_11"><span id="NUMERICAL_PROBLEMS"></span><h3 class="lt-chem-19947 editable">NUMERICAL PROBLEMS</h3>
+
+<p class="lt-chem-19947"><em>Please be sure you are familiar with the topics discussed in Essential Skills 2 (<u><a title="3.7: Chemical Reactions in the Atmosphere II" class="mt-disabled" rel="broken">Section 3.7</a></u>) before proceeding to the Numerical Problems.</em></p>
+
+<ol id="averill_1.0-ch03_s01_s03_qs02_qd01">
+    <li class="lt-chem-19947">Derive an expression that relates the number of molecules in a sample of a substance to its mass and molecular mass.
+    </li>
+    <li class="lt-chem-19947">Calculate the molecular mass or formula mass of each compound.
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947">KCl (potassium chloride)</li>
+        <li class="lt-chem-19947">NaCN (sodium cyanide)</li>
+        <li class="lt-chem-19947">H<sub>2</sub>S (hydrogen sulfide)</li>
+        <li class="lt-chem-19947">NaN<sub>3</sub> (sodium azide)</li>
+        <li class="lt-chem-19947">H<sub>2</sub>CO<sub>3</sub> (carbonic acid)</li>
+        <li class="lt-chem-19947">K<sub>2</sub>O (potassium oxide)</li>
+        <li class="lt-chem-19947">Al(NO<sub>3</sub>)<sub>3</sub> (aluminum nitrate)</li>
+        <li class="lt-chem-19947">Cu(ClO<sub>4</sub>)<sub>2</sub> [copper(II) perchlorate]</li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">Calculate the molecular mass or formula mass of each compound.
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947">V<sub>2</sub>O<sub>4</sub> (vanadium(IV) oxide)</li>
+        <li class="lt-chem-19947">CaSiO<sub>3</sub> (calcium silicate)</li>
+        <li class="lt-chem-19947">BiOCl (bismuth oxychloride)</li>
+        <li class="lt-chem-19947">CH<sub>3</sub>COOH (acetic acid)</li>
+        <li class="lt-chem-19947">Ag<sub>2</sub>SO<sub>4</sub> (silver sulfate)</li>
+        <li class="lt-chem-19947">Na<sub>2</sub>CO<sub>3</sub> (sodium carbonate)</li>
+        <li class="lt-chem-19947">(CH<sub>3</sub>)<sub>2</sub>CHOH (isopropyl alcohol)</li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">Calculate the molar mass of each compound.
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947"><img class="internal" alt="365e4fdb2181cc512e3a58c4d5944b2c.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390281/365e4fdb2181cc512e3a58c4d5944b2c.jpg?revision=1" />
+        </li>
+        <li class="lt-chem-19947"><img class="internal" alt="5d9c39b7727a54ce1c3415255de5211e.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390284/5d9c39b7727a54ce1c3415255de5211e.jpg?revision=1" />
+        </li>
+        <li class="lt-chem-19947"><img class="internal" alt="fd24dd63189b87027b8a5b960cbb3217.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390285/fd24dd63189b87027b8a5b960cbb3217.jpg?revision=1" />
+        </li>
+        <li class="lt-chem-19947"><img class="internal" alt="f2e248cc154d489de7d00eae3bace0b1.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390287/f2e248cc154d489de7d00eae3bace0b1.jpg?revision=1" />
+        </li>
+        <li class="lt-chem-19947"><img class="internal" alt="b673105a875957db30c0c71192137b65.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390289/b673105a875957db30c0c71192137b65.jpg?revision=1" />
+        </li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">Calculate the molar mass of each compound.
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947"><img class="internal" alt="2dd43ad3662053883ce6466dc17b1520.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390288/2dd43ad3662053883ce6466dc17b1520.jpg?revision=1" />
+        </li>
+        <li class="lt-chem-19947"><img class="internal" alt="42656b6d16868416cb1e891589b45160.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390290/42656b6d16868416cb1e891589b45160.jpg?revision=1" />
+        </li>
+        <li class="lt-chem-19947"><img class="internal" alt="dce61ce144a50b2a888e845a166c90e9.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390291/dce61ce144a50b2a888e845a166c90e9.jpg?revision=1" />
+        </li>
+        <li class="lt-chem-19947"><img class="internal" alt="7b39f0471a56b7257f0a893b744087c4.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390292/7b39f0471a56b7257f0a893b744087c4.jpg?revision=1" />
+        </li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">For each compound, write the condensed formula, name the compound, and give its molar mass.
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947"><img class="internal" alt="d7710388b88c53894076de8a63fb5b41.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390293/d7710388b88c53894076de8a63fb5b41.jpg?revision=1" />
+        </li>
+        <li class="lt-chem-19947"><img class="internal" alt="9c4172ea0ebe3a224b901b1569e2a72a.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390295/9c4172ea0ebe3a224b901b1569e2a72a.jpg?revision=1" />
+        </li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">For each compound, write the condensed formula, name the compound, and give its molar mass.
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947"><img class="internal" alt="b94ba0ad8a79c1b0772cc74d4870a26e.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390294/b94ba0ad8a79c1b0772cc74d4870a26e.jpg?revision=1" />
+        </li>
+        <li class="lt-chem-19947"><img class="internal" alt="da102bca9063124661903ebbdd938ec0.jpg" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/390296/da102bca9063124661903ebbdd938ec0.jpg?revision=1" />
+        </li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">Calculate the number of moles in 5.00 &times; 10<sup>2</sup> g of each substance. How many molecules or formula units are present in each sample?
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947">CaO (lime)</li>
+        <li class="lt-chem-19947">CaCO<sub>3</sub> (chalk)</li>
+        <li class="lt-chem-19947">C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> [sucrose (cane sugar)]</li>
+        <li class="lt-chem-19947">NaOCl (bleach)</li>
+        <li class="lt-chem-19947">CO<sub>2</sub> (dry ice)</li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">Calculate the mass in grams of each sample.
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947">0.520 mol of N<sub>2</sub>O<sub>4</sub></li>
+        <li class="lt-chem-19947">1.63 mol of C<sub>6</sub>H<sub>4</sub>Br<sub>2</sub></li>
+        <li class="lt-chem-19947">4.62 mol of (NH<sub>4</sub>)<sub>2</sub>SO<sub>3</sub></li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">Give the number of molecules or formula units in each sample.
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947">1.30 &times; 10<sup>&minus;2</sup> mol of SCl<sub>2</sub></li>
+        <li class="lt-chem-19947">1.03 mol of N<sub>2</sub>O<sub>5</sub></li>
+        <li class="lt-chem-19947">0.265 mol of Ag<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub></li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">Give the number of moles in each sample.
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947">9.58 &times; 10<sup>26</sup> molecules of Cl<sub>2</sub></li>
+        <li class="lt-chem-19947">3.62 &times; 10<sup>27</sup> formula units of KCl</li>
+        <li class="lt-chem-19947">6.94 &times; 10<sup>28</sup> formula units of Fe(OH)<sub>2</sub></li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">Solutions of iodine are used as antiseptics and disinfectants. How many iodine atoms correspond to 11.0 g of molecular iodine (I<sub>2</sub>)?
+    </li>
+    <li class="lt-chem-19947">What is the total number of atoms in each sample?
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947">0.431 mol of Li</li>
+        <li class="lt-chem-19947">2.783 mol of methanol (CH<sub>3</sub>OH)</li>
+        <li class="lt-chem-19947">0.0361 mol of CoCO<sub>3</sub></li>
+        <li class="lt-chem-19947">1.002 mol of SeBr<sub>2</sub>O</li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">What is the total number of atoms in each sample?
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947">0.980 mol of Na</li>
+        <li class="lt-chem-19947">2.35 mol of O<sub>2</sub></li>
+        <li class="lt-chem-19947">1.83 mol of Ag<sub>2</sub>S</li>
+        <li class="lt-chem-19947">1.23 mol of propane (C<sub>3</sub>H<sub>8</sub>)</li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">What is the total number of atoms in each sample?
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947">2.48 g of HBr</li>
+        <li class="lt-chem-19947">4.77 g of CS<sub>2</sub></li>
+        <li class="lt-chem-19947">1.89 g of NaOH</li>
+        <li class="lt-chem-19947">1.46 g of SrC<sub>2</sub>O<sub>4</sub></li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">Decide whether each statement is true or false and explain your reasoning.
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947">There are more molecules in 0.5 mol of Cl<sub>2</sub> than in 0.5 mol of H<sub>2</sub>.</li>
+        <li class="lt-chem-19947">One mole of H<sub>2</sub> has 6.022 &times; 10<sup>23</sup> hydrogen atoms.</li>
+        <li class="lt-chem-19947">The molecular mass of H<sub>2</sub>O is 18.0 amu.</li>
+        <li class="lt-chem-19947">The formula mass of benzene is 78 amu.</li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">Complete the following table.
+
+    <table class="mt-responsive-table" cellpadding="0" cellspacing="0">
+        <thead>
+            <tr>
+                <th align="center">Substance</th>
+                <th align="center">Mass (g)</th>
+                <th align="center">Number of Moles</th>
+                <th align="center">Number of Molecules or Formula Units</th>
+                <th align="center">Number of Atoms or Ions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="lt-chem-19947">MgCl<sub>2</sub></td>
+                <td align="right" class="lt-chem-19947">37.62</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="lt-chem-19947">AgNO<sub>3</sub></td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">2.84</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="lt-chem-19947">BH<sub>4</sub>Cl</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">8.93 &times; 10<sup>25</sup></td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="lt-chem-19947">K<sub>2</sub>S</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">7.69 &times; 10<sup>26</sup></td>
+            </tr>
+            <tr>
+                <td class="lt-chem-19947">H<sub>2</sub>SO<sub>4</sub></td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">1.29</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="lt-chem-19947">C<sub>6</sub>H<sub>14</sub></td>
+                <td align="right" class="lt-chem-19947">11.84</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="lt-chem-19947">HClO<sub>3</sub></td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+                <td align="right" class="lt-chem-19947">2.45 &times; 10<sup>26</sup></td>
+                <td align="right" class="lt-chem-19947">&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+    </li>
+    <li class="lt-chem-19947">Give the formula mass or the molecular mass of each substance.
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947">PbClF</li>
+        <li class="lt-chem-19947">Cu<sub>2</sub>P<sub>2</sub>O<sub>7</sub></li>
+        <li class="lt-chem-19947">BiONO<sub>3</sub></li>
+        <li class="lt-chem-19947">Tl<sub>2</sub>SeO<sub>4</sub></li>
+    </ol>
+    </li>
+    <li class="lt-chem-19947">Give the formula mass or the molecular mass of each substance.
+
+    <ol numeration="loweralpha">
+        <li class="lt-chem-19947">MoCl<sub>5</sub></li>
+        <li class="lt-chem-19947">B<sub>2</sub>O<sub>3</sub></li>
+        <li class="lt-chem-19947">UO<sub>2</sub>CO<sub>3</sub></li>
+        <li class="lt-chem-19947">NH<sub>4</sub>UO<sub>2</sub>AsO<sub>4</sub></li>
+    </ol>
+    </li>
+</ol>
+</div></div>
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "3.1: The Mole and Molar Masses";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p>This page titled <a target="_blank" class="internal mt-self-link" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/03%3A_Chemical_Reactions/3.01%3A_The_Mole_and_Molar_Masses" rel="internal">3.1: The Mole and Molar Masses</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/3.0" target="_blank">CC BY-NC-SA  3.0</a>  license and was authored, remixed, and/or curated by <a rel="nofollow" target="_blank" href="">Anonymous</a>. </p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/03%3A_Chemical_Reactions" title="3: Chemical Reactions"><span>3: Chemical Reactions</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/03%3A_Chemical_Reactions/3.02%3A_Determining_Empirical_and_Molecular_Formulas" title="3.2: Determining Empirical and Molecular Formulas"><span>3.2: Determining Empirical and Molecular Formulas</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="26" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-authorname-anonymous" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Author</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=authorname%3Aanonymous" data-ga-label="Classification">Anonymous</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by-nc-sa" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accbyncsa" data-ga-label="Classification">CC BY-NC-SA</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-3.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A30" data-ga-label="Classification">3.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-program-the publisher who must not be named" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">OER program or Publisher</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=program%3Ahidden" data-ga-label="Classification">The Publisher Who Must Not Be Named</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+        </ol>
+            This page has no tags.
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="54bec2e711bf265607564eafb8500607137735b7c79baa3e59c2c330387df256" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
