@@ -131,7 +131,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/01%3A_Fundamental_1_-_Measurable_Properties
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/07%3A_Stoichiometry_of_Chemical_Reactions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/08%3A_Gases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/09%3A_Thermochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/10%3A_Liquids_and_Solids
@@ -8659,3 +8658,13 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_Firs
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/06%3A_Composition_of_Substances_and_Solutions/6.07%3A_Key_Equations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/06%3A_Composition_of_Substances_and_Solutions/6.08%3A_Summary
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/06%3A_Composition_of_Substances_and_Solutions/6.09%3A_Exercises
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/07%3A_Stoichiometry_of_Chemical_Reactions/7.01%3A_Introduction
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/07%3A_Stoichiometry_of_Chemical_Reactions/7.02%3A_Writing_and_Balancing_Chemical_Equations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/07%3A_Stoichiometry_of_Chemical_Reactions/7.03%3A_Classifying_Chemical_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/07%3A_Stoichiometry_of_Chemical_Reactions/7.04%3A_Reaction_Stoichiometry
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/07%3A_Stoichiometry_of_Chemical_Reactions/7.05%3A_Reaction_Yields
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/07%3A_Stoichiometry_of_Chemical_Reactions/7.06%3A_Quantitative_Chemical_Analysis
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/07%3A_Stoichiometry_of_Chemical_Reactions/7.07%3A_Key_Terms
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/07%3A_Stoichiometry_of_Chemical_Reactions/7.08%3A_Key_Equations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/07%3A_Stoichiometry_of_Chemical_Reactions/7.09%3A_Summary
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/07%3A_Stoichiometry_of_Chemical_Reactions/7.10%3A_Exercises
