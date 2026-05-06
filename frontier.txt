@@ -128,7 +128,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/08%3A_MetalNucleic_Acid_Interactions
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/09%3A_Metals_in_Medicine
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Solid_State_Chemistry/00%3A_Front_Matter
@@ -5093,3 +5092,15 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemi
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/03%3A_Structural_Fundamentals/3.05%3A_Simplifying_the_Organometallic_Complex_(Part_1)
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/03%3A_Structural_Fundamentals/3.06%3A_Simplifying_the_Organometallic_Complex_(Part_2)
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/03%3A_Structural_Fundamentals/3.07%3A_Simplifying_the_Organometallic_Complex_(Part_3)
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry/4.01%3A_-Elimination_Reactions
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry/4.02%3A_Associative_Ligand_Substitution
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry/4.03%3A_Dissociative_Ligand_Substitution_Reactions
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry/4.04%3A_Ligand_substitution
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry/4.05%3A_Migratory_Insertion-_12-Insertions
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry/4.06%3A_Migratory_Insertion-_Introduction_and_CO_Insertions
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry/4.07%3A_Oxidative_Addition-_General_Ideas
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry/4.08%3A_Oxidative_Addition_of_Non-polar_Reagents
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry/4.09%3A_Oxidative_Addition_of_Polar_Reagents
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry/4.10%3A_Quirky_Ligand_Substitutions
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry/4.11%3A_Reductive_Elimination-_General_Ideas
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Organometallic_Chemistry_(Evans)/04%3A_Fundamentals_of_Organometallic_Chemistry/4.12%3A_The_trans_cis_Effects_and_Influences
