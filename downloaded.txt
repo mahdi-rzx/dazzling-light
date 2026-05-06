@@ -5172,3 +5172,4 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistr
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.05%3A_Statistical_Analysis_of_Data
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.06%3A_Statistical_Methods_for_Normal_Distributions
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.07%3A_Detection_Limits
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Analytical_Chemistry_Volume_I_(Harvey)/04%3A_Evaluating_Analytical_Data/4.08%3A_Using_Excel_and_R_to_Analyze_Data
