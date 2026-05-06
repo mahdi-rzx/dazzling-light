@@ -221,7 +221,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/15%3A_Chemical_Equilibrium
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/16%3A_Aqueous_AcidBase_Equilibriums
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/17%3A_Solubility_and_Complexation_Equilibria
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics
@@ -9863,3 +9862,10 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemis
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/14%3A_Chemical_Kinetics/14.07%3A_Reaction_Rates_-_A_Microscopic_View
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/14%3A_Chemical_Kinetics/14.08%3A_The_Collision_Model_of_Chemical_Kinetics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/14%3A_Chemical_Kinetics/14.09%3A_Catalysis
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/15%3A_Chemical_Equilibrium/15.01%3A_The_Concept_of_Chemical_Equilibrium
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/15%3A_Chemical_Equilibrium/15.02%3A_The_Equilibrium_Constant
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/15%3A_Chemical_Equilibrium/15.03%3A_Solving_Equilibrium_Problems
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/15%3A_Chemical_Equilibrium/15.04%3A_Non-equilibrium_Conditions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/15%3A_Chemical_Equilibrium/15.05%3A_Factors_That_Affect_Equilibrium
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/15%3A_Chemical_Equilibrium/15.06%3A_Controlling_the_Products_of_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/15%3A_Chemical_Equilibrium/15.07%3A_Essential_Skills_7
