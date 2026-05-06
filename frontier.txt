@@ -129,7 +129,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/09%3A_Metals_in_Medicine
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/12%3A_Introduction_to_the_Schrodinger_Equation
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/13%3A_Potential_Surfaces_and_the_Heisenberg_Uncertainly_Principle
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/14%3A_Multidimensional_Quantum_Mechanics_and_Rotation
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/15%3A_The_Hydrogen_Atom
@@ -6817,3 +6816,8 @@ https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textb
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/10%3A_The_Kinetic_Theory_of_Gas/10.05%3A_Appendix
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/11%3A_Boltzmann_Statistics/11.01%3A_The_Black_body_Radiator
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/11%3A_Boltzmann_Statistics/11.02%3A_Heat_Capacity_of_Solids
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/12%3A_Introduction_to_the_Schrodinger_Equation/12.01%3A_Einsteins_Theory_of_Relativity
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/12%3A_Introduction_to_the_Schrodinger_Equation/12.02%3A_The_Schrodinger_Equation
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/12%3A_Introduction_to_the_Schrodinger_Equation/12.03%3A_Born_interpretation
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/12%3A_Introduction_to_the_Schrodinger_Equation/12.04%3A_The_Eigenvalue_Equation_and_operators
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Free_Energy_1e_(Snee)/12%3A_Introduction_to_the_Schrodinger_Equation/12.05%3A_The_Freewave_Potential
