@@ -131,7 +131,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/01%3A_Fundamental_1_-_Measurable_Properties
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/17%3A_Electrochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/18%3A_Representative_Metals_Metalloids_and_Nonmetals
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/19%3A_Transition_Metals_and_Coordination_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/20%3A_Organic_Chemistry
@@ -8325,3 +8324,11 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/16%3A_Thermodynamics/16.03%3A_The_Second_and_Third_Laws_of_Thermodynamics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/16%3A_Thermodynamics/16.04%3A_Gibbs_Energy
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/16%3A_Thermodynamics/16.E%3A_Thermodynamics_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/17%3A_Electrochemistry/17.01%3A_Balancing_Oxidation-Reduction_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/17%3A_Electrochemistry/17.02%3A_Galvanic_Cells
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/17%3A_Electrochemistry/17.03%3A_Standard_Reduction_Potentials
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/17%3A_Electrochemistry/17.04%3A_The_Nernst_Equation
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/17%3A_Electrochemistry/17.05%3A_Batteries_and_Fuel_Cells
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/17%3A_Electrochemistry/17.06%3A_Corrosion
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/17%3A_Electrochemistry/17.07%3A_Electrolysis
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_1e_(OpenSTAX)/17%3A_Electrochemistry/17.E%3A_Electrochemistry_(Exercises)
