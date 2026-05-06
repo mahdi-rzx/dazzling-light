@@ -1,0 +1,3671 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="7.2: Significance Tests for Normal Distributions"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07%3A_Testing_the_Significance_of_Data/7.02%3A_Significance_Tests_for_Normal_Distributions"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content=""/>
+        <meta property="article:published_time" content="2020-06-21T19:29:52Z"/>
+        <meta property="article:modified_time" content="2021-09-12T15:00:43Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="7.2: Significance Tests for Normal Distributions"/>
+        <meta name="twitter:description" content=""/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content=""/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07%3A_Testing_the_Significance_of_Data/7.02%3A_Significance_Tests_for_Normal_Distributions"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0">{"@context":"http:\/\/schema.org","@type":"Article","name":"7.2: Significance Tests for Normal Distributions","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Chemometrics_Using_R_(Harvey)\/07%3A_Testing_the_Significance_of_Data\/7.02%3A_Significance_Tests_for_Normal_Distributions","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2020-06-21T19:29:52Z","dateModified":"2021-09-12T15:00:43Z","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/221819\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Chemometrics_Using_R_(Harvey)\/07%3A_Testing_the_Significance_of_Data\/7.02%3A_Significance_Tests_for_Normal_Distributions"},"headline":"7.2: Significance Tests for Normal Distributions","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"7.2: Significance Tests for Normal Distributions","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Chemometrics_Using_R_(Harvey)\/07%3A_Testing_the_Significance_of_Data\/7.02%3A_Significance_Tests_for_Normal_Distributions","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Chemometrics_Using_R_(Harvey)\/07%3A_Testing_the_Significance_of_Data\/7.01%3A_Significance_Testing","https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Chemometrics_Using_R_(Harvey)\/07%3A_Testing_the_Significance_of_Data\/7.04%3A_Non-Parametric_Significance_Tests","https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Chemometrics_Using_R_(Harvey)\/07%3A_Testing_the_Significance_of_Data\/7.05%3A_Using_R_for_Significance_Testing_and_Analysis_of_Variance","https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Chemometrics_Using_R_(Harvey)\/07%3A_Testing_the_Significance_of_Data\/7.06%3A_Exercises","https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Chemometrics_Using_R_(Harvey)\/07%3A_Testing_the_Significance_of_Data\/7.03%3A_Analysis_of_Variance"]}</script>
+        <script type="application/ld+json" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry","name":"Analytical Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Chemometrics_Using_R_(Harvey)","name":"Chemometrics Using R (Harvey)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Analytical_Chemistry\/Chemometrics_Using_R_(Harvey)\/07%3A_Testing_the_Significance_of_Data","name":"7: Testing the Significance of Data"}}]}</script>
+
+        <title>7.2: Significance Tests for Normal Distributions - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+@media print {
+     
+
+.mt-content-container .mt-responsive-table, .mt-content-container table {
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 1rem !important;
+}
+
+.mt-content-container .mt-responsive-table caption, .mt-content-container table caption { 
+    display: table-caption;
+    text-align: center;
+    font-size: 90%;
+    padding: 0 0 0.2rem 0;
+}
+
+.mt-content-container .mt-responsive-table th, .mt-content-container table th {
+  font-size: inherit;
+  vertical-align: middle;
+  border-bottom: 1px solid #E8E8E8;
+  margin: inherit;
+  padding: 0.4em !important;
+}
+
+.mt-content-container .mt-responsive-table tr, .mt-content-container table tr {
+  page-break-inside:avoid; 
+  page-break-after:auto;
+  margin: inherit;
+  font-size: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+  border-bottom: 1px solid #E8E8E8;
+}
+    
+.mt-content-container .mt-responsive-table td, .mt-content-container table td {
+  border: 1px solid #E8E8E8;
+  page-break-inside: avoid !important;
+  page-break-before: avoid;
+  margin: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+}
+
+.mt-content-container table ol, 
+.mt-content-container table ul,
+.mt-content-container table p,
+.mt-content-container table ol,
+.mt-content-container table ul,
+.mt-content-container table p {
+    font-size: inherit;
+    margin: inherit;
+}
+
+mjx-container svg path,
+mjx-container svg use {
+  stroke: none !important;
+  stroke-width: 0 !important;
+}
+    
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":221819,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"7.2: Significance Tests for Normal Distributions","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"19","pageSectionEditable":false,"pageTitle":"Bookshelves\/Analytical Chemistry\/Chemometrics Using R (Harvey)\/07: Testing the Significance of Data\/7.02: Significance Tests for Normal Distributions","pageViewId":"9e0ee194-ba5b-4760-8227-09f5b9eaf037","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"YzA2ODM2NDEtZjlhZS00YTIxLTkwYTAtMGEzM2FjMzM3MDk5fDIwMjYtMDUtMDZUMDk6MjI6MDE=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778059321_6fa8e1e61a1bba4ac4fe11b3d2cc79f9817d9e3c07537c1b9a84eb5061543f3c","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-analyticalchemistry-chemometricsusingr%28harvey%29-07%3Atestingthesignificanceofdata-7.02%3Asignificancetestsfornormaldistributions columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">7: Testing the Significance of Data</div><div style="display:none" id="parentParentTitleHolder">Chemometrics Using R (Harvey)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;7.01:_Significance_Testing&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;7.02:_Significance_Tests_for_Normal_Distributions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;7.03:_Analysis_of_Variance&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;7.04:_Non-Parametric_Significance_Tests&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;7.05:_Using_R_for_Significance_Testing_and_Analysis_of_Variance&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;7.06:_Exercises&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_R_and_RStudio&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_Types_of_Data&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_Visualizing_Data&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:_Summarizing_Data&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05:_The_Distribution_of_Data&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06:_Uncertainty_of_Data&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07:_Testing_the_Significance_of_Data&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08:_Modeling_Data&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09:_Gathering_Data&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10:_Cleaning_Up_Data&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;11:_Finding_Structure_in_Data&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12:_Appendices&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Resources&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Sun, 12 Sep 2021 15:00:43 GMT</div><div style="display:none" id="titleHolder">7.2: Significance Tests for Normal Distributions</div><div style="display:none" id="IDHolder">221819</div><div style="display:none" id="pageIDHolder">221819</div><div style="display:none" id="pageAuthorHolder">admin</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;authorname:harveyd&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;field:achem&quot;, &quot;licenseversion:40&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;authorname:harveyd&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;field:achem&quot;, &quot;licenseversion:40&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FAnalytical_Chemistry%2FChemometrics_Using_R_(Harvey)%2F07%253A_Testing_the_Significance_of_Data%2F7.02%253A_Significance_Tests_for_Normal_Distributions</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FAnalytical_Chemistry%2FChemometrics_Using_R_%28Harvey%29%2F07%3A_Testing_the_Significance_of_Data%2F7.02%3A_Significance_Tests_for_Normal_Distributions" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FAnalytical_Chemistry%2FChemometrics_Using_R_%28Harvey%29%2F07%3A_Testing_the_Significance_of_Data%2F7.02%3A_Significance_Tests_for_Normal_Distributions" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Analytical Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Chemometrics Using R (Harvey)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07%3A_Testing_the_Significance_of_Data" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    7: Testing the Significance of Data
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            7.2: Significance Tests for Normal Distributions
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        7.2: Significance Tests for Normal Distributions
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2021-09-12T15:00:43Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/221819/pdf/7.2%253A%2bSignificance%2bTests%2bfor%2bNormal%2bDistributions.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>221819</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+<div class="mt-author-container"><ul><li class="mt-author-image mt-author-image-crop"><img alt=" " title="David Harvey" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/123527/Harvey.png?revision=1" /></li><li class="mt-author-information"><a rel="external" target="_blank" href="http://dpuadweb.depauw.edu/harvey_web/Index.html">David Harvey</a></li><li class="mt-author-companyname"><a rel="external" target="_blank" href="http://www.depauw.edu/academics/departments-programs/chemistry-and-biochemistry/">DePauw University</a></li></ul></div>
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Note" rel="internal">Note</a></li><li><a href="#Comparing_.5C(.5Coverline.7BX.7D.5C)_to_.5C(.5Cmu.5C)" rel="internal">Comparing \(\overline{X}\) to \(\mu\)</a><ol><li><a href="#Example_.5C(.5CPageIndex.7B1.7D.5C)" rel="internal">Example \(\PageIndex{1}\)</a></li><li><a href="#Note_2" rel="internal">Note</a></li></ol></li><li><a href="#Comparing_.5C(s.5E2.5C)_to_.5C(.5Csigma.5E2.5C)" rel="internal">Comparing \(s^2\) to \(\sigma^2\)</a><ol><li><a href="#Example_.5C(.5CPageIndex.7B2.7D.5C)" rel="internal">Example \(\PageIndex{2}\)</a></li></ol></li><li><a href="#Comparing_Variances_for_Two_Samples" rel="internal">Comparing Variances for Two Samples</a><ol><li><a href="#Example_.5C(.5CPageIndex.7B3.7D.5C)" rel="internal">Example \(\PageIndex{3}\)</a></li></ol></li><li><a href="#Comparing_Means_for_Two_Samples" rel="internal">Comparing Means for Two Samples</a><ol><li><ol><li><a href="#Note_3" rel="internal">Note</a></li></ol></li><li><a href="#Unpaired_Data" rel="internal">Unpaired Data</a><ol><li><a href="#Note_4" rel="internal">Note</a></li><li><a href="#Note_5" rel="internal">Note</a></li><li><a href="#Example_.5C(.5CPageIndex.7B4.7D.5C)" rel="internal">Example \(\PageIndex{4}\)</a></li><li><a href="#Example_.5C(.5CPageIndex.7B5.7D.5C)" rel="internal">Example \(\PageIndex{5}\)</a></li></ol></li><li><a href="#Paired_Data" rel="internal">Paired Data</a><ol><li><a href="#Note_6" rel="internal">Note</a></li><li><a href="#Example_.5C(.5CPageIndex.7B6.7D.5C)" rel="internal">Example \(\PageIndex{6}\)</a></li><li><a href="#Note_7" rel="internal">Note</a></li></ol></li></ol></li><li><a href="#Outliers" rel="internal">Outliers</a><ol><li><a href="#Dixon's_Q-Test" rel="internal">Dixon's Q-Test</a></li><li><a href="#Grubb's_Test" rel="internal">Grubb's Test</a><ol><li><a href="#Note_8" rel="internal">Note</a></li></ol></li><li><a href="#Chauvenet's_Criterion" rel="internal">Chauvenet's Criterion</a><ol><li><a href="#Example_.5C(.5CPageIndex.7B7.7D.5C)" rel="internal">Example \(\PageIndex{7}\)</a></li><li><a href="#Note_9" rel="internal">Note</a></li></ol></li></ol></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <p class="lt-chem-221819">A normal distribution is the most common distribution for the data we collect. Because the area between any two limits of a normal distribution curve is well defined, it is straightforward to construct and evaluate significance tests.</p>
+
+<div class="box-note"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Note"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Note</span></h5>
+
+<p class="lt-chem-221819">You can review the properties of a normal distribution in Chapter 5 and Chapter 6.</p>
+</div></div>
+
+<div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section" id="section_1"><span id="Comparing_.5C(.5Coverline.7BX.7D.5C)_to_.5C(.5Cmu.5C)"></span><h2 class="lt-chem-221819 editable">Comparing \(\overline{X}\) to \(\mu\)</h2>
+
+<p class="lt-chem-221819">One way to validate a new analytical method is to analyze a sample that contains a known amount of analyte, \(\mu\). To judge the method&rsquo;s accuracy we analyze several portions of the sample, determine the average amount of analyte in the sample, \(\overline{X}\), and use a significance test to compare \(\overline{X}\)<em> </em>to \(\mu\). The null hypothesis is that the difference between \(\overline{X}\)<em> </em>and \(\mu\) is explained by indeterminate errors that affect our determination of \(\overline{X}\). The alternative hypothesis is that the difference between \(\overline{X}\)<em> </em>and \(\mu\) is too large to be explained by indeterminate error.</p>
+
+<p class="lt-chem-221819">\[H_0 \text{: } \overline{X} = \mu \nonumber\]</p>
+
+<p class="lt-chem-221819">\[H_A \text{: } \overline{X} \neq \mu \nonumber\]</p>
+
+<p class="lt-chem-221819">The test statistic is <em>t</em><sub>exp</sub>, which we substitute into the confidence interval for \(\mu\)</p>
+
+<p class="lt-chem-221819">\[\mu = \overline{X} \pm \frac {t_\text{exp} s} {\sqrt{n}} \nonumber\]</p>
+
+<p class="lt-chem-221819">Rearranging this equation and solving for \(t_\text{exp}\)</p>
+
+<p class="lt-chem-221819">\[t_\text{exp} = \frac {|\mu - \overline{X}| \sqrt{n}} {s} \nonumber\]</p>
+
+<p class="lt-chem-221819">gives the value for \(t_\text{exp}\) when \(\mu\) is at either the right edge or the left edge of the sample's confidence interval (Figure \(\PageIndex{1a}\)).</p>
+
+<figure><img alt="Figure4.14.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/160978/Figure4.14.png?revision=1" />
+<figcaption>Figure \(\PageIndex{1}\): Relationship between a confidence interval and the result of a significance test. (a) The shaded area under the normal distribution curve shows the sample&rsquo;s confidence interval for \(\mu\) based on <em>t</em><sub>exp</sub>. The solid bars in (b) and (c) show the expected confidence intervals for \(\mu\) explained by indeterminate error given the choice of \(\alpha\) and the available degrees of freedom, \(\nu\). For (b) we reject the null hypothesis because portions of the sample&rsquo;s confidence interval fall outside the confidence interval explained by indeterminate error. In the case of (c) we retain the null hypothesis because the confidence interval explained by indeterminate error completely encompasses the sample&rsquo;s confidence interval.</figcaption>
+</figure>
+
+<p class="lt-chem-221819">To determine if we should retain or reject the null hypothesis, we compare the value of <em>t</em><sub>exp</sub> to a critical value, \(t(\alpha, \nu)\), where \(\alpha\) is the confidence level and \(\nu\) is the degrees of freedom for the sample. The critical value \(t(\alpha, \nu)\) defines the largest confidence interval explained by indeterminate error. If \(t_\text{exp} &gt; t(\alpha, \nu)\), then our sample&rsquo;s confidence interval is greater than that explained by indeterminate errors (Figure \(\PageIndex{1}\)b). In this case, we reject the null hypothesis and accept the alternative hypothesis. If \(t_\text{exp} \leq t(\alpha, \nu)\), then our sample&rsquo;s confidence interval is smaller than that explained by indeterminate error, and we retain the null hypothesis (Figure \(\PageIndex{1}\)c). Example \(\PageIndex{1}\) provides a typical application of this significance test, which is known as a <em>t</em>-test of \(\overline{X}\) to \(\mu\). You will find values for \(t(\alpha, \nu)\) in Appendix 2.</p>
+
+<div class="box-example"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B1.7D.5C)"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Example \(\PageIndex{1}\)</span></h5>
+
+<p class="lt-chem-221819">Before determining the amount of Na<sub>2</sub>CO<sub>3</sub> in a sample, you decide to check your procedure by analyzing a standard sample that is 98.76% w/w Na<sub>2</sub>CO<sub>3</sub>. Five replicate determinations of the %w/w Na<sub>2</sub>CO<sub>3</sub> in the standard gives the following results</p>
+
+<p class="mt-align-center lt-chem-221819">\(98.71 \% \quad 98.59 \% \quad 98.62 \% \quad 98.44 \% \quad 98.58 \%\)</p>
+
+<p class="lt-chem-221819">Using \(\alpha = 0.05\), is there any evidence that the analysis is giving inaccurate results?</p>
+
+<p class="lt-chem-221819"><strong>Solution</strong></p>
+
+<p class="lt-chem-221819">The mean and standard deviation for the five trials are</p>
+
+<p class="lt-chem-221819">\[\overline{X} = 98.59 \quad \quad \quad s = 0.0973 \nonumber\]</p>
+
+<p class="lt-chem-221819">Because there is no reason to believe that the results for the standard must be larger or smaller than \(\mu\), a two-tailed <em>t</em>-test is appropriate. The null hypothesis and alternative hypothesis are</p>
+
+<p class="lt-chem-221819">\[H_0 \text{: } \overline{X} = \mu \quad \quad \quad H_\text{A} \text{: } \overline{X} \neq \mu \nonumber\]</p>
+
+<p class="lt-chem-221819">The test statistic, <em>t</em><sub>exp</sub>, is</p>
+
+<p class="lt-chem-221819">\[t_\text{exp} = \frac {|\mu - \overline{X}|\sqrt{n}} {2} = \frac {|98.76 - 98.59| \sqrt{5}} {0.0973} = 3.91 \nonumber\]</p>
+
+<p class="lt-chem-221819">The critical value for <em>t</em>(0.05, 4) from Appendix 2 is 2.78. Since <em>t</em><sub>exp</sub> is greater than <em>t</em>(0.05, 4), we reject the null hypothesis and accept the alternative hypothesis. At the 95% confidence level the difference between \(\overline{X}\)<em> </em>and \(\mu\) is too large to be explained by indeterminate sources of error, which suggests there is a determinate source of error that affects the analysis.</p>
+</div></div>
+
+<div class="box-note"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Note_2"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Note</span></h5>
+
+<p class="lt-chem-221819">There is another way to interpret the result of this <em>t</em>-test. Knowing that <em>t</em><sub>exp</sub> is 3.91 and that there are 4 degrees of freedom, we use Appendix 2 to estimate the value of \(\alpha\) that corresponds to a <em>t</em>(\(\alpha\), 4) of 3.91. From Appendix 2, <em>t</em>(0.02, 4) is 3.75 and <em>t</em>(0.01, 4) is 4.60. Although we can reject the null hypothesis at the 98% confidence level, we cannot reject it at the 99% confidence level. For a discussion of the advantages of this approach, see J. A. C. Sterne and G. D. Smith &ldquo;Sifting the evidence&mdash;what&rsquo;s wrong with significance tests?&rdquo; <em>BMJ </em><strong>2001</strong>, <em>322</em>, 226&ndash;231.</p>
+</div></div>
+
+<p class="lt-chem-221819">Earlier we made the point that we must exercise caution when we interpret the result of a statistical analysis. We will keep returning to this point because it is an important one. Having determined that a result is inaccurate, as we did in Example \(\PageIndex{1}\), the next step is to identify and to correct the error. Before we expend time and money on this, however, we first should critically examine our data. For example, the smaller the value of <em>s</em>, the larger the value of <em>t</em><sub>exp</sub>. If the standard deviation for our analysis is unrealistically small, then the probability of a type 2 error increases. Including a few additional replicate analyses of the standard and reevaluating the <em>t</em>-test may strengthen our evidence for a determinate error, or it may show us that there is no evidence for a determinate error.</p>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section" id="section_2"><span id="Comparing_.5C(s.5E2.5C)_to_.5C(.5Csigma.5E2.5C)"></span><h2 class="lt-chem-221819 editable">Comparing \(s^2\) to \(\sigma^2\)</h2>
+
+<p class="lt-chem-221819">If we analyze regularly a particular sample, we may be able to establish an expected variance, \(\sigma^2\), for the analysis. This often is the case, for example, in a clinical lab that analyzes hundreds of blood samples each day. A few replicate analyses of a single sample gives a sample variance, <em>s</em><sup>2</sup>, whose value may or may not differ significantly from \(\sigma^2\).</p>
+
+<p class="lt-chem-221819">We can use an <em>F</em>-test to evaluate whether a difference between <em>s<sup>2</sup> </em>and \(\sigma^2\) is significant. The null hypothesis is \(H_0 \text{: } s^2 = \sigma^2\) and the alternative hypothesis is \(H_\text{A} \text{: } s^2 \neq \sigma^2\). The test statistic for evaluating the null hypothesis is <em>F</em><sub>exp</sub>, which is given as either</p>
+
+<p class="lt-chem-221819">\[F_\text{exp} = \frac {s^2} {\sigma^2} \text{ if } s^2 &gt; \sigma^2 \text{ or } F_\text{exp} = \frac {\sigma^2} {s^2} \text{ if } \sigma^2 &gt; s^2 \nonumber\]</p>
+
+<p class="lt-chem-221819">depending on whether <em>s</em><sup>2</sup> is larger or smaller than \(\sigma^2\). This way of defining <em>F</em><sub>exp</sub> ensures that its value is always greater than or equal to one.</p>
+
+<p class="lt-chem-221819">If the null hypothesis is true, then <em>F</em><sub>exp</sub> should equal one; however, because of indeterminate errors, <em>F</em><sub>exp</sub>, usually is greater than one. A critical value, \(F(\alpha, \nu_\text{num}, \nu_\text{den})\), is the largest value of <em>F</em><sub>exp</sub> that we can attribute to indeterminate error given the specified significance level, \(\alpha\), and the degrees of freedom for the variance in the numerator, \(\nu_\text{num}\), and the variance in the denominator, \(\nu_\text{den}\). The degrees of freedom for <em>s<sup>2</sup> </em>is <em>n </em>&ndash; 1, where <em>n </em>is the number of replicates used to determine the sample&rsquo;s variance, and the degrees of freedom for \(\sigma^2\) is defined as infinity, \(\infty\). Critical values of <em>F </em>for \(\alpha = 0.05\) are listed in Appendix 3 for both one-tailed and two-tailed <em>F</em>-tests.</p>
+
+<div class="box-example"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B2.7D.5C)"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Example \(\PageIndex{2}\)</span></h5>
+
+<p class="lt-chem-221819">A manufacturer&rsquo;s process for analyzing aspirin tablets has a known variance of 25. A sample of 10 aspirin tablets is selected and analyzed for the amount of aspirin, yielding the following results in mg aspirin/tablet.</p>
+
+<p class="mt-align-center lt-chem-221819">\(254 \quad 249 \quad 252 \quad 252 \quad 249 \quad 249 \quad 250 \quad 247 \quad 251 \quad 252\)</p>
+
+<p class="lt-chem-221819">Determine whether there is evidence of a significant difference between the sample&rsquo;s variance and the expected variance at \(\alpha = 0.05\).</p>
+
+<p class="lt-chem-221819"><strong>Solution</strong></p>
+
+<p class="lt-chem-221819">The variance for the sample of 10 tablets is 4.3. The null hypothesis and alternative hypotheses are</p>
+
+<p class="lt-chem-221819">\[H_0 \text{: } s^2 = \sigma^2 \quad \quad \quad H_\text{A} \text{: } s^2 \neq \sigma^2 \nonumber\]</p>
+
+<p class="lt-chem-221819">and the value for <em>F</em><sub>exp</sub> is</p>
+
+<p class="lt-chem-221819">\[F_\text{exp} = \frac {\sigma^2} {s^2} = \frac {25} {4.3} = 5.8 \nonumber\]</p>
+
+<p class="lt-chem-221819">The critical value for <em>F</em>(0.05, \(\infty\), 9) from Appendix 3 is 3.333. Since <em>F</em><sub>exp</sub><sub> </sub>is greater than <em>F</em>(0.05, \(\infty\), 9), we reject the null hypothesis and accept the alternative hypothesis that there is a significant difference between the sample&rsquo;s variance and the expected variance. One explanation for the difference might be that the aspirin tablets were not selected randomly.</p>
+</div></div>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section" id="section_3"><span id="Comparing_Variances_for_Two_Samples"></span><h2 class="lt-chem-221819 editable">Comparing Variances for Two Samples</h2>
+
+<p class="lt-chem-221819">We can extend the <em>F</em>-test to compare the variances for two samples, <em>A </em>and <em>B</em>, by rewriting our equation for <em>F</em><sub>exp</sub> as</p>
+
+<p class="lt-chem-221819">\[F_\text{exp} = \frac {s_A^2} {s_B^2} \nonumber\]</p>
+
+<p class="lt-chem-221819">defining <em>A </em>and <em>B </em>so that the value of <em>F</em><sub>exp</sub> is greater than or equal to 1.</p>
+
+<div class="box-example"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B3.7D.5C)"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Example \(\PageIndex{3}\)</span></h5>
+
+<p class="lt-chem-221819">The table below shows results for two experiments to determine the mass of a circulating U.S. penny. Determine whether there is a difference in the variances of these analyses at \(\alpha = 0.05\).</p>
+
+<table class="mt-responsive-table" align="center" cellpadding="1" cellspacing="1">
+    <thead>
+        <tr>
+            <th class="mt-align-center " colspan="2" rowspan="1" scope="col">First Experiment</th>
+            <th class="mt-align-center " colspan="2" rowspan="1" scope="col">Second Experiment</th>
+        </tr>
+        <tr>
+            <th class="mt-align-center">Penny</th>
+            <th class="mt-align-center ">Mass (g)</th>
+            <th class="mt-align-center ">Penny</th>
+            <th class="mt-align-center">Mass (g)</th>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="First ExperimentPenny">1</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="First ExperimentMass (g)">3.080</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Second ExperimentPenny">1</td>
+            <td class="mt-align-center lt-chem-221819" data-th="Second ExperimentMass (g)">3.052</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="First ExperimentPenny">2</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="First ExperimentMass (g)">3.094</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Second ExperimentPenny">2</td>
+            <td class="mt-align-center lt-chem-221819" data-th="Second ExperimentMass (g)">3.141</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="First ExperimentPenny">3</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="First ExperimentMass (g)">3.107</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Second ExperimentPenny">3</td>
+            <td class="mt-align-center lt-chem-221819" data-th="Second ExperimentMass (g)">3.083</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="First ExperimentPenny">4</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="First ExperimentMass (g)">3.056</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Second ExperimentPenny">4</td>
+            <td class="mt-align-center lt-chem-221819" data-th="Second ExperimentMass (g)">3.083</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="First ExperimentPenny">5</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="First ExperimentMass (g)">3.112</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Second ExperimentPenny">5</td>
+            <td class="mt-align-center lt-chem-221819" data-th="Second ExperimentMass (g)">3.048</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="First ExperimentPenny">6</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="First ExperimentMass (g)">3.174</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Second ExperimentPenny"> </td>
+            <td class="mt-align-center lt-chem-221819" data-th="Second ExperimentMass (g)"> </td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="First ExperimentPenny">7</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="First ExperimentMass (g)">3.198</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Second ExperimentPenny"> </td>
+            <td class="mt-align-center lt-chem-221819" data-th="Second ExperimentMass (g)"> </td>
+        </tr>
+    </thead>
+</table>
+
+<p class="lt-chem-221819"><strong>Solution</strong></p>
+
+<p class="lt-chem-221819">The standard deviations for the two experiments are 0.051 for the first experiment (<em>A</em>) and 0.037 for the second experiment (<em>B</em>). The null and alternative hypotheses are</p>
+
+<p class="lt-chem-221819">\[H_0 \text{: } s_A^2 = s_B^2 \quad \quad \quad H_\text{A} \text{: } s_A^2 \neq s_B^2 \nonumber\]</p>
+
+<p class="lt-chem-221819">and the value of <em>F</em><sub>exp</sub> is</p>
+
+<p class="lt-chem-221819">\[F_\text{exp} = \frac {s_A^2} {s_B^2} = \frac {(0.051)^2} {(0.037)^2} = \frac {0.00260} {0.00137} = 1.90 \nonumber\]</p>
+
+<p class="lt-chem-221819">From Appendix 3 the critical value for <em>F</em>(0.05, 6, 4) is 9.197. Because <em>F</em><sub>exp</sub> &lt; <em>F</em>(0.05, 6, 4), we retain the null hypothesis. There is no evidence at \(\alpha = 0.05\) to suggest that the difference in variances is significant.</p>
+</div></div>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section" id="section_4"><span id="Comparing_Means_for_Two_Samples"></span><h2 class="lt-chem-221819 editable">Comparing Means for Two Samples</h2>
+
+<p class="lt-chem-221819">Three factors influence the result of an analysis: the method, the sample, and the analyst. We can study the influence of these factors by conducting experiments in which we change one factor while holding constant the other factors. For example, to compare two analytical methods we can have the same analyst apply each method to the same sample and then examine the resulting means. In a similar fashion, we can design experiments to compare two analysts or to compare two samples.</p>
+
+<p class="lt-chem-221819">Before we consider the significance tests for comparing the means of two samples, we need to understand the difference between unpaired data and paired data. This is a critical distinction and learning to distinguish between these two types of data is important. Here are two simple examples that highlight the difference between unpaired data and paired data. In each example the goal is to compare two balances by weighing pennies.</p>
+
+<ul>
+    <li class="lt-chem-221819">Example 1: We collect 10 pennies and weigh each penny on each balance. This is an example of paired data because we use the same 10 pennies to evaluate each balance.</li>
+    <li class="lt-chem-221819">Example 2: We collect 10 pennies and divide them into two groups of five pennies each. We weigh the pennies in the first group on one balance and we weigh the second group of pennies on the other balance. Note that no penny is weighed on both balances. This is an example of unpaired data because we evaluate each balance using a different sample of pennies.</li>
+</ul>
+
+<p class="lt-chem-221819">In both examples the samples of 10 pennies were drawn from the same population; the difference is how we sampled that population. We will learn why this distinction is important when we review the significance test for paired data; first, however, we present the significance test for unpaired data. </p>
+
+<div class="box-note"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Note_3"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Note</span></h5>
+
+<p class="lt-chem-221819">One simple test for determining whether data are paired or unpaired is to look at the size of each sample. If the samples are of different size, then the data must be unpaired. The converse is not true. If two samples are of equal size, they may be paired or unpaired.</p>
+</div></div>
+
+<div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section" id="section_5"><span id="Unpaired_Data"></span><h3 class="lt-chem-221819 editable">Unpaired Data</h3>
+
+<p class="lt-chem-221819">Consider two analyses, <em>A </em>and <em>B</em>, with means of \(\overline{X}_A\) and \(\overline{X}_B\), and standard deviations of <em>s</em><em><sub>A</sub> </em>and <em>s</em><sub><em>B</em></sub>. The confidence intervals for \(\mu_A\) and for \(\mu_B\) are</p>
+
+<p class="lt-chem-221819">\[\mu_A = \overline{X}_A \pm \frac {t s_A} {\sqrt{n_A}} \nonumber\]</p>
+
+<p class="lt-chem-221819">\[\mu_B = \overline{X}_B \pm \frac {t s_B} {\sqrt{n_B}} \nonumber\]</p>
+
+<p class="lt-chem-221819">where <em>n</em><sub>A</sub> and <em>n</em><sub>B</sub> are the sample sizes for <em>A </em>and for <em>B</em>. Our null hypothesis, \(H_0 \text{: } \mu_A = \mu_B\), is that any difference between \(\mu_A\) and \(\mu_B\) <em> </em>is the result of indeterminate errors that affect the analyses. The alternative hypothesis, \(H_A \text{: } \mu_A \neq \mu_B\), is that the difference between \(\mu_A\)and \(\mu_B\) is too large to be explained by indeterminate error.</p>
+
+<p class="lt-chem-221819">To derive an equation for <em>t</em><sub>exp</sub>, we assume that \(\mu_A\) equals \(\mu_B\), and combine the equations for the two confidence intervals</p>
+
+<p class="lt-chem-221819">\[\overline{X}_A \pm \frac {t_\text{exp} s_A} {\sqrt{n_A}} = \overline{X}_B \pm \frac {t_\text{exp} s_B} {\sqrt{n_B}} \nonumber\]</p>
+
+<p class="lt-chem-221819">Solving for \(|\overline{X}_A - \overline{X}_B|\) and using a propagation of uncertainty, gives</p>
+
+<p class="lt-chem-221819">\[|\overline{X}_A - \overline{X}_B| = t_\text{exp} \times \sqrt{\frac {s_A^2} {n_A} + \frac {s_B^2} {n_B}} \nonumber\]</p>
+
+<p class="lt-chem-221819">Finally, we solve for <em>t</em><sub>exp</sub></p>
+
+<p class="lt-chem-221819">\[t_\text{exp} = \frac {|\overline{X}_A - \overline{X}_B|} {\sqrt{\frac {s_A^2} {n_A} + \frac {s_B^2} {n_B}}} \nonumber\]</p>
+
+<p class="lt-chem-221819">and compare it to a critical value, \(t(\alpha, \nu)\), where \(\alpha\) is the probability of a type 1 error, and \(\nu\) is the degrees of freedom.</p>
+
+<p class="lt-chem-221819">Thus far our development of this <em>t</em>-test is similar to that for comparing \(\overline{X}\) to \(\mu\), and yet we do not have enough information to evaluate the <em>t</em>-test. Do you see the problem? With two independent sets of data it is unclear how many degrees of freedom we have.</p>
+
+<p class="lt-chem-221819">Suppose that the variances \(s_A^2\) and \(s_B^2\) provide estimates of the same \(\sigma^2\). In this case we can replace \(s_A^2\) and \(s_B^2\)<em> </em>with a pooled variance, \(s_\text{pool}^2\), that is a better estimate for the variance. Thus, our equation for \(t_\text{exp}\) becomes</p>
+
+<p class="lt-chem-221819">\[t_\text{exp} = \frac {|\overline{X}_A - \overline{X}_B|} {s_\text{pool} \times \sqrt{\frac {1} {n_A} + \frac {1} {n_B}}} = \frac {|\overline{X}_A - \overline{X}_B|} {s_\text{pool}} \times \sqrt{\frac {n_A n_B} {n_A + n_B}} \nonumber\]</p>
+
+<p class="lt-chem-221819">where <em>s</em><sub>pool</sub>, the pooled standard deviation, is</p>
+
+<p class="lt-chem-221819">\[s_\text{pool} = \sqrt{\frac {(n_A - 1) s_A^2 + (n_B - 1)s_B^2} {n_A + n_B - 2}} \nonumber\]</p>
+
+<p class="lt-chem-221819">The denominator of this equation shows us that the degrees of freedom for a pooled standard deviation is \(n_A + n_B - 2\), which also is the degrees of freedom for the <em>t</em>-test. Note that we lose two degrees of freedom because the calculations for \(s_A^2\) and \(s_B^2\)<em> </em>require the prior calculation of \(\overline{X}_A\) amd \(\overline{X}_B\).</p>
+
+<div class="box-note"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Note_4"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Note</span></h5>
+
+<p class="lt-chem-221819">So how do you determine if it is okay to pool the variances? Use an <em>F</em>-test.</p>
+</div></div>
+
+<p class="lt-chem-221819">If \(s_A^2\) and \(s_B^2\)<em> </em>are significantly different, then we calculate <em>t</em><sub>exp</sub> using the following equation. In this case, we find the degrees of freedom using the following imposing equation.</p>
+
+<p class="lt-chem-221819">\[\nu = \frac {\left( \frac {s_A^2} {n_A} + \frac {s_B^2} {n_B} \right)^2} {\frac {\left( \frac {s_A^2} {n_A} \right)^2} {n_A + 1} + \frac {\left( \frac {s_B^2} {n_B} \right)^2} {n_B + 1}} - 2 \nonumber\]</p>
+
+<p class="lt-chem-221819">Because the degrees of freedom must be an integer, we round to the nearest integer the value of \(\nu\) obtained from this equation.</p>
+
+<div class="box-note"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Note_5"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Note</span></h5>
+
+<p class="lt-chem-221819">The equation above for the degrees of freedom is from <u>Miller, J.C.</u>; Miller, J.N. <em>Statistics for Analytical Chemistry</em>, 2nd Ed., Ellis-Horward: Chichester, UK, 1988. In the 6th Edition, the authors note that several different equations have been suggested for the number of degrees of freedom for <em>t </em>when <i>s<sub>A</sub></i> and <em>s<sub>B</sub></em> differ, reflecting the fact that the determination of degrees of freedom an approximation. An alternative equation&mdash;which is used by statistical software packages, such as R, Minitab, Excel&mdash;is</p>
+
+<p class="lt-chem-221819">\[\nu = \frac {\left( \frac {s_A^2} {n_A} + \frac {s_B^2} {n_B} \right)^2} {\frac {\left( \frac {s_A^2} {n_A} \right)^2} {n_A - 1} + \frac {\left( \frac {s_B^2} {n_B} \right)^2} {n_B - 1}} = \frac {\left( \frac {s_A^2} {n_A} + \frac {s_B^2} {n_B} \right)^2} {\frac {s_A^4} {n_A^2(n_A - 1)} + \frac {s_B^4} {n_B^2(n_B - 1)}} \nonumber\]</p>
+
+<p class="lt-chem-221819">For typical problems in analytical chemistry, the calculated degrees of freedom is reasonably insensitive to the choice of equation.</p>
+</div></div>
+
+<p class="lt-chem-221819">Regardless of whether how we calculate <em>t</em><sub>exp</sub>, we reject the null hypothesis if <em>t</em><sub>exp</sub> is greater than \(t(\alpha, \nu)\) and retain the null hypothesis if <em>t</em><sub>exp</sub> is less than or equal to \(t(\alpha, \nu)\).</p>
+
+<div class="box-example"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B4.7D.5C)"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Example \(\PageIndex{4}\)</span></h5>
+
+<p class="lt-chem-221819">Example \(\PageIndex{3}\) provides results for two experiments to determine the mass of a circulating U.S. penny. Determine whether there is a difference in the means of these analyses at \(\alpha = 0.05\).</p>
+
+<p class="lt-chem-221819"><strong>Solution</strong></p>
+
+<p class="lt-chem-221819">First we use an <em>F</em>-test to determine whether we can pool the variances. We completed this analysis in Example \(\PageIndex{3}\), finding no evidence of a significant difference, which means we can pool the standard deviations, obtaining</p>
+
+<p class="lt-chem-221819">\[s_\text{pool} = \sqrt{\frac {(7 - 1)(0.051)^2 + (5 - 1)(0.037)^2} {7 + 5 - 2}} = 0.0459 \nonumber\]</p>
+
+<p class="lt-chem-221819">with 10 degrees of freedom. To compare the means we use the following null hypothesis and alternative hypotheses</p>
+
+<p class="lt-chem-221819">\[H_0 \text{: } \mu_A = \mu_B \quad \quad \quad H_A \text{: } \mu_A \neq \mu_B \nonumber\]</p>
+
+<p class="lt-chem-221819">Because we are using the pooled standard deviation, we calculate <em>t</em><sub>exp</sub> as</p>
+
+<p class="lt-chem-221819">\[t_\text{exp} = \frac {|3.117 - 3.081|} {0.0459} \times \sqrt{\frac {7 \times 5} {7 + 5}} = 1.34 \nonumber\]</p>
+
+<p class="lt-chem-221819">The critical value for <em>t</em>(0.05, 10), from Appendix 2, is 2.23. Because <em>t</em><sub>exp</sub> is less than <em>t</em>(0.05, 10) we retain the null hypothesis. For \(\alpha = 0.05\) we do not have evidence that the two sets of pennies are significantly different.</p>
+</div></div>
+
+<div class="box-example"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B5.7D.5C)"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Example \(\PageIndex{5}\)</span></h5>
+
+<p class="lt-chem-221819">One method for determining the %w/w Na<sub>2</sub>CO<sub>3</sub> in soda ash is to use an acid&ndash;base titration. When two analysts analyze the same sample of soda ash they obtain the results shown here.</p>
+
+<p class="mt-align-center lt-chem-221819">Analyst A: \(86.82 \% \quad 87.04 \% \quad 86.93 \% \quad 87.01 \% \quad 86.20 \% \quad 87.00 \%\)</p>
+
+<p class="mt-align-center lt-chem-221819">Analyst B: \(81.01 \% \quad 86.15 \% \quad 81.73 \% \quad 83.19 \% \quad 80.27 \% \quad 83.93 \% \quad\)</p>
+
+<p class="lt-chem-221819">Determine whether the difference in the mean values is significant at \(\alpha = 0.05\).</p>
+
+<p class="lt-chem-221819"><strong>Solution</strong></p>
+
+<p class="lt-chem-221819">We begin by reporting the mean and standard deviation for each analyst.</p>
+
+<p class="lt-chem-221819">\[\overline{X}_A = 86.83\% \quad \quad s_A = 0.32\% \nonumber\]</p>
+
+<p class="lt-chem-221819">\[\overline{X}_B = 82.71\% \quad \quad s_B = 2.16\% \nonumber\]</p>
+
+<p class="lt-chem-221819">To determine whether we can use a pooled standard deviation, we first complete an <em>F</em>-test using the following null and alternative hypotheses.</p>
+
+<p class="lt-chem-221819">\[H_0 \text{: } s_A^2 = s_B^2 \quad \quad \quad H_A \text{: } s_A^2 \neq s_B^2 \nonumber\]</p>
+
+<p class="lt-chem-221819">Calculating <em>F</em><sub>exp</sub>, we obtain a value of</p>
+
+<p class="lt-chem-221819">\[F_\text{exp} = \frac {(2.16)^2} {(0.32)^2} = 45.6 \nonumber\]</p>
+
+<p class="lt-chem-221819">Because <em>F</em><sub>exp</sub> is larger than the critical value of 7.15 for <em>F</em>(0.05, 5, 5) from Appendix 3, we reject the null hypothesis and accept the alternative hypothesis that there is a significant difference between the variances; thus, we cannot calculate a pooled standard deviation.</p>
+
+<p class="lt-chem-221819">To compare the means for the two analysts we use the following null and alternative hypotheses.</p>
+
+<p class="lt-chem-221819">\[H_0 \text{: } \overline{X}_A = \overline{X}_B \quad \quad \quad H_A \text{: } \overline{X}_A \neq \overline{X}_B \nonumber\]</p>
+
+<p class="lt-chem-221819">Because we cannot pool the standard deviations, we calculate <em>t</em><sub>exp</sub> as</p>
+
+<p class="lt-chem-221819">\[t_\text{exp} = \frac {|86.83 - 82.71|} {\sqrt{\frac {(0.32)^2} {6} + \frac {(2.16)^2} {6}}} = 4.62 \nonumber\]</p>
+
+<p class="lt-chem-221819">and calculate the degrees of freedom as</p>
+
+<p class="lt-chem-221819">\[\nu = \frac {\left( \frac {(0.32)^2} {6} + \frac {(2.16)^2} {6} \right)^2} {\frac {\left( \frac {(0.32)^2} {6} \right)^2} {6 + 1} + \frac {\left( \frac {(2.16)^2} {6} \right)^2} {6 + 1}} - 2 = 5.3 \approx 5 \nonumber\]</p>
+
+<p class="lt-chem-221819">From Appendix 2, the critical value for <em>t</em>(0.05, 5) is 2.57. Because <em>t</em><sub>exp</sub> is greater than <em>t</em>(0.05, 5) we reject the null hypothesis and accept the alternative hypothesis that the means for the two analysts are significantly different at \(\alpha = 0.05\).</p>
+</div></div>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section" id="section_6"><span id="Paired_Data"></span><h3 class="lt-chem-221819 editable">Paired Data</h3>
+
+<p class="lt-chem-221819">Suppose we are evaluating a new method for monitoring blood glucose concentrations in patients. An important part of evaluating a new method is to compare it to an established method. What is the best way to gather data for this study? Because the variation in the blood glucose levels amongst patients is large we may be unable to detect a small, but significant difference between the methods if we use different patients to gather data for each method. Using paired data, in which the we analyze each patient&rsquo;s blood using both methods, prevents a large variance within a population from adversely affecting a <em>t</em>-test of means.</p>
+
+<div class="box-note"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Note_6"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Note</span></h5>
+
+<p class="lt-chem-221819">Typical blood glucose levels for most non-diabetic individuals ranges between 80&ndash;120 mg/dL (4.4&ndash;6.7 mM), rising to as high as 140 mg/dL (7.8 mM) shortly after eating. Higher levels are common for individuals who are pre-diabetic or diabetic.</p>
+</div></div>
+
+<p class="lt-chem-221819">When we use paired data we first calculate the individual differences, <em>d</em><sub><em>i</em></sub>, between each sample's paired resykts. Using these individual differences, we then calculate the average difference, \(\overline{d}\), and the standard deviation of the differences, <em>s</em><sub><em>d</em></sub>. The null hypothesis, \(H_0 \text{: } d = 0\), is that there is no difference between the two samples, and the alternative hypothesis, \(H_A \text{: } d \neq 0\), is that the difference between the two samples is significant.</p>
+
+<p class="lt-chem-221819">The test statistic, <em>t</em><sub>exp</sub>, is derived from a confidence interval around \(\overline{d}\)</p>
+
+<p class="lt-chem-221819">\[t_\text{exp} = \frac {|\overline{d}| \sqrt{n}} {s_d} \nonumber\]</p>
+
+<p class="lt-chem-221819">where <em>n </em>is the number of paired samples. As is true for other forms of the <em>t</em>-test, we compare <em>t</em><sub>exp</sub> to \(t(\alpha, \nu)\), where the degrees of freedom, \(\nu\), is <em>n </em>&ndash; 1. If <em>t</em><sub>exp</sub> is greater than \(t(\alpha, \nu)\), then we reject the null hypothesis and accept the alternative hypothesis. We retain the null hypothesis if <em>t</em><sub>exp</sub> is less than or equal to <em>t</em>(a, o). This is known as a paired t-test.</p>
+
+<div class="box-example"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B6.7D.5C)"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Example \(\PageIndex{6}\)</span></h5>
+
+<p class="lt-chem-221819">Marecek et. al. developed a new electrochemical method for the rapid determination of the concentration of the antibiotic monensin in fermentation vats [Marecek, V.; Janchenova, H.; Brezina, M.; Betti, M. <em>Anal. Chim. Acta </em><strong>1991</strong>, <em>244</em>, 15&ndash;19]. The standard method for the analysis is a test for microbiological activity, which is both difficult to complete and time-consuming. Samples were collected from the fermentation vats at various times during production and analyzed for the concentration of monensin using both methods. The results, in parts per thousand (ppt), are reported in the following table.</p>
+
+<table class="mt-responsive-table" align="center">
+    <thead>
+        <tr>
+            <th class="mt-align-center " scope="col">Sample</th>
+            <th class="mt-align-center " scope="col">Microbiological</th>
+            <th class="mt-align-center " scope="col">Electrochemical</th>
+        </tr>
+        <tr>
+            <td class="mt-align-center  lt-chem-221819" data-th="Sample">1</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Microbiological">129.5</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Electrochemical">132.3</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center  lt-chem-221819" data-th="Sample">2</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Microbiological">89.6</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Electrochemical">91.0</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center  lt-chem-221819" data-th="Sample">3</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Microbiological">76.6</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Electrochemical">73.6</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center  lt-chem-221819" data-th="Sample">4</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Microbiological">52.2</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Electrochemical">58.2</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center  lt-chem-221819" data-th="Sample">5</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Microbiological">110.8</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Electrochemical">104.2</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center  lt-chem-221819" data-th="Sample">6</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Microbiological">50.4</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Electrochemical">49.9</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center  lt-chem-221819" data-th="Sample">7</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Microbiological">72.4</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Electrochemical">82.1</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center  lt-chem-221819" data-th="Sample">8</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Microbiological">141.4</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Electrochemical">154.1</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center  lt-chem-221819" data-th="Sample">9</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Microbiological">75.0</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Electrochemical">73.4</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center  lt-chem-221819" data-th="Sample">10</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Microbiological">34.1</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Electrochemical">38.1</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center  lt-chem-221819" data-th="Sample">11</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Microbiological">60.3</td>
+            <td class="mt-align-center  lt-chem-221819" data-th="Electrochemical">60.1</td>
+        </tr>
+    </thead>
+</table>
+
+<p class="lt-chem-221819">Is there a significant difference between the methods at \(\alpha = 0.05\)?</p>
+
+<p class="lt-chem-221819"><strong>Solution</strong></p>
+
+<p class="lt-chem-221819">Acquiring samples over an extended period of time introduces a substantial time-dependent change in the concentration of monensin. Because the variation in concentration between samples is so large, we use a paired <em>t</em>-test with the following null and alternative hypotheses.</p>
+
+<p class="lt-chem-221819">\[H_0 \text{: } \overline{d} = 0 \quad \quad \quad H_A \text{: } \overline{d} \neq 0 \nonumber\]</p>
+
+<p class="lt-chem-221819">Defining the difference between the methods as</p>
+
+<p class="lt-chem-221819">\[d_i = (X_\text{elect})_i - (X_\text{micro})_i \nonumber\]</p>
+
+<p class="lt-chem-221819">we calculate the difference for each sample.</p>
+
+<table class="mt-responsive-table" align="center">
+    <tbody>
+        <tr>
+            <td class="mt-align-center mt-noheading lt-chem-221819">sample</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">1</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">2</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">3</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">4</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">5</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">6</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">7</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">8</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">9</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">10</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">11</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center mt-noheading lt-chem-221819">\(d_i\)</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">2.8</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">1.4</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">&ndash;3.0</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">6.0</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">&ndash;6.6</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">&ndash;0.5</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">9.7</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">12.7</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">&ndash;1.6</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">4.0</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">&ndash;0.2</td>
+        </tr>
+    </tbody>
+</table>
+
+<p class="lt-chem-221819">The mean and the standard deviation for the differences are, respectively, 2.25 ppt and 5.63 ppt. The value of <em>t</em><sub>exp</sub> is</p>
+
+<p class="lt-chem-221819">\[t_\text{exp} = \frac {|2.25| \sqrt{11}} {5.63} = 1.33 \nonumber\]</p>
+
+<p class="lt-chem-221819">which is smaller than the critical value of 2.23 for <em>t</em>(0.05, 10) from Appendix 2. We retain the null hypothesis and find no evidence for a significant difference in the methods at \(\alpha = 0.05\).</p>
+</div></div>
+
+<p class="lt-chem-221819">One important requirement for a paired <em>t</em>-test is that the determinate and the indeterminate errors that affect the analysis must be independent of the analyte&rsquo;s concentration. If this is not the case, then a sample with an unusually high concentration of analyte will have an unusually large <em>d</em><sub><em>i</em></sub>. Including this sample in the calculation of \(\overline{d}\)<em> </em>and <em>s</em><em><sub>d</sub> </em>gives a biased estimate for the expected mean and standard deviation. This rarely is a problem for samples that span a limited range of analyte concentrations, such as those in Example \(\PageIndex{4}\) or Exercise \(\PageIndex{6}\). When paired data span a wide range of concentrations, however, the magnitude of the determinate and indeterminate sources of error may not be independent of the analyte&rsquo;s concentration; when true, a paired <em>t</em>-test may give misleading results because the paired data with the largest absolute determinate and indeterminate errors will dominate \(\overline{d}\). In this situation a regression analysis, which is the subject of the next chapter, is more appropriate method for comparing the data.</p>
+
+<div class="box-note"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Note_7"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Note</span></h5>
+
+<p class="lt-chem-221819">The importance of distinguishing between paired and unpaired data is worth examining more closely. The following is data from some work I completed with a colleague in which we were looking at concentration of Zn in Lake Erie at the air-water interface and the sediment-water interface.</p>
+
+<table class="mt-responsive-table">
+    <tbody>
+        <tr>
+            <td class="mt-align-center mt-noheading lt-chem-221819">sample site</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">ppm Zn at air-water interface</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">ppm Zn at the sediment-water interface</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center mt-noheading lt-chem-221819">1</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">0.430</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">0.415</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center mt-noheading lt-chem-221819">2</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">0.266</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">0.238</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center mt-noheading lt-chem-221819">3</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">0.457</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">0.390</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center mt-noheading lt-chem-221819">4</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">0.531</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">0.410</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center mt-noheading lt-chem-221819">5</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">0.707</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">0.605</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center mt-noheading lt-chem-221819">6</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">0.716</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">0.609</td>
+        </tr>
+    </tbody>
+</table>
+
+<p class="lt-chem-221819">The mean and the standard deviation for the ppm Zn at the air-water interface are 0.5178 ppm and 0.01732 ppm, and the mean and the standard deviation for the ppm Zn at the sediment-water interface are 0.4445 ppm and 0.1418 ppm. We can use these values to draw normal distributions for both by letting the means and the standard deviations for the samples, \(\overline{X}\) and \(s\), serve as estimates for the means and the standard deviations for the population, \(\mu\) and \(\sigma\). As we see in the following figure</p>
+
+<p class="mt-align-center lt-chem-221819"><img alt="clipboard_ed0e02ec414618f1453d7cf8188929e64.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/275867/clipboard_ed0e02ec414618f1453d7cf8188929e64.png?revision=1" /></p>
+
+<p class="lt-chem-221819">the two distributions overlap strongly, suggesting that a <em>t</em>-test of their means is not likely to find evidence of a difference. And yet, we also see that for each site, the concentration of Zn at the sediment-water interface is less than that at the air-water interface. In this case, the difference between the concentration of Zn at individual sites is sufficiently large that it masks our ability to see the difference between the two interfaces.</p>
+
+<p class="lt-chem-221819">If we take the differences between the air-water and sediment-water interfaces, we have values of 0.015, 0.028, 0.067, 0.121, 0.102, and 0.107 ppm Zn, with a mean of 0.07333 ppm Zn and a standard deviation of 0.04410 ppm Zn. Superimposing all three normal distributions</p>
+
+<p class="mt-align-center lt-chem-221819"><img alt="clipboard_e618180cdc29e58e8e5589d3f10015d53.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/275868/clipboard_e618180cdc29e58e8e5589d3f10015d53.png?revision=1" /></p>
+
+<p class="lt-chem-221819">shows clearly that most of the normal distribution for the differences lies above zero, suggesting that a <em>t</em>-test might show evidence that the difference is significant.</p>
+</div></div>
+
+</div></div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section" id="section_7"><span id="Outliers"></span><h2 class="lt-chem-221819 editable">Outliers</h2>
+
+<p class="lt-chem-221819">In chapter 7.1 we examined a data set consisting of the masses of 100 circulating United States penny. Table \(\PageIndex{1}\) provides one more data set. Do you notice anything unusual in this data? Of the 100 pennies included in the earlier table, no penny has a mass of less than 3 g. In this table, however, the mass of one penny is less than 3 g. We might ask whether this penny&rsquo;s mass is so different from the other pennies that it is in error.</p>
+
+<table class="mt-responsive-table" align="center"><caption>Table \(\PageIndex{1}\). Mass (g) for Additional Sample of Circulating U. S. Penniese</caption>
+    <tbody>
+        <tr>
+            <td class="mt-align-center mt-noheading lt-chem-221819">3.067</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">2.514</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">3.094</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center mt-noheading lt-chem-221819">3.049</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">3.048</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">3.109</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center mt-noheading lt-chem-221819">3.039</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">3.079</td>
+            <td class="mt-align-center mt-noheading lt-chem-221819">3.102</td>
+        </tr>
+    </tbody>
+</table>
+
+<p class="lt-chem-221819">A measurement that is not consistent with other measurements is called an outlier. An outlier might exist for many reasons: the outlier might belong to a different population</p>
+
+<p class="mt-align-center lt-chem-221819">Is this a Canadian penny?</p>
+
+<p class="lt-chem-221819">or the outlier might be a contaminated or an otherwise altered sample</p>
+
+<p class="mt-align-center lt-chem-221819">Is the penny damaged or unusually dirty?</p>
+
+<p class="lt-chem-221819">or the outlier may result from an error in the analysis</p>
+
+<p class="mt-align-center lt-chem-221819">Did we forget to tare the balance?</p>
+
+<p class="lt-chem-221819">Regardless of its source, the presence of an outlier compromises any meaningful analysis of our data. There are many significance tests that we can use to identify a potential outlier, three of which we present here.</p>
+
+<div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section" id="section_8"><span id="Dixon's_Q-Test"></span><h3 class="lt-chem-221819 editable">Dixon's <em>Q</em>-Test</h3>
+
+<p class="lt-chem-221819">One of the most common significance tests for identifying an outlier is Dixon&rsquo;s Q-test. The null hypothesis is that there are no outliers, and the alternative hypothesis is that there is an outlier. The <em>Q</em>-test compares the gap between the suspected outlier and its nearest numerical neighbor to the range of the entire data set (Figure \(\PageIndex{2}\)).</p>
+
+<figure><img alt="Figure4.15.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/161056/Figure4.15.png?revision=1" />
+<figcaption>Figure \(\PageIndex{2}\): Dotplots showing the distribution of two data sets containing a possible outlier. In (a) the possible outlier&rsquo;s<strong> </strong>value is larger than the remaining data, and in (b) the possible outlier&rsquo;s<strong> </strong>value is smaller than the remaining <span class="mt-color-1abc9c">data</span>.</figcaption>
+</figure>
+
+<p class="lt-chem-221819">The test statistic, <em>Q<sub>exp</sub></em>, is</p>
+
+<p class="lt-chem-221819">\[Q_\text{exp} = \frac {\text{gap}} {\text{range}} = \frac {|\text{outlier's value} - \text{nearest value}|} {\text{largest value} - \text{smallest value}} \nonumber\]</p>
+
+<p class="lt-chem-221819">This equation is appropriate for evaluating a single outlier. Other forms of Dixon&rsquo;s <em>Q</em>-test allow its extension to detecting multiple outliers [Rorabacher, D. B. <em>Anal. Chem. </em><strong>1991</strong>, <em>63</em>, 139&ndash;146].</p>
+
+<p class="lt-chem-221819">The value of <em>Q</em><sub>exp</sub> is compared to a critical value, \(Q(\alpha, n)\), where \(\alpha\) is the probability that we will reject a valid data point (a type 1 error) and <em>n</em><em> </em>is the total number of data points. To protect against rejecting a valid data point, usually we apply the more conservative two-tailed <em>Q</em>-test, even though the possible outlier is the smallest or the largest value in the data set. If <em>Q</em><sub>exp</sub> is greater than \(Q(\alpha, n)\), then we reject the null hypothesis and may exclude the outlier. We retain the possible outlier when <em>Q</em><sub>exp</sub> is less than or equal to \(Q(\alpha, n)\). Table \(\PageIndex{2}\) provides values for \(Q(\alpha, n)\) for a data set that has 3&ndash;10 values. A more extensive table is in Appendix 4. Values for \(Q(\alpha, n)\) assume an underlying normal distribution.</p>
+
+<table class="mt-responsive-table" align="center"><caption>Table \(\PageIndex{2}\): Dixon's Q-Test</caption>
+    <thead>
+        <tr>
+            <th class="mt-align-center" scope="col"><em>n</em></th>
+            <th class="mt-align-center" scope="col"><em>Q</em>(0.05, <em>n</em>)</th>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">3</td>
+            <td class="mt-align-center lt-chem-221819" data-th="Q(0.05, n)">0.970</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">4</td>
+            <td class="mt-align-center lt-chem-221819" data-th="Q(0.05, n)">0.829</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">5</td>
+            <td class="mt-align-center lt-chem-221819" data-th="Q(0.05, n)">0.710</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">6</td>
+            <td class="mt-align-center lt-chem-221819" data-th="Q(0.05, n)">0.625</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">7</td>
+            <td class="mt-align-center lt-chem-221819" data-th="Q(0.05, n)">0.568</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">8</td>
+            <td class="mt-align-center lt-chem-221819" data-th="Q(0.05, n)">0.526</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">9</td>
+            <td class="mt-align-center lt-chem-221819" data-th="Q(0.05, n)">0.493</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">10</td>
+            <td class="mt-align-center lt-chem-221819" data-th="Q(0.05, n)">0.466</td>
+        </tr>
+    </thead>
+</table>
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section" id="section_9"><span id="Grubb's_Test"></span><h3 class="lt-chem-221819 editable">Grubb's Test</h3>
+
+<p class="lt-chem-221819">Although Dixon&rsquo;s <em>Q</em>-test is a common method for evaluating outliers, it is no longer favored by the International Standards Organization (ISO), which recommends the Grubb&rsquo;s<em><strong> </strong></em>test. There are several versions of Grubb&rsquo;s test depending on the number of potential outliers. Here we will consider the case where there is a single suspected outlier.</p>
+
+<div class="box-note"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Note_8"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Note</span></h5>
+
+<p class="lt-chem-221819">For details on this recommendation, see International Standards ISO Guide 5752-2 &ldquo;Accuracy (trueness and precision) of measurement methods and results&ndash;Part 2: basic methods for the determination of repeatability and reproducibility of a standard measurement method,&rdquo; 1994.</p>
+</div></div>
+
+<p class="lt-chem-221819">The test statistic for Grubb&rsquo;s test, <em>G</em><sub>exp</sub>, is the distance between the sample&rsquo;s mean, \(\overline{X}\), and the potential outlier, \(X_\text{out}\), in terms of the sample&rsquo;s standard deviation, <em>s</em>.</p>
+
+<p class="lt-chem-221819">\[G_\text{exp} = \frac {|X_\text{out} - \overline{X}|} {s} \nonumber\]</p>
+
+<p class="lt-chem-221819">We compare the value of <em>G</em><sub>exp</sub> to a critical value \(G(\alpha, n)\), where \(\alpha\) is the probability that we will reject a valid data point and <em>n </em>is the number of data points in the sample. If <em>G</em><sub>exp</sub> is greater than \(G(\alpha, n)\), then we may reject the data point as an outlier, otherwise we retain the data point as part of the sample. Table \(\PageIndex{3}\) provides values for <em>G</em>(0.05, <em>n</em>) for a sample containing 3&ndash;10 values. A more extensive table is in Appendix 5. Values for \(G(\alpha, n)\) assume an underlying normal distribution.</p>
+
+<table class="mt-responsive-table" align="center"><caption>Table \(\PageIndex{3}\): Grubb's Test</caption>
+    <thead>
+        <tr>
+            <th class="mt-align-center" scope="col"><em>n</em></th>
+            <th class="mt-align-center" scope="col"><em>G</em>(0.05, <em>n</em>)</th>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">3</td>
+            <td class="mt-align-center lt-chem-221819" data-th="G(0.05, n)">1.115</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">4</td>
+            <td class="mt-align-center lt-chem-221819" data-th="G(0.05, n)">1.481</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">5</td>
+            <td class="mt-align-center lt-chem-221819" data-th="G(0.05, n)">1.715</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">6</td>
+            <td class="mt-align-center lt-chem-221819" data-th="G(0.05, n)">1.887</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">7</td>
+            <td class="mt-align-center lt-chem-221819" data-th="G(0.05, n)">2.020</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">8</td>
+            <td class="mt-align-center lt-chem-221819" data-th="G(0.05, n)">2.126</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">9</td>
+            <td class="mt-align-center lt-chem-221819" data-th="G(0.05, n)">2.215</td>
+        </tr>
+        <tr>
+            <td class="mt-align-center lt-chem-221819" data-th="n">10</td>
+            <td class="mt-align-center lt-chem-221819" data-th="G(0.05, n)">2.290</td>
+        </tr>
+    </thead>
+</table>
+
+
+
+</div><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section" id="section_10"><span id="Chauvenet's_Criterion"></span><h3 class="lt-chem-221819 editable">Chauvenet's Criterion</h3>
+
+<p class="lt-chem-221819">Our final method for identifying an outlier is Chauvenet&rsquo;s criterion. Unlike Dixon&rsquo;s <em>Q</em>-Test and Grubb&rsquo;s test, you can apply this method to any distribution as long as you know how to calculate the probability for a particular outcome. Chauvenet&rsquo;s criterion states that we can reject a data point if the probability of obtaining the data point&rsquo;s value is less than \((2n^{-1})\), where <em>n </em>is the size of the sample. For example, if <em>n </em>= 10, a result with a probability of less than \((2 \times 10)^{-1}\), or 0.05, is considered an outlier.</p>
+
+<p class="lt-chem-221819">To calculate a potential outlier&rsquo;s probability we first calculate its standardized deviation, <em>z </em></p>
+
+<p class="lt-chem-221819">\[z = \frac {|X_\text{out} - \overline{X}|} {s} \nonumber\]</p>
+
+<p class="lt-chem-221819">where \(X_\text{out}\) is the potential outlier, \(\overline{X}\) is the sample&rsquo;s mean and <em>s </em>is the sample&rsquo;s standard deviation. Note that this equation is identical to the equation for <em>G</em><sub>exp</sub> in the Grubb&rsquo;s test. For a normal distribution, we can find the probability of obtaining a value of <em>z </em>using the probability table in Appendix 1.</p>
+
+
+
+<div class="box-example"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B7.7D.5C)"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Example \(\PageIndex{7}\)</span></h5>
+
+<p class="lt-chem-221819">Table \(\PageIndex{1}\) contains the masses for nine circulating United States pennies. One entry, 2.514 g, appears to be an outlier. Determine if this penny is an outlier using a <em>Q</em>-test, Grubb&rsquo;s test, and Chauvenet&rsquo;s criterion. For the <em>Q</em>-test and Grubb&rsquo;s test, let \(\alpha = 0.05\).</p>
+
+<p class="lt-chem-221819"><strong>Solution</strong></p>
+
+<p class="lt-chem-221819">For the <em>Q</em>-test the value for \(Q_\text{exp}\) is</p>
+
+<p class="lt-chem-221819">\[Q_\text{exp} = \frac {|2.514 - 3.039|} {3.109 - 2.514} = 0.882 \nonumber\]</p>
+
+<p class="lt-chem-221819">From Table \(\PageIndex{2}\), the critical value for <em>Q</em>(0.05, 9) is 0.493. Because <em>Q</em><sub>exp</sub> is greater than <em>Q</em>(0.05, 9), we can assume the penny with a mass of 2.514 g likely is an outlier.</p>
+
+<p class="lt-chem-221819">For Grubb&rsquo;s test we first need the mean and the standard deviation, which are 3.011 g and 0.188 g, respectively. The value for <em>G</em><sub>exp</sub> is</p>
+
+<p class="lt-chem-221819">\[G_\text{exp} = \frac {|2.514 - 3.011|} {0.188} = 2.64 \nonumber\]</p>
+
+<p class="lt-chem-221819">Using Table \(\PageIndex{3}\), we find that the critical value for <em>G</em>(0.05, 9) is 2.215. Because <em>G</em><sub>exp</sub> is greater than <em>G</em>(0.05, 9), we can assume that the penny with a mass of 2.514 g likely is an outlier.</p>
+
+<p class="lt-chem-221819">For Chauvenet&rsquo;s criterion, the critical probability is \((2 \times 9)^{-1}\), or 0.0556. The value of <em>z </em>is the same as <em>G</em><sub>exp</sub>, or 2.64. Using Appendix 1, the probability for <em>z </em>= 2.64 is 0.00415. Because the probability of obtaining a mass of 0.2514 g is less than the critical probability, we can assume the penny with a mass of 2.514 g likely is an outlier.</p>
+</div></div>
+
+<p class="lt-chem-221819">You should exercise caution when using a significance test for outliers because there is a chance you will reject a valid result. In addition, you should avoid rejecting an outlier if it leads to a precision that is much better than expected based on a propagation of uncertainty. Given these concerns it is not surprising that some statisticians caution against the removal of outliers [Deming, W. E. <em>Statistical Analysis of Data</em>; Wiley: New York, 1943 (republished by Dover: New York, 1961); p. 171].</p>
+
+<div class="box-note"><div mt-section-origin="Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07:_Testing_the_Significance_of_Data/7.02:_Significance_Tests_for_Normal_Distributions" class="mt-section"><span id="Note_9"></span><h5 class="box-legend lt-chem-221819 editable"><span class="lt-icon-default">Note</span></h5>
+
+<p class="lt-chem-221819">You also can adopt a more stringent requirement for rejecting data. When using the Grubb&rsquo;s test, for example, the ISO 5752 guidelines suggest retaining a value if the probability for rejecting it is greater than \(\alpha = 0.05\), and flagging a value as a &ldquo;straggler&rdquo; if the probability for rejecting it is between \(\alpha = 0.05\) and \(\alpha = 0.01\). A &ldquo;straggler&rdquo; is retained unless there is compelling reason for its rejection. The guidelines recommend using \(\alpha = 0.01\) as the minimum criterion for rejecting a possible outlier.</p>
+</div></div>
+
+<p class="lt-chem-221819">On the other hand, testing for outliers can provide useful information if we try to understand the source of the suspected outlier. For example, the outlier in Table \(\PageIndex{1}\) represents a significant change in the mass of a penny (an approximately 17% decrease in mass), which is the result of a change in the composition of the U.S. penny. In 1982 the composition of a U.S. penny changed from a brass alloy that was 95% w/w Cu and 5% w/w Zn (with a nominal mass of 3.1 g), to a pure zinc core covered with copper (with a nominal mass of 2.5 g) [Richardson, T. H. <em>J. Chem. Educ. </em><strong>1991</strong>, <em>68</em>, 310&ndash;311]. The pennies in Table \(\PageIndex{1}\), therefore, were drawn from different populations.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div>
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "7.2: Significance Tests for Normal Distributions";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p>This page titled <a target="_blank" class="internal mt-self-link" href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07%3A_Testing_the_Significance_of_Data/7.02%3A_Significance_Tests_for_Normal_Distributions" rel="internal">7.2: Significance Tests for Normal Distributions</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank">CC BY-NC-SA  4.0</a>  license and was authored, remixed, and/or curated by <a rel="nofollow" target="_blank" href="http://dpuadweb.depauw.edu/harvey_web/Index.html">David Harvey</a>. </p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07%3A_Testing_the_Significance_of_Data/7.01%3A_Significance_Testing" title="7.1: Significance Testing"><span>7.1: Significance Testing</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/07%3A_Testing_the_Significance_of_Data/7.03%3A_Analysis_of_Variance" title="7.3: Analysis of Variance"><span>7.3: Analysis of Variance</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="19" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-authorname-david harvey" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Author</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=authorname%3Aharveyd" data-ga-label="Classification">David Harvey</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by-nc-sa" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accbyncsa" data-ga-label="Classification">CC BY-NC-SA</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-4.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A40" data-ga-label="Classification">4.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-field:achem" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=field%3Aachem" data-ga-label="Free tag"> field:achem</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="2c73871b95145e91b015d979548dbdf2f0bd20e1057ba4e620b5d59bebc459a0" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
