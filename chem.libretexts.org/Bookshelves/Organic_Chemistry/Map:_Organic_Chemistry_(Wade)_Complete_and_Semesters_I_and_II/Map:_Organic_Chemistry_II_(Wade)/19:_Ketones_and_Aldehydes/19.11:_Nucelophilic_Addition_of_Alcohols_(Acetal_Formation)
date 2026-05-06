@@ -1,0 +1,3380 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="19.11: Nucelophilic Addition of Alcohols (Acetal Formation)"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/19%3A_Ketones_and_Aldehydes/19.11%3A_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content="Alcohols add reversibly to aldehydes and ketones to form hemiacetals. This reaction can continue by adding another alcohol to form an acetal. Hemiacetals and acetals are important functional groups &hellip;"/>
+        <meta property="article:published_time" content="2022-12-28T18:38:40Z"/>
+        <meta property="article:modified_time" content="2022-12-28T18:50:37Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="19.11: Nucelophilic Addition of Alcohols (Acetal Formation)"/>
+        <meta name="twitter:description" content="Alcohols add reversibly to aldehydes and ketones to form hemiacetals. This reaction can continue by adding another alcohol to form an acetal. Hemiacetals and acetals are important functional groups &hellip;"/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content="Alcohols add reversibly to aldehydes and ketones to form hemiacetals. This reaction can continue by adding another alcohol to form an acetal. Hemiacetals and acetals are important functional groups &hellip;"/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/19%3A_Ketones_and_Aldehydes/19.11%3A_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3">{"@context":"http:\/\/schema.org","@type":"Article","name":"19.11: Nucelophilic Addition of Alcohols (Acetal Formation)","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/19%3A_Ketones_and_Aldehydes\/19.11%3A_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2022-12-28T18:38:40Z","dateModified":"2022-12-28T18:50:37Z","description":"Alcohols add reversibly to aldehydes and ketones to form hemiacetals. This reaction can continue by adding another alcohol to form an acetal. Hemiacetals and acetals are important functional groups because they appear in sugars.","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/424372\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/19%3A_Ketones_and_Aldehydes\/19.11%3A_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)"},"headline":"19.11: Nucelophilic Addition of Alcohols (Acetal Formation)","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"19.11: Nucelophilic Addition of Alcohols (Acetal Formation)","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/19%3A_Ketones_and_Aldehydes\/19.11%3A_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/19%3A_Ketones_and_Aldehydes"]}</script>
+        <script type="application/ld+json" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry","name":"Organic Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II","name":"Map: Organic Chemistry (Wade), Complete and Semesters I and II"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)","name":"Map: Organic Chemistry II (Wade)"}},{"@type":"ListItem","position":5,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/19%3A_Ketones_and_Aldehydes","name":"19: Ketones and Aldehydes"}}]}</script>
+
+        <title>19.11: Nucelophilic Addition of Alcohols (Acetal Formation) - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint{
+    visibility: visible !important;
+    display: block !important;
+}
+.showprint{
+    visibility: hidden !important;
+    display: none !important;
+}
+
+@media print {
+
+    
+
+    
+    
+    
+    
+    table.mt-responsive-table {
+        table-layout: auto;
+    }
+
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+        visibility: hidden !important;
+        display: none !important;
+	}
+
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+
+	main.elm-skin-container {
+		display: inline;
+	}
+
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+
+    .twocolumn {
+	    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    	-moz-column-count: 2; /* Firefox */
+    	column-count: 2;
+    }
+
+    .threecolumn {
+    	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    	-moz-column-count: 3; /* Firefox */
+    	column-count: 3;
+    }
+
+	.hideprint {
+		visibility: hidden !important;;
+		display: none !important;;
+	}
+
+	.showprint {
+		visibility: visible !important;;
+		display: block !important;;
+	}
+
+	.printOnly {
+		display: block;
+	}
+
+	.printHide {
+		display: none;
+	}
+
+	img {
+		zoom: 0.65;
+		page-break-inside: avoid;
+	}
+
+	.mt-author-container img {
+		zoom: 1;
+	}
+
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+
+	blockquote {
+		padding: 1px !important;
+		margin-top: 10px !important;
+		margin-bottom: 10px !important;
+	}
+
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin: 0.3em 0 0.3em 0 !important;
+	}
+
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+		/*page-break-inside: avoid;*/
+	}
+
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+
+	ol.elm-meta-top {
+		display: none;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+        font-size: 90%;
+	}
+
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+
+	body {
+		font-size: 0.75em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+
+	h1, h2, h3, h4, h5 {
+		color: hsl(205, 82%, 42%) !important;
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-transform: uppercase;
+		text-align: left !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+		margin: 0.8em 0 0 0 !important;
+	}
+
+    h1 {
+		font-size: 18px !important;
+   		margin: 0 0 0 0 !important;
+	}
+    
+	h2 {
+		font-size: 14px !important;
+	}
+
+	h3 {
+		font-size: 12px !important;
+        font-weight: 700 !important;
+        /*color: hsl(0, 0%, 0%) !important;*/
+	}
+    
+    h4 {
+		font-size: 10px !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+        /*color: hsl(0, 0%, 0%) !important;*/
+	}
+
+	.mt-new-features-container {
+		display: none;
+	}
+
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+        line-height: 80 % !important;
+		background: none;
+        font-variant: small-caps !important;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+
+	dt {
+		color: initial;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+
+	caption {
+		display: table-caption;
+		text-align: center;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.2em !important;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+
+	table {
+		-webkit-print-color-adjust: exact;
+		page-break-inside: avoid;
+	}
+
+	table caption {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		text-align: center;
+		vertical-align: middle ";
+	}
+
+	ul, ol {
+		text-align: justify !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+    
+
+	ol li {
+		text-align: justify !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+
+	ul li {
+		text-align: justify !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+
+	/* author bar */
+	.mt-author-container {
+		background: @secondary-container-background-color;
+		border: 1px solid @secondary-container-border-color;
+		border-radius: @border-radius-default;
+		clear: both;
+		color: @tertiary-font-color;
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+
+	.mt-author-container .mt-author-image-crop {
+		border: 1px solid @primary-container-border-color;
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+
+	elm-skin-container {
+		display: block !important;
+	}
+
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+    /*
+	canvas, img, object, video {
+		max-width: 100%;
+		max-height: 500px;
+	}
+    */
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":424372,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"19.11: Nucelophilic Addition of Alcohols (Acetal Formation)","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"1","pageSectionEditable":false,"pageTitle":"Bookshelves\/Organic Chemistry\/Map: Organic Chemistry (Wade) Complete and Semesters I and II\/Map: Organic Chemistry II (Wade)\/19: Ketones and Aldehydes\/19.11: Nucelophilic Addition of Alcohols (Acetal Formation)","pageViewId":"c7c657bd-9cab-4d85-9603-e8ba62448eba","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"NmE2NjYwZmMtOTQ5Ni00MzRiLWJjZTQtMzQ5Zjc1ZjU3MDk3fDIwMjYtMDUtMDZUMTA6Mzg6MzU=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778063915_c605e6b38551bd12a00d31bf0929f2be0a125727efdfce2d25887b5b358e8fbb","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-organicchemistry-map%3Aorganicchemistry%28wade%29completeandsemestersiandii-map%3Aorganicchemistryii%28wade%29-19%3Aketonesandaldehydes-19.11%3Anucelophilicadditionofalcohols%28acetalformation%29 columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">19: Ketones and Aldehydes</div><div style="display:none" id="parentParentTitleHolder">Map: Organic Chemistry II (Wade)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;19.01:_Carbonyl_Compound_Structure_and_Properties&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.02:_Spectroscopy_of_Ketones_and_Aldehydes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.03:_Review_of_Ketone_and_Aldehyde_Synthesis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.04:_19.4_New_Synthesis_of_Aldehydes_and_Ketones&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.05:_Nucleophilic_Addition_Reactions_of_Ketones_and_Aldehydes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.06:_Nucleophilic_Addition_of_Water_(Hydration)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.07:_Nucleophilic_Addition_of_Cyanide_and_Acetylide&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.08:__Nucleophilic_Addition_of_Grignards&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.09:_Nucelophilic_Addition_of_Amines_(Imine_and_Enamine_Formation)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.10:_Nucleophilic_Addition_of_Hydrazine_(Wolff-Kishner_Reaction)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.11:_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.12:_Acetals_as_Protecting_Groups&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.13:_Nucelophilic_Addition_of_Phosphorus_Ylides_(The_Wittig_Reaction)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.14:_Oxidation_of_Aldehydes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.15:_Reductions_of_Ketones_and_Aldehydes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.16:_Additional_Exercises&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19.17:__Solutions_to_Additional_Exercises&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Structure_and_Synthesis_of_Alcohols&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_Reactions_of_Alcohols&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Ethers_Epoxides_and_Thioethers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Conjugated_Systems_Orbital_Symmetry_and_Ultraviolet_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;17:_Aromatic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;18:_Reactions_of_Aromatic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19:_Ketones_and_Aldehydes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20:_Amines&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21:_Carboxylic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;22:_Carboxylic_Acid_Derivatives_and_Nitriles&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23:_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;24:_Carbohydrates&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;25:_Amino_Acids_Peptides_and_Proteins&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;26:_Lipids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27:_Nucleic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Wed, 28 Dec 2022 18:38:40 GMT</div><div style="display:none" id="titleHolder">19.11: Nucelophilic Addition of Alcohols (Acetal Formation)</div><div style="display:none" id="IDHolder">424372</div><div style="display:none" id="pageIDHolder">424372</div><div style="display:none" id="pageAuthorHolder">Joshua Halpern</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;transcluded:yes&quot;, &quot;cssprint:dense&quot;, &quot;source[1]-chem-45601&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;transcluded:yes&quot;, &quot;cssprint:dense&quot;, &quot;source[1]-chem-45601&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FMap%253A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II%2FMap%253A_Organic_Chemistry_II_(Wade)%2F19%253A_Ketones_and_Aldehydes%2F19.11%253A_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FMap%3A_Organic_Chemistry_%28Wade%29_Complete_and_Semesters_I_and_II%2FMap%3A_Organic_Chemistry_II_%28Wade%29%2F19%3A_Ketones_and_Aldehydes%2F19.11%3A_Nucelophilic_Addition_of_Alcohols_%28Acetal_Formation%29" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FMap%3A_Organic_Chemistry_%28Wade%29_Complete_and_Semesters_I_and_II%2FMap%3A_Organic_Chemistry_II_%28Wade%29%2F19%3A_Ketones_and_Aldehydes%2F19.11%3A_Nucelophilic_Addition_of_Alcohols_%28Acetal_Formation%29" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Map: Organic Chemistry (Wade), Complete and Semesters I and II
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Map: Organic Chemistry II (Wade)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/19%3A_Ketones_and_Aldehydes" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    19: Ketones and Aldehydes
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            19.11: Nucelophilic Addition of Alcohols (Acetal Formation)
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        19.11: Nucelophilic Addition of Alcohols (Acetal Formation)
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2022-12-28T18:38:40Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/424372/pdf/19.11%253A%2bNucelophilic%2bAddition%2bof%2bAlcohols%2b(Acetal%2bFormation).pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>424372</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Introduction" rel="internal">Introduction</a></li><li><a href="#Formation_of_Hemiacetals" rel="internal">Formation of Hemiacetals</a></li><li><a href="#Formation_of_Acetals" rel="internal">Formation of Acetals</a></li><li><a href="#Mechanism_for_Hemiacetal_and_Acetal_Formation" rel="internal">Mechanism for Hemiacetal and Acetal Formation</a></li><li><a href="#Contributors_and_Attributions" rel="internal">Contributors and Attributions</a></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <div class="mt-contentreuse-widget" data-page="Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_(Wade)/19%3A_Ketones_and_Aldehydes/19.11%3A_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)" data-section="" data-show="false">
+				<div class="mt-include" id="s45601"><div mt-section-origin="Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map:_Organic_Chemistry_(Wade)/19:_Ketones_and_Aldehydes/19.11:_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)" class="mt-section" id="section_1"><span id="Introduction"></span><h2 id="Introduction-45601">Introduction</h2>
+
+<p>It has been demonstrated that water adds rapidly to the carbonyl function of aldehydes and ketones to form geminal-diol. In a similar reaction alcohols add reversibly to aldehydes and ketones to form hemiacetals (h<em>emi</em><em>,</em> Greek, half). This reaction can continue by adding another alcohol to form an acetal. Hemiacetals and acetals are important functional groups because they appear in sugars.</p>
+
+<p class="mt-align-center"><img alt="ch 19 sect 11 example 1.png" style="width: 455px; height: 70px;" width="455px" height="70px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/192592/ch_19_sect_11_example_1.png?revision=1&amp;size=bestfit&amp;width=455&amp;height=70" /></p>
+
+<p class="mt-align-left mt-indent-5">                                                                            <span class="mt-color-3498db"> hemiacetal                         acetal</span></p>
+
+<p>To achieve effective hemiacetal or acetal formation, two additional features must be implemented. First, an acid catalyst must be used because alcohol is a weak nucleophile; and second, the water produced with the acetal must be removed from the reaction by a process such as a molecular sieves or a <strong>Dean-Stark trap</strong>. The latter is important, since acetal formation is reversible. Indeed, once pure hemiacetal or acetals are obtained they may be hydrolyzed back to their starting components by treatment with aqueous acid and an excess of water.</p>
+
+<figure><img alt="ch 19 sect 11 dean stark.png" style="width: 360px; height: 485px;" width="360px" height="485px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/192593/ch_19_sect_11_dean_stark.png?revision=1&amp;size=bestfit&amp;width=360&amp;height=485" /><figcaption>Figure:  Dean-Stark Trap for Isolating Hemiacetals and Ketals</figcaption></figure>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map:_Organic_Chemistry_(Wade)/19:_Ketones_and_Aldehydes/19.11:_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)" class="mt-section" id="section_2"><span id="Formation_of_Hemiacetals"></span><h2 id="Formation_of_Hemiacetals-45601">Formation of Hemiacetals</h2>
+
+<p class="mt-align-center"><img alt="1.jpg" style="width:391px;height:128px;" width="391px" height="128px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/14714/1.jpg?revision=1&amp;size=bestfit&amp;width=391&amp;height=128" /></p>
+
+
+<div class="box-example"><p class="box-legend"><span>Example: Formation of Hemiacetals</span></p>
+
+<p class="mt-align-center"><img alt="2.jpg" style="width:426px;height:98px;" width="426px" height="98px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/14715/2.jpg?revision=1&amp;size=bestfit&amp;width=426&amp;height=98" /></p>
+</div>
+
+
+
+<div class="box-example"><p class="box-legend"><span>Example: Hemiacetal Reversibility</span></p>
+
+<p class="mt-align-center"><img alt="3.jpg" style="width:508px;height:93px;" width="508px" height="93px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/14716/3.jpg?revision=1&amp;size=bestfit&amp;width=508&amp;height=93" /></p>
+</div>
+
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map:_Organic_Chemistry_(Wade)/19:_Ketones_and_Aldehydes/19.11:_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)" class="mt-section" id="section_3"><span id="Formation_of_Acetals"></span><h2 id="Formation_of_Acetals-45601">Formation of Acetals</h2>
+
+<p>Acetals are geminal-diether derivatives of aldehydes or ketones, formed by reaction with two equivalents (or an excess amount) of an alcohol and elimination of water. Ketone derivatives of this kind were once called ketals, but modern usage has dropped that term. It is important to note that a hemiacetal is formed as an intermediate during the formation of an acetal.</p>
+
+<p class="mt-align-center"><img alt="4.jpg" style="width:376px;height:124px;" width="376px" height="124px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/14717/4.jpg?revision=1&amp;size=bestfit&amp;width=376&amp;height=124" /></p>
+
+
+<div class="box-example"><p class="box-legend"><span>Example: Formation of Acetals</span></p>
+
+<p class="mt-align-center"><img alt="5.jpg" style="width:467px;height:87px;" width="467px" height="87px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/14718/5.jpg?revision=1&amp;size=bestfit&amp;width=467&amp;height=87" /></p>
+</div>
+
+
+
+<div class="box-example"><p class="box-legend"><span>Example: Acetal Reversibility</span></p>
+
+<p class="mt-align-center"><img alt="6.jpg" style="width:499px;height:83px;" width="499px" height="83px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/14719/6.jpg?revision=1&amp;size=bestfit&amp;width=499&amp;height=83" /></p>
+</div>
+
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map:_Organic_Chemistry_(Wade)/19:_Ketones_and_Aldehydes/19.11:_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)" class="mt-section" id="section_4"><span id="Mechanism_for_Hemiacetal_and_Acetal_Formation"></span><h2 id="Mechanism_for_Hemiacetal_and_Acetal_Formation-45601">Mechanism for Hemiacetal and Acetal Formation</h2>
+
+<p>The mechanism shown here applies to both acetal and hemiacetal formation</p>
+
+<p>1) Protonation of the carbonyl</p>
+
+<p class="mt-align-center"><img alt="7.jpg" style="width:488px;height:115px;" width="488px" height="115px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/14720/7.jpg?revision=1&amp;size=bestfit&amp;width=488&amp;height=115" /></p>
+
+<p>2) Nucleophilic additional reaction by the alcohol</p>
+
+<p class="mt-align-center"><img alt="8.jpg" style="width:310px;height:172px;" width="310px" height="172px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/14721/8.jpg?revision=1&amp;size=bestfit&amp;width=310&amp;height=172" /></p>
+
+<p>3) Deprotonation to form a hemiacetal</p>
+
+<p class="mt-align-center"><img alt="alt" height="162" src="data:image/png;base64,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" width="433" /></p>
+
+<p>4) Protonation of the alcohol</p>
+
+<p class="mt-align-center"><img alt="10.jpg" style="width:430px;height:224px;" width="430px" height="224px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/14723/10.jpg?revision=1&amp;size=bestfit&amp;width=430&amp;height=224" /></p>
+
+<p>5) Removal of water</p>
+
+<p class="mt-align-center"><img alt="11.jpg" style="width:330px;height:144px;" width="330px" height="144px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/14724/11.jpg?revision=1&amp;size=bestfit&amp;width=330&amp;height=144" /></p>
+
+<p>6) Nucleophilic addition reaction by the alcohol</p>
+
+<p class="mt-align-center"><img alt="12.jpg" style="width:305px;height:187px;" width="305px" height="187px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/14725/12.jpg?revision=1&amp;size=bestfit&amp;width=305&amp;height=187" /></p>
+
+<p>7) Deprotonation by water</p>
+
+<p class="mt-align-center"><img alt="alt" height="182" src="data:image/jpeg;base64,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nV+1T+yZ+3T+0nqfg34C/Cn4rXHx01i9vvC3xf8AEPiW0s5fAUN6twrxTQtG99JGiSojRWyKG8sfPIpwnmXiD/gjR+01e/8ABAXwF8AU+GG/4k+C/i2+tz2KeI9K8m70w/aX+2xzG5Ee0mcL5bMsuVJ2AV+9VFFOTi010t+Dui+Z3v6/imn+ZFYRtDYwowwyoqkehAqWiipJCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACvif/goL/wAE3fHH7V//AAUf/ZR+MHh3VfCdn4Z+Bep6hea9bajc3Ed9dpcG22C1SOF0cjyWz5jxjkYJ5x9sUU4uzUl0FJXTi+p8Wf8ABej/AIJyeOP+Co/7Ch+GHw/1Twro+v8A/CQWWq/aPENzcW9n5UIkDDdBDM+47xgbMdeRX2H4T0qTQfCum2MzI01naRQOUJKllQKcZxxkelaFFJaX8ypO9r9AooooEFFFFABRRRQAUUUUAFfE/wDwUF/4Ju+OP2r/APgo/wDso/GDw7qvhOz8M/AvU9QvNettRubiO+u0uDbbBapHC6OR5LZ8x4xyME84+2KKcXZqS6CkrpxfU+LP+C9H/BOTxx/wVH/YUPww+H+qeFdH1/8A4SCy1X7R4hubi3s/KhEgYboIZn3HeMDZjryK+w/CelSaD4V02xmZGms7SKByhJUsqBTjOOMj0rQopLS/mVJ3tfoFFFFAgooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q==" width="419" /></p>
+
+<div class="box-exercise"><p class="box-legend"><span>Exercise</span></p>
+
+<p><strong>18. </strong>Draw the products for the following reactions.</p>
+
+<p class="mt-align-center"><img alt="ch 19 sect 11 exercise question.png" style="width: 330px; height: 385px;" width="330px" height="385px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/192595/ch_19_sect_11_exercise_question.png?revision=1&amp;size=bestfit&amp;width=330&amp;height=385" /></p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p><strong>18.</strong></p>
+
+    <p class="mt-align-center"><img alt="ch 19 sect 11 exercise solution.png" style="width: 242px; height: 411px;" width="242px" height="411px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/192596/ch_19_sect_11_exercise_solution.png?revision=1&amp;size=bestfit&amp;width=242&amp;height=411" /></p>
+    </dd>
+</dl>
+</div>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map:_Organic_Chemistry_(Wade)/19:_Ketones_and_Aldehydes/19.11:_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)" class="mt-section" id="section_5"><span id="Contributors_and_Attributions"></span><h2 id="Contributors_and_Attributions-45601">Contributors and Attributions</h2>
+
+<ul>
+    <li><p class="contrib"><a title="http://science.athabascau.ca/staff-pages/dietmark" href="http://science.athabascau.ca/staff-pages/dietmark" target="_blank" rel="external noopener nofollow" class="external">Dr. Dietmar Kennepohl</a> FCIC (Professor of Chemistry, <a title="http://www.athabascau.ca/" href="http://www.athabascau.ca/" target="_blank" rel="external noopener nofollow" class="external">Athabasca University</a>)</p>
+</li>
+    <li><p class="contrib">Prof. Steven Farmer (<a title="http://www.sonoma.edu" href="http://www.sonoma.edu" target="_blank" rel="external noopener nofollow" class="external">Sonoma State University</a>)</p>
+</li>
+</ul>
+</div></div>
+				</div>
+				
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "19.11: Nucelophilic Addition of Alcohols (Acetal Formation)";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p><a target="_blank" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/19%3A_Ketones_and_Aldehydes/19.11%3A_Nucelophilic_Addition_of_Alcohols_(Acetal_Formation)" rel="internal" class="internal">19.11: Nucelophilic Addition of Alcohols (Acetal Formation)</a> is shared under a <a rel="nofollow" href="" target="_blank">not declared  </a>  license and was authored, remixed, and/or curated by LibreTexts.</p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/19%3A_Ketones_and_Aldehydes/19.10%3A_Nucleophilic_Addition_of_Hydrazine_(Wolff-Kishner_Reaction)" title="19.10: Nucleophilic Addition of Hydrazine (Wolff-Kishner Reaction)"><span>19.10: Nucleophilic Addition of Hydrazine (Wolff-Kishner Reaction)</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/19%3A_Ketones_and_Aldehydes/19.12%3A_Acetals_as_Protecting_Groups" title="19.12: Acetals as Protecting Groups"><span>19.12: Acetals as Protecting Groups</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="1" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-cssprint-dense" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Print CSS</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=cssprint%3Adense" data-ga-label="Classification">Dense</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-transcluded-yes" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Transcluded</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=transcluded%3Ayes" data-ga-label="Classification">yes</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-source[1]-chem-45601" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=source%5B1%5D-chem-45601" data-ga-label="Free tag"> source[1]-chem-45601</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="b07a617e661ed3dbf98877e17ccf61f8f890b1e08fd368e2eec918ab49169bf3" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
