@@ -248,7 +248,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_C
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/21%3A_The_Chemistry_of_the_Main_Group_Elements
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/23%3A__Carbon%3A__Not_Just_Another_Element
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/24%3A__Biochemistry
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./06.E%3A_Electronic_Structure_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./07.E%3A_Periodic_Trends_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./08.E%3A_Chemical_Bonding_Basics_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./09.E%3A_Bonding_Theories_(Exercises)
@@ -10016,3 +10015,12 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/05%3A_Thermochemistry/5.06%3A_Hess's_Law
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/05%3A_Thermochemistry/5.07%3A_Enthalpies_of_Formation
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/05%3A_Thermochemistry/5.08%3A_Foods_and_Fuels
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.01%3A_The_Wave_Nature_of_Light
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.02%3A_Quantized_Energy_and_Photons
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.03%3A_Line_Spectra_and_the_Bohr_Model
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.04%3A_The_Wave_Behavior_of_Matter
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.05%3A_Quantum_Mechanics_and_Atomic_Orbitals
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.06%3A_3D_Representation_of_Orbitals
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.07%3A_Many-Electron_Atoms
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.08%3A_Electron_Configurations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/06%3A_Electronic_Structure_of_Atoms/6.09%3A_Electron_Configurations_and_the_Periodic_Table
