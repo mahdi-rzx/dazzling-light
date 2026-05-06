@@ -4735,3 +4735,4 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/08%3A_Modeling_Data/8.02%3A_Weighted_Linear_Regression_with_Errors_in_y
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/08%3A_Modeling_Data/8.03%3A_Weighted_Linear_Regression_With_Errors_in_Both_x_and_y
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/08%3A_Modeling_Data/8.04%3A_Curvilinear_and_Multivariate_Regression
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Chemometrics_Using_R_(Harvey)/08%3A_Modeling_Data/8.05%3A_Using_R_for_a_Linear_Regression_Analysis
