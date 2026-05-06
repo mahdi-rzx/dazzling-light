@@ -114,7 +114,6 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Non-Isothermal_Kine
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/01%3A_Structure_and_Bonding/1.11%3A_Describing_Chemical_Bonds_-_Molecular_Orbital_Theory
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/zz%3A_Back_Matter/21%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_(Soderberg)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/10%3A_Alkynes
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/11%3A_Infrared_Spectroscopy_and_Mass_Spectrometry
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/12%3A_Nuclear_Magnetic_Resonance_Spectroscopy
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/zz%3A_Back_Matter
@@ -4245,3 +4244,15 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemist
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/09%3A_Reactions_of_Alkenes/9.18%3A_Biological_Additions_of_Radicals_to__Alkenes
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/09%3A_Reactions_of_Alkenes/9.19%3A__Additional_Exercises
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/09%3A_Reactions_of_Alkenes/9.20%3A__Solutions_to_Additional_Exercises
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/10%3A_Alkynes/10.01%3A_Structure_and_Physical_Properties
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/10%3A_Alkynes/10.02%3A_10.2_Synthesis_of_Alkynes_-_Elimination_Reactions_of_Dihalides
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/10%3A_Alkynes/10.03%3A_Reactions_of_Alkynes_-_Addition_of_HX_and_X
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/10%3A_Alkynes/10.04%3A_Hydration_of_Alkynes_for_Markovnikov_Products
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/10%3A_Alkynes/10.05%3A__Hydration_of_Alkynes_for_Anti-Markovnikov_Products
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/10%3A_Alkynes/10.06%3A_10.6_Reduction_of_Alkynes
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/10%3A_Alkynes/10.07%3A_Oxidation_of_Alkynes
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/10%3A_Alkynes/10.08%3A_Acidity_of_Terminal_Alkynes_and_Acetylide_Ions
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/10%3A_Alkynes/10.09%3A_Synthesis_of_Larger_Alkynes_from_Acetylides
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/10%3A_Alkynes/10.10%3A_An_Introduction_to_Multiple_Step_Synthesis
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/10%3A_Alkynes/10.11%3A__Additional_Exercises
+https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_I_(Wade)/10%3A_Alkynes/10.12%3A__Solutions_to_Additional_Exercises
