@@ -1,0 +1,3398 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="23.11: Decarboxylation Reactions"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds/23.11%3A_Decarboxylation_Reactions"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content="The malonic ester synthesis and acetoacetic ester synthesis are decarboxylation reactions that use the reactivity of the alpha carbon to increase the carbon skeleton while converting an alkyl halide &hellip;"/>
+        <meta property="article:published_time" content="2022-12-28T18:39:17Z"/>
+        <meta property="article:modified_time" content="2022-12-28T18:50:37Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="23.11: Decarboxylation Reactions"/>
+        <meta name="twitter:description" content="The malonic ester synthesis and acetoacetic ester synthesis are decarboxylation reactions that use the reactivity of the alpha carbon to increase the carbon skeleton while converting an alkyl halide &hellip;"/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content="The malonic ester synthesis and acetoacetic ester synthesis are decarboxylation reactions that use the reactivity of the alpha carbon to increase the carbon skeleton while converting an alkyl halide &hellip;"/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds/23.11%3A_Decarboxylation_Reactions"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4">{"@context":"http:\/\/schema.org","@type":"Article","name":"23.11: Decarboxylation Reactions","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds\/23.11%3A_Decarboxylation_Reactions","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2022-12-28T18:39:17Z","dateModified":"2022-12-28T18:50:37Z","description":"The malonic ester synthesis and acetoacetic ester synthesis are decarboxylation reactions that use the reactivity of the alpha carbon to increase the carbon skeleton while converting an alkyl halide into a carboxylic acid or methyl ketone, respectively.","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/424431\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds\/23.11%3A_Decarboxylation_Reactions"},"headline":"23.11: Decarboxylation Reactions","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"23.11: Decarboxylation Reactions","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds\/23.11%3A_Decarboxylation_Reactions","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds"]}</script>
+        <script type="application/ld+json" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry","name":"Organic Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II","name":"Map: Organic Chemistry (Wade), Complete and Semesters I and II"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)","name":"Map: Organic Chemistry II (Wade)"}},{"@type":"ListItem","position":5,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II\/Map%3A_Organic_Chemistry_II_(Wade)\/23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds","name":"23: Alpha Substitutions and Condensations of Carbonyl Compounds"}}]}</script>
+
+        <title>23.11: Decarboxylation Reactions - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint{
+    visibility: visible !important;
+    display: block !important;
+}
+.showprint{
+    visibility: hidden !important;
+    display: none !important;
+}
+
+@media print {
+
+    
+
+    
+    
+    
+    
+    table.mt-responsive-table {
+        table-layout: auto;
+    }
+
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+        visibility: hidden !important;
+        display: none !important;
+	}
+
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+
+	main.elm-skin-container {
+		display: inline;
+	}
+
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+
+    .twocolumn {
+	    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    	-moz-column-count: 2; /* Firefox */
+    	column-count: 2;
+    }
+
+    .threecolumn {
+    	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    	-moz-column-count: 3; /* Firefox */
+    	column-count: 3;
+    }
+
+	.hideprint {
+		visibility: hidden !important;;
+		display: none !important;;
+	}
+
+	.showprint {
+		visibility: visible !important;;
+		display: block !important;;
+	}
+
+	.printOnly {
+		display: block;
+	}
+
+	.printHide {
+		display: none;
+	}
+
+	img {
+		zoom: 0.65;
+		page-break-inside: avoid;
+	}
+
+	.mt-author-container img {
+		zoom: 1;
+	}
+
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+
+	blockquote {
+		padding: 1px !important;
+		margin-top: 10px !important;
+		margin-bottom: 10px !important;
+	}
+
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin: 0.3em 0 0.3em 0 !important;
+	}
+
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+		/*page-break-inside: avoid;*/
+	}
+
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+
+	ol.elm-meta-top {
+		display: none;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+        font-size: 90%;
+	}
+
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+
+	body {
+		font-size: 0.75em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+
+	h1, h2, h3, h4, h5 {
+		color: hsl(205, 82%, 42%) !important;
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-transform: uppercase;
+		text-align: left !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+		margin: 0.8em 0 0 0 !important;
+	}
+
+    h1 {
+		font-size: 18px !important;
+   		margin: 0 0 0 0 !important;
+	}
+    
+	h2 {
+		font-size: 14px !important;
+	}
+
+	h3 {
+		font-size: 12px !important;
+        font-weight: 700 !important;
+        /*color: hsl(0, 0%, 0%) !important;*/
+	}
+    
+    h4 {
+		font-size: 10px !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+        /*color: hsl(0, 0%, 0%) !important;*/
+	}
+
+	.mt-new-features-container {
+		display: none;
+	}
+
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+        line-height: 80 % !important;
+		background: none;
+        font-variant: small-caps !important;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+
+	dt {
+		color: initial;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+
+	caption {
+		display: table-caption;
+		text-align: center;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.2em !important;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+
+	table {
+		-webkit-print-color-adjust: exact;
+		page-break-inside: avoid;
+	}
+
+	table caption {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		text-align: center;
+		vertical-align: middle ";
+	}
+
+	ul, ol {
+		text-align: justify !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+    
+
+	ol li {
+		text-align: justify !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+
+	ul li {
+		text-align: justify !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+
+	/* author bar */
+	.mt-author-container {
+		background: @secondary-container-background-color;
+		border: 1px solid @secondary-container-border-color;
+		border-radius: @border-radius-default;
+		clear: both;
+		color: @tertiary-font-color;
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+
+	.mt-author-container .mt-author-image-crop {
+		border: 1px solid @primary-container-border-color;
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+
+	elm-skin-container {
+		display: block !important;
+	}
+
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+    /*
+	canvas, img, object, video {
+		max-width: 100%;
+		max-height: 500px;
+	}
+    */
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":424431,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"23.11: Decarboxylation Reactions","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"1","pageSectionEditable":false,"pageTitle":"Bookshelves\/Organic Chemistry\/Map: Organic Chemistry (Wade) Complete and Semesters I and II\/Map: Organic Chemistry II (Wade)\/23: Alpha Substitutions and Condensations of Carbonyl Compounds\/23.11: Decarboxylation Reactions","pageViewId":"60ac2545-2cfb-4252-aec1-02ed61d843ae","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"NmUwYjUwYmMtNDIyNy00MzBiLWJlZTQtMjU3YjdiODkxOTY2fDIwMjYtMDUtMDZUMTA6NDA6MzE=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778064032_5863d7b9534b28f5585d11d1d0c74d473f6239358340250effbf5c473ba7506d","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-organicchemistry-map%3Aorganicchemistry%28wade%29completeandsemestersiandii-map%3Aorganicchemistryii%28wade%29-23%3Aalphasubstitutionsandcondensationsofcarbonylcompounds-23.11%3Adecarboxylationreactions columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">23: Alpha Substitutions and Condensations of Carbonyl Compounds</div><div style="display:none" id="parentParentTitleHolder">Map: Organic Chemistry II (Wade)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;23.01:__Relative_Acidity_of_alpha-Hydrogens&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23.02:_Enols_Enolate_Ions_and_Tautomerization&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23.03:_Reaction_Overview&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23.04:_Alpha_Halogenation_of_Carbonyls&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23.05:_Bromination_of_Acids-_The_HVZ_Reaction&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23.06:_Alkylation_of_the_alpha-Carbon_via_the_LDA_pathway&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23.07:__Alkylation_of_the_Alpha-Carbon_via_the_Enamine_Pathway&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23.08:_The_Aldol_Reaction_and_Condensation_of_Ketones_and_Aldehydes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23.09:_The_Claisen_Condensation_Reactions_of_Esters&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23.10:_Conjugate_Additions-_The_Michael_Reaction&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23.11:_Decarboxylation_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23.12:_Additional_Exercises&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23.13:_Solutions_to_Additional_Exercises&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Structure_and_Synthesis_of_Alcohols&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_Reactions_of_Alcohols&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Ethers_Epoxides_and_Thioethers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Conjugated_Systems_Orbital_Symmetry_and_Ultraviolet_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;17:_Aromatic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;18:_Reactions_of_Aromatic_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19:_Ketones_and_Aldehydes&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20:_Amines&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21:_Carboxylic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;22:_Carboxylic_Acid_Derivatives_and_Nitriles&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23:_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;24:_Carbohydrates&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;25:_Amino_Acids_Peptides_and_Proteins&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;26:_Lipids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27:_Nucleic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Wed, 28 Dec 2022 18:39:17 GMT</div><div style="display:none" id="titleHolder">23.11: Decarboxylation Reactions</div><div style="display:none" id="IDHolder">424431</div><div style="display:none" id="pageIDHolder">424431</div><div style="display:none" id="pageAuthorHolder">Joshua Halpern</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;transcluded:yes&quot;, &quot;cssprint:dense&quot;, &quot;source[1]-chem-45972&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;transcluded:yes&quot;, &quot;cssprint:dense&quot;, &quot;source[1]-chem-45972&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FMap%253A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II%2FMap%253A_Organic_Chemistry_II_(Wade)%2F23%253A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds%2F23.11%253A_Decarboxylation_Reactions</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FMap%3A_Organic_Chemistry_%28Wade%29_Complete_and_Semesters_I_and_II%2FMap%3A_Organic_Chemistry_II_%28Wade%29%2F23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds%2F23.11%3A_Decarboxylation_Reactions" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FMap%3A_Organic_Chemistry_%28Wade%29_Complete_and_Semesters_I_and_II%2FMap%3A_Organic_Chemistry_II_%28Wade%29%2F23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds%2F23.11%3A_Decarboxylation_Reactions" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Map: Organic Chemistry (Wade), Complete and Semesters I and II
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Map: Organic Chemistry II (Wade)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    23: Alpha Substitutions and Condensations of Carbonyl Compounds
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            23.11: Decarboxylation Reactions
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        23.11: Decarboxylation Reactions
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2022-12-28T18:39:17Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/424431/pdf/23.11%253A%2bDecarboxylation%2bReactions.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>424431</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Malonic_Ester_Synthesis" rel="internal">Malonic Ester Synthesis</a></li><li><a href="#Mechanism" rel="internal">Mechanism</a></li><li><a href="#The_Acetoacetic_Ester_Synthesis" rel="internal">The Acetoacetic Ester Synthesis</a></li><li><a href="#Steps" rel="internal">Steps</a></li><li><a href="#Addition_of_a_second_alky_group" rel="internal">Addition of a second alky group</a></li><li><a href="#Contributors_and_Attributions" rel="internal">Contributors and Attributions</a></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <div class="mt-contentreuse-widget" data-page="Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_(Wade)/23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds/23.11%3A_Decarboxylation_Reactions" data-section="" data-show="false">
+				<div class="mt-include" id="s45972"><p>Enolates can act as a nucleophile in S<sub>N</sub>2 type reactions. Overall an &alpha; hydrogen is replaced with an alkyl group. This reaction is one of the more important for enolates because a carbon-carbon bond is formed. These alkylations are affected by the same limitations as S<sub>N</sub>2 reactions previously discussed. A good leaving group, X= chloride, bromide, iodide, tosylate, should be used. Also, secondary and tertiary leaving groups should not be used because of poor reactivity and possible competition with elimination reactions. Lastly, it is important to use a strong base, such as LDA or sodium amide, for this reaction. Using a weaker base such as hydroxide or an alkoxide leaves the possibility of multiple alkylation&rsquo;s occurring.</p>
+
+<p class="mt-align-center"><img alt="alt" height="120" src="data:image/png;base64,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" width="716" /></p>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map:_Organic_Chemistry_(Wade)/23:_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds/23.11:_Decarboxylation_Reactions" class="mt-section" id="section_1"><span id="Malonic_Ester_Synthesis"></span><h2 id="Malonic_Ester_Synthesis-45972">Malonic Ester Synthesis</h2>
+
+<p>Malonic ester is a reagent specifically used in a reaction which converts alkyl halides to carboxylic acids called the Malonic Ester Synthesis. Malonic ester synthesis is a synthetic procedure used to convert a compound that has the general structural formula 1 into a carboxylic acid that has the general structural formula 2.</p>
+
+<p class="mt-align-center"><img alt="1.jpg" height="160" width="379" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/12671/1.jpg?revision=1" /></p>
+
+<p>Due to the fact that Malonic ester&rsquo;s &alpha; hydrogens are adjacent to two carbonyls, they can be deprotonated by sodium ethoxide (NaOEt) to form Sodio Malonic Ester.</p>
+
+<p class="mt-align-center"><img alt="2.jpg" height="210" width="384" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/12672/2.jpg?revision=1" /></p>
+
+<p>Because Sodio Malonic Ester is an enolate, it can then be alkylated with alkyl halides.</p>
+
+<p class="mt-align-center"><img alt="3b.jpg" height="152" width="523" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/12674/3b.jpg?revision=1" /></p>
+
+<p>After alkylation the product can be converted to a dicarboxylic acid through saponification and subsequently one of the carboxylic acids can be removed through a decarboxylation step.</p>
+
+<p class="mt-align-center"><img alt="4.jpg" height="91" width="442" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/12666/4.jpg?revision=1" /></p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map:_Organic_Chemistry_(Wade)/23:_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds/23.11:_Decarboxylation_Reactions" class="mt-section" id="section_2"><span id="Mechanism"></span><h2 id="Mechanism-45972">Mechanism</h2>
+
+<p>1) Saponification</p>
+
+<p class="mt-align-center"><img alt="5.jpg" height="83" width="442" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/12667/5.jpg?revision=1" /></p>
+
+<p>2) Decarboxylation</p>
+
+<p class="mt-align-center"><img alt="6.jpg" height="115" width="494" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/12668/6.jpg?revision=1" /></p>
+
+<p>3) Tautomerization</p>
+
+<p class="mt-align-center"><img alt="7.jpg" height="106" width="376" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/12669/7.jpg?revision=1" /></p>
+
+<p>All of the steps together form the Malonic ester synthesis.</p>
+
+<p class="mt-align-center">\[RX \rightarrow RCH&shy;_2CO_2H\]</p>
+
+<p>Example</p>
+
+<p class="mt-align-center"><img alt="8.jpg" height="120" width="460" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/12670/8.jpg?revision=1" /></p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map:_Organic_Chemistry_(Wade)/23:_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds/23.11:_Decarboxylation_Reactions" class="mt-section" id="section_3"><span id="The_Acetoacetic_Ester_Synthesis"></span><h2 id="The_Acetoacetic_Ester_Synthesis-45972">The Acetoacetic Ester Synthesis</h2>
+
+<p>The acetoacetic ester synthesis allows for the conversion of ethyl acetoacetate into a methyl ketone with one or two alkyl groups on the alpha carbon.</p>
+
+<p class="mt-align-center"><img alt="alt" src="data:image/png;base64,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" /></p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map:_Organic_Chemistry_(Wade)/23:_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds/23.11:_Decarboxylation_Reactions" class="mt-section" id="section_4"><span id="Steps"></span><h2 id="Steps-45972">Steps</h2>
+
+<p>1) Deprotonation with ethoxide</p>
+
+<p class="mt-align-center"><img alt="alt" src="data:image/png;base64,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" /></p>
+
+<p>2) Alkylation via and SN2 Reaction</p>
+
+<p class="mt-align-center"><img alt="alt" src="data:image/png;base64,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" /></p>
+
+<p>3) Hydrolysis and decarboxylation</p>
+
+<p class="mt-align-center"><img alt="alt" src="data:image/png;base64,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" /></p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map:_Organic_Chemistry_(Wade)/23:_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds/23.11:_Decarboxylation_Reactions" class="mt-section" id="section_5"><span id="Addition_of_a_second_alky_group"></span><h2 id="Addition_of_a_second_alky_group-45972">Addition of a second alky group</h2>
+
+<p>After the first step and additional alkyl group can be added prior to the decarboxylation step. Overall this allows for the addition of two different alkyl groups.</p>
+
+<p class="mt-align-center"><img alt="alt" src="data:image/png;base64,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" /></p>
+
+<div class="box-exercise"><p class="box-legend"><span>Exercise</span></p>
+
+<p><strong>18. </strong> Propose a synthesis for each of the following molecules from this malonic ester.</p>
+
+<p class="mt-align-center"><img style="width: 229px; height: 76px;" width="229px" height="76px" class="mt-disabled" rel="broken" /></p>
+
+
+
+<p>(a)<img style="width: 210px; height: 102px;" width="210px" height="102px" class="mt-disabled" rel="broken" /></p>
+
+<p>(b) <img style="width: 202px; height: 91px;" width="202px" height="91px" class="mt-disabled" rel="broken" /></p>
+
+<p>(c)<img style="width: 204px; height: 109px;" width="204px" height="109px" class="mt-disabled" rel="broken" /></p>
+
+<p><strong>19.  </strong>Why can't we prepare tri substituted acetic acids from a malonic ester?</p>
+
+<p><strong>20.  </strong>Propose a synthesis for the following molecule via a malonic ester.</p>
+
+<p class="mt-align-center"><img style="width: 148px; height: 167px;" width="148px" height="167px" class="mt-disabled" rel="broken" /></p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p><strong>18.</strong></p>
+
+    <p>(a) 1) Malonic Ester, NaOEt, 2) 4-Methylbenzyl Bromide, 3) Base, 4) Acid, Heat</p>
+
+    <p>(b) 1) Malonic Ester, NaOEt, 2) 3-bromohexane, 3) Base, 4) Acid, Eat</p>
+
+    <p>(c) 1) Malonic Ester, NaOEt, 2) 1-Bromo-2,3,3-trimethylbutane, 3) Base, 4) Acid, Heat</p>
+
+    <p><strong>19.  </strong>Malonic esters only contain two acid protons.</p>
+
+    <p><strong>20.</strong></p>
+
+    <p class="mt-align-center"><img style="width: 928px; height: 161px;" width="928px" height="161px" class="mt-disabled" rel="broken" /></p>
+    </dd>
+</dl>
+</div>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Map:_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map:_Organic_Chemistry_(Wade)/23:_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds/23.11:_Decarboxylation_Reactions" class="mt-section" id="section_6"><span id="Contributors_and_Attributions"></span><h2 id="Contributors_and_Attributions-45972">Contributors and Attributions</h2>
+
+<ul>
+    <li><p class="contrib"><a title="http://science.athabascau.ca/staff-pages/dietmark" href="http://science.athabascau.ca/staff-pages/dietmark" target="_blank" rel="external noopener nofollow" class="external">Dr. Dietmar Kennepohl</a> FCIC (Professor of Chemistry, <a title="http://www.athabascau.ca/" href="http://www.athabascau.ca/" target="_blank" rel="external noopener nofollow" class="external">Athabasca University</a>)</p>
+</li>
+    <li><p class="contrib">William Reusch, Professor Emeritus (<a class="external" href="http://www.msu.edu/" rel="external nofollow" target="_blank" title="http://www.msu.edu/">Michigan State U.</a>), <a class="external" href="https://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/intro1.htm" rel="external nofollow" target="_blank" title="Template:ContribReusch">Virtual Textbook of&nbsp;Organic&nbsp;Chemistry</a></p>
+</li>
+    <li><p class="contrib">Prof. Steven Farmer (<a title="http://www.sonoma.edu" href="http://www.sonoma.edu" target="_blank" rel="external noopener nofollow" class="external">Sonoma State University</a>)</p>
+</li>
+</ul>
+
+
+
+
+</div></div>
+				</div>
+				
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "23.11: Decarboxylation Reactions";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p><a target="_blank" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds/23.11%3A_Decarboxylation_Reactions" rel="internal" class="internal">23.11: Decarboxylation Reactions</a> is shared under a <a rel="nofollow" href="" target="_blank">not declared  </a>  license and was authored, remixed, and/or curated by LibreTexts.</p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds/23.10%3A_Conjugate_Additions-_The_Michael_Reaction" title="23.10: Conjugate Additions- The Michael Reaction"><span>23.10: Conjugate Additions- The Michael Reaction</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_II_(Wade)/23%3A_Alpha_Substitutions_and_Condensations_of_Carbonyl_Compounds/23.12%3A_Additional_Exercises" title="23.12: Additional Exercises"><span>23.12: Additional Exercises</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="1" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-cssprint-dense" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Print CSS</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=cssprint%3Adense" data-ga-label="Classification">Dense</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-transcluded-yes" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Transcluded</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=transcluded%3Ayes" data-ga-label="Classification">yes</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-source[1]-chem-45972" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=source%5B1%5D-chem-45972" data-ga-label="Free tag"> source[1]-chem-45972</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="10a742e602a81037f4b66c1b010a97471e76b81a88fe8a0306aed711b69319a4" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
