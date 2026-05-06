@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/03%3A_Stoichiometry_of_Formulas_and_Equation
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/04%3A_Three_Major_Classes_of_Chemical_Reactions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/05%3A_Gases_and_the_Kinetic-Molecular_Theory
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/06%3A_Thermochemistry_-_Energy_Flow_and_Chemical_Change
@@ -9525,3 +9524,14 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/02%3A_Atoms_Molecules_and_Ions/2.S%3A_Atoms_Molecules_and_Ions_(Summary)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/01%3A_Keys_to_the_Study_of_Chemistry/zz%3A_Back_Matter/10%3A_Index
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/02%3A_The_Components_of_Matter/2.01%3A_Elements_Compounds_and_Mixtures_-_An_Atomic_Overview
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations/3.01%3A_Chemical_Equations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations/3.02%3A_Some_Simple_Patterns_of_Chemical_Reactivity
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations/3.03%3A_Formula_Masses
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations/3.04%3A_Avogadro's_Number_and_the_Mole
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations/3.05%3A_Empirical_Formulas_from_Analysis
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations/3.06%3A_Quantitative_Information_from_Balanced_Equations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations/3.07%3A_Limiting_Reactants
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations/3.E%3A_Stoichiometry_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations/3.S%3A_Stoichiometry_(Summary)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/02%3A_The_Components_of_Matter/2.E%3A_The_Components_of_Matter_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/03%3A_Stoichiometry_of_Formulas_and_Equation/3.01%3A_The_Mole
