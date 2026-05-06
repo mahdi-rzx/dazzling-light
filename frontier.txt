@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/13%3A_Hybrid_and_Molecular_Orbitals
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/14%3A_Intermolecular_Forces___Phase_Changes
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/16%3A_Chemical_Kinetics
@@ -9269,3 +9268,17 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/11%3A_The_Periodicity_of_Atomic_Properties/11.3_Ionization_Energy_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/11%3A_The_Periodicity_of_Atomic_Properties/11.5_General_Trends_of_the_Elements_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/11%3A_The_Periodicity_of_Atomic_Properties/Chapter_5.4_Calculations_Involving_Dilution%3A_https%3A__youtu.be_Yq3cNk29_Ao
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.10_Bond_Lengths_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.11_Bond_Energies_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.12_Estimating_Enthalpy_of_Reaction_from_Bond_Energies_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.13_Shapes_of_Molecules_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.14_Sample_Molecular_Shape_Problems_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.1_Electronegativity_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.2_Types_of_Bonds_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.3_Lewis_Theory_of_Bonding_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.4_Lewis_Structures_of_Ionic_Compounds_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.5_Lewis_Structure_of_Molecules_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.6_General_Rules_for_Writing_Lewis_Structures_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.7_Lewis_Structure_of_Charged_Molecules_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.8_Resonance_Structures_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/12%3A_Lewis_Structures_and_Bonding/12.9_Expanded_Valence_Shell_Bonding_(Video)
