@@ -221,7 +221,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/19%3A_Electrochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/20%3A_Periodic_Trends_and_the_s-Block_Elements
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/21%3A_The_p-Block_Elements
@@ -9879,3 +9878,11 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemis
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/17%3A_Solubility_and_Complexation_Equilibria/17.04%3A_The_Formation_of_Complex_Ions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/17%3A_Solubility_and_Complexation_Equilibria/17.05%3A_Solubility_and_pH
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/17%3A_Solubility_and_Complexation_Equilibria/17.06%3A_Qualitative_Analysis_Using_Selective_Precipitation
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics/18.01%3A_Thermodynamics_and_Work
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics/18.02%3A_The_First_Law_of_Thermodynamics
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics/18.03%3A_The_Second_Law_of_Thermodynamics
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics/18.04%3A_Entropy_Changes_and_the_Third_Law_of_Thermodynamics
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics/18.05%3A_Free_Energy
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics/18.06%3A_Spontaneity_and_Equilibrium
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics/18.07%3A_Comparing_Thermodynamics_and_Kinetics
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_General_Chemistry%3A_Principles_Patterns_and_Applications_(Averill)/18%3A_Chemical_Thermodynamics/18.08%3A_Thermodynamics_and_Life
