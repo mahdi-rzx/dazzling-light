@@ -117,7 +117,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_II_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/05%3A_Chemistry_of_Main-Group_Metals
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/06%3A_Chemistry_of_Transition_Metals
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/07%3A_Lanthanoids_and_Actinoids
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/08%3A_Reaction_and_Physical_Properties
@@ -4525,3 +4524,8 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/04%3A_Chemistry_of_Nonmetallic_Elements/4.05%3A_Chalcogens_and_Chalcogenides
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/04%3A_Chemistry_of_Nonmetallic_Elements/4.06%3A_Halogens_and_Halides
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/04%3A_Chemistry_of_Nonmetallic_Elements/4.07%3A_Noble_Gases_and_their_Compounds
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/05%3A_Chemistry_of_Main-Group_Metals/5.01%3A_Group_1_Metals
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/05%3A_Chemistry_of_Main-Group_Metals/5.02%3A_Group_2_Metals
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/05%3A_Chemistry_of_Main-Group_Metals/5.03%3A_Group_12_Metals
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/05%3A_Chemistry_of_Main-Group_Metals/5.04%3A_Group_13_Metals
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/05%3A_Chemistry_of_Main-Group_Metals/5.05%3A_Group_14_Metals
