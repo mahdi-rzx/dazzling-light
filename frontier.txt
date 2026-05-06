@@ -249,7 +249,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_C
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/23%3A__Carbon%3A__Not_Just_Another_Element
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_and_Chemical_Reactivity_(Kotz_et_al.)/24%3A__Biochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Exercises%3A_General_Chemistry/Exercises%3A_Brown_et_al./22.E%3A_Chemistry_of_the_Nonmetals_(Exercises)/Alkali_Alkali_Earth_and_Noble_Gases
-https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Spectrometer
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Diffraction_Scattering_Techniques
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/11%3A_Reactions_in_Aqueous_Solutions/11.15%3A_Redox_Reactions
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Electrochemistry/Basics_of_Electrochemistry
@@ -10199,3 +10198,5 @@ https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Module
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Introduction_to_Lasers/05_Types_of_Lasers/03_Diode_Lasers
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Introduction_to_Lasers/05_Types_of_Lasers/04_Dye_Lasers
 https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Introduction_to_Lasers/06_References
+https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Spectroscopy/Fundamentals_of_Spectroscopy/Electromagnetic_Radiation
+https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Instrumentation_and_Analysis/Spectrometer/ATR-FTIR
