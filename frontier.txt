@@ -129,7 +129,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/09%3A_Metals_in_Medicine
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/02%3A_Rotational_Symmetry
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/03%3A_Space_Groups
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/04%3A_Electronic_and_Vibrational_States_of_Crystals
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/05%3A_Blochs_Theorem
@@ -5153,3 +5152,10 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theor
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/01%3A_Translational_Symmetry/1.02%3A_The_Lattice_as_a_Group
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/01%3A_Translational_Symmetry/1.03%3A_Periodic_Boundary_Conditions
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/01%3A_Translational_Symmetry/1.04%3A_Unit_Cells_with_Rotational_Symmetry
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/02%3A_Rotational_Symmetry/2.01%3A_Operations
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/02%3A_Rotational_Symmetry/2.02%3A_Point_Groups
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/02%3A_Rotational_Symmetry/2.03%3A_Compatibility_of_Rotations_and_Lattices
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/02%3A_Rotational_Symmetry/2.04%3A_Crystallographic_Point_Groups
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/02%3A_Rotational_Symmetry/2.05%3A_Rotations_in_a_Lattice
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/02%3A_Rotational_Symmetry/2.06%3A_Bravais_Lattices_(2-d)
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Chemical_Group_Theory_(Miller)/02%3A_Rotational_Symmetry/2.07%3A_Bravais_Lattices_(3-d)
