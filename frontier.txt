@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/20%3A_Solubility_Products
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/21_Electrochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols
@@ -9344,3 +9343,14 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/1%3A_Definitions_Units_and_Significant_Figures/1.5_International_System_of_Units_(SI_Units)_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/1%3A_Definitions_Units_and_Significant_Figures/1.6_Units_of_Temperature_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/1%3A_Definitions_Units_and_Significant_Figures/1.7_Converting_Between_Units_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/20%3A_Solubility_Products/20.10_Solubility_of_Complex_Ions_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/20%3A_Solubility_Products/20.1_Definition_of_a_Solubility_Product_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/20%3A_Solubility_Products/20.2_Finding_the_Solubility_of_a_Salt_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/20%3A_Solubility_Products/20.3_Finding_Ksp_from_Ion_Concentrations_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/20%3A_Solubility_Products/20.4_The_Common_Ion_Effect_in_Solubility_Products_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/20%3A_Solubility_Products/20.5_Determining_if_a_Precipitate_forms_(The_Ion_Product)_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/20%3A_Solubility_Products/20.6_Removal_of_an_Ion_from_Solution_Using_Precipitation_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/20%3A_Solubility_Products/20.7_The_Separation_of_Two_Ions_by_a_Difference_in_Solubility_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/20%3A_Solubility_Products/20.8_Solubility_Products_and_pH_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/20%3A_Solubility_Products/20.9_pH_and_the_Precipitation_of_Insoluble_Salts_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols/2.9_Determining_the_Molar_Mass_of_a_Molecule_(Video)
