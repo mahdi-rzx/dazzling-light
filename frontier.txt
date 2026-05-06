@@ -221,7 +221,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/15%3A_Chemical_Kinetics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/16%3A_Chemical_Equilibrium
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/18%3A_Aqueous_Ionic_Equilibrium
@@ -9703,3 +9702,11 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_P
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/14%3A_Solutions/14.05%3A_Expressing_Solution_Concentration
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/14%3A_Solutions/14.06%3A_Colligative_Properties-_Freezing_Point_Depression_Boiling_Point_Elevation_and_Osmosis
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/14%3A_Solutions/14.07%3A_The_Colligative_Properties_of_Strong_Electrolyte_Solutions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/15%3A_Chemical_Kinetics/15.01%3A_Catching_Lizards
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/15%3A_Chemical_Kinetics/15.02%3A_Rates_of_Reaction_and_the_Particulate_Nature_of_Matter
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/15%3A_Chemical_Kinetics/15.03%3A_Defining_and_Measuring_the_Rate_of_a_Chemical_Reaction
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/15%3A_Chemical_Kinetics/15.04%3A_The_Rate_Law-_The_Effect_of_Concentration_on_Reaction_Rate
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/15%3A_Chemical_Kinetics/15.05%3A_The_Integrated_Rate_Law-_The_Dependence_of_Concentration_on_Time
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/15%3A_Chemical_Kinetics/15.06%3A_The_Effect_of_Temperature_on_Reaction_Rate
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/15%3A_Chemical_Kinetics/15.07%3A_Reaction_Mechanisms
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/15%3A_Chemical_Kinetics/15.08%3A_Catalysis
