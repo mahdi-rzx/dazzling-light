@@ -221,7 +221,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/14%3A_Solutions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/15%3A_Chemical_Kinetics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/16%3A_Chemical_Equilibrium
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/17%3A_Acids_and_Bases
@@ -9698,3 +9697,9 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_P
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/13%3A_Phase_Diagrams_and_Crystalline_Solids/13.05%3A_Crystalline_Solids-_The_Fundamental_Types
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/13%3A_Phase_Diagrams_and_Crystalline_Solids/13.06%3A_The_Structure_of_Ionic_Solids
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/13%3A_Phase_Diagrams_and_Crystalline_Solids/13.07%3A_Network_Covalent_Atomic_Solids-_Carbon_and_Silicates
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/14%3A_Solutions/14.02%3A_Types_of_Solutions_and_Solubility
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/14%3A_Solutions/14.03%3A_Energetics_of_Solution_Formation
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/14%3A_Solutions/14.04%3A_Solution_Equilibrium_and_Factors_Affecting_Solubility
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/14%3A_Solutions/14.05%3A_Expressing_Solution_Concentration
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/14%3A_Solutions/14.06%3A_Colligative_Properties-_Freezing_Point_Depression_Boiling_Point_Elevation_and_Osmosis
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Structure_and_Properties_(Tro)/14%3A_Solutions/14.07%3A_The_Colligative_Properties_of_Strong_Electrolyte_Solutions
