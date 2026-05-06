@@ -117,7 +117,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_II_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/09%3A_Complexes_of_bound_Ligands
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/10%3A_Reaction_Mechanisms
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/11%3A_Applications
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/12%3A_Physical_Methods_in_Organometallic_Chemistry
@@ -4557,3 +4556,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Orga
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/07%3A_Metal_Alkyls_and_Metal_Hydrides/7.02%3A_Metal_Hydrides
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/08%3A_Carbonyls_and_Phosphine_Complexes/8.01%3A_Metal_Carbonyls
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/08%3A_Carbonyls_and_Phosphine_Complexes/8.02%3A_Metal_Phosphines
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/09%3A_Complexes_of_bound_Ligands/9.01%3A_Metal_Alkene_Complexes
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/09%3A_Complexes_of_bound_Ligands/9.02%3A_Metal_Allyl_and_Diene_Complexes
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/09%3A_Complexes_of_bound_Ligands/9.03%3A_Metal_Cyclopentadienyl_Complexes
