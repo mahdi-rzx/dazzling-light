@@ -117,7 +117,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_II_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/04%3A_Organoelement_Compounds_of_Group_15
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/05%3A_Group_12_Elements
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/06%3A_General_Properties_of_Transition_Metal_Organometallic_Complexes
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/07%3A_Metal_Alkyls_and_Metal_Hydrides
@@ -4551,3 +4550,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Orga
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/03%3A_Organometallic_Chemistry_of_p-block_Elements/3.04%3A_Zeigler_Natta_Polymerization_Catalysts
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/03%3A_Organometallic_Chemistry_of_p-block_Elements/3.05%3A_Organosilicon_and_Organogermanium_Compounds
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/03%3A_Organometallic_Chemistry_of_p-block_Elements/3.06%3A_Organotin_and_Organolead_Compounds
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/04%3A_Organoelement_Compounds_of_Group_15/4.01%3A_Organometallic_Compounds_of_As(V)_and_Sb(V)
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/04%3A_Organoelement_Compounds_of_Group_15/4.02%3A_Organometallic_Compounds_of_As(III)_and_Sb(III)
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Introduction_to_Organometallic_Chemistry_(Ghosh_and_Balakrishna)/04%3A_Organoelement_Compounds_of_Group_15/4.03%3A_Phosphines
