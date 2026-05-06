@@ -585,7 +585,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/07%3A_Thermochemistry/7.5%3A_The_First_Law_of_Thermodynamics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/13%3A_Spontaneous_Processes_and_Thermodynamic_Equilibrium/13.8%3A_Carnot_Cycle_Efficiency_and_Entropy
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/05%3A_Dioxygen_Reactions/5.01%3A_Catalase_and_Peroxidase
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/06%3A_Composition_of_Substances_and_Solutions/6.2%3A_Determining_Empirical_and_Molecular_Formulas
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/06%3A_Composition_of_Substances_and_Solutions/6.4%3A_Other_Units_for_Solution_Concentrations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/08%3A_Gases/8.2%3A_Relating_Pressure_Volume_Amount_and_Temperature%3A_The_Ideal_Gas_Law
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/08%3A_Gases/8.6%3A_Non-Ideal_Gas_Behavior
@@ -1696,3 +1695,4 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_Firs
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/04%3A_Chemical_Bonding_and_Molecular_Geometry/4.5%3A_Strengths_of_Ionic_and_Covalent_Bonds
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/05%3A_Advanced_Theories_of_Covalent_Bonding/5.2%3A_Hybrid_Atomic_Orbitals
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/05%3A_Advanced_Theories_of_Covalent_Bonding/5.3%3A_Multiple_Bonds
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_1e_(OpenSTAX)/06%3A_Composition_of_Substances_and_Solutions/6.3%3A_Molarity
