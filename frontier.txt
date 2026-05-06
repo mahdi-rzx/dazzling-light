@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/2%3A_Atoms_Isotopes_and_Mols
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/3.3_Nomenclature_of_Inorganic_Compounds
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/3%3A_Molecules_Molecular_Formula_Calculations_and_Nomenclature
@@ -9361,3 +9360,15 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/21_Electrochemistry/21.6_Electrode_Potentials_and_ECell_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/21_Electrochemistry/21.7_The_Nernst_Equation_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/21_Electrochemistry/21.8_Electroplating__(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.10_Relating_Grxn_and_Kp_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.11_The_Van't_Hoff_Equation_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.12_Relating_G_and_Ecell_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.1_Spontaneity_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.2_Entropy_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.3_The_Entropy_of_a_Phase_Transition_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.4_Calculating_the_Entropy_of_Reaction_using_S_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.5_The_Definition_of_Gibbs_Free_Energy_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.6_Determining_if_a_Reaction_is_Spontaneous%3A_https%3A__youtu.be_rGFzI_LcddU_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.7_Calculating_Gibbs_Free_Energy_(Grxn)_for_a_Reaction_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.8_Calculating_the_Temperature_at_Which_a_Reaction_Becomes_Spontaneous_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/22%3A_Gibbs_Free_Energy/22.9_Calculating_Grxn_using_Gf_(Video)
