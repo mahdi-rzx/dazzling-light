@@ -131,7 +131,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Book3A_Bioinorganic_Chemistry_(Bertini_et_al.)/zz3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/00%3A_Front_Matter
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Chemical_Thermodynamics_(Supplement_to_Shepherd_et_al.)/01%3A_Fundamental_1_-_Measurable_Properties
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/13%3A_Fundamental_Equilibrium_Concepts
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/14%3A_Acid-Base_Equilibria
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/15%3A_Equilibria_of_Other_Reaction_Classes
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/16%3A_Thermodynamics
@@ -8484,3 +8483,12 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/12%3A_Kinetics/12.09%3A_Key_Equations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/12%3A_Kinetics/12.10%3A_Summary
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/12%3A_Kinetics/12.11%3A_Exercises
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/13%3A_Fundamental_Equilibrium_Concepts/13.00%3A_Introduction
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/13%3A_Fundamental_Equilibrium_Concepts/13.01%3A_Chemical_Equilibria
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/13%3A_Fundamental_Equilibrium_Concepts/13.02%3A_Equilibrium_Constants
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/13%3A_Fundamental_Equilibrium_Concepts/13.03%3A_Shifting_Equilibria_-_Le_Chateliers_Principle
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/13%3A_Fundamental_Equilibrium_Concepts/13.04%3A_Equilibrium_Calculations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/13%3A_Fundamental_Equilibrium_Concepts/13.05%3A_Key_Terms
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/13%3A_Fundamental_Equilibrium_Concepts/13.06%3A_Key_Equations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/13%3A_Fundamental_Equilibrium_Concepts/13.07%3A_Summary
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_2e_(OpenStax)/13%3A_Fundamental_Equilibrium_Concepts/13.08%3A_Exercises
