@@ -1,0 +1,3297 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="1.4: Bonding theories and geometries of molecules"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01%3A_Bonding_and_structure/1.04%3A_Bonding_theories_and_geometries_of_molecules"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content=""/>
+        <meta property="article:published_time" content="2025-05-15T18:28:12Z"/>
+        <meta property="article:modified_time" content="2025-08-31T19:37:29Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="1.4: Bonding theories and geometries of molecules"/>
+        <meta name="twitter:description" content=""/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content=""/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01%3A_Bonding_and_structure/1.04%3A_Bonding_theories_and_geometries_of_molecules"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3">{"@context":"http:\/\/schema.org","@type":"Article","name":"1.4: Bonding theories and geometries of molecules","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_-Part_1_Fundamentals_(Malik)\/01%3A_Bonding_and_structure\/1.04%3A_Bonding_theories_and_geometries_of_molecules","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2025-05-15T18:28:12Z","dateModified":"2025-08-31T19:37:29Z","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/519638\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_-Part_1_Fundamentals_(Malik)\/01%3A_Bonding_and_structure\/1.04%3A_Bonding_theories_and_geometries_of_molecules"},"headline":"1.4: Bonding theories and geometries of molecules","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"1.4: Bonding theories and geometries of molecules","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_-Part_1_Fundamentals_(Malik)\/01%3A_Bonding_and_structure\/1.04%3A_Bonding_theories_and_geometries_of_molecules","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_-Part_1_Fundamentals_(Malik)\/01%3A_Bonding_and_structure"]}</script>
+        <script type="application/ld+json" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry","name":"Organic Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_-Part_1_Fundamentals_(Malik)","name":"Organic Chemistry -Part 1 Fundamentals (Malik)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_-Part_1_Fundamentals_(Malik)\/01%3A_Bonding_and_structure","name":"1: Bonding and structure"}}]}</script>
+
+        <title>1.4: Bonding theories and geometries of molecules - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+@media print {
+     
+
+.mt-content-container .mt-responsive-table, .mt-content-container table {
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 1rem !important;
+}
+
+.mt-content-container .mt-responsive-table caption, .mt-content-container table caption { 
+    display: table-caption;
+    text-align: center;
+    font-size: 90%;
+    padding: 0 0 0.2rem 0;
+}
+
+.mt-content-container .mt-responsive-table th, .mt-content-container table th {
+  font-size: inherit;
+  vertical-align: middle;
+  border-bottom: 1px solid #E8E8E8;
+  margin: inherit;
+  padding: 0.4em !important;
+}
+
+.mt-content-container .mt-responsive-table tr, .mt-content-container table tr {
+  page-break-inside:avoid; 
+  page-break-after:auto;
+  margin: inherit;
+  font-size: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+  border-bottom: 1px solid #E8E8E8;
+}
+    
+.mt-content-container .mt-responsive-table td, .mt-content-container table td {
+  border: 1px solid #E8E8E8;
+  page-break-inside: avoid !important;
+  page-break-before: avoid;
+  margin: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+}
+
+.mt-content-container table ol, 
+.mt-content-container table ul,
+.mt-content-container table p,
+.mt-content-container table ol,
+.mt-content-container table ul,
+.mt-content-container table p {
+    font-size: inherit;
+    margin: inherit;
+}
+
+mjx-container svg path,
+mjx-container svg use {
+  stroke: none !important;
+  stroke-width: 0 !important;
+}
+    
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":519638,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"1.4: Bonding theories and geometries of molecules","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"113","pageSectionEditable":false,"pageTitle":"Bookshelves\/Organic Chemistry\/Organic Chemistry -Part 1 Fundamentals (Malik)\/01: Bonding and structure\/1.04: Bonding theories and geometries of molecules","pageViewId":"2f4b5a58-93e5-4013-8ba9-fff446b8534b","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"ZDYzZGY5NDQtM2NhNi00ZDI4LThmZDUtYTE2OGFlYzkxMzUwfDIwMjYtMDUtMDZUMDc6MDA6MjQ=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778050825_acd70fb70af890ac66d3d958afe2330d3e5b40067bc8082c21c0fa5743d58ec2","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-organicchemistry-organicchemistry-part1fundamentals%28malik%29-01%3Abondingandstructure-1.04%3Abondingtheoriesandgeometriesofmolecules columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">1: Bonding and structure</div><div style="display:none" id="parentParentTitleHolder">Organic Chemistry -Part 1 Fundamentals (Malik)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;1.01:_What_is_organic_chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;1.02:_Structure_of_an_atom&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;1.03:_Chemical_bonds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;1.04:_Bonding_theories_and_geometries_of_molecules&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;1.05:_Polarity_of_bonds_and_molecules&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_Bonding_and_structure&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_Representing_organic_structures&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_Steriochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:_Acids_and_bases&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Sun, 31 Aug 2025 19:37:29 GMT</div><div style="display:none" id="titleHolder">1.4: Bonding theories and geometries of molecules</div><div style="display:none" id="IDHolder">519638</div><div style="display:none" id="pageIDHolder">519638</div><div style="display:none" id="pageAuthorHolder">Muhammad Malik</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;license:publicdomain&quot;, &quot;authorname:mmalik&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;license:publicdomain&quot;, &quot;authorname:mmalik&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FOrganic_Chemistry_-Part_1_Fundamentals_(Malik)%2F01%253A_Bonding_and_structure%2F1.04%253A_Bonding_theories_and_geometries_of_molecules</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FOrganic_Chemistry_-Part_1_Fundamentals_%28Malik%29%2F01%3A_Bonding_and_structure%2F1.04%3A_Bonding_theories_and_geometries_of_molecules" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FOrganic_Chemistry_-Part_1_Fundamentals_%28Malik%29%2F01%3A_Bonding_and_structure%2F1.04%3A_Bonding_theories_and_geometries_of_molecules" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry -Part 1 Fundamentals (Malik)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01%3A_Bonding_and_structure" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    1: Bonding and structure
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            1.4: Bonding theories and geometries of molecules
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        1.4: Bonding theories and geometries of molecules
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2025-08-31T19:37:29Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/519638/pdf/1.4%253A%2bBonding%2btheories%2band%2bgeometries%2bof%2bmolecules.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>519638</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+<div class="mt-author-container"><ul><li class="mt-author-image mt-author-image-crop"><img alt=" " title="Muhammad Arif Malik" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/402381/Malik.jpg?revision=1" /></li><li class="mt-author-information"><a rel="external" target="_blank" href="https://scholar.google.com/citations?user=NJt3vSwAAAAJ&amp;hl=en">Muhammad Arif Malik</a></li><li class="mt-author-companyname"><a rel="external" target="_blank" href="https://science.hamptonu.edu/chem">Hampton University, Hampton, VA</a></li></ul></div>
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Valence_shell_electron_pair_repulsion_(VSEPR)_theory" rel="internal">Valence shell electron pair repulsion (VSEPR) theory</a><ol><li><ol><li><a href="#Electron_groups" rel="internal">Electron groups</a></li><li><a href="#Electron_group_geometry_and_molecular_geometry" rel="internal">Electron group geometry and molecular geometry</a></li></ol></li><li><a href="#Two_electron_groups" rel="internal">Two electron groups</a><ol><li><a href="#Hydrocarbons" rel="internal">Hydrocarbons</a></li><li><a href="#Alkynes" rel="internal">Alkynes</a></li></ol></li><li><a href="#Three_electron_groups" rel="internal">Three electron groups</a><ol><li><a href="#Alkene" rel="internal">Alkene</a></li><li><a href="#Order_of_repulsion_force_between_electron_groups" rel="internal">Order of repulsion force between electron groups</a></li></ol></li><li><a href="#Four_electron_groups" rel="internal">Four electron groups</a><ol><li><a href="#Perspective_drawing_of_a_tetrahedral_.5C(.5Cce.7BC.7D.5C)" rel="internal">Perspective drawing of a tetrahedral \(\ce{C}\)</a></li></ol></li></ol></li><li><a href="#Valence_bond_theory" rel="internal">Valence bond theory</a><ol><li><a href="#Mechanism_of_covalent_bond_formation" rel="internal">Mechanism of covalent bond formation</a><ol><li><ol><li><a href="#Bond_length.2C_bond_energy.2C_and_the_bond_strength" rel="internal">Bond length, bond energy, and the bond strength</a></li></ol></li></ol></li><li><a href="#Sigma_.5C(.5Csigma.5C)_and_pi_.5C(.5Cpi.5C)_bonds" rel="internal">Sigma \(\sigma\) and pi \(\pi\) bonds</a><ol><li><ol><li><a href="#Sigma_(.5C(.5Csigma.5C))_bond" rel="internal">Sigma (\(\sigma\)) bond</a></li><li><a href="#Pi_(.5C(.5Cpi.5C))_bond" rel="internal">Pi (\(\pi\)) bond</a></li></ol></li></ol></li><li><a href="#Hybrid_orbitals" rel="internal">Hybrid orbitals</a><ol><li><a href="#.5C(sp.5E.7B3.7D.5C)_Hybrid_orbitals" rel="internal">\(sp^{3}\) Hybrid orbitals</a></li><li><a href="#.5C(sp.5E.7B2.7D.5C)_Hybrid_orbitals" rel="internal">\(sp^{2}\) Hybrid orbitals</a></li><li><a href="#.5C(sp.5C)_Hybrid_orbitals" rel="internal">\(sp\) Hybrid orbitals</a></li><li><a href="#Hybridization_in_atoms_other_than_.5C(.5Cce.7BC.7D.5C)" rel="internal">Hybridization in atoms other than \(\ce{C}\)</a><ol><li><a href="#Quickly_recognizing_the_hybridization_and_geometries_of_atoms_in_molecules" rel="internal">Quickly recognizing the hybridization and geometries of atoms in molecules</a></li></ol></li></ol></li><li><a href="#Reactive_intermediates" rel="internal">Reactive intermediates</a><ol><li><a href="#Carbocation" rel="internal">Carbocation</a></li><li><a href="#Carbanion" rel="internal">Carbanion</a></li><li><a href="#Carbon_radical" rel="internal">Carbon radical</a></li><li><a href="#Carbene" rel="internal">Carbene</a></li></ol></li></ol></li><li><a href="#Molecular_orbital_(MO)_theory" rel="internal">Molecular orbital (MO) theory</a><ol><li><a href="#Types_of_molecular_orbitals" rel="internal">Types of molecular orbitals</a></li><li><a href="#Filling_molecular_orbitals_with_electrons" rel="internal">Filling molecular orbitals with electrons</a></li><li><a href="#Naming_molecular_orbitals" rel="internal">Naming molecular orbitals</a></li><li><a href="#Highest_occupied_molecular_orbital_(HOME)_and_lowest_unoccupied_molecular_orbitals_(LUMO)" rel="internal">Highest occupied molecular orbital (HOME) and lowest unoccupied molecular orbitals (LUMO)</a></li></ol></li><li><a href="#Bond_strength" rel="internal">Bond strength</a><ol><li><a href="#Bond_dissociation_energy_(BDE)" rel="internal">Bond dissociation energy (BDE)</a></li></ol></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_1"><span id="Valence_shell_electron_pair_repulsion_(VSEPR)_theory"></span><h2 class="editable">Valence shell electron pair repulsion (VSEPR) theory</h2>
+
+<p>Lewis structures show bonds and lone pairs around atoms in a molecule, but they do not predict the angles between them. For example, Lewis structure of water may be writteh as \(\ce{H-\overset{\!\Large\:\cdot\:\!\cdot}{\underset{\underset{\huge{H}} |}{O}}\!:}\) or \(\ce{H-\overset{\!\Large\:\cdot\:\!\cdot}{\underset{\!\Large\:\cdot\:\!\cdot}{O}}-H}\) both shoing two bonds and two lone pairs around \(\ce{O}\) which correct, the firt implies 180<sup>o</sup> angle betwen the bonds and second 90<sup>o</sup>, which are incorrect. The experimentally measured bond angle in water is 104.5&deg;.</p>
+
+<section class="box-definition">
+<ul>
+    <li><strong>Valence shell electron pair repulsion (VSEPR) </strong>predicts the geometry of atoms around a central atom in a molecule, based on repulsion between electron groups on the central atom.</li>
+    <li>The <strong>central atom</strong> is an atom bonded to more than one atom in the molecule, e.g., \(\ce{O}\) in \(\ce{H-\overset{\!\Large\:\cdot\:\!\cdot}{\underset{\underset{\huge{H}} |}{O}}\!:}\)</li>
+</ul>
+</section>
+
+<section class="box-note">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Electron_groups"></span><h5 class="box-legend editable"><span class="lt-icon-default">Electron groups</span></h5>
+
+<p>The electron groups are assigned to an atom in a molecule as follows.</p>
+
+<ol>
+    <li>an unpaired  electron as on \(\ce{N}\) in \(\ce{ :\!\overset{\color{red}\Large\cdot}{N}=\overset{\Large\cdot\cdot}{O}\!: }\) is one electron group,</li>
+    <li>two electrons of a lone pair, as on \(\ce{N}\) in  \(\ce{:\!\overset{\Large\cdot}{N}=\overset{\Large\cdot\cdot}{O}\!: }\) is one electron group (note: two lone piars on \(\ce{O}\) are two separate electrons groups),</li>
+    <li>two bonded electrons in a single bond as on \(\ce{C}\) in  \(\ce{H-C\!\equiv\!{N}\!:}\) is one electron group,</li>
+    <li>four electrons in a double bond as on \(\ce{N}\) in \(\ce{ :\!\overset{\Large\cdot}{N}=\overset{\Large\cdot\cdot}{O}\!: }\) is one electron group, and </li>
+    <li>six electrons in a triple bond as on \(\ce{C}\) in \(\ce{H-C\!\equiv\!{N}\!:}\) is one electron group.</li>
+</ol>
+
+<p>\(\ce{N}\) in \(\ce{:\!\overset{\color{red}\Large\cdot}{N}=\overset{\Large\cdot\cdot}{O}\!: }\) has a total of three electron groups, an unpaired electron, a lone pair, and a double bond. \(\ce{O}\) in \(\ce{:\!\overset{\color{red}\Large\cdot}{N}=\overset{\Large\cdot\cdot}{O}\!: }\) also has a total of three electron groups, two lone pairs and a double bond. \(\ce{C}\) in \(\ce{H-C\!\equiv\!{N}\!:}\) has two electron groups, a single bond, and a triple bond.</p>
+</div></section>
+
+<section class="box-note">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Electron_group_geometry_and_molecular_geometry"></span><h5 class="box-legend editable"><span class="lt-icon-default">Electron group geometry and molecular geometry</span></h5>
+
+<p>The geometry of electron groups surrounding the central atom in a molecule is referred to as <strong>electron group geometry</strong>. The electron groups may be bonding or nonbonding electrons. If electron groups are all bonding electron pairs, the electron group geometry is the same as the molecule geometry. However, if some electron groups are nonbonding, e.g., lone pairs, the geometry of atoms connected by bonds is called <strong>molecular geometry</strong>.</p>
+
+
+</div></section>
+
+<p>Diatomic molecules like \(\ce{H-H}\), \(\ce{H-Cl}\), and \(\ce{Cl-Cl}\) are always linear. The geometry of the molecule containing three or more atoms is determined by the number of electron groups around the central atom, as explained below.</p>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_2"><span id="Two_electron_groups"></span><h3 class="editable">Two electron groups</h3>
+
+<p><img alt="Linear structure of H-Be-H" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486483/clipboard_e38e0b652682a6c6509ecd2a3fe3933f0.png?revision=1" />Two electron groups are farthest apart at 180&deg; in a linear arrangement. Therefore, the electron group geometry and the molecular geometry are linear if the central atom has two electron groups, as:  <img style="width: 73.9962px; height: 21.9981px;" width="73.9962px" height="21.9981px" class="internal" alt="AX2E0-3D-balls.png" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/493572/AX2E0-3D-balls.png?revision=1" />. For example, \(\ce{Be}\) in \(\ce{H-Be-H}\) and \(\ce{C}\) in \(\ce{H-C\!\equiv\!{N}\!:}\) and  \(\ce{:\!{\underset{\Large{\cdot\cdot}}{O}}=C={\underset{\Large{\cdot\cdot}}{O}}\!:}\) have two electron groups around the central \(\ce{C}\) atom, resulting in a linear geometry of these molecules, as illustrated in the figures on the right. Examples of organic compounds are those that have a triple bond on \(\ce{C}\), e.g., \(\ce{H-C\equiv C-H}\). Note that this compound has two \(\ce{C}\) atoms, both of which are central atoms with linear geometry, resulting in four atoms in a row on the line.</p>
+
+<section class="box-definition">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Hydrocarbons"></span><h5 class="box-legend editable"><span class="lt-icon-default">Hydrocarbons</span></h5>
+
+<p>Organic compounds containing only \(\ce{C}\) and \(\ce{H}\) are called <strong>hydrocarbons</strong>.</p>
+</div></section>
+
+<section class="box-definition">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Alkynes"></span><h5 class="box-legend editable"><span class="lt-icon-default">Alkynes</span></h5>
+
+<p> Hydrocarbons having at least one \(\ce{C\equiv C}\) bond are called <strong>alkyne</strong>.</p>
+</div></section>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_3"><span id="Three_electron_groups"></span><h3 class="editable">Three electron groups</h3>
+
+<p><img alt="Triangular planar structure of BF3" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486485/clipboard_eafda8f9637d6265e85d7f65e52b54835.png?revision=1" /><img alt="Triagular planar structure of SO3" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486486/clipboard_e2328db90a5eb80a64a7e9efb04a0c253.png?revision=1" />Three electron groups are farthest apart at 120&deg; in a plane, as <img alt="clipboard_e5dfa62c05c1bec87fd6304f1fa39e501.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486702/clipboard_e5dfa62c05c1bec87fd6304f1fa39e501.png?revision=1" />. For example, geometry around \(\ce{B}\) in \(\ce{BF3}\) and around \(\ce{S}\) in \(\ce{SO3}\), as illustrated in the figure on the right and left. Lines drawn between peripheral atoms make a triangle. Therefore, this geometry is referred to as triangular planar geometry. Examples of carbons in organic compound having triangular planar geometry are those that have a double bond on them, e.g., \(\ce{H2C=CH2}\) and \(\ce{H2C=O}\), as illustrated in the figure on the right.</p>
+
+<section class="box-definition">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Alkene"></span><h5 class="box-legend editable"><span class="lt-icon-default">Alkene</span></h5>
+
+<p>Hydrocarbons having at least one \(\ce{C=C} \) are called <strong>alkenes</strong>.<img alt="Triangular planar geometry of H2C=O" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486699/clipboard_e37b3da24df08fbc72b0df6d8e29b8347.png?revision=1" /><img alt="Trangular planar geometry of H2C=CH2" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486698/clipboard_e181e71b248a2265aeab21881035ef7b7.png?revision=1" /></p>
+</div></section>
+
+<p>If one of the three electron groups is a lone pair, the electron group geometry is still triangular planar. Still, the molecule geometry, i.e., the geometry of atoms in the molecule around the central atom, is bent. For example, geometry around \(\ce{S}\) in \(\ce{:\!{\underset{\Large{\cdot\cdot}}{O}}=\overset{\Large\cdot\cdot}{S}={\underset{\Large{\cdot\cdot}}{O}}\!:}\) is bent, as shown in the figure on the left.<img alt="Bent geometry of SO2" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486489/clipboard_e45c7ef73ba4c2f4994fc57a1b22f2d94.png?revision=1" />   </p>
+
+<p><img alt="Triangular planar structure of BF3" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486491/clipboard_ee45545feae4fcf0986f52a57b52fbe31.png?revision=1" />Another example of a triangular planar geometry is the geometry around \(\ce{C}\) in \(\ce{Cl2C=O}\), as shown in the figure on the right. Note that the bond angle between \(\ce{Cl-C-Cl}\) is 111.8&deg;, i.e., less than the ideal value 120&deg;. This is because repulsion between the double bond and a single bond is stronger than between a single bond and a single bond.</p>
+
+<section class="box-note">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Order_of_repulsion_force_between_electron_groups"></span><h5 class="box-legend editable"><span class="lt-icon-default">Order of repulsion force between electron groups</span></h5>
+
+<p>Repulsion force between different types of electron groups usually increases in the following order: single bond to single bond &lt; single bond to double bond &lt; single bond to lone pair &lt; lone pair to lone pair.</p>
+</div></section>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_4"><span id="Four_electron_groups"></span><h3 class="editable">Four electron groups</h3>
+
+<p><img alt="A regular tetrahedron within a cube" class="left internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/493571/Tetraeder_animation_with_cube.gif?revision=1" /><img alt="Tetrahederal CH4 within a cube" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486705/clipboard_ea0dfb1e8b34bd46d92e5bf6e6fcedccc.png?revision=1" />Four electron groups are farthest apart at 109.5&deg; from each other in a 3D geometry called tetrahedral geometry <img alt="clipboard_ec319e6ecfff70b864bdcd58037514430.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486703/clipboard_ec319e6ecfff70b864bdcd58037514430.png?revision=1" />. To understand this geometry, consider a cube, cut off alternate corners, and join the remaining four corners with each other by lines, it results in a tetrahedral geometry, as illustrated by yellow polyhedron within a cube in the figure on the left (Copyright: Andr&eacute; Karwath aka Aka, CC BY-SA 3.0, via Wikimedia Commons). It is a regular tetrahedron having four equilateral triangular faces. Now consider a cube with \(\ce{C}\) in its center and four \(\ce{C-H}\) bonds pointing to alternate corners of the cube, as illustrated in the figure on the right (copyright: Public domain). This is a tetrahedral geometry of \(\ce{CH4}\) molecule having four electron groups (single bonds) around the central \(\ce{C}\) with a 109.5&deg; angle between all bonds. </p>
+
+<section class="box-note">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Perspective_drawing_of_a_tetrahedral_.5C(.5Cce.7BC.7D.5C)"></span><h5 class="box-legend editable"><span class="lt-icon-default">Perspective drawing of a tetrahedral \(\ce{C}\)</span></h5>
+
+<p>Note that the tetrahedral \(\ce{CH4}\) inserted in a cube, as shown in the figure on the right, is composed of two Vs of 109.5&deg; internal angle joined at vortices and oriented perpendicular to each other. One V of \(\ce{H-C-H}\) bonds in the plane of the page is shown by solid lines in red. The other V of \(\ce{H-C-H}\) bonds shown in blue and viewed slightly from the top-right corner, has one \(\ce{C-H}\) bond protruding out of the page towards the viewer is represented by a solid wedge, and the other \(\ce{C-H}\) bond receding to the back of the page away from the viewer is represented by a hashed wedge. The red V in the plane of the page appears wider than the blue V perpendicular to the page. This is a conventional way of representing the perspective drawing of a 3D tetrahedral molecular geometry. The wider V in the plane of the page may be shown pointing up, down, left, or right, as illustrated in Figure 1.4.1 and the interactive model of of \(\ce{CH4}\) molecule is presented in Figure 1.4.2.</p>
+</div></section>
+
+<figure role="group">
+<div class="row">
+<figure><img alt="clipboard_eb297eabf94b68ea703d4fb32b4382c91.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486706/clipboard_eb297eabf94b68ea703d4fb32b4382c91.png?revision=1" /></figure>
+
+<figure><img alt="clipboard_ea401e0180502fa2949548bca4d9157c8.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486707/clipboard_ea401e0180502fa2949548bca4d9157c8.png?revision=1" /></figure>
+
+<figure><img alt="clipboard_e81cf383c175a9cfb461a5916733bfe77.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486708/clipboard_e81cf383c175a9cfb461a5916733bfe77.png?revision=1" /></figure>
+
+<figure><img alt="clipboard_e7d3c4d23c7a86cac5d449ec14171fb92.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486709/clipboard_e7d3c4d23c7a86cac5d449ec14171fb92.png?revision=1" /></figure>
+
+<figure><img alt="clipboard_e5a1a5cc67cef80a39e7b1c54ae38068a.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486711/clipboard_e5a1a5cc67cef80a39e7b1c54ae38068a.png?revision=1" /></figure>
+</div>
+
+<figcaption>Figure \(\PageIndex{1}\): Perspective drawing of tetrahedral \(\ce{CH4}\) molecule represented as two Vs of 109.5&deg; internal angle joined at vortices and oriented perpendicular to each other. The V in the plane of the page (red) is shown pointing up, down, left, right, and top-right direction, from left to right (Copyright: Public domain). </figcaption>
+</figure>
+
+<figure>
+<script type="text/javascript" src="https://awesomefiles.libretexts.org/Miscellaneous/Molecules/GLmol/js/GLWrapper.js" data-id="$methane" data-spin="true" data-multiple="false"></script>
+
+<p><span style="font-size:1rem;">Figure \(\PageIndex{2}\): Interactive model of \(\ce{CH4}\) molecule. The model can be enlarged by two-finger gestures on the touchpad or by right-clicking and dragging, and rotated by swiping one finger in the image area or by left-clicking the mouse and dragging.</span></p>
+</figure>
+
+<p><img alt="Perspective drawing of pentane" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486713/clipboard_ea07733d6021553de3fdf31453b2732b6.png?revision=1" />Organic compounds have multiple carbons. All carbons in the organic compound that have four single bonds have tetrahedral geometry. A perspective drawing of a chain of tetrahedral carbons can be represented by a zig-zag row of carbons, representing the Vs in the plane of the page and hydrogen as solid and hashed wedges on a V perpendicular to the page. For example, the figure on the right is a perspective drawing of the pentane \(\ce{C5H12}\) molecule, and Figure 1.4.3 is its interactive model.</p>
+
+<figure>
+<script type="text/javascript" src="https://awesomefiles.libretexts.org/Miscellaneous/Molecules/GLmol/js/GLWrapper.js" data-id="$pentane" data-spin="true" data-multiple="false"></script>
+
+<p>Figure \(\PageIndex{3}\): Interactive model of pentane \(\ce{C5H12}\) molecule. The model can be enlarged by two-finger gestures on the touchpad or by right-clicking and dragging, and rotated by swiping one finger in the image area or by left-clicking the mouse and dragging.</p>
+</figure>
+
+<p><img alt="trigonal pyrimidal geometry of NH3" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486716/clipboard_e18d25e541ecc9a11a902b5cee25eb7cd.png?revision=1" />If one of the four electron groups is a lone pair, the electron group geometry is tetrahedral, but the molecule geometry is trigonal pyramidal, as <img alt="clipboard_e0cd674c1e236d548961eb6275b4e5895.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486714/clipboard_e0cd674c1e236d548961eb6275b4e5895.png?revision=1" />. The name is based on the fact that connecting the three peripheral atoms makes a triangle, and the central atoms are raised in the middle, creating a trigonal pyramidal shape. For example, \(\ce{N}\) in \(\ce{H3N\!:}\) has a trigonal pyramidal shape, as shown in the figure on the right. Note that \(\ce{H-N-H}\) angle has been reduced from the perfect value of 109.5&deg; to 107.8&deg; because lone pair to bond pair repulsion is stronger than bond pair to bond pair repulsion.  </p>
+
+<p><img alt="bent geometry of H2O" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486718/clipboard_e0527ccc30cf676c6a5ab2eefc87f48e0.png?revision=1" />If two of the four electron groups are lone pairs, the electron group geometry is tetrahedral, but the molecule geometry is bent, as <img alt="clipboard_e0a0ad947fce49589e9a5bce68dbf11cd.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486717/clipboard_e0a0ad947fce49589e9a5bce68dbf11cd.png?revision=1" />. For example, \(\ce{O}\) in \(\ce{H2\overset{\Large\cdot\cdot}{O}\!:}\) is bent, as shown in the figure on the left. Note hat \(\ce{H-O-H}\) angle has been reduced from the perfect value of 109.5&deg; to 104.5&deg; because lone pair to lone pair repulsion is stronger than bond pair to bond pair repulsion.</p>
+</div></div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_5"><span id="Valence_bond_theory"></span><h2 class="editable">Valence bond theory</h2>
+
+<p>Lewis model of bonding predicts the number of bonds and the bond type: single, double, or triple, around an atom in a molecule. VSEPR theory predicts the bond angles and geometry around the central atom in a molecule. These two models are empirical and offer limited explanation. Still, they are used because they are simple. Two models, valence bond (VB) theory and molecular orbital theory (MO) theory, have been developed that take into account the orbitals of electrons. These are more complex, but not only predict the bonds and geometries, they can also predict additional properties, including bond strength, spectroscopic properties, and magnetic properties of the molecules. Among VB and MO theories, VB theory is relatively simple and more often used in organic chemistry. Although MO theory is more complex, it is still used because some of the chemical properties can be modeled better or exclusively by it. Here, a VB theory will be described, followed by a brief introduction to MO theory. Later in this course, a hybrid approach of VB and MO theories will be used to explain the chemical properties of organic molecules.</p>
+
+<section class="box-emphasis">
+<p>According to the valence bond theory, as atoms approach each other, their singly occupied valence orbitals overlap, resulting in the pairing of the two electrons in the overlapped orbital. Forces of attraction between both the nuclei and the two electrons in the overlapped orbitals primarily hold the two nuclei together, forming a covalent bond. </p>
+</section>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_6"><span id="Mechanism_of_covalent_bond_formation"></span><h3 class="editable">Mechanism of covalent bond formation</h3>
+
+<p class="lt-chem-394085">Atoms in the liquid or gas state move around due to thermal energy. Atoms have both positive-charge nuclei and negative-charge electrons. When two atoms approach each other, attractive forces between opposite charges and repulsive forces between the same charges develop. The two atoms move towards each other due to the attractive force, decreasing their potential energy until the minimum potential energy is reached. Decreasing the internuclear distance further from the optimum value increases repulsive forces more than attractive forces, as illustrated in Figure 1.4.4.</p>
+
+<figure><img alt="clipboard_e31b34e322439ec49f074a3a15b85137d.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487068/clipboard_e31b34e322439ec49f074a3a15b85137d.png?revision=1" />
+<figcaption>Figure \(\PageIndex{4}\): Illustration of potential energy vs. internuclear distance during a covalent bond formation between two \(\ce{H}\) atoms. (Copyright; Public domain)</figcaption>
+</figure>
+
+<section class="box-definition">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Bond_length.2C_bond_energy.2C_and_the_bond_strength"></span><h5 class="box-legend     lt-chem-394085 editable"><span class="lt-icon-default">Bond length, bond energy, and the bond strength</span></h5>
+
+<p class="lt-chem-394085"><strong><img alt="Average bond energies" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/494464/clipboard_e99566de00474ce6a434d67d2f0705fc0.png?revision=1" /><img alt="Average bond lengths" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/494465/clipboard_e7c6fc0f7d4fc3232f0cdd8f0213b52b5.png?revision=1" />Bond length</strong> is the distance between the centers of the two atoms at the potential energy minimum in bond formation. For example, the bond distance in \(\ce{H-H}\) is 74 pm.<strong> </strong></p>
+
+<p class="lt-chem-394085">The difference in the energy of isolated atoms and the energy state at the bonding distance is the <strong>bond energy</strong>. For example, the bond energy of \(\ce{H-H}\) is 432 kJ/mol as shown in Figure \(\PageIndex{4}\).</p>
+
+<p class="lt-chem-394085">Bond energy is always released when the bond is formed, and the same amount of energy is absorbed when the same bond is broken. <strong>Stronger bonds</strong> have higher bond energy, and <strong>weaker bonds</strong> have lower bond energy.</p>
+
+<p class="lt-chem-394085">&nbsp;</p>
+</div></section>
+
+<p>&nbsp;</p>
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_7"><span id="Sigma_.5C(.5Csigma.5C)_and_pi_.5C(.5Cpi.5C)_bonds"></span><h3 class="editable">Sigma \(\sigma\) and pi \(\pi\) bonds</h3>
+
+<section class="box-definition">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Sigma_(.5C(.5Csigma.5C))_bond"></span><h5 class="box-legend editable"><span class="lt-icon-default">Sigma (\(\sigma\)) bond</span></h5>
+
+<p>A <strong>sigma \(\sigma\) bond</strong> is formed by head-on overlap of atomic orbitals such that the overlapped orbital places the electron density mostly between the two nuclei symmetrically on and around the bonding axis.</p>
+</div></section>
+
+<p>When an \(s\) orbital overlaps with an \(s\) orbital, a \(\sigma_{s-s}\) bond is formed, e.g., \(\ce{H-H}\) is a \(\sigma_{1s-1s}\) bond. An \(s\) orbital overlaps with a \(p\) orbital by approaching it along the axis of the \(p\) orbital, forming an \(\sigma_{s-p}\) bond, e.g., \(\ce{H-F}\) is a \(\sigma_{1s-2p}\) bond. When two \(p\) orbitals overlap by approaching each other along their axis, they make a \(\sigma_{p-p}\) bond, e.g., \(\ce{F-F}\) is a \(\sigma_{2p-2p}\) bond. An \(s\) orbital is spherically symmetrical and it always makes a \(\sigma\) bond. A single bond is always a \(\sigma\) bond. Figure 1.4.5 illustrates the schematics of these \(\sigma\) bonds.</p>
+
+<figure role="group">
+<div class="row">
+<figure><img alt="clipboard_ed52fba1867e53ccb72fd1ee82370915d.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486815/clipboard_ed52fba1867e53ccb72fd1ee82370915d.png?revision=1" /></figure>
+
+<figure><img alt="clipboard_ef70dca91b26e1a40a61e5a83b2422ffe.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486813/clipboard_ef70dca91b26e1a40a61e5a83b2422ffe.png?revision=1" /></figure>
+
+<figure><img alt="clipboard_eda9a39e3c8eebadbccddcf1e35d19270.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486814/clipboard_eda9a39e3c8eebadbccddcf1e35d19270.png?revision=1" /></figure>
+
+<figure><img alt="clipboard_e0ab9ad2890b5646deff12714a6479fd2.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486811/clipboard_e0ab9ad2890b5646deff12714a6479fd2.png?revision=1" /></figure>
+</div>
+
+<figcaption>Figure \(\PageIndex{5}\): Schematics of \(\sigma_{s-s}\), \(\sigma_{s-p}\), \(\sigma_{p-p}\), and \(\pi_{p-p}\) bonds. Black dots represnt nulcue in these schematics (Copyright: Public domain).</figcaption>
+</figure>
+
+<section class="box-definition">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Pi_(.5C(.5Cpi.5C))_bond"></span><h5 class="box-legend editable"><span class="lt-icon-default">Pi (\(\pi\)) bond</span></h5>
+
+<p>A \(\pi\) bond is formed when a lateral overlap happens between two lobes of an orbital on one atom with two lobes of the other orbital on the second atom, overlapping, placing electron density above and below the bond axis. There is a nodal plane passing through the bond axis, which is the common nodal plane of the two overlapping orbitals.</p>
+</div></section>
+
+<p> For example, when two \(p\) orbitals overlap by approaching each other with their axes parallel, they overlap sideways, forming a \(\pi_{p-p}\) bond. The \(\pi\)-bonding is not as effective an overlap as a \(\sigma\) bond, and, consequently, a \(\pi\) bond is weaker than a \(\sigma\) bond between the same orbitals. Usually, \(\pi\) bond is the second bond in a double bond or the second and the third bond in a triple bond because only one orbital in an atom can approach head-on, forming one \(\sigma\) bond with another atom. Figure 1.4.5 illustrates the schematics of a \(\pi_{p-p}\) bond.</p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_8"><span id="Hybrid_orbitals"></span><h3 class="editable">Hybrid orbitals</h3>
+
+<p>The valence bond theory could not explain the geometry of several molecules. For example, the electron configuration of carbon is \(\underset{1s}{\boxed{\uparrow\downarrow}}\,\underset{2s}{\boxed{\uparrow\downarrow}}\, \underset{2p}{\boxed{\;\uparrow\;}\!\boxed{\;\uparrow\;}}\). It has two unpaired electrons and should form two bonds. It does not agree with four bonds to carbon in \(\ce{CH4}\). Assuming an electron is excited and jumps form \(2s\) to \(2p\) valence orbital resulting in the electron configuration \(\underset{1s}{\boxed{\uparrow\downarrow}}\,\underset{2s}{\boxed{\uparrow}}\, \underset{2p}{\boxed{\;\uparrow\;}\!\boxed{\;\uparrow\;}\!\boxed{\;\uparrow\;}}\). Now it can make four bonds, releasing more energy than the energy consumed in the excitation of an electron. Still, it is expected to have three bonds from \(p\) orbitals at 90&deg; angles and one from \(s\) orbital at any angle. It does not agree with the tetrahedral geometry around \(\ce{C}\) in \(\ce{CH4}\) with all bonds equal and all bond angles equal to 109.5&deg;. This deficiency is addressed by introducing the concept of hybrid orbitals in the valence bond theory, which form bonds in molecules. </p>
+
+<section class="box-emphasis">
+<p>Orbital hybridization is a concept of mixing some valence orbitals, resulting in an equal number of hybrid orbitals, suitable for bond making, and of different energies and shapes than the constituent orbitals.</p>
+</section>
+
+<p>For example, one \(2s\) orbital of \(\ce{C}\) can mix with three \(2p\) orbitals resulting in four equal hybrid orbitals, designated as \(sp^{3}\) orbitals. Note that the superscript three does not represent electrons occupying the hybrid orbital; it tells the number of orbital types mixed to form the hybrid orbital, i.e., one \(2s\) and three \(2p \) orbitals. Similarly, one \(2s\) orbital of \(\ce{C}\) can mix with two \(2p\) orbitals resulting in three equal hybrid orbitals, designated as \(sp^{2}\) orbitals leaving one \(2p\) orbital unchanged, and one \(2s\) orbital can mix with one \(2p\) orbitals resulting in two equal hybrid orbitals, designated as \(sp\) orbitals, leaving two \(2p\) orbital unchanged in the valence shell. The shapes and geometries of these hybrid orbitals are described next.</p>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_9"><span id=".5C(sp.5E.7B3.7D.5C)_Hybrid_orbitals"></span><h4 class="editable">\(sp^{3}\) Hybrid orbitals</h4>
+
+<p><img alt="tetrahederal geometry of CH4 illustrated" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486996/clipboard_e01ab25bea9c2e624aed7548605153dad.png?revision=1" /><img alt="3d simulation of sp3 orbitals" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487003/clipboard_eab803cdf85e91fcb695afa9b1030b270.png?revision=1" /><img alt="tetrahedearl geometry of sp3 hybrid orbitals" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487004/clipboard_e66885fd4f1042a1a8140192559002892.png?revision=1" />An \(s\) orbital is spherically symmetrical, <img alt="clipboard_e373f66775e8ee820f36b5b7642fb840e.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486992/clipboard_e373f66775e8ee820f36b5b7642fb840e.png?revision=1" /> and a \(p\) orbital is shaped with two lobes <img alt="clipboard_ebf3857ffcff33aeed021e66b675cd7b4.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486993/clipboard_ebf3857ffcff33aeed021e66b675cd7b4.png?revision=1" />. One \(s\) and three \(p\) valence shell orbitals mix to form four equal \(sp^{3}\) orbitals with one small and one large lobes <img alt="clipboard_e3d1b5d93f48750c45959818a690032b7.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/486994/clipboard_e3d1b5d93f48750c45959818a690032b7.png?revision=1" /> that orient at 109.5&deg; from each other in tetrahedral geometry, as illustrated in the figure on the right (Copyright: Jfmelero, CC BY-SA 3.0, via Wikimedia Commons).</p>
+
+<p><img alt="3d simulation of ethan bonding orbitals" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487012/clipboard_e381bb94d916092d2a8feeddb14ecb3da.png?revision=1" /><img alt="perspective drawing of ethane" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487013/clipboard_e065cd346335bfb1fc281f33c146efd79.png?revision=1" />Four valence electrons of \(\ce{C}\) singly occupy the four \(sp^3\) orbitals. The \(sp^3\) orbitals overlap with suitable valence orbitals of the other atoms, sharing their electron, and thus, making \(\sigma\) bonds. For example, \(sp^3\) orbitals of \(\ce{C}\) overlap \(1s\) orbital of \(\ce{H}\) resulting in \(\ce{CH4}\) molecule having four \(\sigma_{s-sp^3}\) bond in a tetrahedral geometry, as illustrated in the figure on the left and a simulation on the right (Copyrigt: Public domain). Similarly, \(\ce{C-C}\) single bond is a \(\sigma_{sp^{3}-sp^{3}}\) bond, e.g., \(\ce{H3C-CH3}\) has a \(\ce{C-C}\)\(\sigma_{sp^{3}-sp^{3}}\) bond and six \(\sigma_{s-sp^3}\) bonds with \(\ce{H}\), as illustrated in 3D-simulation and a perspective drawing on the left (Copyright: Public domain).</p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_10"><span id=".5C(sp.5E.7B2.7D.5C)_Hybrid_orbitals"></span><h4 class="editable">\(sp^{2}\) Hybrid orbitals</h4>
+
+<p><img alt="shape of thee sp2 orbitals" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487015/clipboard_ea07babec78880863fa0c988035749705.png?revision=1" /><img alt="3D simulation of sp2 orbitals of ethene." class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487016/clipboard_e363b0829e666f8eb867149038834d9d0.png?revision=1" />One \(s\) and two \(p\) valence shell orbitals mix to form three equal \(sp^2\) hybrid orbitals of similar shape to \(sp^3\), but have a larger lobe which is, on average, closer to the nucleus than \(sp^3\). The three \(sp^2\) hybrid orbitals are oriented at 120&deg; from each other in a triangular planar geometry, as illustrated in the figure on the right (Copyright: Jfmelero, CC BY-SA 3.0, via Wikimedia Commons).</p>
+
+<p>One valence \(p\) orbital that is not hybridized remains in the valence shell oriented perpendicular to the plane of the \(sp^2\) orbitals. The four valence electrons of \(\ce{C}\) are distributed one each in the three \(sp^2\) and one \(p\) orbitals. The \(sp^2\) hybrid orbitals make \(\sigma\) bonds, and the \(p\) orbital makes a \(\pi\) bond by a side-on overlap with a \(p\) orbital of the other bonded atom. For example, \(\ce{H2C=CH2}\) has both carbons \(sp^2\) hybridized, joined with each other by a \(\sigma_{sp^{2}-sp^{2}}\) bond and a \(\pi_{p-p}\) bond. There are four \(\sigma_{s-sp^2}\) bonds with \(1s\) orbital of \(\ce{H}\), as illustrated in the 3D simulation, showing \(sp^2\) hybrid orbitals in blue and \(p\) orbital in yellow (Copyright: Public domain). Figure 1.4.6 illustrates the schematics of the \(\pi\) bond in \(\ce{H2C=CH2}\).</p>
+
+<figure role="group">
+<div class="row">
+<figure><img alt="clipboard_ed1387a98ceb87012c2b4843c78fa2c45.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487019/clipboard_ed1387a98ceb87012c2b4843c78fa2c45.png?revision=1" /></figure>
+
+<figure><img alt="perspective drawing of ethene" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487017/clipboard_e1317f1ee55fe96b315bf61dea16fa2a7.png?revision=1" /></figure>
+
+<figure> </figure>
+</div>
+
+<figcaption>Figure \(\PageIndex{6}\): Illustration of bonds in \(\ce{H2C=CH2}\): a) one \(\sigma_{sp^{2}-sp^{2}}\) and four \(\sigma_{s-sp^2}\), b) one \(\pi_{p-p}\) bond (Copyright; <a title="https://it.wikibooks.org/wiki/Chimica_per_il_liceo/La_teoria_VB_e_gli_orbitali_ibridi" href="https://it.wikibooks.org/wiki/Chimica_per_il_liceo/La_teoria_VB_e_gli_orbitali_ibridi" target="_blank" rel="external noopener nofollow" class="link-https">https://it.wikibooks.org/wiki/Chimic...rbitali_ibridi</a>, CC BY 4.0, via Wikimedia Commons ). Figure on the right is a perspective drawing of \(\ce{H2C=CH2}\) (Copyright: Public domain).</figcaption>
+</figure>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_11"><span id=".5C(sp.5C)_Hybrid_orbitals"></span><h4 class="editable">\(sp\) Hybrid orbitals</h4>
+
+<p><img alt="Illustration of the shape and linear geometry of sp orbitals" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487020/clipboard_e10669a31b8c748586e7c17b53d81b7fb.png?revision=1" /><img alt="3D simulation of sp and 2p orbitals in sp hybrid carbons" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487021/clipboard_eca843b446a4334e686688868ee202c6b.png?revision=1" />One \(s\) and one \(p\) valence shell orbitals mix to form two equal \(sp\) hybrid orbitals of similar shape to \(sp^3\), but have a larger lobe which is, on average, closer to the nucleus than \(sp^2\) and \(sp^3\). The two \(sp\) hybrid orbitals are oriented at 180&deg; from each other in a linear geometry, as illustrated in the figure on the right (Copyright: Jfmelero, CC BY-SA 3.0, via Wikimedia Commons).</p>
+
+<p>Two valence \(p\) orbitals that are not hybridized remain in the valence shell oriented perpendicular to \(sp^2\) orbitals and perpendicular to each other. The four valence electrons of \(\ce{C}\) are distributed one each in the tw \(sp\) and two \(p\) orbitals. The \(sp\) hybrid orbitals make \(\sigma\) bonds, and the \(p\) orbitals make two \(\pi\) bonds by a side-on overlap with \(p\) orbitals of the other bonded atoms. For example, \(\ce{HC\equiv CH}\) has both carbons \(sp\) hybridized, joined with each other by a \(\sigma_{sp-sp}\) bond and two \(\pi_{p-p}\) bonds. There are two \(\sigma_{s-sp}\) bonds with \(1s\) orbital of \(\ce{H}\), as illustrated in the 3D simulation, showing \(sp\) hybrid orbitals in blue and \(p\) orbitals in yellow (Copyright: Public domain). Figure 1.4.7 illustrates the schematics of the \(\pi\) bonds in \(\ce{HC\equiv CH}\).</p>
+
+<figure role="group">
+<div class="row">
+<figure><img alt="clipboard_e022b45415743425edeaf2f168aafea7f.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487022/clipboard_e022b45415743425edeaf2f168aafea7f.png?revision=1" /></figure>
+
+<figure><img alt="clipboard_e58aeeb53147c17f527d0f505ceb0792e.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487023/clipboard_e58aeeb53147c17f527d0f505ceb0792e.png?revision=1" /></figure>
+</div>
+
+<figcaption>Figure \(\PageIndex{7}\): Illustration of bonds in \(\ce{HC\equiv CH}\): a) one \(\sigma_{sp-sp}\), one \(\sigma_{s-sp}\) and two \(\pi_{p-p}\) bonds (Copyright; <a title="https://it.wikibooks.org/wiki/Chimica_per_il_liceo/La_teoria_VB_e_gli_orbitali_ibridi" href="https://it.wikibooks.org/wiki/Chimica_per_il_liceo/La_teoria_VB_e_gli_orbitali_ibridi" target="_blank" rel="external noopener nofollow" class="link-https">https://it.wikibooks.org/wiki/Chimic...rbitali_ibridi</a>, CC BY 4.0, via Wikimedia Commons ). Figure on the right is a perspective drawing of \(\ce{HC\equiv CH}\) (Copyright: Public domain).</figcaption>
+</figure>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_12"><span id="Hybridization_in_atoms_other_than_.5C(.5Cce.7BC.7D.5C)"></span><h4 class="editable">Hybridization in atoms other than \(\ce{C}\)</h4>
+
+<p><img alt="illustration of tetrahederal geometry of NH3" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487038/clipboard_e2f05ff36f6ed15f7fa3d0a28ec8fafa7.png?revision=1" /><img alt="tetrahederal geometry of [NH4]+ illustrated" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487039/clipboard_eab075736838ea3441295f1d16f02c4e7.png?revision=1" />The concept of valence orbital hybridization is not limited to \(\ce{C}\), it applies to other atoms as well. The difference is in the number of valence electrons, resulting in a different number of bonds and lone pairs. For example, \(\ce{N}\) has five valence electrons. When \(\ce{N}\) makes all single bonds, it is \(sp^3\) hybridized with three \(sp^3\) orbitals singly occupied that make three single bonds with other atoms, and the fourth \(sp^3\) orbital is filled with two electrons that remains non-bonded as a lone pair. For example, \(\ce{N}\) in \(\ce{H3N\!:}\) is \(sp^3\) hybridized with three \(\sigma_{s-sp^{3}}\) bonds with \(\ce{H}\) and one lone pair occupying the fourth \(sp^3\) orbital, and trigonal pyramadial molecular geometry, as illustrated in the figure on the right. The \(\ce{H-N-H}\) angles are 107.8&deg;, a little less than ideal 109.5&deg;, due to stronger lone pair-to-bond pair repulsion than bond pair-to-bond pair repulsion. \(\ce{[NH4]^+}\) has one less valence electron and it has tetrahederal geometry with four \(\sigma_{s-sp^3}\) bond with \(\ce{H}\) and no lone pair, like \(\ce{CH4}\), as illustrated in the figure on the left. \(\ce{H3C-\overset{\Large\cdot\cdot}{N}H2}\) is an example of \(sp^3\) hybridized \(\ce{N}\) in organic compound. <img alt="tetrahederal geometry of PCl3 illustrated" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487041/clipboard_eededcbaeb19dda17c6ac26eb9b2979ae.png?revision=1" />\(\ce{P}\) is in the same group with \(\ce{N}\) having five valence electrons. In some compounds, like \(\ce{Cl3P\!:}\) is \(sp^3\) hybridized with three \(\sigma_{s-sp^{3}}\) bonds with \(\ce{Cl}\) and one lone pair occupying the fourth \(sp^3\) orbital in a trigonal pyramidal geometry, as illustrated in the figure on the left.</p>
+
+<p>Like \(\ce{C}\), when \(\ce{N}\) has one double bond, it is \(sp^2\) hybridized and when it ha triple bond it is \(sp\) hybridized. \(\ce{H2C=\overset{\Large\cdot\cdot}{N}H}\) is an example of \(sp^2\) hybridized \(\ce{N}\) with the lone pair in an \(sp^2\) orbital and  \(\ce{CH3-C\equiv N\!:}\) is an example of \(sp\) hybridized \(\ce{N}\) in organic compound with a lone pair in an \(sp\) orbital. </p>
+
+<p><img alt="sp3 hybridized oxgyen in water" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487040/clipboard_edf10e158e59a391e2d3509e56aa60d7a.png?revision=1" /><img alt="sp2 geometry of oxygen in formadehyde" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487043/clipboard_eb12119dd1b9a2bc7cebcc822abc01f7c.png?revision=1" />\(\ce{O}\) has six valence electrons. When \(\ce{O}\) has all single bonds, it is \(sp^3\) hybridized with two \(\sigma\) bonds and two lone pairs in \(sp^3\) orbitals. For example, \(\ce{O}\) in \(\ce{H2\overset{\Large\cdot\cdot}{O}\!:}\) is \(sp^3\) hybridized with two \(\sigma_{s-sp^3}\) orbitals and two lone pairs in \(sp^3\) orbitals in a bent molecular geometry, as illustrated in Figure on the left. \(\ce{CH3-\overset{\Large\cdot\cdot}{\underset{\Large\cdot\cdot}{O}}-H}\) is and example of \(sp^3\) hybridized \(\ce{O}\) in an organic compound. When there is one double bond on \(\ce{O}\) it is \(sp^2\) hybridized with two \(\sigma\) bonds, a \(\pi\) bond, and two lone pairs in \(sp^2\) orbitals, as in \(\ce{CH2=\overset{\Large\cdot\cdot}{\underset{\Large\cdot\cdot}{O}}}\), illustrated in the figure on the right. \(\ce{S}\) is in the same group with \(\ce{O}\) and its compounds can have similar hybridiztion as \(\ce{O}\). For example, \(\ce{S}\) is \(sp^3\) hybridized in \(\ce{CH3-\overset{\Large\cdot\cdot}{\underset{\Large\cdot\cdot}{S}}-H}\) and \(sp^2\) hybridized in \(\ce{CH2=\overset{\Large\cdot\cdot}{\underset{\Large\cdot\cdot}{S}}}\) similar to oxygen compounds.</p>
+
+<section class="box-note">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Quickly_recognizing_the_hybridization_and_geometries_of_atoms_in_molecules"></span><h5 class="box-legend editable"><span class="lt-icon-default">Quickly recognizing the hybridization and geometries of atoms in molecules</span></h5>
+
+<ul>
+    <li><span style="font-size:17.6px;">When \(\ce{C}\), \(\ce{N}\), and \(\ce{O}\) have octet complements in molecules with only single bonds, they are \(sp^3\) hybridized, e.g., \(\ce{C}\) in </span>\(\ce{CH4}\), \(\ce{N}\) in \(\ce{H3N\!:}\), and \(\ce{O}\) in \(\ce{H2\overset{\Large\cdot\cdot}{O}\!:}\) is \(sp^3\).
+
+    <ul>
+        <li><span style="font-size:17.6px;">When they have one \(\pi\) bond (a double bond), they are \(sp^2\) hybridized, e.g., \(\ce{C}\) and \(\ce{O}|) in </span>\(\ce{CH2=\overset{\Large\cdot\cdot}{\underset{\Large\cdot\cdot}{O}}}\)<span style="font-size:17.6px;">, and \(\ce{C}\) and \(\ce{N}\) in </span>\(\ce{H2C=\overset{\Large\cdot\cdot}{N}H}\).
+
+        <ul>
+            <li><span style="font-size:17.6px;">When they have two \(\pi\) bonds (a triple bond or two double bonds), they are \(sp\) hybridized, e.g. \(\ce{C}\) in \(\ce{O=C=O}\) and \(\ce{C}\) and \(\ce{N}\) in </span>\(\ce{CH3-C\equiv N\!:}\)</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li>When a \(sp^3\) hybridized atom has no lone pair, it has a tetrahedral molecular geometry, e.g. \(\ce{C}\) in \(\ce{CH4}\).
+    <ul>
+        <li>When there is one lone pair, it has trigonal pyramidal geometry, e.g., \(\ce{N}\) in  \(\ce{H3N\!:}\)
+        <ul>
+            <li>When it has two lone pairs, it has bent geometry, e.g., \(\ce{O}\) in \(\ce{H2\overset{\Large\cdot\cdot}{O}\!:}\) is \(sp^3\).</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li>When an \(sp^2\) hybridized atom has no lone pair, it has a triangular planar geometry, e.g, \(\ce{C}\) in \(\ce{CH2=\overset{\Large\cdot\cdot}{\underset{\Large\cdot\cdot}{O}}}\).
+    <ul>
+        <li>When there is one lone pair, it has bent geometry, e.g., <span style="font-size:17.6px;">\(\ce{N}\) in </span>\(\ce{H2C=\overset{\Large\cdot\cdot}{N}H}\).
+        <ul>
+            <li>When it has two lone pairs, it has linear geometry, e.g., \(\ce{O}\) in \(\ce{CH2=\overset{\Large\cdot\cdot}{\underset{\Large\cdot\cdot}{O}}}\).</li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li>\(sp\) hybridized atoms always have linear geometry around them, e.g, \(\ce{C}\) and \(\ce{N}\) in <span style="font-size:17.6px;">\(\ce{C}\) and \(\ce{N}\) in </span>\(\ce{CH3-C\equiv N\!:}\)</li>
+</ul>
+
+<p>Structures of these examples are illustrated in this and the previous section.</p>
+</div></section>
+
+</div></div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_13"><span id="Reactive_intermediates"></span><h3 class="editable">Reactive intermediates</h3>
+
+<p>In addition to the stable form \(\ce{C}\) commonly found in organic compounds that has four covalent bonds and may be \(sp^3\), \(sp^2\), or \(sp\)-hybridized, several reactive intermediates are high energy reactive and short-lived species, formed during chemical reactions and quickly convert into more stable species. Geometry and hybridization of some of these are described here.</p>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_14"><span id="Carbocation"></span><h4 class="editable">Carbocation</h4>
+
+<p><img alt="sp3-hybrid structure of a carbocation" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/488366/clipboard_eca4b39970021441174a2cbd64c5f357c.png?revision=1" />Carbocation, more specifically, carbenium ion, is an \(sp^2\)-hybridized \(\ce{C}\) with +1 formal charge, three covalent bonds and an empty \(p\)-orbital, as illustrated on the right. Its exampels inlcude tertiary butyl cation  \(\ce{(CH3)3\overset{+}{C}}\), triphenylmethyl cation \(\ce{(C6H5)3\overset{+}{C}}\), etc. Its structure is trigonal planar with an empty \(p\) orbital perpendicular to the trigonal plane. The \(\ce{C}\) in a carbenium ion has six valence electrons, i.e., octet incomplete. It is highly reactive and tends to complete its octet during chemical reactions.</p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_15"><span id="Carbanion"></span><h4 class="editable">Carbanion</h4>
+
+<p><img alt="tetrahederal geometry of a carbanion" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/488367/clipboard_e8052e8331060fd2965c007431acc4daf.png?revision=1" />A carbanion is an anion with a lone pair on a tetravalent carbon, as illustrated in the figure on the left. Its examples include  ethanide \(\ce{CH3\overset{-}{C}H2}\), <i>t</i>-butanide \(\ce{(CH3)3\overset{-}{C}}\), triphenylmethanide \(\ce{(C6H5)3\overset{-}{C}}\), etc. It is usually \(sp^3\)-hybridized with lone pair in one \(sp^3\)-orbital, resulting in a trigonal pyramidal geometry,  like that of ammonia. It has eight valence electrons, is still reactive because of the negative charge, and tends to react and convert into neutral, more stable species in chemical reactions.</p>
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_16"><span id="Carbon_radical"></span><h4 class="editable">Carbon radical</h4>
+
+<p><img alt="trigonal planar carbon radical" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/488368/clipboard_e22ed59b7b83c23a74187c0506e38ddfe.png?revision=1" /><img alt="Pyramidal structure of a carbon radical" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/488369/clipboard_e288c133ba6ea4b25a9af20339cf3a03a.png?revision=1" />Carbon radical is a molecule containing a \(\ce{C}\) with zero formal charge and an unpaired electron. Its examples include methyl radical \(\ce{\overset{\Huge\cdot}{C}H3}\), <i>t</i>-butyl radical \(\ce{(CH3)3\overset{\Huge \cdot}{C}}\), triphenylmethyl radical \(\ce{(C6H5)3\overset{\Huge \cdot}{C}}\), etc. It is usually \(sp^2\) hybridized with an unpaired electron in \(p\)-orbital, as illustrated in the figure on the right. Still, pyramidal geometries are also observed in some cases, as illustrated in the figure on the left. Since the radical \(\ce{C}\) has an incomplete octet with seven valence electrons, it is highly reactive and tends to make covalent bonds to complete its octet in chemical reactions.</p>
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_17"><span id="Carbene"></span><h4 class="editable">Carbene</h4>
+
+<p><img alt="sp2 structure of a singlet carbene" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/488370/clipboard_eac695c812286a563c8529a9d2df6c7ed.png?revision=1" /><img alt="tetrahederal geometry of triplet carbene" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/488371/clipboard_e855d6b0bcd0eceab596912796581b204.png?revision=1" />Carbene is a molecule containing a neutral \(\ce{C}\) with two covalent bonds and two non-bonding electrons. Its examples include dichlorocarbene \(\ce{Cl2C\!\!\Large :}\) and methylene \(\ce{H2C\!\!\Large :}\). There are two classes of carbene, singlet and triplet. A singlet carbene is usually \(sp^2\)-hybridized \(\ce{C}\) with trigonal planer geometry, containing two covalent bonds and a lone pair in an \(sp^2\)-orbital and an empty \(p\)-orbital perpendicular to the trigonal plane, as illustrated in the figure on the left. A triplet carbene is usually \(sp^3\)-hybridized \(\ce{C}\) with two covalent bonds and two \(sp^3\)-orbitals occupied by an unpaired electron, as illustrated in the figure on the right. Since it has an octet incomplete with six valence electrons and empty or singly occupied valence orbitals, it is a highly reactive intermediate.</p>
+</div></div></div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_18"><span id="Molecular_orbital_(MO)_theory"></span><h2 class="editable">Molecular orbital (MO) theory</h2>
+
+<p><img alt="wave superpostion illustrated" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487053/clipboard_edf7834e2dd7b2b8ce08629c3bc8485f7.png?revision=1" />Atomic orbitals (AO) are regions around the nucleus where electrons are most likely found. AOs are obtained by wave functions treating electrons as waves. Interference of two or more waves (wave superposition) can be constructive interference, enhancing each other, or destructive interference, cancelling each other, as illustrated in the figure on the right (Copyright: Public domain). Similarly, molecular orbital (MO) theory describes molecular orbitals (MOs) derived mathematically by a linear combination of atomic orbitals of compatible symmetry, creating an equal number of molecular orbitals. For example, an electron wavefunction of one \(\ce{H}\), \(\psi_1\) may combine with that of second \(\ce{H}\), \(\psi_2\), either constructively resulting in a bonding MO (\(\Psi = \psi_{2} + \psi_{2}\)) or destructively resulting in antibonding MO (\(\Psi^{*} = \psi_{2} + \psi_{2}\)).</p>
+
+<section class="box-note">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Types_of_molecular_orbitals"></span><h5 class="box-legend editable"><span class="lt-icon-default">Types of molecular orbitals</span></h5>
+
+<p>The \(\Psi\) is called a <strong>bonding molecular orbital</strong> because it places electrons more between the nuclei in the overlapped region, resulting in an increased attractive force and lowering of potential energy than the AOs. The \(\Psi^*\) is an <strong>antibonding molecular orbital</strong> because it cancels the orbital between the nuclei, resulting in higher potential energy than AOs, as illustrated in Figure 1.4.7. If an atomic orbital has no compatible orbital to interact with, it becomes a <strong>nonbonding molecular orbital</strong> of energy equal to the corresponding atomic orbital.</p>
+</div></section>
+
+<figure><img alt="clipboard_e46997069a8f2f3c4c0353e30b478487f.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487056/clipboard_e46997069a8f2f3c4c0353e30b478487f.png?revision=1" />
+<figcaption>Figure \(\PageIndex{7}\): Illustration of molecular orbital (MO) constructive and destructive interference of \(\ce{H}\) atomic orbitals during \(\ce{H2}\) formation (right), resulting in bonding and antibonding molecular orbitals (middle). The MO energy diagram is shown on the right. (Copyright; Public domain)</figcaption>
+</figure>
+
+<section class="box-note">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Filling_molecular_orbitals_with_electrons"></span><h5 class="box-legend editable"><span class="lt-icon-default">Filling molecular orbitals with electrons</span></h5>
+
+<p>Molecular orbitals are usually shown in an energy diagram to show their relative energies, as illustrated in Figure 1.4.7. In the energy diagram, the AOs are drawn on the sides, and the MOs are in the middle. The MOs are filled with the available valence electrons of the bonded atoms by the same rules as for AOs, i.e., i) the lowest energy orbital is filled first, each orbital can take a maximum of two electrons provided they have opposite spins, and iii) degenerate orbitals are filled singly until all of them is singly occupied, before electron pairing begins. </p>
+</div></section>
+
+<section class="box-note">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Naming_molecular_orbitals"></span><h5 class="box-legend editable"><span class="lt-icon-default">Naming molecular orbitals</span></h5>
+
+<p><img alt="illustration of sigma p-p molecuilar orbitals" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487058/clipboard_e9ce98814aba5e7b790b2e5ed2680bcbc.png?revision=1" /><img alt="illustration of pi pp orbitals" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487060/clipboard_e9cd5513f868ebf8c0b85c6dafd1268c2.png?revision=1" />The MOs are named \(\sigma\), \(\pi\), \(\delta\), etc. A \(\sigma\) orbital is formed by the head-on overlap of atomic orbitals, resulting in a cylindrically symmetrical electron density distribution on the bond axis. The bonding and antibonding orbitals formed by a combination of \(1s\) AOs of \(\ce{H}\), shown in Figure 1.4.7, are an example of \(\sigma\) MO. Figure on the right illustrates \(\sigma\) orbitals formed by overlaping \(p\) orbitals.</p>
+
+<p>A \(\pi\) MO is formed by a lateral overlap of atomic orbitals, e.g., two parallel \(p\) orbitals, placing electron density above and below the bond axis with a nodal plane passing through the bond axis. Figure on the left illustrates \(\pi\) bonds formed by overlapping \(p\) orbitals. \(\delta\) and other MOs are not described here.</p>
+</div></section>
+
+<p><img alt="MO diagram of F2" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487063/clipboard_e68752adfc91b54a0a2c935c090fd82bd.png?revision=1" /><img alt="MO diagram of O2" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487064/clipboard_e0f9d514d8bc5160c8e2b51e464054468.png?revision=1" />A linear combination of \(n\) atomic orbitals produces \(n\) molecular orbitals by the following general formula \(\sum_{n=1}^{n} c_{n}\psi_{n} = \Psi_{n}\), where \(\Psi_{n}\) is the n<sup>th </sup>molecular orbital, \(\psi\) are atomic orbitals, and \(c_n\) are weighted contribution of the atomic orbitals ranging form 1 to \(n\).</p>
+
+<p>Figure on the right illustratres MO energy diagram of \(\ce{HF}\) molecule, where \(1\pi\) are nonbonding molecular orbitals derived from \(2p_x\) and \(2p_y\) atomic orbitals of \(\ce{F}\) without any interference. Figure on the left illustrates the MO energy diagram of \(\ce{O2}\). Note that it shows two unpaired electrons in the degenerate \(\pi^*\) molecular orbitals. The unpaired electrons in \(\ce{O2}\) explain its paramagnetic property of \(\ce{O2}\) explain its paramagnetic property that valence bond theory could not explain. </p>
+
+<section class="box-note">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Highest_occupied_molecular_orbital_(HOME)_and_lowest_unoccupied_molecular_orbitals_(LUMO)"></span><h5 class="box-legend editable"><span class="lt-icon-default">Highest occupied molecular orbital (HOME) and lowest unoccupied molecular orbitals (LUMO)</span></h5>
+
+<p>Two of the molecular orbitals are important in describing their chemical reactions. One is the highest energy occupied molecular orbital (HOMO), e.g., \(\pi^*\) in the case of \(\ce{O2}\) and \(1\pi\) in the case of \(\ce{HF}\) shown in the energy diagrams on the left and right. The other is the lowest energy unoccupied molecular orbital (LUMO), e.g., \(\sigma^*\) in the case of \(\ce{O2}\) and \(4\pi\) in the case of \(\ce{HF}\) shown in the energy diagrams on the left and right.</p>
+</div></section>
+
+<p><img alt="A bonding MO of CH3Br" class="internal right" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487066/clipboard_e3f4174d0f35bc54bb85cbacdf484986b.png?revision=1" /><img alt="LUMO of CH3Br" class="internal left" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487067/clipboard_eea68c84035ebf901482b7baf128e4567.png?revision=1" />Atomic orbitals are associated with atoms. Valence bond theory describes primarily the orbitals localized between two bonded atoms. Molecular orbital theory describes molecular orbitals related to molecules. Some of the molecular orbitals may span the entire molecule. For example, the figure on the right shows one of the bonding molecular orbitals of \(\ce{CH3Br}\) that spans the whole molecule. The figure on the left shows the LUMO of \(\ce{CH3Br}\), showing phases of the wavefunction in red and blue colors. It will be described in later chapters concerning the reaction of \(\ce{CH3Br}\).</p>
+
+<p>Most of the time, the valence bond theory and the molecular orbital theory explain the chemical phenomena equally well. Valence bond theory will be used more often because it is relatively simple. However, molecular orbital theory sometimes offers a better explanation and is needed. Therefore, a hybrid approach combining the two theories will be employed in the later chapters to explain the chemical concepts.</p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section" id="section_19"><span id="Bond_strength"></span><h2 class="editable">Bond strength</h2>
+
+<p>One measure of bond strength is the bond dissociation energy (BDE)</p>
+
+<section class="box-definition">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01:_Bonding_and_structure/1.04:_Bonding_theories_and_geometries_of_molecules" class="mt-section"><span id="Bond_dissociation_energy_(BDE)"></span><h5 class="box-legend editable"><span class="lt-icon-default">Bond dissociation energy (BDE)</span></h5>
+
+<p>Bond dissociation energy is the amount of energy released as heat when \(\ce{A-B}\) cleaves into fragments \(\ce{A^\cdot}\) and \(\ce{B^\cdot}\). </p>
+</div></section>
+
+<p>The following are some of the factors affecting bond strength.</p>
+
+<ul>
+    <li>A bond between smaller valence orbitals is usually stronger than between larger orbitals because of the larger distance between the shared electrons and the nuclei.</li>
+    <li>Other factors being equal, a triple bond is stronger and shorter than a double bond, and a double bond is stronger and shorter than a single bond. This is because the number of shared electrons is six in a triple bond, four in a double bond, and two in a single bond.</li>
+    <li>A \(\sigma\) bond formed by head-on overlap is stronger than a \(\pi\) bond formed by lateral overlap due to more overlap in the former case. </li>
+    <li>A \(\pi\) bond is strongest when the overlapping orbitals are parallel, becomes weaker with less overlap as the orbitals rotate from parallel orientation, and becomes zero when they are at 90&deg; from each other, due to the overlap of + lobe being equal with the + and the -lobes of the other cancelling each other and voice versa,  as illustrated in Figure 1.4.8 a) and b).</li>
+    <li>A bond between two orbitals of comparable sizes is stronger than when the overlapping orbitals are of different sizes; the larger the difference in sizes, the weaker the overlap and the weaker the bond. Comparison of Figure 1.4.8 a) and c) illustrates this point.</li>
+    <li>A \(\sigma\) bond is strongest when the overlapping orbitals are oriented parallel along the bond-axis and become weaker when they are bent from the parallel orientation. Comparison of Figure 1.4.8 d) and e) illustrates this point.</li>
+</ul>
+
+<figure><img alt="clipboard_e7097539b7afdd6dc465b93f60fde1b5a.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/487106/clipboard_e7097539b7afdd6dc465b93f60fde1b5a.png?revision=1" />
+<figcaption>Figure \(\PageIndex{8}\): Illustration of two orbitals making a strong \(\pi\) bond when they are of comparable sizes in parallel orientation (a) becoming weaker and reaching zero bond when they rotate to 90 &deg; (b), become weaker with less overlap when they are of different sizes (c). Copy and Paste Caption here. (Copyright; Public domain)</figcaption>
+</figure>
+
+<p>These points will be discussed with examples in later chapters. </p>
+
+
+</div>
+
+                    <footer class="mt-content-footer">
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "1.4: Bonding theories and geometries of molecules";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p>This page titled <a target="_blank" class="internal mt-self-link" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01%3A_Bonding_and_structure/1.04%3A_Bonding_theories_and_geometries_of_molecules" rel="internal">1.4: Bonding theories and geometries of molecules</a> is shared under a <a rel="nofollow" href="" target="_blank">Public Domain  </a>  license and was authored, remixed, and/or curated by <a rel="nofollow" target="_blank" href="https://scholar.google.com/citations?user=NJt3vSwAAAAJ&amp;hl=en">Muhammad Arif Malik</a>. </p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01%3A_Bonding_and_structure/1.03%3A_Chemical_bonds" title="1.3: Chemical bonds"><span>1.3: Chemical bonds</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_-Part_1_Fundamentals_(Malik)/01%3A_Bonding_and_structure/1.05%3A_Polarity_of_bonds_and_molecules" title="1.5: Polarity of bonds and molecules"><span>1.5: Polarity of bonds and molecules</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="113" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-authorname-muhammad malik" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Author</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=authorname%3Ammalik" data-ga-label="Classification">Muhammad Malik</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-public domain" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Apublicdomain" data-ga-label="Classification">Public Domain</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+        </ol>
+            This page has no tags.
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="003fb3ed8c58d85a5044647fca5cba651bc4bb1960ac96bbca23e5dd8516f7f3" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
