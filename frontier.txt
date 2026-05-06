@@ -183,7 +183,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/22%3A_Metals
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/11%3A_Chemical_Equilibrium
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/12%3A_Solubility_Equilibria
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/13%3A_Acid-Base_Equilibria
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/14%3A_Thermochemistry
@@ -8990,3 +8989,9 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/10%3A_Fu
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/10%3A_Fundamentals_of_Acids_and_Bases/10.04%3A_Acid-Base_Reactions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/10%3A_Fundamentals_of_Acids_and_Bases/10.06%3A_Types_of_Acids_and_Bases
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/10%3A_Fundamentals_of_Acids_and_Bases/10.07%3A_Acid-Base_Gallery
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/11%3A_Chemical_Equilibrium/11.01%3A_Introduction_to_Chemical_Equilibrium
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/11%3A_Chemical_Equilibrium/11.02%3A_Le_Chatelier's_Principle
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/11%3A_Chemical_Equilibrium/11.03%3A_Reaction_Quotient
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/11%3A_Chemical_Equilibrium/11.04%3A_Equilibrium_Expressions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/11%3A_Chemical_Equilibrium/11.05%3A_Equilibrium_Calculations
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Chem1_(Lower)/11%3A_Chemical_Equilibrium/11.06%3A_Phase_Distribution_Equilibria
