@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/7%3A_Thermochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/8%3A_Electromagnetic_Radiation
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/9%3A_Quantum_Numbers
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/Chapter_15%3A_The_Properties_of_Solutions
@@ -9426,3 +9425,12 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/6%3A_Gases/6.7_Ideal_Gas_law_Equation_and_Reaction_Stoichiometry_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/6%3A_Gases/6.8_Second_Type_of_Ideal_Gas_Law_Problems_(Video)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/6%3A_Gases/6.9_Density_and_the_Molar_Mass_of_Gases_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/7%3A_Thermochemistry/7.1_Definitions_in_Thermochemistry_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/7%3A_Thermochemistry/7.2_The_Movement_of_Heat_in_a_Substance_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/7%3A_Thermochemistry/7.3_Enthalpy_of_Reaction_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/7%3A_Thermochemistry/7.4_Conservation_of_Energy%3A_The_Movement_of_Heat_between_Substances_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/7%3A_Thermochemistry/7.5_Conservation_of_Energy%3A_Bomb_Calorimetry
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/7%3A_Thermochemistry/7.6_Conservation_of_Energy%3A_Coffee_Cup_Calorimetry_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/7%3A_Thermochemistry/7.7_Hesss_Law_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/7%3A_Thermochemistry/7.8_Definition_of_Heat_of_Formation_Reactions_(Video)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/The_Video_Textbook_of_General_Chemistry_(Farmer)/7%3A_Thermochemistry/7.9_Calculating_DH_using_DHf_(Video)
