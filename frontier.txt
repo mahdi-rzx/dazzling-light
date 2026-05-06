@@ -223,7 +223,6 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemist
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/04%3A_Three_Major_Classes_of_Chemical_Reactions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/05%3A_Gases_and_the_Kinetic-Molecular_Theory
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/06%3A_Thermochemistry_-_Energy_Flow_and_Chemical_Change
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/07%3A_Quantum_Theory_and_Atomic_Structure
@@ -9535,3 +9534,11 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Central_Science_(Brown_et_al.)/03%3A_Stoichiometry-_Chemical_Formulas_and_Equations/3.S%3A_Stoichiometry_(Summary)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/02%3A_The_Components_of_Matter/2.E%3A_The_Components_of_Matter_(Exercises)
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/03%3A_Stoichiometry_of_Formulas_and_Equation/3.01%3A_The_Mole
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/04%3A_Three_Major_Classes_of_Chemical_Reactions/4.01%3A_Solution_Concentration_and_the_Role_of_Water_as_a_Solvent
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/04%3A_Three_Major_Classes_of_Chemical_Reactions/4.02%3A_Writing_Equations_for_Aqueous_Ionic_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/04%3A_Three_Major_Classes_of_Chemical_Reactions/4.03%3A_Precipitation_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/04%3A_Three_Major_Classes_of_Chemical_Reactions/4.04%3A_Acid-Base_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/04%3A_Three_Major_Classes_of_Chemical_Reactions/4.05%3A_Oxidation-Reduction_(Redox)_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/04%3A_Three_Major_Classes_of_Chemical_Reactions/4.06%3A_Elements_in_Redox_Reactions
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/04%3A_Three_Major_Classes_of_Chemical_Reactions/4.07%3A_The_Reversibility_of_Reactions_and_the_Equilibrium_State
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Chemistry_-_The_Molecular_Nature_of_Matter_and_Change_(Silberberg)/03%3A_Stoichiometry_of_Formulas_and_Equation/3.E%3A_Stoichiometry_of_Formulas_and_Equations_(Exercises)
