@@ -117,7 +117,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_II_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/03%3A_Reactions
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/04%3A_Chemistry_of_Nonmetallic_Elements
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/05%3A_Chemistry_of_Main-Group_Metals
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/06%3A_Chemistry_of_Transition_Metals
@@ -4516,3 +4515,7 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/02%3A_Bonding_and_Structure/2.01%3A_Classification_of_bonding
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/02%3A_Bonding_and_Structure/2.02%3A_Geometrical_factors_governing_bonding_and_structure
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/02%3A_Bonding_and_Structure/2.03%3A_Electronic_factors_which_govern_bonding_and_structure
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/03%3A_Reactions/3.01%3A_Thermodynamics
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/03%3A_Reactions/3.02%3A_Electrochemistry
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/03%3A_Reactions/3.03%3A_Oxidation_and_reduction
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/03%3A_Reactions/3.04%3A_Acid_and_base
