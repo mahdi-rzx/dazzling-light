@@ -1,0 +1,3253 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="12.6: Diatomic Molecules"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12%3A_The_Chemical_Bond/12.06%3A_Diatomic_Molecules"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content=""/>
+        <meta property="article:published_time" content="2015-12-26T19:45:10Z"/>
+        <meta property="article:modified_time" content="2025-06-29T19:01:02Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="12.6: Diatomic Molecules"/>
+        <meta name="twitter:description" content=""/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content=""/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12%3A_The_Chemical_Bond/12.06%3A_Diatomic_Molecules"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d">{"@context":"http:\/\/schema.org","@type":"Article","name":"12.6: Diatomic Molecules","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Physical_Chemistry_for_the_Biosciences_(LibreTexts)\/12%3A_The_Chemical_Bond\/12.06%3A_Diatomic_Molecules","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2015-12-26T19:45:10Z","dateModified":"2025-06-29T19:01:02Z","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/41384\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Physical_Chemistry_for_the_Biosciences_(LibreTexts)\/12%3A_The_Chemical_Bond\/12.06%3A_Diatomic_Molecules"},"headline":"12.6: Diatomic Molecules","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"12.6: Diatomic Molecules","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Physical_Chemistry_for_the_Biosciences_(LibreTexts)\/12%3A_The_Chemical_Bond\/12.06%3A_Diatomic_Molecules","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Physical_Chemistry_for_the_Biosciences_(LibreTexts)\/12%3A_The_Chemical_Bond\/12.E%3A_The_Chemical_Bond_(Exercises)","https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Physical_Chemistry_for_the_Biosciences_(LibreTexts)\/12%3A_The_Chemical_Bond\/12.01%3A_Lewis_Structures","https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Physical_Chemistry_for_the_Biosciences_(LibreTexts)\/12%3A_The_Chemical_Bond\/12.02%3A_Valence_Bond_Theory","https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Physical_Chemistry_for_the_Biosciences_(LibreTexts)\/12%3A_The_Chemical_Bond\/12.03%3A_Hybridization_of_Atomic_Orbitals","https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Physical_Chemistry_for_the_Biosciences_(LibreTexts)\/12%3A_The_Chemical_Bond\/12.04%3A_Electronegativity_and_Dipole_Moment"]}</script>
+        <script type="application/ld+json" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps","name":"Physical & Theoretical Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Physical_Chemistry_for_the_Biosciences_(LibreTexts)","name":"Physical Chemistry for the Biosciences (LibreTexts)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Physical_and_Theoretical_Chemistry_Textbook_Maps\/Physical_Chemistry_for_the_Biosciences_(LibreTexts)\/12%3A_The_Chemical_Bond","name":"12: The Chemical Bond"}}]}</script>
+
+        <title>12.6: Diatomic Molecules - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+@media print {
+     
+
+.mt-content-container .mt-responsive-table, .mt-content-container table {
+    font-size: 100%;
+    margin: 0 auto 0 auto;
+    border: 1px solid #E8E8E8;
+    margin-bottom: 1rem !important;
+}
+
+.mt-content-container .mt-responsive-table caption, .mt-content-container table caption { 
+    display: table-caption;
+    text-align: center;
+    font-size: 90%;
+    padding: 0 0 0.2rem 0;
+}
+
+.mt-content-container .mt-responsive-table th, .mt-content-container table th {
+  font-size: inherit;
+  vertical-align: middle;
+  border-bottom: 1px solid #E8E8E8;
+  margin: inherit;
+  padding: 0.4em !important;
+}
+
+.mt-content-container .mt-responsive-table tr, .mt-content-container table tr {
+  page-break-inside:avoid; 
+  page-break-after:auto;
+  margin: inherit;
+  font-size: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+  border-bottom: 1px solid #E8E8E8;
+}
+    
+.mt-content-container .mt-responsive-table td, .mt-content-container table td {
+  border: 1px solid #E8E8E8;
+  page-break-inside: avoid !important;
+  page-break-before: avoid;
+  margin: inherit;
+  vertical-align: middle;
+  padding: 0.4em !important;
+}
+
+.mt-content-container table ol, 
+.mt-content-container table ul,
+.mt-content-container table p,
+.mt-content-container table ol,
+.mt-content-container table ul,
+.mt-content-container table p {
+    font-size: inherit;
+    margin: inherit;
+}
+
+mjx-container svg path,
+mjx-container svg use {
+  stroke: none !important;
+  stroke-width: 0 !important;
+}
+    
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=5ecf894c5c2393a0557bb7cb6809d083_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=9c65c297d5c55e05b69a4f51f9424162:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your CXone Expert deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact CXone Expert support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":41384,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"12.6: Diatomic Molecules","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"37","pageSectionEditable":false,"pageTitle":"Bookshelves\/Physical and Theoretical Chemistry Textbook Maps\/Physical Chemistry for the Biosciences (LibreTexts)\/12: The Chemical Bond\/12.06: Diatomic Molecules","pageViewId":"0708c9d0-35ca-46c3-8840-e5679bfc0784","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"N2FjNTk2ODUtNDAwOC00MmY5LTllODYtYzIyOGQ0YjA4OGU0fDIwMjYtMDUtMDZUMTI6NDQ6MzY=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778071477_e48f9f895965b1e69b91db9e1da5820189facb03b2a62f0d98ced1812bfc969f","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-physicalandtheoreticalchemistrytextbookmaps-physicalchemistryforthebiosciences%28libretexts%29-12%3Athechemicalbond-12.06%3Adiatomicmolecules columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">12: The Chemical Bond</div><div style="display:none" id="parentParentTitleHolder">Physical Chemistry for the Biosciences (LibreTexts)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;12.01:_Lewis_Structures&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12.02:_Valence_Bond_Theory&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12.03:_Hybridization_of_Atomic_Orbitals&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12.04:_Electronegativity_and_Dipole_Moment&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12.05:_Molecular_Orbital_Theory&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12.06:_Diatomic_Molecules&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12.07:_Resonance_and_Electron_Delocalization&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12.08:_Coordination_Compounds&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12.09:_Coordination_Compounds_in_Biological_Systems&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12.E:_The_Chemical_Bond_(Exercises)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_Introduction_to_Physical_Chemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_Properties_of_Gases&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_The_First_Law_of_Thermodynamics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:_The_Second_Law_of_Thermodynamics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05:_Solutions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06:_Chemical_Equilibrium&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07:_Electrochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08:_Acids_and_Bases&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09:_Chemical_Kinetics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10:_Enzyme_Kinetics&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;11:_Quantum_Mechanics_and_Atomic_Structure&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12:_The_Chemical_Bond&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Intermolecular_Forces&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Photochemistry_and_Photobiology&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Macromolecules&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Sun, 29 Jun 2025 18:54:59 GMT</div><div style="display:none" id="titleHolder">12.6: Diatomic Molecules</div><div style="display:none" id="IDHolder">41384</div><div style="display:none" id="pageIDHolder">41384</div><div style="display:none" id="pageAuthorHolder">LibreBot</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;resonance&quot;, &quot;paramagnetism&quot;, &quot;diamagnetism&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;licenseversion:40&quot;, &quot;chemicalbonding&quot;, &quot;molecularorbital&quot;, &quot;bondorder&quot;, &quot;lewisstructure&quot;, &quot;moleculargeometry&quot;, &quot;electronpairgeometry&quot;, &quot;ValenceBondTheory&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;resonance&quot;, &quot;paramagnetism&quot;, &quot;diamagnetism&quot;, &quot;showtoc:no&quot;, &quot;license:ccbyncsa&quot;, &quot;licenseversion:40&quot;, &quot;chemicalbonding&quot;, &quot;molecularorbital&quot;, &quot;bondorder&quot;, &quot;lewisstructure&quot;, &quot;moleculargeometry&quot;, &quot;electronpairgeometry&quot;, &quot;ValenceBondTheory&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FPhysical_and_Theoretical_Chemistry_Textbook_Maps%2FPhysical_Chemistry_for_the_Biosciences_(LibreTexts)%2F12%253A_The_Chemical_Bond%2F12.06%253A_Diatomic_Molecules</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FPhysical_and_Theoretical_Chemistry_Textbook_Maps%2FPhysical_Chemistry_for_the_Biosciences_%28LibreTexts%29%2F12%3A_The_Chemical_Bond%2F12.06%3A_Diatomic_Molecules" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FPhysical_and_Theoretical_Chemistry_Textbook_Maps%2FPhysical_Chemistry_for_the_Biosciences_%28LibreTexts%29%2F12%3A_The_Chemical_Bond%2F12.06%3A_Diatomic_Molecules" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Physical &amp; Theoretical Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Physical Chemistry for the Biosciences (LibreTexts)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12%3A_The_Chemical_Bond" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    12: The Chemical Bond
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            12.6: Diatomic Molecules
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        12.6: Diatomic Molecules
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2025-06-29T18:54:59Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/41384/pdf/12.6%253A%2bDiatomic%2bMolecules.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>41384</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Molecular_Orbitals_Formed_from_ns_and_np_Atomic_Orbitals" rel="internal">Molecular Orbitals Formed from ns and np Atomic Orbitals</a></li><li><a href="#Second_Row_Diatomic_Molecules" rel="internal">Second Row Diatomic Molecules</a><ol><li><a href="#Example_.5C(.5CPageIndex.7B1.7D.5C)" rel="internal">Example \(\PageIndex{1}\)</a></li><li><a href="#Exercise_.5C(.5CPageIndex.7B1.7D.5C)" rel="internal">Exercise \(\PageIndex{1}\)</a></li></ol></li><li><a href="#Molecular_Orbitals_for_Heteronuclear_Diatomic_Molecules" rel="internal">Molecular Orbitals for Heteronuclear Diatomic Molecules</a><ol><li><a href="#An_Odd_Number_of_Valence_Electrons:_NO" rel="internal">An Odd Number of Valence Electrons: NO</a></li></ol></li><li><a href="#Nonbonding_Molecular_Orbitals" rel="internal">Nonbonding Molecular Orbitals</a><ol><li><a href="#Example_.5C(.5CPageIndex.7B2.7D.5C)" rel="internal">Example \(\PageIndex{2}\)</a></li><li><a href="#Exercise_.5C(.5CPageIndex.7B2.7D.5C)" rel="internal">Exercise \(\PageIndex{2}\)</a></li></ol></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                
+          <p class="lt-chem-41384">For almost every covalent molecule that exists, we can now draw the Lewis structure, predict the electron-pair geometry, predict the molecular geometry, and come close to predicting bond angles. However, one of the most important molecules we know, the oxygen molecule O<sub>2</sub>, presents a problem with respect to its Lewis structure. We would write the following Lewis structure for O<sub>2</sub>:</p>
+
+<p class="mt-align-center lt-chem-41384"><span><img alt="A Lewis structure is shown. It is made up of two oxygen atoms, each with two lone pairs of electrons, bonded together with a double bond." style="width: 325px; height: 48px;" class="internal" loading="lazy" width="325px" height="48px" src="https://chem.libretexts.org/@api/deki/files/73141/CNX_Chem_08_04_O2_img.jpg?revision=1&amp;size=bestfit&amp;width=325&amp;height=48" /> </span></p>
+
+<p class="lt-chem-41384">This electronic structure adheres to all the rules governing Lewis theory. There is an O=O double bond, and each oxygen atom has eight electrons around it. However, this picture is at odds with the magnetic behavior of oxygen. By itself, O<sub>2</sub> is not magnetic, but it is attracted to magnetic fields. Thus, when we pour liquid oxygen past a strong magnet, it collects between the poles of the magnet and defies gravity. Such attraction to a magnetic field is called <span>paramagnetism</span>, and it arises in molecules that have unpaired electrons. And yet, the Lewis structure of O<sub>2</sub> indicates that all electrons are paired. How do we account for this discrepancy?</p>
+
+<p class="lt-chem-41384">Magnetic susceptibility measures the force experienced by a substance in a magnetic field. When we compare the weight of a sample to the weight measured in a magnetic field (Figure \(\PageIndex{1}\)), paramagnetic samples that are attracted to the magnet will appear heavier because of the force exerted by the magnetic field. We can calculate the number of unpaired electrons based on the increase in weight.</p>
+
+<figure><img height="298" width="397" class="internal" alt="A solenoid with a magnetic field sits between two magnets, with a balance scale holding weights on one side. Purple lines illustrate the magnetic field around the setup." loading="lazy" src="https://chem.libretexts.org/@api/deki/files/73142/CNX_Chem_08_04_Gouy.jpg?revision=1" /><figcaption>Figure <span class="title-prefix"> \(\PageIndex{1}\)</span>: A <span class="no-emphasis">Gouy</span> balance compares the mass of a sample in the presence of a magnetic field with the mass with the electromagnet turned off to determine the number of unpaired electrons in a sample.</figcaption></figure>
+
+<p class="lt-chem-41384">Experiments show that each O<sub>2</sub> molecule has two unpaired electrons. The Lewis-structure model does not predict the presence of these two unpaired electrons. Unlike oxygen, the apparent weight of most molecules decreases slightly in the presence of an inhomogeneous magnetic field. Materials in which all of the electrons are paired are <span>diamagnetic</span> and weakly repel a magnetic field. Paramagnetic and diamagnetic materials do not act as permanent magnets. Only in the presence of an applied magnetic field do they demonstrate attraction or repulsion.</p>
+
+
+
+<div class="mt-video-widget mt-video-width-55" data-video-url="http://www.youtube.com/embed/A1vyB-O5i6E"><div style="width: 640px; height: 360px; position: relative; padding-bottom: 0;"><iframe src="https://www.youtube.com/embed/A1vyB-O5i6E?vq=hd1080" frameborder="0" allowfullscreen="true" style="width: 100%; height: 100%; position: absolute"></iframe></div></div>
+
+<p class="mt-align-center lt-chem-41384"><strong><em>Video </em></strong><em><strong><span class="title-prefix">\(\PageIndex{1}\)</span>:</strong></em> <em>Water, like most molecules, contains all paired electrons. Living things contain a large percentage of water, so they demonstrate diamagnetic behavior. If you place a frog near a sufficiently large magnet, it will levitate. You can see videos of diamagnetic floating frogs, strawberries, and more (<a title="https://www.youtube.com/watch?v=A1vyB-O5i6E" href="https://www.youtube.com/watch?v=A1vyB-O5i6E" target="_blank" rel="external noopener nofollow" class="link-https">https://www.youtube.com/watch?v=A1vyB-O5i6E</a>)</em></p>
+
+
+
+<p class="lt-chem-41384">Molecular orbital theory (MO theory) provides an explanation of chemical bonding that accounts for the paramagnetism of the oxygen molecule. It also explains the bonding in a number of other molecules, such as violations of the octet rule and more molecules with more complicated bonding (beyond the scope of this text) that are difficult to describe with Lewis structures. Additionally, it provides a model for describing the energies of electrons in a molecule and the probable location of these electrons. Unlike valence bond theory, which uses hybrid orbitals that are assigned to one specific atom, MO theory uses the combination of atomic orbitals to yield molecular orbitals that are delocalized over the entire molecule rather than being localized on its constituent atoms. MO theory also helps us understand why some substances are electrical conductors, others are semiconductors, and still others are insulators. Table \(\PageIndex{1}\) summarizes the main points of the two complementary bonding theories. Both theories provide different, useful ways of describing molecular structure.</p>
+
+
+
+<table class="mt-responsive-table" align="center" border="1" style="width: 100%; table-layout: fixed;" summary="A table is shown that is composed of two columns and six rows. The header row reads, &ldquo;Valence Bond Theory,&rdquo; and, &ldquo;Molecular Orbital Theory.&rdquo; The first column contains the phrases: &ldquo;considers bonds as localized between one pair of atoms,&rdquo; &ldquo;creates bonds from overlap of atomic orbitals ( s, p, d&hellip;) and hybrid orbitals ( s p , s p superscript 2, s p superscript 3 &hellip; ) ,&rdquo; &ldquo;forms sigma or pi bonds,&rdquo; &ldquo;predicts molecular shape based on the number of regions of electron density,&rdquo; and, &ldquo;needs multiple structures are needed to describe resonance.&rdquo; The second column reads, &ldquo;considers electrons delocalized throughout the entire molecule,&rdquo; &ldquo;combines atomic orbitals to form molecular orbitals ( sigma, sigma superscript asterik, pi, pi superscript asterisk ),&rdquo; &ldquo;creates bonding and antibonding interactions based on which orbitals are filled,&rdquo; &ldquo;predicts the arrangement of electrons in molecules.&rdquo;">
+	<caption>Table <span class="title-prefix"> \(\PageIndex{1}\)</span> : Comparison of Bonding Theories</caption>
+	<thead>
+		<tr valign="middle">
+			<th data-mt-bgcolor="1" scope="col" class="mt-align-center">Valence Bond Theory</th>
+			<th data-mt-bgcolor="1" scope="col" class="mt-align-center">Molecular Orbital Theory</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr valign="middle">
+			<td style="text-align:center;" class="lt-chem-41384">considers bonds as localized between one pair of atoms</td>
+			<td style="text-align:center;" class="lt-chem-41384">considers electrons delocalized throughout the entire molecule</td>
+		</tr>
+		<tr valign="middle">
+			<td style="text-align:center;" class="lt-chem-41384">creates bonds from overlap of atomic orbitals (<em>s, p, d</em>&hellip;) and hybrid orbitals (<em>sp, sp</em><sup>2</sup>, <em>sp</em><sup>3</sup>&hellip;)</td>
+			<td style="text-align:center;" class="lt-chem-41384">combines atomic orbitals to form molecular orbitals (&sigma;, &sigma;*, &pi;, &pi;*)</td>
+		</tr>
+		<tr valign="middle">
+			<td style="text-align:center;" class="lt-chem-41384">forms &sigma; or &pi; bonds</td>
+			<td style="text-align:center;" class="lt-chem-41384">creates bonding and antibonding interactions based on which orbitals are filled</td>
+		</tr>
+		<tr valign="middle">
+			<td style="text-align:center;" class="lt-chem-41384">predicts molecular shape based on the number of regions of electron density</td>
+			<td style="text-align:center;" class="lt-chem-41384">predicts the arrangement of electrons in molecules</td>
+		</tr>
+		<tr valign="middle">
+			<td style="text-align:center;" class="lt-chem-41384">needs multiple structures to describe resonance</td>
+			<td style="text-align:center;" class="lt-chem-41384">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<div class="exercises block">
+<span id="Molecular_Orbitals_Formed_from_ns_and_np_Atomic_Orbitals"></span><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12:_The_Chemical_Bond/12.06:_Diatomic_Molecules" class="mt-section"><span id="Molecular_Orbitals_Formed_from_ns_and_np_Atomic_Orbitals"></span><h2 class="lt-chem-41384 editable">Molecular Orbitals Formed from <em>ns</em> and <em>np</em> Atomic Orbitals</h2>
+
+<p class="lt-chem-41384"><object cotype="cs" style="width: 0px; height: 0px; display: block;" type="cosymantecnisbfw"></object></p>
+</div></div>
+
+
+<p class="lt-chem-41384">Atomic orbitals other than <em>ns</em> orbitals can also interact to form molecular orbitals. Because individual <em>p</em>, <em>d</em>, and <em>f</em> orbitals are not spherically symmetrical, however, we need to define a coordinate system so we know which lobes are interacting in three-dimensional space. Recall that for each <em>np</em> subshell, for example, there are <em>np</em><sub><em>x</em></sub>, <em>np</em><sub><em>y</em></sub>, and <em>np</em><sub><em>z</em></sub> orbitals. All have the same energy and are therefore degenerate, but they have different spatial orientations.</p>
+
+<p class="mt-align-center lt-chem-41384">\[ \sigma _{np_{z}}=np_{z}\left ( A \right )-np_{z}\left ( B \right ) \label{Eq6}\]</p>
+
+<p class="lt-chem-41384">Just as with <em>ns</em> orbitals, we can form molecular orbitals from <em>np</em> orbitals by taking their mathematical sum and difference. When two positive lobes with the appropriate spatial orientation overlap, as illustrated for two <em>np</em><sub><em>z</em></sub> atomic orbitals in part (a) in Figure \(\PageIndex{2}\), it is the mathematical <em>difference</em> of their wave functions that results in <em>constructive</em> interference, which in turn increases the electron probability density between the two atoms. The difference therefore corresponds to a molecular orbital called a \( \sigma _{np_{z}} \) <em>bonding molecular orbital</em> because, just as with the &sigma; orbitals discussed previously, it is symmetrical about the internuclear axis (in this case, the <em>z</em>-axis):</p>
+
+<p class="lt-chem-41384">
+</p><p class="title editable lt-chem-41384">\[ \sigma _{np_{z}}=np_{z}\left ( A \right )-np_{z}\left ( B \right ) \label{Eq6a}\]</p>
+
+
+<p class="lt-chem-41384">The other possible combination of the two <em>np</em><sub><em>z</em></sub> orbitals is the mathematical sum:</p>
+
+<p class="mt-align-center lt-chem-41384">\[ \sigma _{np_{z}}=np_{z}\left ( A \right )+np_{z}\left ( B \right ) \label{Eq7}\]</p>
+
+<p class="lt-chem-41384">In this combination, shown in part (b) in Figure \(\PageIndex{2}\), the positive lobe of one <em>np</em><sub><em>z</em></sub> atomic orbital overlaps the negative lobe of the other, leading to <em>destructive</em> interference of the two waves and creating a node between the two atoms. Hence this is an antibonding molecular orbital. Because it, too, is symmetrical about the internuclear axis, this molecular orbital is called a \( \sigma _{np_{z}}=np_{z}\left ( A \right )-np_{z}\left ( B \right ) \) <em>antibonding molecular orbital</em>. Whenever orbitals combine, <em>the bonding combination is always lower in energy</em> (more stable) than the atomic orbitals from which it was derived, and <em>the antibonding combination is higher in energy</em> (less stable).</p>
+
+<div class="figure large \label{Eq">
+<figure><img style="width: 806px; height: 161px;" class="internal" alt="Diagram showing different types of covalent bond overlaps: s-s, s-p, and p-p orbital overlaps, with sigma and pi bond formations illustrated between atomic orbitals." loading="lazy" width="806px" height="161px" src="https://chem.libretexts.org/@api/deki/files/38981/59955ca68f85f1596b47ae45fcf9af92.jpg?revision=1&amp;size=bestfit&amp;width=806&amp;height=161" /><figcaption>Figure \(\PageIndex{2}\): Formation of Molecular Orbitals from  np<sub><em>z</em></sub> Atomic Orbitals on Adjacent Atoms.(a) By convention, in a linear molecule or ion, the <em>z</em>-axis always corresponds to the internuclear axis, with +<em>z</em> to the right. As a result, the signs of the lobes of the <em>np</em><sub><em>z</em></sub> atomic orbitals on the two atoms alternate &minus; + &minus; +, from left to right. In this case, the &sigma; (bonding) molecular orbital corresponds to the mathematical <em>difference</em>, in which the overlap of lobes with the same sign results in increased probability density between the nuclei. (b) In contrast, the &sigma;* (antibonding) molecular orbital corresponds to the mathematical <em>sum</em>, in which the overlap of lobes with opposite signs results in a nodal plane of zero probability density perpendicular to the internuclear axis.</figcaption></figure>
+
+<section class="box-emphasis">
+<p class="lt-chem-41384">Overlap of atomic orbital lobes with the <em>same sign</em> produces a bonding molecular orbital, regardless of whether it corresponds to the sum or the difference of the atomic orbitals.</p>
+</section>
+</div>
+
+<p class="lt-chem-41384">The remaining <em>p</em> orbitals on each of the two atoms, <em>np</em><sub><em>x</em></sub> and <em>np</em><sub><em>y</em></sub>, do not point directly toward each other. Instead, they are perpendicular to the internuclear axis. If we arbitrarily label the axes as shown in Figure \(\PageIndex{3}\), we see that we have two pairs of <em>np</em> orbitals: the two <em>np</em><sub><em>x</em></sub> orbitals lying in the plane of the page, and two <em>np</em><sub><em>y</em></sub> orbitals perpendicular to the plane. Although these two pairs are equivalent in energy, the <em>np</em><sub><em>x</em></sub> orbital on one atom can interact with only the <em>np</em><sub><em>x</em></sub> orbital on the other, and the <em>np</em><sub><em>y</em></sub> orbital on one atom can interact with only the <em>np</em><sub><em>y</em></sub> on the other. These interactions are side-to-side rather than the head-to-head interactions characteristic of &sigma; orbitals. Each pair of overlapping atomic orbitals again forms two molecular orbitals: one corresponds to the arithmetic sum of the two atomic orbitals and one to the difference. The sum of these side-to-side interactions increases the electron probability in the region above and below a line connecting the nuclei, so it is a bonding molecular orbital that is called a pi (&pi;) orbital<span class="glossdef"> (a</span><span class="glossdef"> bonding molecular orbital formed from the side-to-side interactions of two or more parallel np atomic orbitals)</span>. The difference results in the overlap of orbital lobes with opposite signs, which produces a nodal plane perpendicular to the internuclear axis; hence it is an antibonding molecular orbital, called a pi star (&pi;*) orbital <span class="glossdef">An antibonding molecular orbital formed from the difference of the side-to-side interactions of two or more parallel <em>np</em> atomic orbitals, creating a nodal plane perpendicular to the internuclear axis.</span>.</p>
+
+<p class="lt-chem-41384">
+</p><p class="title editable lt-chem-41384">\[ \pi _{np_{x}}=np_{x}\left ( A \right )+np_{x}\left ( B \right ) \label{Eq8}\]</p>
+
+
+<p class="lt-chem-41384">
+</p><p class="title editable lt-chem-41384">\[ \pi ^{\star }_{np_{x}}=np_{x}\left ( A \right )-np_{x}\left ( B \right ) \label{Eq9}\]</p>
+
+
+<p class="lt-chem-41384">The two <em>np</em><sub><em>y</em></sub> orbitals can also combine using side-to-side interactions to produce a bonding \( \pi _{np_{y}} \) molecular orbital and an antibonding \( \pi _{np_{y}}^{\star } \) molecular orbital. Because the <em>np</em><sub><em>x</em></sub> and <em>np</em><sub><em>y</em></sub> atomic orbitals interact in the same way (side-to-side) and have the same energy, the \( \pi _{np_{x}} \) and  \( \pi _{np_{y}} \)molecular orbitals are a degenerate pair, as are the \( \pi _{np_{x}}^{\star } \) and \( \pi _{np_{y}}^{\star } \) molecular orbitals.</p>
+
+<div class="figure large \label{Eq">
+<figure><img style="width: 773px; height: 288px;" class="internal" alt="Diagram showing s and p atomic orbital overlaps for sigma and pi covalent bonding and anti-bonding, with labeled arrows and orbitals indicating the bonding orientation and electron sharing." loading="lazy" width="773px" height="288px" src="https://chem.libretexts.org/@api/deki/files/38982/fca62c5aaf625e8788818eaa77879188.jpg?revision=1&amp;size=bestfit&amp;width=773&amp;height=288" /><figcaption>Figure \(\PageIndex{3}\): Formation of &pi; Molecular Orbitals from  np<sub><em>x</em></sub> and <em>np</em><sub><em>y</em></sub> Atomic Orbitals on Adjacent Atoms.(a) Because the signs of the lobes of both the <em>np</em><sub><em>x</em></sub> and the <em>np</em><sub><em>y</em></sub> atomic orbitals on adjacent atoms are the same, in both cases the mathematical sum corresponds to a &pi; (bonding) molecular orbital. (b) In contrast, in both cases, the mathematical difference corresponds to a &pi;* (antibonding) molecular orbital, with a nodal plane of zero probability density perpendicular to the internuclear axis.</figcaption></figure>
+</div>
+
+<p class="lt-chem-41384">Figure \(\PageIndex{4}\) is an energy-level diagram that can be applied to two identical interacting atoms that have three <em>np</em> atomic orbitals each. There are six degenerate <em>p</em> atomic orbitals (three from each atom) that combine to form six molecular orbitals, three bonding and three antibonding. The bonding molecular orbitals are lower in energy than the atomic orbitals because of the increased stability associated with the formation of a bond. Conversely, the antibonding molecular orbitals are higher in energy, as shown. The energy difference between the &sigma; and &sigma;* molecular orbitals is significantly greater than the difference between the two &pi; and &pi;* sets. The reason for this is that the atomic orbital overlap and thus the strength of the interaction are greater for a &sigma; bond than a &pi; bond, which means that the &sigma; molecular orbital is more stable (lower in energy) than the &pi; molecular orbitals.</p>
+
+<div class="figure large medium-height \label{Eq">
+<figure><img style="width: 443px; height: 246px;" class="internal" alt="Molecular orbital diagram showing the combination of atomic orbitals from two hydrogen atoms and one oxygen atom to form H&#8322;O molecular orbitals, with increasing energy on the y-axis." loading="lazy" width="443px" height="246px" src="https://chem.libretexts.org/@api/deki/files/38983/79625f9e351fccbc4c8e4ce4c801154d.jpg?revision=1&amp;size=bestfit&amp;width=443&amp;height=246" /><figcaption>Figure \(\PageIndex{4}\): The Relative Energies of the &sigma; and &pi; Molecular Orbitals Derived from  np<sub><em>x</em></sub>, <em>np</em><sub><em>y</em></sub>, and <em>np</em><sub><em>z</em></sub> Orbitals on Identical Adjacent Atoms. Because the two <em>np</em><sub><em>z</em></sub> orbitals point directly at each other, their orbital overlap is greater, so the difference in energy between the &sigma; and &sigma;* molecular orbitals is greater than the energy difference between the &pi; and &pi;* orbitals.</figcaption></figure>
+</div>
+
+<p class="lt-chem-41384">Although many combinations of atomic orbitals form molecular orbitals, we will discuss only one other interaction: an <em>ns</em> atomic orbital on one atom with an <em>np</em><sub><em>z</em></sub> atomic orbital on another. As shown in Figure \(\PageIndex{5}\), the sum of the two atomic wave functions (<em>ns</em> + <em>np</em><sub><em>z</em></sub>) produces a &sigma; bonding molecular orbital. Their difference (<em>ns</em> &minus; <em>np</em><sub><em>z</em></sub>) produces a &sigma;* antibonding molecular orbital, which has a nodal plane of zero probability density perpendicular to the internuclear axis.</p>
+
+<div class="figure large \label{Eq">
+<figure><img style="width: 847px; height: 159px;" class="internal" alt="571fd349d2367d12d1d975713d16c808.jpg" loading="lazy" width="847px" height="159px" src="https://chem.libretexts.org/@api/deki/files/38984/571fd349d2367d12d1d975713d16c808.jpg?revision=1&amp;size=bestfit&amp;width=847&amp;height=159" /><figcaption>Figure \(\PageIndex{5}\): Formation of Molecular Orbitals from an  ns Atomic Orbital on One Atom and an <em>np</em><sub><em>z</em></sub> Atomic Orbital on an Adjacent Atom.(a) The mathematical sum results in a &sigma; (bonding) molecular orbital, with increased probability density between the nuclei. (b) The mathematical difference results in a &sigma;* (antibonding) molecular orbital, with a nodal plane of zero probability density perpendicular to the internuclear axis.</figcaption></figure>
+</div>
+
+
+
+<span id="Second_Row_Diatomic_Molecules"></span><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12:_The_Chemical_Bond/12.06:_Diatomic_Molecules" class="mt-section" id="section_1"><span id="Second_Row_Diatomic_Molecules"></span><h2 class="lt-chem-41384 editable">Second Row Diatomic Molecules</h2>
+
+<p class="lt-chem-41384">If we combine the splitting schemes for the 2s and 2p orbitals, we can predict bond order in all of the diatomic molecules and ions composed of elements in the first complete row of the periodic table. Remember that only the valence orbitals of the atoms need be considered; as we saw in the cases of lithium hydride and dilithium, the inner orbitals remain tightly bound and retain their localized atomic character.</p>
+
+<p class="lt-chem-41384">We now describe examples of systems involving period 2 homonuclear diatomic molecules, such as N<sub>2</sub>, O<sub>2</sub>, and F<sub>2</sub>. When we draw a molecular orbital diagram for a molecule, there are four key points to remember:</p>
+
+<ol class="orderedlist \label{Eq">
+	<li class="lt-chem-41384">The number of molecular orbitals produced is the same as the number of atomic orbitals used to create them (the law of conservation of orbitals).</li>
+	<li class="lt-chem-41384">As the overlap between two atomic orbitals increases, the difference in energy between the resulting bonding and antibonding molecular orbitals increases.</li>
+	<li class="lt-chem-41384">When two atomic orbitals combine to form a pair of molecular orbitals, the bonding molecular orbital is stabilized about as much as the antibonding molecular orbital is destabilized.</li>
+	<li class="lt-chem-41384">The interaction between atomic orbitals is greatest when they have the same energy.</li>
+</ol>
+
+<section class="box-emphasis">
+<p class="lt-chem-41384">The number of molecular orbitals is <strong>always </strong>equal to the total number of atomic orbitals we started with.</p>
+</section>
+
+<p class="lt-chem-41384">We illustrate how to use these points by constructing a molecular orbital energy-level diagram for F<sub>2</sub>. We use the diagram in part (a) in Figure \(\PageIndex{6}\); the <em>n</em> = 1 orbitals (&sigma;<sub>1</sub><sub><em>s</em></sub> and &sigma;<sub>1</sub><sub><em>s</em></sub><em>*</em>) are located well below those of the <em>n</em> = 2 level and are not shown. As illustrated in the diagram, the &sigma;<sub>2</sub><sub><em>s</em></sub> and &sigma;<sub>2</sub><sub><em>s</em></sub><em>*</em> molecular orbitals are much lower in energy than the molecular orbitals derived from the 2<em>p</em> atomic orbitals because of the large difference in energy between the 2<em>s</em> and 2<em>p</em> atomic orbitals of fluorine. The lowest-energy molecular orbital derived from the three 2<em>p</em> orbitals on each F is \( \sigma _{2p_{z}} \) and the next most stable are the two degenerate orbitals, \( \pi _{2p_{x}} \) and \( \pi _{2p_{y}} \)<span class="inlineequation">.</span> For each bonding orbital in the diagram, there is an antibonding orbital, and the antibonding orbital is destabilized by about as much as the corresponding bonding orbital is stabilized. As a result, the \( \sigma ^{\star }_{2p_{z}} \) orbital is higher in energy than either of the degenerate \( \pi _{2p_{x}}^{\star } \) and \( \pi _{2p_{y}}^{\star } \) orbitals. We can now fill the orbitals, beginning with the one that is lowest in energy.</p>
+
+<p class="lt-chem-41384">Each fluorine has 7 valence electrons, so there are a total of 14 valence electrons in the F<sub>2</sub> molecule. Starting at the lowest energy level, the electrons are placed in the orbitals according to the Pauli principle and Hund&rsquo;s rule. Two electrons each fill the &sigma;<sub>2</sub><sub><em>s</em></sub> and &sigma;<sub>2</sub><sub><em>s</em></sub><em>*</em> orbitals, 2 fill the  \( \sigma _{2p_{z}} \) orbital, 4 fill the two degenerate &pi; orbitals, and 4 fill the two degenerate &pi;<sup>*</sup> orbitals, for a total of 14 electrons. To determine what type of bonding the molecular orbital approach predicts F<sub>2</sub> to have, we must calculate the bond order. According to our diagram, there are 8 bonding electrons and 6 antibonding electrons, giving a bond order of (8 &minus; 6) &divide; 2 = 1. Thus F<sub>2</sub> is predicted to have a stable F&ndash;F single bond, in agreement with experimental data.</p>
+
+<figure><img style="width: 764px; height: 347px;" class="internal" alt="Two phylogenetic trees labeled A and B, each showing branching relationships among five samples labeled by location, with nodes labeled by bootstrap values." loading="lazy" width="764px" height="347px" src="https://chem.libretexts.org/@api/deki/files/38991/92de5415fc537b486f8b0a331a51c681.jpg?revision=1&amp;size=bestfit&amp;width=764&amp;height=347" /><figcaption>Figure \(\PageIndex{6}\): Molecular Orbital Energy-Level Diagrams for Homonuclear Diatomic Molecules.(a) For F<sub>2</sub>, with 14 valence electrons (7 from each F atom), all of the energy levels except the highest, \( \sigma ^{\star }_{2p_{z}} \) are filled. This diagram shows 8 electrons in bonding orbitals and 6 in antibonding orbitals, resulting in a bond order of 1. (b) For O<sub>2</sub>, with 12 valence electrons (6 from each O atom), there are only 2 electrons to place in the \( \left ( \pi ^{\star }_{np_{x}},\; \pi ^{\star }_{np_{y}} \right ) \) pair of orbitals. Hund&rsquo;s rule dictates that one electron occupies each orbital, and their spins are parallel, giving the O<sub>2</sub> molecule two unpaired electrons. This diagram shows 8 electrons in bonding orbitals and 4 in antibonding orbitals, resulting in a predicted bond order of 2.</figcaption></figure>
+
+<p class="lt-chem-41384">We now turn to a molecular orbital description of the bonding in O<sub>2</sub>. It so happens that the molecular orbital description of this molecule provided an explanation for a long-standing puzzle that could not be explained using other bonding models. To obtain the molecular orbital energy-level diagram for O<sub>2</sub>, we need to place 12 valence electrons (6 from each O atom) in the energy-level diagram shown in part (b) in Figure \(\PageIndex{6}\). We again fill the orbitals according to Hund&rsquo;s rule and the Pauli principle, beginning with the orbital that is lowest in energy. Two electrons each are needed to fill the &sigma;<sub>2</sub><sub><em>s</em></sub> and &sigma;<sub>2</sub><sub><em>s</em></sub><em>*</em> orbitals, 2 more to fill the \( \sigma _{2p_{z}} \) orbital, and 4 to fill the degenerate \( \pi _{2p_{x}}^{\star } \) and \( \pi _{2p_{y}}^{\star } \)  orbitals. According to Hund&rsquo;s rule, the last 2 electrons must be placed in separate &pi;<sup>*</sup> orbitals with their spins parallel, giving two unpaired electrons. This leads to a predicted bond order of (8 &minus; 4) &divide; 2 = 2, which corresponds to a double bond, in agreement with experimental data (Table 4.5): the O&ndash;O bond length is 120.7 pm, and the bond energy is 498.4 kJ/mol at 298 K.</p>
+
+<p class="lt-chem-41384">None of the other bonding models can predict the presence of two unpaired electrons in O<sub>2</sub>. Chemists had long wondered why, unlike most other substances, liquid O<sub>2</sub> is attracted into a magnetic field. As shown in Video \(\PageIndex{2}\), it actually remains suspended between the poles of a magnet until the liquid boils away. The only way to explain this behavior was for O<sub>2</sub> to have unpaired electrons, making it paramagnetic, exactly as predicted by molecular orbital theory. This result was one of the earliest triumphs of molecular orbital theory over the other bonding approaches we have discussed.</p>
+
+
+
+<div class="mt-video-widget mt-video-width-55" data-video-url="http://www.youtube.com/watch?v=Lt4P6ctf06Q"><div style="width: 640px; height: 360px; position: relative; padding-bottom: 0;"><iframe src="https://www.youtube.com/embed/Lt4P6ctf06Q?vq=hd1080" frameborder="0" allowfullscreen="true" style="width: 100%; height: 100%; position: absolute"></iframe></div></div>
+
+<p class="mt-align-center lt-chem-41384"><strong><em>Video </em></strong><em><strong><span class="title-prefix">\(\PageIndex{2}\)</span></strong></em><em><strong><span class="title-prefix">:</span> </strong>Liquid O<sub>2</sub> Suspended between the Poles of a Magnet.Because the O<sub>2</sub> molecule has two unpaired electrons, it is paramagnetic. Consequently, it is attracted into a magnetic field, which allows it to remain suspended between the poles of a powerful magnet until it evaporates. Full video can be found at </em><a title="https://www.youtube.com/watch?feature=player_embedded&amp;v=Lt4P6ctf06Q" href="https://www.youtube.com/watch?feature=player_embedded&amp;v=Lt4P6ctf06Q" target="_blank" rel="external noopener nofollow" class="link-https">https://www.youtube.com/watch?featur...&amp;v=Lt4P6ctf06Q</a>.</p>
+
+
+<p class="lt-chem-41384">The magnetic properties of O<sub>2</sub> are not just a laboratory curiosity; they are absolutely crucial to the existence of life. Because Earth&rsquo;s atmosphere contains 20% oxygen, all organic compounds, including those that compose our body tissues, should react rapidly with air to form H<sub>2</sub>O, CO<sub>2</sub>, and N<sub>2</sub> in an exothermic reaction. Fortunately for us, however, this reaction is very, very slow. The reason for the unexpected stability of organic compounds in an oxygen atmosphere is that virtually all organic compounds, as well as H<sub>2</sub>O, CO<sub>2</sub>, and N<sub>2</sub>, have only paired electrons, whereas oxygen has two unpaired electrons. Thus the reaction of O<sub>2</sub> with organic compounds to give H<sub>2</sub>O, CO<sub>2</sub>, and N<sub>2</sub> would require that at least one of the electrons on O<sub>2</sub> change its spin during the reaction. This would require a large input of energy, an obstacle that chemists call a <em>spin barrier</em>. Consequently, reactions of this type are usually exceedingly slow. If they were not so slow, all organic substances, including this book and you, would disappear in a puff of smoke!</p>
+
+<p class="lt-chem-41384">For period 2 diatomic molecules to the left of N<sub>2</sub> in the periodic table, a slightly different molecular orbital energy-level diagram is needed because the \( \sigma _{2p_{z}} \) molecular orbital is slightly <em>higher</em> in energy than the degenerate \( \pi ^{\star }_{np_{x}} \) and \( \pi ^{\star }_{np_{y}} \) orbitals. The difference in energy between the 2<em>s</em> and 2<em>p</em> atomic orbitals increases from Li<sub>2</sub> to F<sub>2</sub> due to increasing nuclear charge and poor screening of the 2<em>s</em> electrons by electrons in the 2<em>p</em> subshell. The bonding interaction between the 2<em>s</em> orbital on one atom and the 2<em>pz</em> orbital on the other is most important when the two orbitals have similar energies. This interaction decreases the energy of the &sigma;<sub>2</sub><sub><em>s</em></sub> orbital and increases the energy of the \( \sigma _{2p_{z}} \) orbital. Thus for Li<sub>2</sub>, Be<sub>2</sub>, B<sub>2</sub>, C<sub>2</sub>, and N<sub>2</sub>, the \( \sigma _{2p_{z}} \) orbital is higher in energy than the \( \sigma _{3p_{z}} \) orbitals, as shown in Figure \(\PageIndex{7}\)  Experimentally, it is found that the energy gap between the <em>ns</em> and <em>np</em> atomic orbitals <em>increases</em> as the nuclear charge increases (Figure \(\PageIndex{7}\) ). Thus for example, the \( \sigma _{2p_{z}} \) molecular orbital is at a lower energy than the \( \pi _{2p_{x,y}} \) pair.</p>
+
+<div class="figure large medium-height block">
+<figure><img style="width: 581px; height: 412px;" class="internal" alt="A diagram showing molecular orbital energy levels for O&#8322;, F&#8322;, and Ne&#8322;, with increasing atomic number and electron filling in various orbitals." loading="lazy" width="581px" height="412px" src="https://chem.libretexts.org/@api/deki/files/38992/a571325e96604a46e1de72a8d29b5595.jpg?revision=1&amp;size=bestfit&amp;width=581&amp;height=412" /><figcaption>Figure \(\PageIndex{7}\): Molecular Orbital Energy-Level Diagrams for the Diatomic Molecules of the Period 2 Elements. Unlike  earlier diagrams, only the molecular orbital energy levels for the molecules are shown here. For simplicity, the atomic orbital energy levels for the component <em>atoms</em> have been omitted. For Li<sub>2</sub> through N<sub>2</sub>, the \( \sigma _{2p_{z}} \)<em> orbital is higher in energy than the </em>\( \pi _{2p_{x,y}} \)<em> orbitals. In contrast, the </em>\( \sigma _{2p_{z}} \)<em> orbital is <em>lower</em> in energy than the </em><em> </em>\( \pi _{2p_{x,y}} \)<em> orbitals for O<sub>2</sub> and F<sub>2</sub> due to the increase in the energy difference between the 2<em>s</em> and 2<em>p</em> atomic orbitals as the nuclear charge increases across the row.</em></figcaption></figure>
+</div>
+
+<p class="lt-chem-41384">Completing the diagram for N<sub>2</sub> in the same manner as demonstrated previously, we find that the 10 valence electrons result in 8 bonding electrons and 2 antibonding electrons, for a predicted bond order of 3, a triple bond. Experimental data show that the N&ndash;N bond is significantly shorter than the F&ndash;F bond (109.8 pm in N<sub>2</sub> versus 141.2 pm in F<sub>2</sub>), and the bond energy is much greater for N<sub>2</sub> than for F<sub>2</sub> (945.3 kJ/mol versus 158.8 kJ/mol, respectively). Thus the N<sub>2</sub> bond is much shorter and stronger than the F<sub>2</sub> bond, consistent with what we would expect when comparing a triple bond with a single bond.</p>
+
+<div class="exercises block">
+
+<section class="box-example"><span id="Example_.5C(.5CPageIndex.7B1.7D.5C)"></span><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12:_The_Chemical_Bond/12.06:_Diatomic_Molecules" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B1.7D.5C)"></span><h5 class="box-legend lt-chem-41384 editable"><span class="lt-icon-default">Example \(\PageIndex{1}\)</span></h5>
+
+<p class="lt-chem-41384">Use a qualitative molecular orbital energy-level diagram to predict the electron configuration, the bond order, and the number of unpaired electrons in S<sub>2</sub>, a bright blue gas at high temperatures.</p>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">Given: </strong>chemical species</p>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">Asked for: </strong>molecular orbital energy-level diagram, bond order, and number of unpaired electrons</p>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">Strategy:</strong></p>
+
+<ol start="1" style="list-style-type: upper-alpha;">
+	<li class="lt-chem-41384">Write the valence electron configuration of sulfur and determine the type of molecular orbitals formed in S<sub>2</sub>. Predict the relative energies of the molecular orbitals based on how close in energy the valence atomic orbitals are to one another.</li>
+	<li class="lt-chem-41384">Draw the molecular orbital energy-level diagram for this system and determine the total number of valence electrons in S<sub>2</sub>.</li>
+	<li class="lt-chem-41384">Fill the molecular orbitals in order of increasing energy, being sure to obey the Pauli principle and Hund&rsquo;s rule.</li>
+	<li class="lt-chem-41384">Calculate the bond order and describe the bonding.</li>
+</ol>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">Solution:</strong></p>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">A</strong> Sulfur has a [Ne]3<em>s</em><sup>2</sup>3<em>p</em><sup>4</sup> valence electron configuration. To create a molecular orbital energy-level diagram similar to those in Figure \(\PageIndex{6}\)  and Figure \(\PageIndex{7}\), we need to know how close in energy the 3<em>s</em> and 3<em>p</em> atomic orbitals are because their energy separation will determine whether the <em> </em>\( \pi _{3p_{x,y}} \) or the \( \sigma _{3p_{z}} \)<span class="inlineequation">&gt;</span> molecular orbital is higher in energy. Because the <em>ns</em>&ndash;<em>np</em> energy gap <em>increases</em> as the nuclear charge increases (Figure \(\PageIndex{7}\)), the \( \sigma _{3p_{z}} \) molecular orbital will be lower in energy than the \( \pi _{3p_{x,y}} \) pair.</p>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">B</strong> The molecular orbital energy-level diagram is as follows:</p>
+
+<div class="informalfigure large medium-height"><img height="280" width="420" class="internal" alt="Molecular orbital diagram for CO showing energy levels and electron occupancy from 2s to 2p orbitals, with atomic orbitals labeled for carbon and oxygen." loading="lazy" src="https://chem.libretexts.org/@api/deki/files/38993/11f165516623c606500d059209f4cd74.jpg?revision=1" /></div></div></section>
+
+<p class="lt-chem-41384">Each sulfur atom contributes 6 valence electrons, for a total of 12 valence electrons.</p>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">C</strong> Ten valence electrons are used to fill the orbitals through \( \pi _{3p_{x}} \) and \( \pi _{3p_{y}} \), leaving 2 electrons to occupy the degenerate \( \pi ^{\star }_{3p_{x}} \) and \( \pi ^{\star }_{3p_{y}} \) pair. From Hund&rsquo;s rule, the remaining 2 electrons must occupy these orbitals separately with their spins aligned. With the numbers of electrons written as superscripts, the electron configuration of S<sub>2</sub> is \( \left ( \sigma _{3s} \right )^{2}\left ( \sigma ^{\star }_{3s} \right )^{2}\left ( \sigma _{3p_{z}} \right )^{2}\left ( \pi _{3p_{x,y}} \right )^{4}\left ( \pi _{3p ^{\star }_{x,y}} \right )^{2} \) with 2 unpaired electrons. The bond order is (8 &minus; 4) &divide; 2 = 2, so we predict an S=S double bond.</p>
+</div>
+
+
+
+<section class="box-exercise"><span id="Exercise_.5C(.5CPageIndex.7B1.7D.5C)"></span><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12:_The_Chemical_Bond/12.06:_Diatomic_Molecules" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B1.7D.5C)"></span><h5 class="box-legend lt-chem-41384 editable"><span class="lt-icon-default">Exercise \(\PageIndex{1}\)</span></h5>
+
+<p class="lt-chem-41384">Use a qualitative molecular orbital energy-level diagram to predict the electron configuration, the bond order, and the number of unpaired electrons in the peroxide ion (O<sub>2</sub><sup>2&minus;</sup>).</p>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">Answer</strong></p>
+
+<p class="lt-chem-41384">\( \left ( \sigma _{2s} \right )^{2}\left ( \sigma ^{\star }_{2s} \right )^{2}\left ( \sigma _{2p_{z}} \right )^{2}\left ( \pi _{2p_{x,y}} \right )^{4}\left ( \pi _{2p ^{\star }_{x,y}} \right )^{4} \) bond order of 1; no unpaired electrons</p>
+</div></section>
+
+
+
+<span id="Molecular_Orbitals_for_Heteronuclear_Diatomic_Molecules"></span></div><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12:_The_Chemical_Bond/12.06:_Diatomic_Molecules" class="mt-section" id="section_2"><span id="Molecular_Orbitals_for_Heteronuclear_Diatomic_Molecules"></span><h2 class="lt-chem-41384 editable">Molecular Orbitals for Heteronuclear Diatomic Molecules</h2>
+
+<p class="lt-chem-41384">Diatomic molecules with two different atoms are called heteronuclear diatomic molecules. When two nonidentical atoms interact to form a chemical bond, the interacting atomic orbitals do not have the same energy. If, for example, element B is more electronegative than element A (&chi;<sub>B</sub> &gt; &chi;<sub>A</sub>), the net result is a &ldquo;skewed&rdquo; molecular orbital energy-level diagram, such as the one shown for a hypothetical A&ndash;B molecule in Figure \(\PageIndex{8}\). The atomic orbitals of element B are uniformly lower in energy than the corresponding atomic orbitals of element A because of the enhanced stability of the electrons in element B. The molecular orbitals are no longer symmetrical, and the energies of the bonding molecular orbitals are more similar to those of the atomic orbitals of B. Hence the electron density of bonding electrons is likely to be closer to the more electronegative atom. In this way, molecular orbital theory can describe a polar covalent bond.</p>
+
+
+
+<figure><img height="265" width="323" class="internal" alt="A molecular orbital diagram shows energy levels of atomic orbitals for atoms A (less electronegative, pink) and B (more electronegative, blue), with bonding and antibonding orbitals." loading="lazy" src="https://chem.libretexts.org/@api/deki/files/38994/18209c13fdd79ac223605b418c16897c.jpg?revision=1" /><figcaption>Figure \(\PageIndex{8}\): Molecular Orbital Energy-Level Diagram for a Heteronuclear Diatomic Molecule AB, Where &chi;<sub>B</sub> &gt; &chi;<sub>A</sub><strong><sub>. </sub></strong>The bonding molecular orbitals are closer in energy to the atomic orbitals of the more electronegative B atom. Consequently, the electrons in the bonding orbitals are not shared equally between the two atoms. On average, they are closer to the B atom, resulting in a polar covalent bond.</figcaption></figure>
+
+<section class="box-emphasis">
+<p class="lt-chem-41384">A molecular orbital energy-level diagram is always skewed toward the more electronegative atom.</p>
+</section>
+
+
+<span id="An_Odd_Number_of_Valence_Electrons:_NO"></span><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12:_The_Chemical_Bond/12.06:_Diatomic_Molecules" class="mt-section" id="section_3"><span id="An_Odd_Number_of_Valence_Electrons:_NO"></span><h3 class="lt-chem-41384 editable">An Odd Number of Valence Electrons: NO</h3>
+
+<p class="lt-chem-41384">Nitric oxide (NO) is an example of a heteronuclear diatomic molecule. The reaction of O<sub>2</sub> with N<sub>2</sub> at high temperatures in internal combustion engines forms nitric oxide, which undergoes a complex reaction with O<sub>2</sub> to produce NO<sub>2</sub>, which in turn is responsible for the brown color we associate with air pollution. Recently, however, nitric oxide has also been recognized to be a vital biological messenger involved in regulating blood pressure and long-term memory in mammals.</p>
+
+<p class="lt-chem-41384">Because NO has an odd number of valence electrons (5 from nitrogen and 6 from oxygen, for a total of 11), its bonding and properties cannot be successfully explained by either the Lewis electron-pair approach or valence bond theory. The molecular orbital energy-level diagram for NO (Figure \(\PageIndex{9}\)) shows that the general pattern is similar to that for the O<sub>2</sub> molecule (Figure \(\PageIndex{7}\)). Because 10 electrons are sufficient to fill all the bonding molecular orbitals derived from 2<em>p</em> atomic orbitals, the 11th electron must occupy one of the degenerate &pi;<sup>*</sup> orbitals. The predicted bond order for NO is therefore (8-3) &divide; 2 =  2 1/2 . Experimental data, showing an N&ndash;O bond length of 115 pm and N&ndash;O bond energy of 631 kJ/mol, are consistent with this description. These values lie between those of the N<sub>2</sub> and O<sub>2</sub> molecules, which have triple and double bonds, respectively. As we stated earlier, molecular orbital theory can therefore explain the bonding in molecules with an odd number of electrons, such as NO, whereas Lewis electron structures cannot.</p>
+
+<div class="figure large medium-height block">
+<figure><img style="width: 448px; height: 408px;" class="internal" alt="79fe2d438dfbad163cc8119628add7e9.jpg" loading="lazy" width="448px" height="408px" src="https://chem.libretexts.org/@api/deki/files/38995/79fe2d438dfbad163cc8119628add7e9.jpg?revision=1&amp;size=bestfit&amp;width=448&amp;height=408" /><figcaption>Figure \(\PageIndex{9}\): Molecular Orbital Energy-Level Diagram for NO. Because NO has 11 valence electrons, it is paramagnetic, with a single electron occupying the \( \left ( \pi ^{\star }_{2p_{x}},\; \pi ^{\star }_{2p_{y}} \right ) \)  pair of orbitals.</figcaption></figure>
+</div>
+
+<p class="lt-chem-41384">Molecular orbital theory can also tell us something about the <em>chemistry</em> of \(NO\). As indicated in the energy-level diagram in Figure \(\PageIndex{9}\), NO has a single electron in a relatively high-energy molecular orbital. We might therefore expect it to have similar reactivity as alkali metals such as Li and Na with their single valence electrons. In fact, \(NO\) is easily oxidized to the \(NO^+\) cation, which is isoelectronic with \(N_2\) and has a bond order of 3, corresponding to an N&equiv;O triple bond.</p>
+
+
+<span id="Nonbonding_Molecular_Orbitals"></span></div></div><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12:_The_Chemical_Bond/12.06:_Diatomic_Molecules" class="mt-section" id="section_4"><span id="Nonbonding_Molecular_Orbitals"></span><h2 class="lt-chem-41384 editable">Nonbonding Molecular Orbitals</h2>
+
+<p class="lt-chem-41384">Molecular orbital theory is also able to explain the presence of lone pairs of electrons. Consider, for example, the HCl molecule, whose Lewis electron structure has three lone pairs of electrons on the chlorine atom. Using the molecular orbital approach to describe the bonding in HCl, we can see from Figure \(\PageIndex{10}\) that the 1<em>s</em> orbital of atomic hydrogen is closest in energy to the 3<em>p</em> orbitals of chlorine. Consequently, the filled Cl 3<em>s</em> atomic orbital is not involved in bonding to any appreciable extent, and the only important interactions are those between the H 1<em>s</em> and Cl 3<em>p</em> orbitals. Of the three <em>p</em> orbitals, only one, designated as 3<em>p</em><sub><em>z</em></sub>, can interact with the H 1<em>s</em> orbital. The 3<em>p</em><sub><em>x</em></sub> and 3<em>p</em><sub><em>y</em></sub> atomic orbitals have no net overlap with the 1<em>s</em> orbital on hydrogen, so they are not involved in bonding. Because the energies of the Cl 3<em>s</em>, 3<em>p</em><sub><em>x</em></sub>, and 3<em>p</em><sub><em>y</em></sub> orbitals do not change when HCl forms, they are called <strong>nonbonding molecular orbitals</strong>. A nonbonding molecular orbital occupied by a pair of electrons is the molecular orbital equivalent of a lone pair of electrons. By definition, electrons in nonbonding orbitals have no effect on bond order, so they are not counted in the calculation of bond order. Thus the predicted bond order of HCl is (2 &minus; 0) &divide; 2 = 1. Because the &sigma; bonding molecular orbital is closer in energy to the Cl 3<em>p</em><sub><em>z</em></sub> than to the H 1<em>s</em> atomic orbital, the electrons in the &sigma; orbital are concentrated closer to the chlorine atom than to hydrogen. A molecular orbital approach to bonding can therefore be used to describe the polarization of the H&ndash;Cl bond to give \( H^{\delta +} - Cl^{\delta -} \).</p>
+
+<figure><img style="width: 485px; height: 329px;" class="internal" alt="Molecular orbital diagram showing energy levels and electron configurations for H&#8322;O, HClO, and Cl&#8322;, with bonding, nonbonding, and antibonding orbitals labeled." loading="lazy" width="485px" height="329px" src="https://chem.libretexts.org/@api/deki/files/38996/6a7d58ce9a6f14d1252f2744ccde3153.jpg?revision=1&amp;size=bestfit&amp;width=485&amp;height=329" /><figcaption>Figure \(\PageIndex{10}\): Molecular Orbital Energy-Level Diagram for HCl. The hydrogen 1 s atomic orbital interacts most strongly with the 3<em>p</em><sub><em>z</em></sub> orbital on chlorine, producing a bonding/antibonding pair of molecular orbitals. The other electrons on Cl are best viewed as nonbonding. As a result, only the bonding &sigma; orbital is occupied by electrons, giving a bond order of 1.</figcaption></figure>
+
+<section class="box-emphasis">
+<p class="lt-chem-41384">Electrons in nonbonding molecular orbitals have<strong> no effect </strong>on bond order.</p>
+</section>
+
+
+<section class="box-example"><span id="Example_.5C(.5CPageIndex.7B2.7D.5C)"></span><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12:_The_Chemical_Bond/12.06:_Diatomic_Molecules" class="mt-section"><span id="Example_.5C(.5CPageIndex.7B2.7D.5C)"></span><h5 class="box-legend lt-chem-41384 editable"><span class="lt-icon-default">Example \(\PageIndex{2}\)</span></h5>
+
+<p class="lt-chem-41384">Use a &ldquo;skewed&rdquo; molecular orbital energy-level diagram like the one in Figure \(\PageIndex{8}\) to describe the bonding in the cyanide ion (CN<sup>&minus;</sup>). What is the bond order?</p>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">Given: </strong>chemical species</p>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">Asked for: </strong>&ldquo;skewed&rdquo; molecular orbital energy-level diagram, bonding description, and bond order</p>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">Strategy:</strong></p>
+
+<ol start="1" style="list-style-type: upper-alpha;">
+	<li class="lt-chem-41384">Calculate the total number of valence electrons in CN<sup>&minus;</sup>. Then place these electrons in a molecular orbital energy-level diagram like Figure \(\PageIndex{8}\)  in order of increasing energy. Be sure to obey the Pauli principle and Hund&rsquo;s rule while doing so.</li>
+	<li class="lt-chem-41384">Calculate the bond order and describe the bonding in CN<sup>&minus;</sup>.</li>
+</ol>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">Solution:</strong></p>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">A</strong> The CN<sup>&minus;</sup> ion has a total of 10 valence electrons: 4 from C, 5 from N, and 1 for the &minus;1 charge. Placing these electrons in an energy-level diagram like Figure \(\PageIndex{8}\)  fills the five lowest-energy orbitals, as shown here:</p>
+
+<div class="informalfigure large medium-height"><img height="273" width="435" class="internal" alt="Molecular orbital diagram for O&#8322;, showing energy levels of atomic orbitals combining into bonding and antibonding molecular orbitals, with electron configurations indicated." loading="lazy" src="https://chem.libretexts.org/@api/deki/files/38997/84a93f107231ecfdf0e564c73e64dbcf.jpg?revision=1" /></div></div></section>
+
+<p class="lt-chem-41384">Because &chi;<sub>N</sub> &gt; &chi;<sub>C</sub>, the atomic orbitals of N (on the right) are lower in energy than those of C. <strong class="emphasis bold">B</strong> The resulting valence electron configuration gives a predicted bond order of (8 &minus; 2) &divide; 2 = 3, indicating that the CN<sup>&minus;</sup> ion has a triple bond, analogous to that in N<sub>2</sub>.</p>
+
+
+
+
+<section class="box-exercise"><span id="Exercise_.5C(.5CPageIndex.7B2.7D.5C)"></span><div mt-section-origin="Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12:_The_Chemical_Bond/12.06:_Diatomic_Molecules" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B2.7D.5C)"></span><h5 class="box-legend lt-chem-41384 editable"><span class="lt-icon-default">Exercise \(\PageIndex{2}\)</span></h5>
+
+<p class="lt-chem-41384">Use a qualitative molecular orbital energy-level diagram to describe the bonding in the hypochlorite ion (OCl<sup>&minus;</sup>). What is the bond order?</p>
+
+<p class="lt-chem-41384"><strong class="emphasis bold">Answer</strong></p>
+
+<p class="lt-chem-41384">All molecular orbitals except the highest-energy &sigma;* are filled, giving a bond order of 1.</p>
+</div></section>
+
+
+<p class="lt-chem-41384">Although the molecular orbital approach reveals a great deal about the bonding in a given molecule, the procedure quickly becomes computationally intensive for molecules of even moderate complexity. Furthermore, because the computed molecular orbitals extend over the entire molecule, they are often difficult to represent in a way that is easy to visualize. Therefore we do not use a pure molecular orbital approach to describe the bonding in molecules or ions with more than two atoms. Instead, we use a valence bond approach and a molecular orbital approach to explain, among other things, the concept of resonance, which cannot adequately be explained using other methods.</p>
+
+
+
+
+
+<script type="text/x-mathjax-config">/*<![CDATA[*/
+MathJax.Hub.Config({
+  TeX: {
+     equationNumbers: {
+        autoNumber: 'all',
+        formatNumber: function (n) { return 12.6 + '.' + n }
+     },
+     Macros: { 
+        PageIndex: ['{12.6. #1}',1],
+     }, 
+     SVG: {
+        linebreaks: { automatic: true } 
+     }
+  }
+  });
+/*]]>*/</script>
+
+
+          </div>
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "12.6: Diatomic Molecules";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p><a target="_blank" class="internal mt-self-link" href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12%3A_The_Chemical_Bond/12.06%3A_Diatomic_Molecules" rel="internal">12.6: Diatomic Molecules</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/4.0" target="_blank">CC BY-NC-SA  4.0</a>  license and was authored, remixed, and/or curated by LibreTexts.</p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12%3A_The_Chemical_Bond/12.05%3A_Molecular_Orbital_Theory" title="12.5: Molecular Orbital Theory"><span>12.5: Molecular Orbital Theory</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Physical_Chemistry_for_the_Biosciences_(LibreTexts)/12%3A_The_Chemical_Bond/12.07%3A_Resonance_and_Electron_Delocalization" title="12.7: Resonance and Electron Delocalization"><span>12.7: Resonance and Electron Delocalization</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="37" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by-nc-sa" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accbyncsa" data-ga-label="Classification">CC BY-NC-SA</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-4.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A40" data-ga-label="Classification">4.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-bondorder" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=bondorder" data-ga-label="Free tag"> bondorder</a></li>
+                <li class="mt-tag-link mt-tag-chemicalbonding" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=chemicalbonding" data-ga-label="Free tag"> chemicalbonding</a></li>
+                <li class="mt-tag-link mt-tag-diamagnetism" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=diamagnetism" data-ga-label="Free tag"> diamagnetism</a></li>
+                <li class="mt-tag-link mt-tag-electronpairgeometry" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=electronpairgeometry" data-ga-label="Free tag"> electronpairgeometry</a></li>
+                <li class="mt-tag-link mt-tag-lewisstructure" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=lewisstructure" data-ga-label="Free tag"> lewisstructure</a></li>
+                <li class="mt-tag-link mt-tag-moleculargeometry" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=moleculargeometry" data-ga-label="Free tag"> moleculargeometry</a></li>
+                <li class="mt-tag-link mt-tag-molecularorbital" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=molecularorbital" data-ga-label="Free tag"> molecularorbital</a></li>
+                <li class="mt-tag-link mt-tag-paramagnetism" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=paramagnetism" data-ga-label="Free tag"> paramagnetism</a></li>
+                <li class="mt-tag-link mt-tag-resonance" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=resonance" data-ga-label="Free tag"> resonance</a></li>
+                <li class="mt-tag-link mt-tag-valencebondtheory" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=ValenceBondTheory" data-ga-label="Free tag"> ValenceBondTheory</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by CXone Expert
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="da5a819f11638b02b7c7bb7d169a78011f8ac541d31f54acb2c8f0a0e67b973d" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=5c3d455beeed9c3c4f82d437e15fa27b84792073:site_4334"></script>
+
+
+</body>
+</html>
