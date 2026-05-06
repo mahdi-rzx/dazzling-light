@@ -117,7 +117,6 @@ https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemis
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_I_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_II_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
 https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_III_(Morsch_et_al.)/zz%3A_Back_Matter/30%3A_Detailed_Licensing
-https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/01%3A_Elements_and_Periodicity
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/02%3A_Bonding_and_Structure
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/03%3A_Reactions
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/04%3A_Chemistry_of_Nonmetallic_Elements
@@ -4510,3 +4509,8 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/00%3A_Front_Matter/02%3A_InfoPage
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/00%3A_Front_Matter/03%3A_Table_of_Contents
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/00%3A_Front_Matter/04%3A_Licensing
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/01%3A_Elements_and_Periodicity/1.01%3A_The_origin_of_elements_and_their_distribution
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/01%3A_Elements_and_Periodicity/1.02%3A_Discovery_of_elements
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/01%3A_Elements_and_Periodicity/1.03%3A_Electronic_Structure_of_Elements
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/01%3A_Elements_and_Periodicity/1.04%3A_Block_classification_of_the_periodic_table_and_elements
+https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Inorganic_Chemistry_(Saito)/01%3A_Elements_and_Periodicity/1.05%3A_Bonding_states_of_elements
