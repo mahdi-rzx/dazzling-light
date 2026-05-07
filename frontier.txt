@@ -25,7 +25,6 @@ https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textb
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/22%3A_Appendices/22.14%3A_Answer_Key
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Kinetics/06%3A_Modeling_Reaction_Kinetics/6.04%3A_Transition_State_Theory
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Map%3A_Inorganic_Chemistry_(Housecroft)/19%3A_d-Block_Metal_Chemistry_-_General_Considerations/19.05%3A_Characteristic_Properties_-_A_General_Perspective
-https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/15%3A_Thermodynamics-_Atoms_Molecules_and_Energy/15.11%3A_Bond_Enthalpies_and_Exothermic_or_Endothermic_Reactions
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Map%3A_Inorganic_Chemistry_(Housecroft)/20%3A_d-Block_Metal_Chemistry_-_Coordination_Complexes/20.09%3A_Evidence_for_Metal-Ligand_Covalent_Bonding
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Map%3A_Inorganic_Chemistry_(Housecroft)/03%3A_Introduction_to_Molecular_Symmetry/3.07%3A_Vibrational_Spectroscopy
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/08%3A_Properties_of_Organic_Compounds/8.11%3A_Hydrogen_Bonding-_Water
@@ -1938,3 +1937,7 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_M
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/19%3A_Nuclear_Chemistry/19.14%3A_Nuclear_Fission
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/19%3A_Nuclear_Chemistry/19.13%3A_Mass-Energy_Relationships
 https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/19%3A_Nuclear_Chemistry/19.16%3A_Breeder_Reactors
+https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/15%3A_Thermodynamics-_Atoms_Molecules_and_Energy/15.10%3A_Bond_Enthalpies
+https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/07%3A_Further_Aspects_of_Covalent_Bonding/7.09%3A_Polarizability
+https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/07%3A_Further_Aspects_of_Covalent_Bonding/7.11%3A_Electronegativity
+https://chem.libretexts.org/Bookshelves/General_Chemistry/ChemPRIME_(Moore_et_al.)/15%3A_Thermodynamics-_Atoms_Molecules_and_Energy/15.12%3A_Fossil_Fuels_and_the_Energy_Crisis
