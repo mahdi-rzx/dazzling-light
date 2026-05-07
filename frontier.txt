@@ -23,7 +23,6 @@ https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Map%3A_Inorganic_Che
 https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Map%3A_Inorganic_Chemistry_(Housecroft)/19%3A_d-Block_Metal_Chemistry_-_General_Considerations/19.08%3A_Isomerism_in_d-block_Metal_Complexes
 https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Quantum_Mechanics__in_Chemistry_(Simons_and_Nichols)/22%3A_Problems/22.06%3A_More_Quantitative_Aspects_of_Electronic_Structure_Calculations
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Chemistry_-_Atoms_First_2e_(OpenStax)/22%3A_Appendices/22.14%3A_Answer_Key
-https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/17%3A_Electrochemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_5%3A_Rates_of_Chemical_and_Physical_Processes/18%3A_Chemical_Kinetics
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_5%3A_Rates_of_Chemical_and_Physical_Processes/19%3A_Nuclear_Chemistry
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_5%3A_Rates_of_Chemical_and_Physical_Processes/20%3A_Molecular_Spectroscopy_and_Photochemistry
@@ -1937,3 +1936,9 @@ https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_M
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/16%3A_Solubility_and_Precipitation_Equilibria/16.5%3A_Complex_Ions_and_Solubility
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/16%3A_Solubility_and_Precipitation_Equilibria/16.6%3A_A_Deeper_Look%3A_Selective_Precipitation_of_Ions
 https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/16%3A_Solubility_and_Precipitation_Equilibria/16.E%3A_Solubility_and_Precipitation_(Exercises)
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/17%3A_Electrochemistry/17.1%3A_Electrochemical_Cells
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/17%3A_Electrochemistry/17.2%3A_The_Gibbs_Free_Energy_and_Cell_Voltage
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/17%3A_Electrochemistry/17.3%3A_Concentration_Effects_and_the_Nernst_Equation
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/17%3A_Electrochemistry/17.4%3A_Batteries_and_Fuel_Cells
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/17%3A_Electrochemistry/17.5%3A_Corrosion_and_Its_Prevention
+https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_Principles_of_Modern_Chemistry_(Oxtoby_et_al.)/Unit_4%3A_Equilibrium_in_Chemical_Reactions/17%3A_Electrochemistry/17.6%3A_Electrometallurgy
