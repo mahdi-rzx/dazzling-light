@@ -1,0 +1,3329 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="20.6: Reactions of Carboxylic Acids - An Overview"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/20%3A_Carboxylic_Acids_and_Nitriles/20.06%3A_Reactions_of_Carboxylic_Acids_-_An_Overview"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content="The section outlines the ability to identify four types of reactions involving carboxylic acids: 1) Deprotonation forming carboxylate salts for substitution; 2) Nucleophilic acyl substitution for &hellip;"/>
+        <meta property="article:published_time" content="2015-09-01T17:55:12Z"/>
+        <meta property="article:modified_time" content="2025-01-19T23:41:06Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="20.6: Reactions of Carboxylic Acids - An Overview"/>
+        <meta name="twitter:description" content="The section outlines the ability to identify four types of reactions involving carboxylic acids: 1) Deprotonation forming carboxylate salts for substitution; 2) Nucleophilic acyl substitution for &hellip;"/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content="The section outlines the ability to identify four types of reactions involving carboxylic acids: 1) Deprotonation forming carboxylate salts for substitution; 2) Nucleophilic acyl substitution for &hellip;"/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/20%3A_Carboxylic_Acids_and_Nitriles/20.06%3A_Reactions_of_Carboxylic_Acids_-_An_Overview"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01">{"@context":"http:\/\/schema.org","@type":"Article","name":"20.6: Reactions of Carboxylic Acids - An Overview","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/20%3A_Carboxylic_Acids_and_Nitriles\/20.06%3A_Reactions_of_Carboxylic_Acids_-_An_Overview","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2015-09-01T17:55:12Z","dateModified":"2025-01-19T23:41:06Z","description":"The section outlines the ability to identify four types of reactions involving carboxylic acids: 1) Deprotonation forming carboxylate salts for substitution; 2) Nucleophilic acyl substitution for creating derivatives (e.g. esters, amides); 3) Reduction by reagents like LiAlH4; 4) Alpha substitution by removing the proton alpha to the carbonyl. It suggests reviewing related study notes and covers exercises for applying these concepts.","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/36555\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/20%3A_Carboxylic_Acids_and_Nitriles\/20.06%3A_Reactions_of_Carboxylic_Acids_-_An_Overview"},"headline":"20.6: Reactions of Carboxylic Acids - An Overview","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"20.6: Reactions of Carboxylic Acids - An Overview","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/20%3A_Carboxylic_Acids_and_Nitriles\/20.06%3A_Reactions_of_Carboxylic_Acids_-_An_Overview","relatedLink":["https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/20%3A_Carboxylic_Acids_and_Nitriles\/20.S%3A_Carboxylic_Acids_and_Nitriles_(Summary)","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/20%3A_Carboxylic_Acids_and_Nitriles\/20.01%3A_Naming_Carboxylic_Acids_and_Nitriles","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/20%3A_Carboxylic_Acids_and_Nitriles\/20.02%3A_Structure_and_Properties_of_Carboxylic_Acids","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/20%3A_Carboxylic_Acids_and_Nitriles\/20.03%3A_Biological_Acids_and_the_Henderson-Hasselbalch_Equation","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/20%3A_Carboxylic_Acids_and_Nitriles\/20.04%3A_Substituent_Effects_on_Acidity"]}</script>
+        <script type="application/ld+json" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry","name":"Organic Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)","name":"Organic Chemistry (Morsch et al.)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/20%3A_Carboxylic_Acids_and_Nitriles","name":"20: Carboxylic Acids and Nitriles"}}]}</script>
+
+        <title>20.6: Reactions of Carboxylic Acids - An Overview - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint{
+    visibility: visible !important;
+    display: block !important;
+}
+.showprint{
+    visibility: hidden !important;
+    display: none !important;
+}
+
+@media print {
+
+    
+
+    
+    
+    
+    
+    table.mt-responsive-table {
+        table-layout: auto;
+    }
+
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+        visibility: hidden !important;
+        display: none !important;
+	}
+
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+
+	main.elm-skin-container {
+		display: inline;
+	}
+
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+
+    .twocolumn {
+	    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    	-moz-column-count: 2; /* Firefox */
+    	column-count: 2;
+    }
+
+    .threecolumn {
+    	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    	-moz-column-count: 3; /* Firefox */
+    	column-count: 3;
+    }
+
+	.hideprint {
+		visibility: hidden !important;;
+		display: none !important;;
+	}
+
+	.showprint {
+		visibility: visible !important;;
+		display: block !important;;
+	}
+
+	.printOnly {
+		display: block;
+	}
+
+	.printHide {
+		display: none;
+	}
+
+	img {
+		zoom: 0.65;
+		page-break-inside: avoid;
+	}
+
+	.mt-author-container img {
+		zoom: 1;
+	}
+
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+
+	blockquote {
+		padding: 1px !important;
+		margin-top: 10px !important;
+		margin-bottom: 10px !important;
+	}
+
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin: 0.3em 0 0.3em 0 !important;
+	}
+
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+		/*page-break-inside: avoid;*/
+	}
+
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+
+	ol.elm-meta-top {
+		display: none;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+        font-size: 90%;
+	}
+
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+
+	body {
+		font-size: 0.75em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+
+	h1, h2, h3, h4, h5 {
+		color: hsl(205, 82%, 42%) !important;
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-transform: uppercase;
+		text-align: left !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+		margin: 0.8em 0 0 0 !important;
+	}
+
+    h1 {
+		font-size: 18px !important;
+   		margin: 0 0 0 0 !important;
+	}
+    
+	h2 {
+		font-size: 14px !important;
+	}
+
+	h3 {
+		font-size: 12px !important;
+        font-weight: 700 !important;
+        /*color: hsl(0, 0%, 0%) !important;*/
+	}
+    
+    h4 {
+		font-size: 10px !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+        /*color: hsl(0, 0%, 0%) !important;*/
+	}
+
+	.mt-new-features-container {
+		display: none;
+	}
+
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+        line-height: 80 % !important;
+		background: none;
+        font-variant: small-caps !important;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+
+	dt {
+		color: initial;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+
+	caption {
+		display: table-caption;
+		text-align: center;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.2em !important;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+
+	table {
+		-webkit-print-color-adjust: exact;
+		page-break-inside: avoid;
+	}
+
+	table caption {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		text-align: center;
+		vertical-align: middle ";
+	}
+
+	ul, ol {
+		text-align: justify !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+    
+
+	ol li {
+		text-align: justify !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+
+	ul li {
+		text-align: justify !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+
+	/* author bar */
+	.mt-author-container {
+		background: @secondary-container-background-color;
+		border: 1px solid @secondary-container-border-color;
+		border-radius: @border-radius-default;
+		clear: both;
+		color: @tertiary-font-color;
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+
+	.mt-author-container .mt-author-image-crop {
+		border: 1px solid @primary-container-border-color;
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+
+	elm-skin-container {
+		display: block !important;
+	}
+
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+    /*
+	canvas, img, object, video {
+		max-width: 100%;
+		max-height: 500px;
+	}
+    */
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=4bbeae068c8a683ee35be007efab6fe3_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=de8936e5a499bcc33737968d3364893c:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact NiCE Knowledge Management support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your NiCE Knowledge Management deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact NiCE Knowledge Management support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":36555,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"20.6: Reactions of Carboxylic Acids - An Overview","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"33","pageSectionEditable":false,"pageTitle":"Bookshelves\/Organic Chemistry\/Organic Chemistry (Morsch et al.)\/20: Carboxylic Acids and Nitriles\/20.06: Reactions of Carboxylic Acids - An Overview","pageViewId":"7bf284c2-1fc3-47dc-8687-b04dd87a4eca","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"MjE1MTkwZDgtZTkzNy00ZmNkLWJmNWUtNTUxZmVkMTA3ZWE1fDIwMjYtMDUtMDdUMTA6MDI6MDg=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778148129_0351f7e12938879148000c7f9d13e95091e789f6fb717d467cac6a3776668c8e","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-organicchemistry-organicchemistry%28morschetal.%29-20%3Acarboxylicacidsandnitriles-20.06%3Areactionsofcarboxylicacids-anoverview columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">20: Carboxylic Acids and Nitriles</div><div style="display:none" id="parentParentTitleHolder">Organic Chemistry (Morsch et al.)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;20.00:_Chapter_Objectives_and_Introduction_to_Carboxylic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20.01:_Naming_Carboxylic_Acids_and_Nitriles&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20.02:_Structure_and_Properties_of_Carboxylic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20.03:_Biological_Acids_and_the_Henderson-Hasselbalch_Equation&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20.04:_Substituent_Effects_on_Acidity&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20.05:_Preparing_Carboxylic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20.06:_Reactions_of_Carboxylic_Acids_-_An_Overview&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20.07:_Chemistry_of_Nitriles&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20.08:_Spectroscopy_of_Carboxylic_Acids_and_Nitriles&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20.S:_Carboxylic_Acids_and_Nitriles_(Summary)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_Structure_and_Bonding&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_Polar_Covalent_Bonds_Acids_and_Bases&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_Organic_Compounds-_Alkanes_and_Their_Stereochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:_Organic_Compounds_-_Cycloalkanes_and_their_Stereochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05:_Stereochemistry_at_Tetrahedral_Centers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06:_An_Overview_of_Organic_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07:_Alkenes-_Structure_and_Reactivity&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08:_Alkenes-_Reactions_and_Synthesis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09:_Alkynes_-_An_Introduction_to_Organic_Synthesis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10:_Organohalides&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;11:_Reactions_of_Alkyl_Halides-_Nucleophilic_Substitutions_and_Eliminations&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12:_Structure_Determination_-_Mass_Spectrometry_and_Infrared_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Structure_Determination_-_Nuclear_Magnetic_Resonance_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Benzene_and_Aromaticity&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Chemistry_of_Benzene_-_Electrophilic_Aromatic_Substitution&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;17:_Alcohols_and_Phenols&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;18:_Ethers_and_Epoxides_Thiols_and_Sulfides&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19:_Aldehydes_and_Ketones-_Nucleophilic_Addition_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20:_Carboxylic_Acids_and_Nitriles&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21:_Carboxylic_Acid_Derivatives-_Nucleophilic_Acyl_Substitution_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;22:_Carbonyl_Alpha-Substitution_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23:_Carbonyl_Condensation_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;24:_Amines_and_Heterocycles&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;25:_Biomolecules-_Carbohydrates&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;26:_Biomolecules-_Amino_Acids_Peptides_and_Proteins&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27:_Biomolecules_-_Lipids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;28:_Biomolecules_-_Nucleic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;29:_Orbitals_and_Organic_Chemistry_-_Pericyclic_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;30:_Synthetic_Polymers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Sun, 19 Jan 2025 23:40:56 GMT</div><div style="display:none" id="titleHolder">20.6: Reactions of Carboxylic Acids - An Overview</div><div style="display:none" id="IDHolder">36555</div><div style="display:none" id="pageIDHolder">36555</div><div style="display:none" id="pageAuthorHolder">Delmar Larsen</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;license:ccbysa&quot;, &quot;cssprint:dense&quot;, &quot;licenseversion:40&quot;, &quot;author@Steven Farmer&quot;, &quot;author@Dietmar Kennepohl&quot;, &quot;author@Layne Morsch&quot;, &quot;authorname:libretexts&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;license:ccbysa&quot;, &quot;cssprint:dense&quot;, &quot;licenseversion:40&quot;, &quot;author@Steven Farmer&quot;, &quot;author@Dietmar Kennepohl&quot;, &quot;author@Layne Morsch&quot;, &quot;authorname:libretexts&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FOrganic_Chemistry_(Morsch_et_al.)%2F20%253A_Carboxylic_Acids_and_Nitriles%2F20.06%253A_Reactions_of_Carboxylic_Acids_-_An_Overview</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FOrganic_Chemistry_%28Morsch_et_al.%29%2F20%3A_Carboxylic_Acids_and_Nitriles%2F20.06%3A_Reactions_of_Carboxylic_Acids_-_An_Overview" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FOrganic_Chemistry_%28Morsch_et_al.%29%2F20%3A_Carboxylic_Acids_and_Nitriles%2F20.06%3A_Reactions_of_Carboxylic_Acids_-_An_Overview" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry (Morsch et al.)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/20%3A_Carboxylic_Acids_and_Nitriles" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    20: Carboxylic Acids and Nitriles
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            20.6: Reactions of Carboxylic Acids - An Overview
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        20.6: Reactions of Carboxylic Acids - An Overview
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2025-01-19T23:40:56Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/36555/pdf/20.6%253A%2bReactions%2bof%2bCarboxylic%2bAcids%2b-%2bAn%2bOverview.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>36555</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+<div class="mt-author-container"><ul><li class="mt-author-image mt-author-image-crop"><img src="https://math.libretexts.org/@api/deki/files/77648/mini_logo.png" alt=" " title="LibreTexts" /></li><li class="mt-author-information"><span>Steven Farmer, Dietmar Kennepohl, &amp; Layne Morsch</span></li><li class="mt-author-companyname"><a rel="external" target="_blank" href="https://libretexts.org/">LibreTexts</a></li></ul></div>
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Objectives" rel="internal">Objectives</a></li><li><a href="#Study_Notes" rel="internal">Study Notes</a></li><li><a href="#Four_Categories_of_Carboxylic_Acid_Reactions" rel="internal">Four Categories of Carboxylic Acid Reactions</a><ol><li><a href="#Exercise_.5C(.5CPageIndex.7B1.7D.5C)" rel="internal">Exercise \(\PageIndex{1}\)</a></li><li><a href="#Exercise_.5C(.5CPageIndex.7B2.7D.5C)" rel="internal">Exercise \(\PageIndex{2}\)</a></li></ol></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <section class="box-objectives">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/20:_Carboxylic_Acids_and_Nitriles/20.06:_Reactions_of_Carboxylic_Acids_-_An_Overview" class="mt-section"><span id="Objectives"></span><h5 class="box-legend lt-chem-36555 editable"><span class="lt-icon-default">Objectives</span></h5>
+
+<p class="lt-chem-36555">After completing this section, you should be able to identify the four types of reaction which a carboxylic acid can undergo.</p>
+</div></section>
+
+<section class="box-note">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/20:_Carboxylic_Acids_and_Nitriles/20.06:_Reactions_of_Carboxylic_Acids_-_An_Overview" class="mt-section"><span id="Study_Notes"></span><h5 class="box-legend lt-chem-36555 editable"><span class="lt-icon-default">Study Notes</span></h5>
+
+<p class="lt-chem-36555">You may wish to review Section 17.4 which discusses reduction of carbonyl compounds to form alcohols and Sections 20.2&ndash;20.4 which highlights the acidity of carboxylic acids, which is important to salt formation and substitution of the hydroxyl hydrogen. Nucleophilic acyl substitution (Chapter 21) and alpha substitutions (Chapter 22) are discussed later in more detail.</p>
+</div></section>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/20:_Carboxylic_Acids_and_Nitriles/20.06:_Reactions_of_Carboxylic_Acids_-_An_Overview" class="mt-section" id="section_1"><span id="Four_Categories_of_Carboxylic_Acid_Reactions"></span><h2 class="lt-chem-36555 editable">Four Categories of Carboxylic Acid Reactions</h2>
+
+<p class="lt-chem-36555">Carboxylic acid reactions are typically classified into four major categories:</p>
+
+<ol>
+    <li class="lt-chem-36555">As carboxylic acids are easily deprotonated, they readily form a carboxylate salt which can then potentially be reacted with an electrophile to complete a substitution of the hydroxyl hydrogen.</li>
+    <li class="lt-chem-36555">Nucleophilic acyl substitution reactions allow substitution of the hydroxyl group which leads to several carboxylic acid derivatives (e.g. acid halides, esters, amides, thioesters, acid anhydrides etc.). We will see these reactions in more detail in Chapter 21.</li>
+    <li class="lt-chem-36555">Like other carbonyl compounds, carboxylic acids can be reduced by reagents such as LiAlH<sub>4</sub>.</li>
+    <li class="lt-chem-36555">While the proton on the carbon alpha to the carbonyl group is not as acidic as the hydroxyl hydrogen, it can be removed leading to substitution at the alpha position. The scheme summarizes some of the general reactions that carboxylic acids undergo.</li>
+</ol>
+
+<p class="mt-align-center lt-chem-36555"><img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqUAAAT+CAIAAADI+rzpAAAACXBIWXMAAC4eAAAuHgGqqWO7AAAABnRSTlMA/wD/AP83WBt9AAB3i0lEQVR42uzdPbrkxpWg4ay9iDL09AqKKxDbGWtceUVTdOS1KU8OZao8uWON08UVqFYwTxsi98Ip1v1LIIFAAIkEIs55X0uqmz8BXFwk8DGQePfrr79eAAAAAIAQ3ul9AAAAABCG3gcAAAAAceh9AAAAABCH3gcAAAAAceh9AAAAABCH3gcAAAAAceh9AAAAABCH3gcAAKTz0/fvvvs48e/vf/z5X3/+3dmjA4C76H0AAEAac53vxodPv/7jj2ePFgA20fsAAIAMqlPfG9EPgC7pfQAAQHQbWt8LzQ+A7uh9AABAaNOxb7LjrXgoADRL7wMAAOL65e/ffvPD5+t/Wb4lx5bnAEA79D4AACCqcbmrn6k3fqbiB0A/9D4AACCo4eW5ay/LHSU/V/UC0Au9DwAACGnY67bkuuErmOIHQCf0PgAAIKJBrNva6gYzBAU/APqg9wEAABFdp7rtpW6XaggAh9L7AACAgPbJfaPg5zv8AOiB3gcAAMSzX6bbKxwCwFH0PgAAIJ79et/1K+l9APRA7wMAAOLZb1aeC3oB6I3eBwAAxKP3AZCX3gcAAMSz31W4rucFoDd6HwAAEI/7dQCQl94HAAAEtFemczkvAN3R+wAAgIAGnW578NvpZQCacf2fQ67ZxUWi9wEAABHtUurkPiCMuc53w1TmAPQ+AAAgpsG57Zbz10Htk/uAblWnvjeiX9/0PgAAIKjhGe7aXjesfc59gT5taH0v7Pf6pfcBAABhjc5z65PfKPaZ3Ad0aTr2TXa8FQ+lfXofAAAQ2M0Z7HK5G7c+tQ/o0padmR1gEHofAAAQmuktQEbjcle/KzPBOQC9DwAAiO52wko1sQ/o0vC/X6zdlfkC097pfQAAQAZuTwnkMex1blCej94HAACkUTvRz6kt0LPBvm7rDm3wX0nsFTuj9wEAAOnMdT9ntEAE16lu+35tl2rIOfQ+AAAAgDj2yX2j4OcbDrqi9wEAAACEsV+m2ysccji9DwAAACCM/Xrf9SvpfV3R+wAAAADC2G9Wngt6u6X3AQAAAISh96H3AQAAAMSx31W4ruftlt4HAABk8e5d7RlQ/SMBGuN+Heh9AABADu/evXv6H4snQfWPBGjQXpnO5bz90vsAAIAU9D4giUGn2x78dnoZzqD3AQAAKeh9QBa7lDq5r2d6HwAAkILeB+RxfUnvpktxB7VP7uuO3gcAAKSg9wGJDILf6l43rH2+u68/eh8AAJCC3gekMix+K5LfKPaZ3NcjvQ8AAEhB7wOSGRW/mnI3bn1qX6f0PgAAIAW9D0jnpvh9NXl57oqH0j69DwAASEHvAzK6nbFXTezrl94HAACkoPcBWU3P3SvS+vqm9wEAACnofUBqtRP9fGFfBHofAACQgt4HcJnvfjpfJHofAACQgt4HQBJ6HwAAkILeB0ASeh8AAJCC3gdAEnofAACQgt4HQBJ6HwAAkILeB0ASeh8AAJCC3gdAEnofAACQgt4HZPZlz1a5T6t/JM3yKwQAAFLQ+4C07ACz0fsAAIAUnO4CadkBZqP3AQAAKTjdBdKyA8xG7wMAAFJwugukZQeYjd4HAACk4HQXSMsOMBu9DwAASMHpLpCWHWA2eh8AAJCC010gLTvAbPQ+AAAgBae7QFp2gNnofQAAQApOd4G07ACz0fsAAIAUnO4CadkBZqP3AQAAKTjdBdKyA8xG7wMAAFJwugukZQeYjd4HAACk4HQXSMsOMBu9DwAASMHpLpCWHWA2eh8AAJCC010gLTvAbPQ+AAAgBae7QFp2gNnofQAAQApOd4G07ACz0fsAAIAUnO4CadkBZqP3AQAAKTjdBdKyA8xG7wMAAFJwugukZQeYjd4HAACk4HQXSMsOMBu9DwAASMHpLpCWHWA2eh8AAJCC010gLTvAbPQ+AAAgBae7QFp2gNnofQAAQApOd4G07ACz0fsAAIAUnO4CadkBZqP3AQAAKTjdBdKyA8xG7wMAgBV++v7ddx+f//eHT7/+448HPJN9ON0F0rIDzEbvA+DRXk9wp85uf/r+23//5V9//t3aF/3l799+88Pnq39IcOo8sa6K6xZ4DL2vX053gbTsALPR+wB4tLkm9fzv73/8eWXvu2l9ly2v0pW5daX3wQn0vn453QXSsgPMRu8D4NGmm9RrtFtd6q5PmF+FPnOeX1d6H5xA7+uX010gLTvAbPQ+AB5t5973Nrsv+Jy+iUVOs8TQNL2vX053gbTsALPR+wB4tEf1vjzxK+EiQ8v0vn453QXSsgPMRu8D4NEe1fvynCzrfdAUva9fTneBtOwAs9H7AJi8AcZyWZr6Gr3JZ41739TtNmrecvJ7+y5XL1x67MyZ9ctYnt578KynZ7z808vghoMfD3n4tgsLVLMCl9bV0vf3rV0Pc7+je0Ljbr8LaIXe1y+nu0BadoDZ6H0Ayc0FpSfT56Pz4e2r2Qh2TO8rjO52ca4a03/9zzeD5932vv/876mBv7zo9PuWC+jiCryj921aD19+9PMf/jqzRayvE/v+LqAVel+/nO4CadkBZqP3AWRWjn1PxqekNc8ZRq4je99CSbtZnNfG9P7958+fJx741vt+/I8ffph9+7/8e3at1E7Zm3zO1t63dT0sWNUndv9dQCv0vn453QXSsgPMRu8DSOzqzHN84jn3o+suVCiBg8Z13Pf3XZ9KX7/soGbNLs/kUEbR6urJE4ns6qdzZ/VbVmBhXU2v23vXw/CHc69W9oDfBbRC7+uX010gLTvAbPQ+gLwWittUSnpLMtNnqpMt7qjed9WLJkb3dpo9V58mF+nq7PxmoINAdbsYr0+dvD53xQpc2fvuXQ/F6llZKB7yu4BW6H39croLpGUHmI3eB5DXUnvaYnx7i+t/e3DvW1yccn+bGUaxdJWr1qYlnFqB63rfQ9bD1HNqfke7/i6gFYsXq1fR+87gdBdIyw4wG70PILH5a1XvfrUTet/SrWrvjGPl2X/Fn1Yu4ewKXNf7HrIeVv62HvO7gFboff1yugukZQeYjd4HkNnsXRoqqk75Dg/H976K15t4yOKz7il65Z/Wr8BVve8x62Hdb+tBvwtohd7Xr8mT2Pp/BOiX3peN3geQ3MJ569QJ6do79B7c+wrn0LcBrrr3bSl6cz9dfYvjTb1v1/Wwsfft+7uAVuh9/RqdxL7+32ujHzldAmLQ+7LR+wBYClDFG7mOHnbe9/f10vs2rEC9D9rifh1d+3IeW4h9T14f4FwJCEPvy8ZnGADXpmvUbUy6zFSZBnrfY67n3an3bVqBrueFtuh9vbstfV/OiSb/8eyRAuxG78tG7wNgxnWaej4vXbyjwmSy6eJ+Hcf0vm0r8Mj7dezS+x70u4BW6H39Wox6qh8Qld6Xjd4HkFZFXhlHmaXrNN9y1gm9r/5Wu1Pz7Q7ufatW4Lre95D1sPK39ZjfBbRC7+tUZcsrfKkfYAfYL70vG70PIK/1k83KRWbuWtWZyV7lVlYx7PGor95/YoHejjKv3/Cs3rdqBRbeZ2rdPmI9rG1xD/ldQCuc7nZnw6w9E/1gkh1gv/S+Dgy/WmnVMfH1X9jTE/U+gMSKXyZ39Znx9rPJfxz94OanC71vbd4pzJG7/Zy7XdCVswx3/v6+TSuwsK6m1+3+62F9i3vA7wJa4XS3I3dmO9UPRuwA+6X3dWFj8Zs68tb7AFIr35j32fUxWdUTRk9a6n0v1k4dmzpWvHnR0sJcju99m1ZgYV3NfVHe3uthS4vb/XcBrXC624UdL8tV/eCVHWC/9L5ObCh+0/+dXe8DyG6hytwckJWC1YdPP//hrzfNZq5J3bxS3cHf0nfgFRbo9hmH974tK7Cwrgo3xth1PWxscfv+LqAVTnfbt3uhk/zgiR1gv/S+fgwOoZeOjAenCdcP1vsAuEw3qNKh2PzcvHU3jN0yY32p900OcO6lT+h961dgYV0t3Qh3r/VwT4vb7XcBrXC627KHhjnVD+wA+6X39aS6+M1/VY7eBwAAazz0dPfpLMsh+gaHxTjVj8z0vn7pfX2pKn6F2qf3AQDAKo873R2FJAfq9Q5ucDt+OSD0Re/rl97Xm8XiN3jA7V+V3gcAACscML/vlWP1RSfOtjPRj4T0vn7pff0pFr/pm3Rc0fsAAGCFR5/uqkiVGllRjQwDjqH39Uvv69Fc8Zu9SccVvQ8AAFY45nRXRSpo8HJavy+S0Pv6pff1aar41dQ+vQ8AANokIU1qdrU0WCFhd3pfv/S+Xo2L3z8vf5q/SccVvQ8AANrVbN46XherootBwmaD8rCZ3ncGva9fg/l814p/SnofAAC0LnlF6m7xuxswVNL7+qX39Wyy+C38Iel9AADQgbSXi/bbzvodOczR+/o1WfHq/5GTjYvf7Nf2vdL7AACgG6kSUoCF7bDSFnqOSIPe17FRxSvsnfS+Ng3/+pb/ivQ+AADoTIAQlmoBu1ocvY8S9+vo2pd9USH2PXl9QMO7qYwmLuhd+jvyKwQAgC51VZG2L1SM5bp08/vS+yjR+3o3uSPqZO+U2MwNO8p/SXofAAD0KthJWrDFSbuMBKb39Wtx52Pv1KpB7Xv//v3nz6/pr/QtfnofAAD0LcBJWoBFsLBkoPd1qnK3E3iGdb8Gte+3v51vBpP95ouf3gcAABF0WpE6HbYFJye9rzsbdjX2Tg0ZfMXCS9v7par46X0AABBEdydp3Q3YGiA5va8jd+5e7J0aMKh91383NcVP7wMAgFC6OEnrYpDHcAEdHdH7urDjXsW++kSzte83y8VP7wMAgICaPUlrdmDn2mu1zN1et/Sl7lBN72vf7vtYO+1TDHve1N/MUvHT+wAAIKbWJo61Np4GbT+vnut8N5SWKjfrc2a9vZxwP51qF2fjxKD3teyhYU71O9Ry7bt91Lj46X0AABG8Hog7umOkkZO0RobRhdG6WlpR1anvjdxSUFift+vtqvf91/98M3hezJX80N73tOXbM2xw2A7WnnxH8xt8Xe37arjDGjxU7wMA6N7ktKmLo3CunHiS5vxwg9rkt6H1vYiZo+61uEJHq+21971///nz58IDo3hc71uZuXlz8D7WTO37lbf2QsKbMvtwvQ8AoHtzve+aoz4uDZwW2g5XWZjuNN2mJk8OVzw0s+vVdH1p3GCyzWCt1dwkM5QD5ve9srtY5D/k9GhhOx/srev2KTPFT+8DAIigJvm9cgSYmcu+ghiGpt8snxhueU4iV6tnoke9nVHPlcAU+fTR399nv1GpkRXVyDB6UbG6NtS+m6e9/IHpfQAAQaxKftccECbka907Ny539eVl/EzF78XbmplZm69n1Ffr7O1JSVbkMffrsA8paPByWr+vRZWraGPtu3nq05+Y3gcAEMfm5PfKwWEqu5+kOes7yMqvdxoZJb8U09IqvK7U2RUy8YjFSMhGdiaTml0tDVbIRtSvmXu/HeDmc0HvAwCI4/7ed82BYgZ7naQ52TvQils3Vr1CkplpC17XyfzqmHhIxbO4Q7N563hdrIouBnmY0z8W9T4gvi+7Wvs6II99k98rO9LY7jxJc453qEGs25qZ7rhsLKjX1VoIqC9rTe87VvI9THeL392Ao64E58BAcA867wXIyaFjbBvOT1o4pUln7iay6+xSDSPR+5p2+lSpdha8l6Xud+RhFlzvAyIT+wB25+gxvMpzlXZOabLZJ/eNgp8vn3M9bw9S7XYCLGy2Stvar0zvA4KT/AB25NAxicWTltbOajLZL9PtFQ6juO9+HdbgccLvf4ItYLDFqVzGFhZT7wOCe9352t0BSfj+PvYyeZKW4cytbfv1vutXUqsqbrX7mvuu1pbed5qQ+6I2s9GDFi3qcrWzaHofEJzeB6Ti/rzsrrBR2ULOsN+sPBf0jlytkInV8bbir1e73nemYAkp2OJkWMbGF0fvA4LT+4BU7u999pbcann+Qj563wPNrdz5VaX3na/x5pJkEbItbBdLofcBwel9QB6bY589JItGW5dt5jz7XYXret4J18Vv0iiM6n2t6KK/hBl25gXvaOR6HxCc3gcksSr22SWylt7XDPfreLRC8rtd33pfQzoKMZ0OOPka6G6qu94HBKf3ARnUxD67QTbr7iQntr0ynct5S8bRb25N633N6SIhdTHIY3Tx+dLFICeG3f4QAe6h9wEZzPU+uz7ud711je7PawM7xaDTba9MO70MNKnZoNbswM6112qZm517zy6u31+Z3gcEp/cBSdjd8SC3m5aN7WS7lDq5j+ham5PV2ngatL2sLX7x5otVU5n7LX3P4+9ruABrOScBgM0mZ/OZ4ne6wbntlktxB7VP7iOwRpJNI8Powsqvi61OfW+qdpoBvrVW7wOC0/sAYLO5j1EfrycbnuGu7XXD2ue7+4jvxNym9G1Q29o2tL4X5f1egNh30fuA8JyQAMA2hXl8pvidbnSeW5/8RrHP5D7yODi9KX13elqBK2PfZMdb8dDad++B3gcEp/cBwAaLRU/yO9vNGexyuRu3PrWPbA5rcGLfY23ZmaXbAep9QHB6HwBsUPMB6kP2ZA+e3gJRPTTGKX2PNy539buyVBOc9T4gOKciALBW5dw9U/zOdzthpZrYR3K7hzml7yDD/36xdleW5wtM9T4gOL0PANaq//T0OduAR92eEsK7LXSXTXuzvV6HCsNe5wbl8/Q+IDjnIQCwyqpZe6b4taJ2ol/cU1vY6s55eab1HWqwr9u6Qxv8V5Kwe0W9DwhO7wOAVdZ+dPqobcpc9wt7Rgs72ZDtlL4TXKe67fu1Xaph6/Q+IDgnIQBQb8N8PVP8gDAqE57Sd5Z9ct8o+AX9hgO9DwhO7wOASpvLneQHhLHY8sS+8+yX6fYKhw3T+4Dg9D4AqHTPh6YPXCCSyain9J1tv953/Up6H0CPnH4AQI075+iZ4gfEM3nj3Sd2dGfYb1Zeggt69T4gOL0PAGrc/4npMxeIZzL52cudRO9bQe8DgnPuAQCLdpmdZ4ofENIo+dm/nWe/q3BdzwvQO70PAMp27HSSHxCP3tcM9+tYQe8DgtP7AKBs389Kn7xAJK7nbcpemS7B5bx6HxCdsw4AKNh9Rp4pfkAYox2a/dvpBp1ue/Db6WXapvcBwel9AFDwiA9KH75ADLd7M/u3k+1S6lLkPr0PiM5HMgDMedBcFVNggAAmd2X2b6e7vqR306W4g9oXN/fpfUB0eh8AzHncp6TPX6B3c/sx+7eTDYLf6l43rH1Rv7vvN3ofEJzPYwCY9NBZKqbAAF0r7MTs3043LH4rkt8o9gWe3HfR+4Dw9D4AuHXA+apTYqBTi7sv+7ezjYpfTbkbt77gtU/vA8LT+wDg1jGfjz6FgR7V7Lvs3052U/y+mrw8d8VDI9H7gOB8EgPAyGEzU0yBAbpTueOyfzvf7Yy9auFj30XvA8I7qve9ftqcNy389T9cdfzxtXYZrHauvfwyDtscfvr+23//ZfhWxQ1i4vHHDgBeHPkfw/yHN6Av9Xst+7cGTM/dK8pyjKT3AcHpfV3R+7jHkb3v+b1u3mpug5h7/GEDgDcHz0kxBQboyKpdlv1bK2on+gX/wr4RvQ8ITu/rit7HPY7rffNb3vQGsfuWunYA8OqUs1OnxEAv1p47mOLXlLnul6vzvdD7gOD0vq7ofdyjhd63z+OPf0HyOOvU1Ckx0L4N/3HCf8+gWXofEJze1xW9j3vofbDgxPNSp8RA4zbvpuzfaJPeBwSn93VF7+Meeh8sOHeSnSl+QMvu2UfZv9EgvQ8I7rTeN7pV1O1J+XKamP2C/9E3UzyHpvL3hj29ymBUN4Hq5vZW03cYfX7Q5MCHg1i9jHf3vrCr/VJ6xtMTXsc39/zx0+bWwfiFxt+EsrkwTXylyuIYZh4w/fPxb3e4xEvjrhve0vfCjDeIpcevXtK1Axir3d4ethlwntNnoJw+AIA5d+6g7N9okN4HBHdK7/v936ZvCz88r14qT5Pdae5c/8tL/6//uxCe/ut/vpmoRMPBLI76egjzdwoYp4faZbyr98Ve7Qsj+fKEH3/8fz/M9L7CPctKRevDp5//8Ne5t1s3nbF817TCiDf3vpnNYfr1Vgyv5963ant7xGbAyVqYftLCGABu3b93sn+jNXofENzxve/9+8+f68JBuTxNdKdilHh74+nwdDOut4cVKsDEsK/HMbk812NeuYzbe1+C1b5UpZZ/XXPLMFoT296moOYF5wa9rfd9+HD5+HH2d7Zhed+G123v2/5nvuYXR7samXvSyDAAru2ya7J/ozV6HxDc4b3v2VwvKl59eO3lZzOd4foke/zehdlIpXcqDbui+M1c57tuGTf3vgyrfe4nN11m9lnTv5rL0mzGuRmJtRd0Xj1n/Hud/dF9vW9p5NOdesXwCuMrX+B9+/htS7p6AHdubztsBpyqqbPQpgYDsONOyf6Npuh9QHBn9L6J89+30+PJc/D5C++mZoMt1aPZk/apiHb184kfz7/pKO8t14eaZbyr90Vf7YXrqAvVpvx1i9MrfNtaXf4lrRjCDr2vuJam1uua4fXW+7b8me+8GXCu1q4ya208QGb77pHs32iH3gcEd3zvW6gG01Os5uYVTXSnhe+du8yGp8knzlyauzjwyyArvH69V92Uufl/3977wq/26iw0GVBn52BN3eRj41pd/iWtCEP39r6Zp00MfdPwOut9m/7Md94MOFGD800aHBKQ0+67I/s32qH3AcEd3/umT6jnzs6ny1PhqtLF+8rOhqfJgS0HtjXf/j/9IrXLWDWcrKt9eSRTb7l8N+Kp4Ld1rc4ZbSdVv9s7e9/se0w8b8vwOut9m/7M994MOE+bk03aHBWQzSP2RfZvNELvA4I75f689Sft5VluKy90nYxY5YFVnLKXHjL8hq/FlrCwjJWLmXO1V4zk9iGVd1x4MjHjbe1aXfw1zb/nPr/Zir458ZANw+ur9237M999M+Aczc40aXZgQB4P2hHZv9EIvQ8IrvneV7iGdKpFlU6t7wlPFT1r24WpK5bxcmDv6261b5qp10rvu0zMBR2avxXxo3rf/N0saobXae9b9Weu90XQ+Dln48MDwnvcaYIpfrRA7wOCa7/33fSi4oWu54enyZ99tWIO3NIX6D2+9/W22nvvfcMnTtrxfh2re9/a4el9el8f2j/hbH+EQFQP/U8O/nsGLdD7gOA66H2jYLT9QtfDr+cd95GKylJaxsrFzLna77ued12ROSD0TKe1qXuGHHA974bhddr7XM+bSxdnm10MEojngJ2P/Run0/uA4HrofYNi9M3zA0dZZ80Z+5p5Unfcr+PqlT/97//zXeVtLQrLWDWcrKv9vvt1rLr17MGh57qt1d8pZfrmsHfdfmbN8A7sfTO3wT3wfh16X696mTrXyziBSI7Z89i/cS69Dwiui973crL95Wf/vPxpOoUtnlzPfJPewvMWv39vpjaMnzj3sFXLeHDv62u1Vy/qmlusPmKtbnj0+pvDvv14uvftt16nh/eI3rdqSdcNYNOfud7Xt47mlXQ0VCCGw3Y79m+cS+8Dguuj972Wpw8fLh8/TqewyZ4z9dON34NW7m/jp982hcVUV7GMB/e+vlb7XPi5GchklppbpVMlaOfQsxibJl+vlO6ul3am921Zr2uGN39d8Mw2PH8d8aYlXTmALX/mel/f+ppU0tdogd4duc+xf+NEeh8QXCe9b3R/0OnwcP2YyfPyqWcvn5RXvezM19pNP35pDtH8Mh7c+3pd7aOfjG8uO3/n2Zl7TlweG3oK0WowvsHPKgrm7ZNGa6JuvW4a3uzE16XeV5rgt2JJVw9g/fam93Wsuxkl3Q0Y6NfBOxz7N06k9wHB9dL7lmYm3T5o7P2PP/7HDz+svHHE8stODGg2NCwVv+VlPLr39bTaq54y9byKu/TWXipav3Azz1izuKWF/fDp0+W72+ltr3PeXmZs1q3XLcO7Gd3LQJZ638Q637Ck6wewenvT+3rV6bllp8MG+nLKrsb+jbPofUBw3fS+5a8eGz9s4LeX/f3fVt8odullJ4ZTjHoLX+NX//VqR/W+blb77eq/GcpLeFy4LHRyIfa4Y2zZQm0qT/ecGPDPU5ezXl/j+vJ7WVjYzcO7WafPj5nbhucev21JNwzgsnJ70/t61e+1Y/2OHOjFWfsZ+zdOofcBwfXT+wa3i11IXcPT9vG8ni3haeJlF74nbuX9PeqW8fje18dqn1usZ09vXfsNipfxEx+wVisHXhptea1Pf33d+B9rrte+Y3jDxz+/aeHXMPn4bUu6bQATb1NxKxq9ryddzyLpevBA+07cydi/cQq9Dwiun/+e9nL2vOZGqr1pcBkbHNJWhS4E5NDPR17M8QMtO3cPY//G8fQ+ILhuPlwDdaeelrHBIc1YnL33Ot2q/WUBHiHA/JEAiwC06fTdy+kDICG9Dwiul97XT3cKtYwNDmnO0hcNLnx1IhBbmDPJMAsCNKWFM4IWxkAqeh8QXB+frGu/tq5HDS5jg0OqGe2leKvWLpYF2FsfH3b5lgVoQSP/IaGRYZCH3gcE1/Rpw/obNfSnwWVscEhVijfZfab2QUbBziGDLQ5wrqZ2KU0NhvD0PiC4jnpfL9mp+2VscEi1yslP7IOkmv6ks0TAqVrbn7Q2HgLT+4Dgmv5Mvao3XVWnzpexwSFtHf+LLpcD2EXI2SIhFwo4XoM7kwaHRFR6HxBc070PAO4T9WMu6nIBR2pzT9LmqIhH7wOC84EKQFSB54kEXjTgGM3uRpodGMHofUBweh8AIYU/Ywy/gMDjNL4DaXx4xKD3AcHpfQCElOEDLsMyAo/Q/t6j/RHSO70PCM5HKQDxJJkbkmQxgX11sevoYpB0Te8DgtP7AIgnz6dbniUF9tLLfqOXcdIpvQ8IzucoAMGkmhWSamGB+3W00+hoqPRI7wOC0/sAiCTh+WHCRQY26+vgv6/R0he9DwjOhygAkeT8XMu51MBa3f3nge4GTEf0PiA4ZwgAhJH2zDDtggP1Ot1RdDps2qf3AcHpfQCEkflDLfOyAzX63Uv0O3JapvcBwfn4BCCSL59raT/RMi87UNb1LLmuB0+zfGQCwel9AAAQW+/H/L2PnwbpfUBwPjsBACCwAPPjAiwCrdH7gOD0PgAAiCpMKQuzIDRC7wOC0/sAACCqSEf7kZaF0+l9QHA+NQEAIKRgc+KCLQ7n0vuA4PQ+AAAIKd6hfrwl4ix6HxCcj0wAAIgn5Gy4kAvFKfQ+IDi9DwAA4ol6nB91uTiY3gcE5/MSAACCCTwPLvCicSS9DwhO7wMAgEjCF7HwC8gB9D4gOL0PAAAiyXCEn2EZeSi9DwjOJyUAAISRZO5bksXkcfQ+IDi9DwAAwshzeJ9nSXkEvQ8IzsckAADEkGrWW6qFZXd6HxCc3gcAAAEk7F8JF5m96H1AcHofAAAEkPPAPudScz+9DwjOByQAAPQu7Uy3tAvOnfQ+IDi9DwAAepf5qD7zsrOZ3gcE59MRAAAC+HJgn/aQPvOys40tBghO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAVvQ8ITu8DAAAgFb0PCE7vAwAAIBW9DwhO7wMAACAV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4UJOCqAteh8QnN4HAFQr6kIl6rwAWqH3AcFZbgIAdQq8Dy7w1ACaoPcBwel9AECFwhex8BMEqJneBwSn9wEAFcqwRMkwR4A66X1AcBaaAEBtkux9SzJNgArpfUBweh8AUJs865M8MwWoit4HBGeVCQBUJdWut1STBaiH3gcEp/cBAPVI2L8SThngcnofEJzeBwDUI+fKJOesAS6k9wHBWV8CAJVIu9Mt7cQBrqL3AcHpfQBAJTIvSzLPHeB8eh8QnMUlAFCP31cmadckmecOcDJvuEBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKnofUBweh8AAACp6H1AcHofAAAAqeh9QHB6HwAAAKno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" style="width: 633px; height: 476px;" /></p>
+
+<section class="box-exercise">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/20:_Carboxylic_Acids_and_Nitriles/20.06:_Reactions_of_Carboxylic_Acids_-_An_Overview" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B1.7D.5C)"></span><h5 class="box-legend editable"><span class="lt-icon-default">Exercise \(\PageIndex{1}\)</span></h5>
+
+<p class="lt-chem-36555">Show how the following transformation&nbsp;can be performed. Multiple steps may be required.</p>
+
+<p class="mt-align-center lt-chem-36555"><img alt="download-removebg-preview (81).png" class="internal" style="width: 324px; height: 95px;" width="324px" height="95px" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/482842/download-removebg-preview_(81).png?revision=1&amp;size=bestfit&amp;width=324&amp;height=95" /></p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p class="mt-align-center"><img alt="download-removebg-preview (82).png" class="internal" style="width: 530px; height: 109px;" width="530px" height="109px" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/482843/download-removebg-preview_(82).png?revision=1&amp;size=bestfit&amp;width=530&amp;height=109" /></p>
+    </dd>
+</dl>
+</div></section>
+
+<section class="box-exercise">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/20:_Carboxylic_Acids_and_Nitriles/20.06:_Reactions_of_Carboxylic_Acids_-_An_Overview" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B2.7D.5C)"></span><h5 class="box-legend editable"><span class="lt-icon-default">Exercise \(\PageIndex{2}\)</span></h5>
+
+<p>Show how the following transformation&nbsp;can be performed. Multiple steps may be required.</p>
+
+<p class="mt-align-center"><img alt="download-removebg-preview (84).png" class="internal" style="width: 385px; height: 97px;" width="385px" height="97px" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/482845/download-removebg-preview_(84).png?revision=1&amp;size=bestfit&amp;width=385&amp;height=97" /></p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p class="mt-align-center"><img alt="download-removebg-preview (85).png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/482844/download-removebg-preview_(85).png?revision=1" /></p>
+    </dd>
+</dl>
+</div></section>
+</div>
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "20.6: Reactions of Carboxylic Acids - An Overview";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p>This page titled <a target="_blank" class="internal mt-self-link" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/20%3A_Carboxylic_Acids_and_Nitriles/20.06%3A_Reactions_of_Carboxylic_Acids_-_An_Overview" rel="internal">20.6: Reactions of Carboxylic Acids - An Overview</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank">CC BY-SA  4.0</a>  license and was authored, remixed, and/or curated by <a rel="nofollow" target="_blank" href="">Steven Farmer, Dietmar Kennepohl, Layne Morsch, &amp; Layne Morsch</a>. </p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/20%3A_Carboxylic_Acids_and_Nitriles/20.05%3A_Preparing_Carboxylic_Acids" title="20.5: Preparing Carboxylic Acids"><span>20.5: Preparing Carboxylic Acids</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/20%3A_Carboxylic_Acids_and_Nitriles/20.07%3A_Chemistry_of_Nitriles" title="20.7: Chemistry of Nitriles"><span>20.7: Chemistry of Nitriles</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="33" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-authorname-libretexts" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Author</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=authorname%3Alibretexts" data-ga-label="Classification">LibreTexts</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-cssprint-dense" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Print CSS</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=cssprint%3Adense" data-ga-label="Classification">Dense</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by-sa" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accbysa" data-ga-label="Classification">CC BY-SA</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-4.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A40" data-ga-label="Classification">4.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-author@dietmar-kennepohl" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=author%40Dietmar+Kennepohl" data-ga-label="Free tag"> author@Dietmar Kennepohl</a></li>
+                <li class="mt-tag-link mt-tag-author@layne-morsch" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=author%40Layne+Morsch" data-ga-label="Free tag"> author@Layne Morsch</a></li>
+                <li class="mt-tag-link mt-tag-author@steven-farmer" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=author%40Steven+Farmer" data-ga-label="Free tag"> author@Steven Farmer</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by NiCE Knowledge Management
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="a2885238566f844df4332a7aad9fe5c50a0fa000b285f23ef39bc93039e2ba01" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script>
+
+
+</body>
+</html>
