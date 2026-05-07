@@ -78,19 +78,21 @@ def local_path(url):
         return os.path.join(OUTPUT_DIR, path, "index.html")
 
 def ensure_dir(filepath):
-    """Create directory, handling case where parent is a file."""
+    """Create directory, handling case where any path component is a file."""
     parent_dir = os.path.dirname(filepath)
     
-    # If parent exists as a file (not directory), convert it
-    if os.path.isfile(parent_dir):
-        print(f"  🔧 Converting file to directory: {parent_dir}")
-        temp_path = parent_dir + ".temp"
-        os.rename(parent_dir, temp_path)
-        os.makedirs(parent_dir, exist_ok=True)
-        os.rename(temp_path, os.path.join(parent_dir, "index.html"))
-        # Add the moved file to git
-        subprocess.run(["git", "add", os.path.join(parent_dir, "index.html")], check=False)
-        return
+    # Check each component of the path for file→directory conflicts
+    path_parts = parent_dir.split(os.sep)
+    for i in range(1, len(path_parts) + 1):
+        partial_path = os.sep.join(path_parts[:i])
+        if os.path.isfile(partial_path):
+            print(f"  🔧 Converting file to directory: {partial_path}")
+            # Move the file to index.html inside a new directory
+            temp_path = partial_path + ".temp"
+            os.rename(partial_path, temp_path)
+            os.makedirs(partial_path, exist_ok=True)
+            os.rename(temp_path, os.path.join(partial_path, "index.html"))
+            subprocess.run(["git", "add", os.path.join(partial_path, "index.html")], check=False)
     
     os.makedirs(parent_dir, exist_ok=True)
 
