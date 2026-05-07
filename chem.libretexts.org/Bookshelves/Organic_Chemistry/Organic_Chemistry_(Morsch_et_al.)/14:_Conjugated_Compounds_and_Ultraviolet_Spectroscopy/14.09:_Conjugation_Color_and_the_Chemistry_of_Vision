@@ -1,0 +1,3383 @@
+<!DOCTYPE html>
+<html  lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="MindTouch"/>
+        <meta name="robots" content="index,follow"/>
+        <meta property="og:title" content="14.9: Conjugation, Color, and the Chemistry of Vision"/>
+        <meta property="og:site_name" content="Chemistry LibreTexts"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta property="og:url" content="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.09%3A_Conjugation_Color_and_the_Chemistry_of_Vision"/>
+        <meta property="og:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta property="og:description" content=""/>
+        <meta property="article:published_time" content="2015-05-03T19:14:00Z"/>
+        <meta property="article:modified_time" content="2024-03-25T06:24:57Z"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:title" content="14.9: Conjugation, Color, and the Chemistry of Vision"/>
+        <meta name="twitter:description" content=""/>
+        <meta name="twitter:image" content="https://a.mtstatic.com/@public/production/site_4334/1641605566-social-share.png"/>
+        <meta name="description" content=""/>
+        <link rel="canonical" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.09%3A_Conjugation_Color_and_the_Chemistry_of_Vision"/>
+        <link rel="search" type="application/opensearchdescription+xml" title="Chemistry LibreTexts Search" href="https://chem.libretexts.org/@api/deki/site/opensearch/description"/>
+        <link rel="apple-touch-icon" href="https://a.mtstatic.com/@public/production/site_4334/1474925206-apple-touch-icon.png"/>
+        <link rel="shortcut icon" href="https://a.mtstatic.com/@public/production/site_4334/1478193457-favicon.ico"/>
+
+        <script type="application/ld+json" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495">{"@context":"http:\/\/schema.org","@type":"Article","name":"14.9: Conjugation, Color, and the Chemistry of Vision","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy\/14.09%3A_Conjugation_Color_and_the_Chemistry_of_Vision","image":{"@type":"ImageObject","url":"https:\/\/a.mtstatic.com\/@public\/production\/site_4334\/1641605566-social-share.png","height":{"@type":"QuantitativeValue","maxValue":315},"width":{"@type":"QuantitativeValue","maxValue":600}},"datePublished":"2015-05-03T19:14:00Z","dateModified":"2024-03-25T06:24:57Z","thumbnailUrl":"https:\/\/chem.libretexts.org\/@api\/deki\/pages\/31557\/thumbnail?default=https%3A%2F%2Fchem.libretexts.org%2F%40style%2Fcommon%2Fimages%2Fimage-placeholder.png","mainEntityofPage":{"@type":"WebPage","@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy\/14.09%3A_Conjugation_Color_and_the_Chemistry_of_Vision"},"headline":"14.9: Conjugation, Color, and the Chemistry of Vision","author":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}},"publisher":{"@type":"Organization","name":"Libretexts","logo":{"@type":"ImageObject","url":"https:\/\/chem.libretexts.org\/@api\/deki\/files\/98015\/libretexts.Logo600.png","height":{"@type":"QuantitativeValue","maxValue":60},"width":{"@type":"QuantitativeValue","maxValue":600}}}}</script>
+        <script type="application/ld+json" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495">{"@context":"http:\/\/schema.org","@type":"WebPage","name":"14.9: Conjugation, Color, and the Chemistry of Vision","url":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy\/14.09%3A_Conjugation_Color_and_the_Chemistry_of_Vision","relatedLink":["https:\/\/chem.libretexts.org\/Courses\/Brevard_College\/CHE_202%3A_Organic_Chemistry_II\/05%3A_Structural__Determination_I\/5.07%3A_Conjugation_Color_and_the_Chemistry_of_Vision","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy\/14.S%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy_(Summary)","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy\/14.00%3A_Introduction","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy\/14.01%3A_Stability_of_Conjugated_Dienes-_Molecular_Orbital_Theory","https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy\/14.02%3A_Electrophilic_Additions_to_Conjugated_Dienes-_Allylic_Carbocations"]}</script>
+        <script type="application/ld+json" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves","name":"Bookshelves"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry","name":"Organic Chemistry"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)","name":"Organic Chemistry (Morsch et al.)"}},{"@type":"ListItem","position":4,"item":{"@id":"https:\/\/chem.libretexts.org\/Bookshelves\/Organic_Chemistry\/Organic_Chemistry_(Morsch_et_al.)\/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy","name":"14: Conjugated Compounds and Ultraviolet Spectroscopy"}}]}</script>
+
+        <title>14.9: Conjugation, Color, and the Chemistry of Vision - Chemistry LibreTexts</title>
+
+
+    <style type="text/css">/*<![CDATA[*/
+.MathJax {
+  font-size: .85em; /* Increases the base font size of all MathJax output */
+}
+
+mjx-help-background {
+      z-index: 1000;	
+    }/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+dt {
+    color: #0372a6;
+    cursor: pointer;
+}
+@media only screen{
+    dd {
+        display: none;
+    }
+    dd.mt-listing-detailed-overview {
+        display: block;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* CSS pseudo-element styling https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements */
+
+/* general reset/setup styling for icons - needed on all */
+
+.lt-icon-default::before, .lt-icon-brain::before, .lt-icon-pin::before , .lt-icon-hand::before, .lt-icon-pathway::before, .lt-icon-logic::before, .lt-icon-check::before, .lt-icon-question::before, .lt-icon-exclamation::before    {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block; 
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1.5;
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  margin-right: 0.5rem;
+}
+
+/*default */
+
+.box-example .lt-icon-default::before {
+  content: "\f00c";
+}
+.box-exercise .lt-icon-default::before {
+  content: "\f128";
+}
+.box-query .lt-icon-default::before {
+  content: "\f126";
+}
+.box-adapt .lt-icon-default::before {
+  content: "\f126";
+}
+.box-interactive .lt-icon-default::before{
+  content: "\f542";
+}
+.box-note .lt-icon-default::before {
+  content: "\f08d";
+}
+.box-objectives .lt-icon-default::before {
+  content: "\f5dc";
+}
+.box-definition .lt-icon-default::before {
+  content: "\f303";
+}
+.box-theorem .lt-icon-default::before {
+  content: "\f1b3";
+}
+.box-warning .lt-icon-default::before {
+  content: "\f256";    
+}
+
+
+/*specific icons*/
+.lt-icon-brain::before  {
+  content: "\f5dc";
+}
+
+.lt-icon-pin::before {
+  content: "\f08d";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f126";
+}
+
+.lt-icon-logic::before, {
+  content: "\f1b3";
+}
+
+.lt-icon-hand::before, {
+  content: "\f126";
+}
+
+.lt-icon-pathway::before, {
+  content: "\f256";
+}
+
+.lt-icon-check::before, {
+  content: "\f00c";
+}
+
+.lt-icon-question::before, {
+  content: "\f128";
+}
+
+.lt-icon-exclamation::before, {
+  content: "\f12a";
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.Headertext{
+display:none;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.support-widget {
+position: fixed;
+z-index: 9999;
+display: inline-flex;
+bottom: 0px;
+right: 0px;
+margin-right: 10px;
+}
+
+.support-widget-button {
+    font-size: 27px !important;
+}
+
+@media print {
+    .support-widget {
+        display: none;
+        visibility: hidden;
+    }
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/* Partner Area CSS */
+.partners-logo {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 1;
+}
+
+.partners-logo a {
+	display: inline-block;
+	max-width: 15%;
+	margin-bottom: 15px;
+}
+#topHeader {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#topHeader > ol {
+	display: flex;
+	justify-content: space-around;
+	flex: 1;
+}
+
+#topHeader > ol > li > a {
+	display: flex;
+	align-items: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	padding: 2px;
+	color: #127bc4;
+	/* font-size: 0px; */
+	transition-duration: .5s;
+	flex-direction: column;
+	text-align: center;
+}
+
+#topHeader > ol > li:last-child {
+	margin-right: 1rem;
+}
+
+#topHeader > ol > li > a:hover {
+	font-size: medium;
+}
+
+#topHeader > ol > li > a > img {
+	width: 23px;
+	height: 23px;
+	margin-right: 2px;
+	object-fit: contain;
+	max-width: unset;
+}
+
+@media only screen and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 30%;
+	}
+}
+@media only screen and (max-width: 1350px) {
+	#topHeader > ol {
+		font-size: 0px;
+	}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.partners-logo a {
+		max-width: 150px;
+	}
+}
+div.elm-nav-container > a > img {
+	max-width: unset;
+}
+
+nav.elm-nav.my-custom-class {
+	padding: .25rem 0;
+}
+
+#bottomFooter p.mt-align-center {
+    margin: 5px;
+    line-height: initial;
+}
+
+.LTBranding {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: min-content;
+}
+
+.LTBranding img{
+	object-fit: contain;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+/**
+ * Accessibility
+*/
+.elm-skip-link {
+    position: absolute !important;
+    overflow: hidden;
+    clip: rect(1px,1px,1px,1px);
+    width: 1px;
+    height: 1px;
+    word-wrap: normal;
+    right: 30px;
+}
+.elm-skip-link:focus,
+.elm-skip-link:active {
+    position: static !important;
+    overflow: visible;
+    clip: auto;
+    width: auto;
+    height: auto;
+    margin: 0;
+    color: black;
+    background: unset;
+    font-weight: bold;
+}
+
+a:focus-visible {
+    outline-offset: 2px;
+    outline: black solid 2px;
+}
+
+/**
+ * Darkmode
+*/
+.darkMode {
+   background-color:#252525;
+    color: white;
+}
+
+.darkMode .mt-content-container p {
+    color: white;
+}
+
+.darkMode .mt-content-container .boxexample,
+.darkMode .mt-content-container .boxexercise,
+.darkMode .mt-content-container .boxlemma,
+.darkMode .mt-content-container .boxnotation,
+.darkMode .mt-content-container .boxnotewithlegend,
+.darkMode .mt-content-container .boxnotewithoutlegend,
+.darkMode .mt-content-container .boxprocedure,
+.darkMode .mt-content-container .boxproposition,
+.darkMode .mt-content-container .boxquery,
+.darkMode .mt-content-container .boxtheorem,
+.darkMode .mt-content-container .boxobjectives,
+.darkMode .mt-content-container .box-example,
+.darkMode .mt-content-container .box-exercise,
+.darkMode .mt-content-container .box-lemma,
+.darkMode .mt-content-container .box-notation,
+.darkMode .mt-content-container .box-warning,
+.darkMode .mt-content-container .box-note,
+.darkMode .mt-content-container .box-notewithlegend,
+.darkMode .mt-content-container .box-notewithoutlegend,
+.darkMode .mt-content-container .box-procedure,
+.darkMode .mt-content-container .box-proposition,
+.darkMode .mt-content-container .box-query,
+.darkMode .mt-content-container .box-theorem,
+.darkMode .mt-content-container .box-objectives
+{
+    background: #f0f5ff24;
+    box-shadow: 3px 3px 4px #00000085;
+}
+
+.darkMode p.boxtitle {
+    color:white;
+}
+
+.darkMode th {
+    background:#00629a;
+}
+
+
+.darkMode tr, .darkMode tr td {
+    background:none;
+}
+
+.darkMode tr:nth-child(even), .darkMode tr:nth-child(even) td {
+    background:#555555;
+}
+
+.optimize {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Hide header if in iframe*/
+.contentOnly .elm-header,
+.contentOnly .elm-meta-icons,
+.contentOnly div.annotator-frame,
+.adaptView .elm-footer,
+/*.contentOnly article#elm-main-content > *:not(:first-child, .mt-content-container), */
+.adaptView article#elm-main-content > header,
+.contentOnly hypothesis-sidebar,
+.contentOnly #custom_open,
+.contentOnly .sbHeader {
+    display:none;
+}
+
+.sidebar-container > div > ul.sidebar-collapsed\:bg-black\/\[\.08\] {
+    background-color: transparent !important;
+}
+
+.contentOnly #mt-summary {
+    display:none!important;
+}
+
+iframe.imathas_problem, iframe.webwork_problem {
+    border: none;
+    width: 100%;
+}
+
+/*GeoGebra fix*/
+article.elm-content-container, section.mt-content-container {
+	height: auto !important;
+	width: auto !important;
+}
+
+
+.elm-meta-top .mt-article-pagination a {
+	width: auto;
+	color: #30b3f6;
+}
+
+.elm-meta-top .mt-article-pagination a:hover {
+	color: #b4b4b4;
+}
+
+.elm-meta-top .elm-article-pagination {
+	float: unset;
+}
+
+#elm-main-content ol.elm-meta-data .elm-social-share {
+	margin: 0;
+}
+
+#MathJax_Zoom {
+ color: black;
+}
+
+#donate {
+	background-color: green;
+	color: white;
+	display: flex;
+	padding: 5px;
+	align-items: center;
+}
+
+#donate:hover {
+	background-color: #005E00;
+}
+
+.youtubeImageContainer {
+    position: relative;
+}
+
+a.notSS {
+	width: auto;
+	height: auto;
+	margin-top: 0;
+}
+
+.toc-button.mt-icon-hierarchy-trigger-closed:before {
+	content: "\e8a6";
+	font-size: 150%;
+}
+
+span.fancytree-icon:before {
+	content: "\e8aa";
+}
+
+.mt-icon-hierarchy-trigger-open:before {
+	font-size: 150%;
+}
+
+span.fancytree-has-children > span.fancytree-icon:before {
+	content: "\e8b3";
+}
+
+span.fancytree-title > a {
+	color: #666;
+}
+
+span.fancytree-selected .fancytree-title, span.fancytree-selected .fancytree-icon {
+	color: #1a9003;
+}
+
+.toc-hierarchy > div {
+	display: none;
+}
+
+.toc-hierarchy h6 {
+	margin-top: 0;
+	color: #137ac3
+}
+
+.pageInfo {
+	float: left;
+	margin: 0 1em 0 0;
+}
+
+.cc {
+	color: black;
+}
+
+.glossarizer_replaced {
+    border-bottom: 1px #333 dotted;
+}
+
+#pageTagsHolder {
+	display: none;
+}
+
+#batchPrint {
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+}
+
+#TOCbutton {
+	margin: 2px;
+	display: flex;
+	line-height: 2.4;
+	justify-content: center;
+	align-items: center;
+	color: #127bc4;
+	font-size: 100%;
+	height: 100%;
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+div.propagatorLoader {
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+}
+
+.loaderStatus {
+	/* flex: 1; */
+	justify-content: center;
+	text-align: center;
+}
+
+/* Modal Foundation*/
+#warningModal {
+
+  position: fixed ;
+  left: 0px;
+  top: 0px;
+  bottom:0px;
+  right:0px;
+  margin:0px;
+
+  display: none; /* Hidden by default */
+  z-index: 10000;
+  padding-top: 0px; /* Location of the box */
+
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgb(0,0,0,0);/* Black w/ opacity */
+}
+
+/* Modal Content */
+#warningModalSlide {
+
+  font-family: 'Roboto';
+  font-size: 14px;
+  background-color: #EFEFEF ;
+  margin: auto;
+  padding: 15px;
+  /*border: 0px solid #888;*/
+  width: 40%;
+  box-shadow: -2px 8px 10px #c7c7c7;
+}
+
+
+#elm-main-content figure {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+    margin: 0;
+    page-break-inside: avoid;
+    margin-bottom: 0.3em !important;
+}
+
+.mt-video-widget:not(.cke_widget_element) {
+     margin: 1rem auto !important;
+}
+
+.glmol{
+    text-align: left;
+}
+
+
+
+
+#copyResults img {
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+#LTform, #LTPreview {
+	display: flex;
+	flex-direction: column;
+}
+
+#LTFormContainer, .LTFormHeader, #LTFormFooter {
+	display: flex;
+}
+
+#LTFormContainer .fancytree-container, #LTPreviewForm .fancytree-container {
+	background: #f3f3f3;
+	border-radius: 10px;
+	overflow: auto;
+	flex: 1;
+}
+
+#LTLeft, #LTRight, #LTPreviewForm, #LTTutorial {
+	/*flex: 1;*/
+	align-items: stretch;
+	height: 60vh;
+	max-width: 45vw;
+	overflow: hidden;
+	width: 100%;
+	background: #f3f3f3;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+#LTLeft, #LTTutorial {
+	border-radius: 0 0 10px 10px;
+}
+
+select.LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#LTFormFooter {
+	flex-direction: column;
+}
+
+.LTFormHeader {
+	justify-content: flex-end;
+	margin-top: 30px;
+	background-color: #127bc4;
+	padding: 10px;
+	border-radius: 5px;
+	color: white
+}
+
+ul.ui-fancytree.fancytree-container.fancytree-plain.fancytree-ext-dnd5 {
+}
+
+#LTFormContainer > div {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 10px;
+	max-width: 45vw;
+}
+
+.LTTitle {
+	flex: 1;
+	display: flex;
+	align-items: center;
+}
+
+div#LTPreviewForm {
+	max-width: unset;
+	margin: 10px;
+	width: auto;
+}
+
+div#LTLeftAlert, div#LTRightAlert {
+	height: 30px;
+	background-color: rgba(18, 122, 196, 0.61);
+	width: inherit;
+	z-index: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+select#LTFormSubdomain {
+	border-radius: 10px 10px 0 0;
+}
+
+#mt-site-search-input {
+    max-width: 40vw;
+}
+
+#getTOCLink {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: slategrey;
+	color: white;
+	width: fit-content;
+	padding: 0 3px;
+}
+
+.annotator-frame.annotator-collapsed > div.annotator-bucket-bar {
+	background: none;
+}
+
+.mobileOnly {
+	display: none;
+}
+
+#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+	width: auto;
+}
+
+#RemixerIcon:before, #DownloadIcon:before, #SSOInstructorIcon:before {
+	vertical-align: middle;
+}
+
+.elm-header-user-nav .mt-user-menu li.mt-user-quick-login {
+	margin-left: 0;
+}
+
+.mt-user-menu {
+    display: flex;
+    justify-content: center;
+}
+li.elm-social-share a {
+    height: unset;
+    width: auto;
+    margin: 0 2px 0 0;
+}
+
+#LTRight > ul > li {
+	min-height: 100%;
+}
+
+.react-toggle {
+	height: 24px;
+}
+
+.buttonsetForm > button:first-child {
+	background: #525050;
+	color: white;
+}
+
+/*Added to make a hyperlink position below the breadcrumb bar and is viewable */
+/*#pageText > .mt-section > span:first-child {
+    top: -50px;
+    display: block;
+    position: relative;
+}*/
+
+.elm-header-notice.fixed {
+position: static;
+}
+
+.elm-fixed-header {
+position: static;
+}
+
+/* Dropdown Button */
+.LTdropdown > .dropbtn {
+    color: inherit;
+	background-color: inherit;
+	border: none;
+	height: 100%;
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+.LTdropdown a:visited {
+    color: inherit;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.LTdropdown {
+	position: relative;
+	display: inline-block;
+	margin-right: 2px;
+    color: white;
+    background: black;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.LTdropdown-content {
+    color: inherit;
+	display: none;
+	position: absolute;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    background: inherit;
+	z-index: 5;
+	flex-direction: column;
+	align-items: stretch;
+	width: max-content;
+	width: -moz-max-content;
+}
+
+/* Links inside the dropdown */
+.LTdropdown > .LTdropdown-content a {
+    color: inherit;
+    background: inherit;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	width: initial;
+	text-align: center;
+	font-size: 12px;
+    margin: 0;
+}
+
+/* Change color of dropdown links on hover */
+.LTdropdown > .LTdropdown-content a:hover  {
+    filter: brightness(85%);
+	transition-duration: 250ms;
+    color: white;
+}
+
+.LTdropdown-content a:before  {
+    margin-right: 2px;
+}
+
+.LTdropdown-content a:not(:first-child) {
+	border-top: 1px solid white;
+}
+
+/* Show the dropdown menu on hover */
+.LTdropdown:hover .LTdropdown-content {
+	display: flex;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.LTdropdown:hover .dropbtn {
+    filter: brightness(85%);
+}
+
+nav.elm-header-user-nav > div.elm-nav-container > ol {
+	display: flex;
+}
+
+
+nav.elm-header-user-nav > div.elm-nav-container > ol > li {
+	display: flex;
+}
+
+li.elm-global-search {
+	flex: 1
+}
+
+#mt-site-search-input {
+	width: auto;
+}
+
+
+.mt-breadcrumbs a span.nb-comment-highlight {
+   font-size: unset;
+   margin-right: unset;
+   vertical-align: unset;
+}
+
+/* <SSO-LibreOne> */
+
+.mt-user-quick-login {
+    display: none !important;
+}
+
+.mt-user-menu-user > .mt-icon-quick-sign-in.mt-dropdown-link.mt-toggle-right {
+    display: none !important;
+}
+
+.mt-icon-quick-sign-in::before {
+    color: #127BC4;
+}
+
+.sso-user:hover:after {
+    content: " (Logout)";
+    font-family: inherit;
+    font-style: italic;
+}
+
+.authenticated-sso.elm-header-user-nav {
+    background-color: #0f67a6;
+
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu-user  {
+    background: #323232;
+    border-radius: 5px;
+}
+.authenticated-sso.elm-header-user-nav .mt-user-menu > li > a {
+    color: white;
+}
+
+/*  */
+
+/*Media Queries*/
+@media (max-width: 600px) {
+	.mobileOnly {
+		display: block;
+	}
+
+	.mobileHide {
+		display: none;
+	}
+
+	.LTBranding {
+		flex-direction: column;
+	}
+
+}
+
+@media (max-width: 875px) {
+	#RemixerIcon, #DownloadIcon, #SSOInstructorIcon {
+		width: 1.95em;
+	}
+}
+
+@media (min-width: 1000px) {
+	nav.elm-header-global-nav ol.mt-breadcrumbs {
+		max-width: 85% !important;
+	}
+
+	#TOCbutton {
+		width: auto;
+	}
+}
+
+@media (max-width: 1001px) {
+
+	#TOCbutton {
+		width: 20px;
+		justify-content: flex-start;
+	}
+}
+/*
+@media (min-width: 83em) {
+   article.elm-content-container {
+      min-width: unset;
+   }
+}
+*/
+/*
+@media (min-width: 37.5em){
+    .elm-header-user-nav {
+        z-index: 1;
+    }
+}
+*/
+
+.mt-content-container img {
+    height: auto!important;
+    object-fit: contain;
+}
+.mt-content-container .mt-sortable-listing-link img {
+    height: 150px!important;
+}
+
+.mt-video-widget > p {
+    text-align: center;
+}
+
+option[value="article:topic-portfolio"] {
+    display: none;
+}
+option[value="article:howto"] {
+    display: none;
+}
+option[value="article:reference"] {
+    display: none;
+}
+
+.live-tag-link {
+    white-space: normal;
+    user-select: text;
+    -webkit-user-drag: none;
+}
+
+span.mt-font-ma-shan-zheng{
+    font-family: 'Ma Shan Zheng';
+
+}
+
+.cke_librebox .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librebox .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_librequery .cke_combo_open {
+    margin-left: 0;
+}
+
+.cke_librequery .cke_combo_inlinelabel {
+    padding-left: 2px;
+    padding-right: 0;
+}
+
+.cke_button_icon.cke_button__librequeryoptions_icon {
+  background-image: url('https://cdn.libretexts.net/Icons/query.ico') !important;
+  background-position: 0px !important;
+  background-size: 16px !important;
+}
+
+
+/** Heading 7 **/
+.lt-heading-7 {
+    text-align: left!important;
+    font: normal normal 700 112.5%/1.2 Tahoma,Arial,serif;
+    color: #000;
+    margin: 2rem 0 0.5rem;
+    padding: 0;
+}
+
+@media (min-width: 37.5em) {
+    .lt-heading-7 {
+        font-size: 112.5% !important;
+    }
+}
+
+@media (min-width: 18.75em) {
+    .lt-heading-7 {
+        font-size: 105.5% !important;
+    }
+}
+
+
+/** AutoAttribution **/
+#librelens-attribution-list li {
+    font-size: 0.95rem !important;
+}
+
+/** Prevent overflow with large images in sections **/
+section::after {
+  content: '';
+  clear: both;
+  display: block
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint {
+	visibility: visible !important;
+	display: block !important;
+}
+
+.showprint {
+	visibility: hidden !important;
+	display: none !important;
+}
+
+@media print {
+    .mt-banner{display:none;}
+
+	h1#title {
+		margin-top: 0!important
+	}
+	.box-interactive,
+	.box-query,
+	.box-adapt {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	table.mt-responsive-table {
+		/*table-layout: auto;
+        */
+	}
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+	main.elm-skin-container {
+		display: inline;
+	}
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+	.twocolumn {
+		-webkit-column-count: 2;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 2;
+		/* Firefox */
+		column-count: 2;
+	}
+	.threecolumn {
+		-webkit-column-count: 3;
+		/* Chrome, Safari, Opera */
+		-moz-column-count: 3;
+		/* Firefox */
+		column-count: 3;
+	}
+	.hideprint {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	.showprint {
+		visibility: visible !important;
+		display: block !important;
+	}
+	.printOnly {
+		display: block;
+	}
+	.printHide {
+		display: none;
+	}
+	img {
+		zoom: 0.60;
+		page-break-inside: avoid;
+	}
+	.mt-author-container img {
+		zoom: 1;
+	}
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+	#flash-messages {
+		visibility: hidden !important;
+		display: none !important;
+	}
+	blockquote {
+		display: block;
+		font-size: 120%;
+		color: black;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 40px;
+		padding-left: 15px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		border-left: 3px solid #0f67a6;
+		border-top: 0px;
+		border-bottom: 0px;
+		border-right: 0px;
+	}
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin-block-start: 0.5em;
+		margin-block-end: 0.5em;
+		margin-inline-start: 0px;
+		margin-inline-end: 0px;
+	}
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+	}
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+	ol.elm-meta-top {
+		display: none;
+	}
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+		font-size: 95%;
+	}
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+	body {
+		font-size: 0.80em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+	.mt-content-container ol,
+	.mt-content-container p,
+	.mt-content-container ul {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		font-size: 100%;
+		line-height: 1.4;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+    h6{
+		color: hsl(205, 82%, 42%);
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-align: left !important;
+		margin: 0.8em 0 0 0 !important;
+		page-break-after: avoid !important;
+		page-break-inside: avoid !important;
+		break-after: avoid !important;
+		break-after: avoid-page !important;
+		orphans: 1;
+		margin-block-end: -3px !important;
+	}
+	h1 {
+		font-size: 18px !important;
+	}
+	h2 {
+		font-size: 15px !important;
+	}
+	h3, h4, h5, h6 {
+		font-size: 13px !important;
+	}
+    h5, h6 {
+        color: 	#000000 !important;
+	}
+	.mt-new-features-container {
+		display: none;
+	}
+	/*https://stackoverflow.com/questions/9238868/how-do-i-avoid-a-page-break-immediately-after-a-heading/53742871#53742871*/
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		page-break-inside: avoid;
+	}
+	h2::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h3::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	h4::after {
+		content: "";
+		display: block;
+		height: 2.5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -2.5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+	}
+	.box-legend::before {
+		content: "";
+		display: block;
+		height: 5rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -5rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+		line-height: 80% !important;
+		background: none;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+	dt {
+		color: initial;
+	}
+	dl,
+	dt {
+		text-align: left !important;
+	}
+	.row {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		display: -webkit-box;
+		display: -moz-box;
+		display: -ms-flexbox;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-flow: row wrap;
+		justify-content: center;
+		break-inside: avoid;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+	/**************************** table bar ***************************/
+	caption {
+		display: table-caption;
+		text-align: center;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+        padding: 0 0 0.2rem 0;
+	}
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.4em !important;
+		padding-top: 0.3em !important;
+		padding-right: 0.4em !important;
+		padding-bottom: 0.3em !important;
+		padding-left: 0.4em !important;
+		vertical-align: middle;
+	}
+	body:not(.cke_editable) .mt-responsive-table p {
+		margin: 0em !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+	table {
+        margin-bottom: 1rem !important;
+		-webkit-print-color-adjust: exact;
+		page-break-inside: none;
+	}
+	.mt-content-container table p {
+		margin: 0em !important;
+	}
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		/*text-align: center;
+        */
+		/*vertical-align: middle;
+        */
+	}
+	/**************************** lists ***************************/
+	ul,
+	ol {
+		text-align: left !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+	ol li,
+	ul li {
+		text-align: left !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+	.attributions li,
+	.attributions p {
+		line-height: 1.25 !important;
+		margin-block-start: 0em !important;
+		margin-block-end: 0em !important;
+  		font-size: 80% !important;
+
+	}
+	/**************************** author bar ***************************/
+	.mt-author-container {
+		/*background: @secondary-container-background-color;*/
+		/*border: 1px solid @secondary-container-border-color;*/
+		/*border-radius: @border-radius-default;*/
+		clear: both;
+		/*color: @tertiary-font-color;*/
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+	.mt-author-container .mt-author-image-crop {
+		/*border: 1px solid @primary-container-border-color;*/
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+	elm-skin-container {
+		display: block !important;
+	}
+	hypothesis-sidebar,
+	hypothesis-adder,
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+	/* canvas, img, object, video {
+         max-width: 100%;
+         max-height: 500px;
+    }
+     */
+	/**************** Box container styles *******************/
+	.mt-content-container .boxobjectives,
+	.boxexample,
+	.boxexercise,
+	.boxquery,
+	.boxnotewithlegend,
+	.boxnotewithoutlegend,
+	.boxprocedure,
+	.boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		border-radius: 8px;
+		padding-top: 0em;
+		padding-bottom: 0em;
+		padding-left: 1em;
+		padding-right: 1em;
+		margin-bottom: 1em;
+		overflow: visible;
+		border: 0px;
+		orphans: 2;
+	}
+	.mt-content-container .boxnotewithlegend,
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+	}
+	.mt-content-container .boxexample,
+	.boxexercise {
+		background-color: hsla(220, 100%, 97%, 1);
+	}
+	.mt-content-container .boxwarning {
+		background-color: hsla(0, 100%, 96%, 1);
+	}
+	.mt-content-container .boxdefinition,
+	.boxtheorem,
+	.boxlemma,
+	.boxnotation,
+	.boxproposition {
+		background-color: hsla(28, 80%, 95%, 1);
+	}
+	.mt-content-container .boxobjectives {
+		background-color: hsla(0, 0%, 90%, 1);
+	}
+	.mt-content-container .boxnotewithoutlegend {
+		background-color: hsla(20, 0%, 93%, 1);
+		padding-right: 1em;
+		padding-left: 1em;
+		padding-top: 0.5em !important;
+		padding-bottom: 0.5em !important;
+		margin-right: 1em;
+		margin-left: 1em;
+	}
+	.mt-content-container .boxquery {
+		border: 2px solid green;
+		page-break-inside: avoid;
+		visibility: hidden !important;
+		display: none !important;
+	}
+	/**************** Box legend container styles *******************/
+	.mt-content-container .boxlegend {
+		font-style: normal !important;
+		font-size: 1.1em !important;
+		font-weight: normal !important;
+		font-family: "Tahoma", Arial, serif !important;
+		padding-top: 0.2em !important;
+		padding-bottom: 0.2em !important;
+		padding-left: 0.3em !important;
+		padding-right: 0.3em !important;
+		margin-left: 0.35em;
+		color: white;
+		border-radius: 3px;
+		overflow: visible;
+		break-inside: avoid !important;
+	}
+	.boxnotewithlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotewithoutlegend .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+		font-size: 0em !important;
+		visibility: hidden !important;
+	}
+	.boxprocedure .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(20, 0%, 45%, 1);
+	}
+	.boxexample .boxlegend {
+		background-color: hsla(220, 100%, 60%, 1);
+	}
+	.boxexercise .boxlegend {
+		background-color: hsla(0, 100%, 56%, 1);
+	}
+	.boxquery .boxlegend {
+		background-color: hsl(120, 100%, 25%, 1);
+	}
+	.boxobjectives .boxlegend {
+		background-color: hsla(0, 0%, 10%, 1);
+	}
+	.boxdefinition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxtheorem .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxlemma .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxnotation .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	.boxproposition .boxlegend {
+		background-color: hsla(28, 80%, 52%, 1);
+	}
+	/****************************************** Current New boxes **********************************************************************/
+	.box-objectives,
+	.box-emphasis,
+	.box-structure,
+	.box-example,
+	.box-exercise,
+	.box-warning,
+	.box-query,
+	.box-note,
+	.box-procedure,
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition,
+	.box-interactive {
+		display: block;
+		border-top: none;
+		border-bottom: none;
+		border-right: none;
+		padding: 0px 10px 1px 8px;
+		margin-bottom: 0.8em !important;
+		margin-top: 0.8em !important;
+		orphans: 3;
+		border-radius: 4px 8px 8px 4px;
+		-moz-border-radius: 4px 8px 8px 4px;
+		-webkit-border-radius: 4px 8px 8px 4px;
+	}
+	.box-emphasis {
+		padding: 5px 10px 5px 10px;
+	}
+	/**************** Tuning the box colors ***************/
+	.box-objectives {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-example {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-exercise {
+		background-color: hsla(204, 83%, 97%, 1);
+		border-left: 4px solid hsla(204, 83%, 41%, 1);
+	}
+	.box-warning {
+		background-color: hsl(0, 100%, 96%);
+		border-left: 4px solid hsl(0, 100%, 31%);
+	}
+	.box-note {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-emphasis {
+		background-color: hsl(180, 8%, 94%);
+		border-left: 4px solid hsl(180, 8%, 40%);
+	}
+	.box-structure {
+		background-color: hsl(240, 67%, 97%);
+		border-left: 4px solid hsl(240, 67%, 62%);
+	}
+	.box-query {
+		border: 3px solid hsla(220, 100%, 60%, 1);
+	}
+	.box-interactive {
+		border: 3px solid black;
+	}
+	.box-definition,
+	.box-theorem,
+	.box-lemma,
+	.box-notation,
+	.box-proposition {
+		background-color: hsl(124, 33%, 94%);
+		border-left: 4px solid hsl(132, 36%, 27%);
+	}
+	.boxprocedure,
+	.notation {
+		background-color: hsla(20, 0%, 93%, 1);
+		border-left: 4px solid hsl(43, 81%, 36%, 1)
+	}
+	/************** Defining the Legends ******************/
+	.box-legend {
+		display: block;
+		overflow: hidden;
+		margin: 0 0 5px 0;
+		transform: translate(-11px, 0px);
+		break-inside: avoid-page !important;
+		page-break-inside: avoid !important;
+	}
+	.box-legend>span {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 13px !important;
+		font-weight: normal !important;
+		color: white;
+		padding: 3px 5px 3px 5px !important;
+		margin: 0 0 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	.box-legend p {
+		float: left;
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: normal !important;
+		color: white;
+		font-size: 14px !important;
+		padding: 4px 5px 4px 5px !important;
+		margin: 0 3px 3px 0;
+		line-height: 0.8em;
+		border-radius: 1px;
+	}
+	/************** Tuning the Legends ******************/
+	.box-objectives .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-example .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-exercise .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-query .box-legend>span {
+		background-color: hsl(212, 77%, 47%, 1);
+	}
+	.box-interactive .box-legend>span {
+		background-color: black;
+	}
+	.box-note .box-legend>span {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-warning .box-legend>span {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-structure .box-legend>span {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-procedure .box-legend>span {
+		background-color: hsla(39, 100%, 58%, 1);
+	}
+	.box-definition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-theorem .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-lemma .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-notation .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-proposition .box-legend>span {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header,
+	.box-structure>header,
+	.box-note>header,
+	.box-theorem>header,
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-adapt>header,
+	.box-objectives>header,
+	.box-warning>header {
+		display: inline-flex;
+		overflow: hidden;
+		break-inside: avoid-page;
+		page-break-inside: avoid;
+		text-align: left;
+		width: auto;
+		margin: 0 0px 2px 0px !important;
+		padding: 2px 6px 2px 4px !important;
+		transform: translate(-11px, 0px) !important;
+		border-radius: 3px 5px 5px 0;
+		-moz-border-radius: 3px 5px 5px 0;
+		-webkit-border-radius: 3px 5px 5px 0;
+	}
+	.box-definition>header *,
+	.box-structure>header *,
+	.box-note>header *,
+	.box-theorem>header *,
+	.box-example>header *,
+	.box-exercise>header *,
+	.box-query>header *,
+	.box-adapt>header *,
+	.box-objectives>header *,
+	.box-warning>header * {
+		font-family: "Tahoma", Arial, serif !important;
+		font-size: 14px !important;
+		font-weight: 400 !important;
+		color: white !important;
+		;
+		width: auto !important;
+		;
+		float: left !important;
+		;
+		line-height: 1 !important;
+		;
+		margin-block-start: 0 !important;
+		margin-block-end: 0 !important;
+	}
+	.box-definition>header,
+	.box-theorem>header {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-definition>header * {
+		background-color: hsl(132, 36%, 27%);
+	}
+	.box-example>header,
+	.box-exercise>header,
+	.box-query>header,
+	.box-objectives>header,
+	.box-adapt>header {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-example>header *,
+	.box-objectives>header *,
+	.box-exercise>header * {
+		background-color: hsla(204, 83%, 41%, 1);
+	}
+	.box-note>header * {
+		background-color: hsl(180, 8%, 40%);
+	}
+	.box-structure>header {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-structure>header * {
+		background-color: hsl(240, 67%, 62%);
+	}
+	.box-warning>header {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.box-warning>header * {
+		background-color: hsl(0, 100%, 31%);
+	}
+	.mt-content-container::before {
+		content: none;
+	}
+	section::before {
+		content: "";
+		display: block;
+		height: 4 rem;
+		/* pretend that the header is at least 8rem high so this header cannot fit near the end of page */
+		margin-bottom: -4 rem;
+		/* however, reduce the margin the same amount so that the following content can stay in its usual place */
+		page-break-inside: avoid;
+		break-inside: avoid;
+	}
+
+	/* AutoAttribution */
+	.mt-content-container .autoattribution p {
+		font-size: 90% !important;
+	}
+	#librelens-attribution-list li {
+		font-size: 90% !important;
+	}
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+ul.jmolPopupMenu {
+overflow: initial;
+float: initial;
+max-height: none;
+opacity: initial;
+}
+ul.jmolPopupMenu .ui-menu, .ui-selectmenu-button {
+overflow: initial;
+}
+
+ul.jmolPopupMenu .ui-menu, ul.jmolPopupMenu .ui-menu-item {
+float: initial;
+max-height: none;
+}
+
+ul.jmolPopupMenu .ui-state-disabled {
+opacity: initial;
+}
+
+div.iCn3D .icn3d-mn.ui-menu {
+    overflow: visible;
+    max-height: unset;
+}
+div.iCn3D .icn3d-mn.ui-menu .ui-menu-item{
+    padding: 0;
+    overflow: visible;
+    float: none;
+}
+
+div.iCn3D label:after{
+     content: unset;
+}
+
+div.iCn3D div {
+    word-wrap: normal;
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.printOnly {
+	display: none;
+}
+
+.hideprint{
+    visibility: visible !important;
+    display: block !important;
+}
+.showprint{
+    visibility: hidden !important;
+    display: none !important;
+}
+
+@media print {
+
+    
+
+    
+    
+    
+    
+    table.mt-responsive-table {
+        table-layout: auto;
+    }
+
+	.elm-meta-top .mt-article-pagination * {
+		display: none;
+	}
+
+	.mt-author-container {
+		background: #f0f0f0;
+		border-radius: .5em;
+        visibility: hidden !important;
+        display: none !important;
+	}
+
+	#elm-main-content {
+		padding-bottom: 0;
+	}
+
+	main.elm-skin-container {
+		display: inline;
+	}
+
+	.mt-video-widget:not(.cke_widget_element) {
+		margin: 0 auto !important;
+		width: 60% !important;
+		page-break-inside: avoid;
+	}
+
+	.elm-skin-container {
+		background-color: #ffffff !important;
+	}
+
+	.mt-sortable-listing {
+		background-color: #ffffff !important;
+	}
+
+    .twocolumn {
+	    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    	-moz-column-count: 2; /* Firefox */
+    	column-count: 2;
+    }
+
+    .threecolumn {
+    	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    	-moz-column-count: 3; /* Firefox */
+    	column-count: 3;
+    }
+
+	.hideprint {
+		visibility: hidden !important;;
+		display: none !important;;
+	}
+
+	.showprint {
+		visibility: visible !important;;
+		display: block !important;;
+	}
+
+	.printOnly {
+		display: block;
+	}
+
+	.printHide {
+		display: none;
+	}
+
+	img {
+		zoom: 0.65;
+		page-break-inside: avoid;
+	}
+
+	.mt-author-container img {
+		zoom: 1;
+	}
+
+	.MathJax_Display {
+		margin-top: 0.7em !important;
+		margin-bottom: 0.7em !important;
+	}
+
+	blockquote {
+		padding: 1px !important;
+		margin-top: 10px !important;
+		margin-bottom: 10px !important;
+	}
+
+	p {
+		text-align: justify;
+		orphans: 2;
+		widows: 2;
+		margin: 0.3em 0 0.3em 0 !important;
+	}
+
+	.definition,
+	.note1,
+	.example,
+	.exercise,
+	.skills {
+		border: solid 1px hsla(0, 0%, 0%, 0.5);
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding-left: 7px;
+		padding-right: 7px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		margin-bottom: 5px;
+		margin-top: 5px;
+		/*page-break-inside: avoid;*/
+	}
+
+	.definition {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+
+	.example {
+		background-color: hsla(215, 93%, 39%, 0.03);
+	}
+
+	.note1 {
+		background-color: hsla(78, 93%, 39%, 0.03);
+	}
+
+	.exercise {
+		background-color: hsla(283, 93%, 24%, 0.03);
+	}
+
+	.skills {
+		background-color: hsla(7, 93%, 41%, 0.03);
+	}
+
+	ol.elm-meta-top {
+		display: none;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table th,
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) table th[data-th] {
+		display: table-cell !important;
+		background-image: none !important;
+        font-size: 90%;
+	}
+
+	#mt-page-health-container,
+	header.elm-header,
+	#mt-toc-container,
+	#mt-content-side,
+	div#mt-summary,
+	li.elm-pdf-export,
+	li.elm-social-share,
+	footer.elm-footer,
+	footer.elm-content-footer,
+	li.elm-meta-icons,
+	li.elm-last-modified,
+	li.elm-page-restriction,
+	body:not(.cke_editable) .mt-responsive-table td:before {
+		display: none !important;
+	}
+
+	body {
+		font-size: 0.75em !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+
+	h1, h2, h3, h4, h5 {
+		color: hsl(205, 82%, 42%) !important;
+		align-content: left;
+		font-family: "Tahoma", Arial, serif !important;
+		text-transform: uppercase;
+		text-align: left !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+		margin: 0.8em 0 0 0 !important;
+	}
+
+    h1 {
+		font-size: 18px !important;
+   		margin: 0 0 0 0 !important;
+	}
+    
+	h2 {
+		font-size: 14px !important;
+	}
+
+	h3 {
+		font-size: 12px !important;
+        font-weight: 700 !important;
+        /*color: hsl(0, 0%, 0%) !important;*/
+	}
+    
+    h4 {
+		font-size: 10px !important;
+        font-weight: 700 !important;
+        font-style: italic !important;
+        /*color: hsl(0, 0%, 0%) !important;*/
+	}
+
+	.mt-new-features-container {
+		display: none;
+	}
+
+	p.boxtitle {
+		font-style: normal;
+		font-size: 120%;
+		color: DarkSlateGray;
+        line-height: 80 % !important;
+		background: none;
+        font-variant: small-caps !important;
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+		padding: 0 !important;
+		text-align: left !important;
+		border-bottom: 1px solid DarkSlateGray;
+		font-family: "Tahoma", Arial, serif !important;
+		page-break-after: avoid;
+		page-break-inside: avoid;
+		break-after: avoid-page;
+		orphans: 1;
+	}
+
+	dt {
+		color: initial;
+	}
+	#elm-main-content figcaption {
+		caption-side: bottom;
+		text-align: justify;
+		font-size: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 0.3em;
+		break-inside: avoid-page;
+	}
+
+	.rightfig {
+		display: table;
+		float: right;
+		margin: 0em 0 0em 1em;
+	}
+
+	.rightfigcaption {
+		display: table-caption;
+		caption-side: bottom;
+		margin: 0.3em 0 0 0;
+		text-align: justify;
+		font-size: 90%;
+	}
+
+	caption {
+		display: table-caption;
+		text-align: center;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table td,
+	body:not(.cke_editable) .mt-responsive-table th {
+		padding: 0.2em !important;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table tr td:last-child {
+		border: none !important;
+	}
+
+	body:not(.cke_editable) .mt-responsive-table tr th:last-child {
+		border-bottom-width: 0.15em !important;
+	}
+
+	table {
+		-webkit-print-color-adjust: exact;
+		page-break-inside: avoid;
+	}
+
+	table caption {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+	}
+
+	th,
+	td {
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		text-align: center;
+		vertical-align: middle ";
+	}
+
+	ul, ol {
+		text-align: justify !important;
+		margin: 0.3em 0 0.5em 0;
+	}
+    
+
+	ol li {
+		text-align: justify !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+
+	ul li {
+		text-align: justify !important;
+		font-family: 'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif !important;
+		margin-top: 0em !important;
+		margin-bottom: 0em !important;
+	}
+
+	/* author bar */
+	.mt-author-container {
+		background: @secondary-container-background-color;
+		border: 1px solid @secondary-container-border-color;
+		border-radius: @border-radius-default;
+		clear: both;
+		color: @tertiary-font-color;
+		font-size: 85%;
+		margin: 0 0 1em;
+		overflow: hidden;
+		padding: .5em 1em;
+	}
+
+	.mt-author-container ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.mt-author-container .mt-author-image {
+		float: left;
+		margin: 0 1em 0 0;
+	}
+
+	.mt-author-container .mt-author-image-crop {
+		border: 1px solid @primary-container-border-color;
+		border-radius: 50%;
+		height: 3em;
+		overflow: hidden;
+		position: relative;
+		width: 3em;
+	}
+
+	.mt-author-container .mt-author-image-crop img {
+		display: inline;
+		height: 100%;
+		margin: 0 auto;
+		width: auto;
+	}
+
+	.mt-author-container img {
+		max-height: 3em;
+		max-width: 3em;
+		vertical-align: middle;
+	}
+
+	elm-skin-container {
+		display: block !important;
+	}
+
+	.h-sidebar-iframe,
+	.annotator-frame {
+		display: none;
+	}
+    /*
+	canvas, img, object, video {
+		max-width: 100%;
+		max-height: 500px;
+	}
+    */
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+.elm-header nav.elm-nav.my-custom-class > .elm-nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+#header-buttons {
+    align-self: center;
+}
+
+#menu {
+    width: 953px;
+    height: 28px;
+    font-size: 14px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #6384A6;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:00px;
+
+}
+#menu ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu li {
+    display: inline;
+}
+#menu a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 32px 32px 32px 32px;
+}
+#menu a:hover {
+    color: #000000;
+}
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style><style type="text/css">/*<![CDATA[*/
+#menu2 {
+    width: 953px;
+    height: 24px;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Geneva, sans-serif;
+    text-align: center;
+    border-radius: 2px;
+    background-color: #888888;
+    overflow:hidden;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:0px;
+    margin-right:00px;
+}
+#menu2 ul {
+    padding: 4px 0px;
+    margin: 0px;
+}
+#menu2 li {
+    display: inline;
+}
+#menu2 a {
+    text-decoration: none;
+    color: #000000;
+    padding: 32px 32px 32px 32px;
+}
+#menu2 a:hover {
+    color: #FFFFFF;
+}
+
+
+p.center { text-align: center; }
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 960px;
+}
+img.center {
+  display: block;
+}
+
+}/*]]>*/</style>
+
+        <link media="screen" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/anonymous.css?_=4bbeae068c8a683ee35be007efab6fe3_Y2hlbS5saWJyZXRleHRzLm9yZw==:site_4334" id="mt-screen-css" />
+
+    
+        <link media="print" type="text/css" rel="stylesheet" href="https://a.mtstatic.com/@cache/layout/print.css?_=de8936e5a499bcc33737968d3364893c:site_4334" id="mt-print-css" />
+
+
+    <script type="application/json" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" id="mt-localizations-draft">
+{"Draft.JS.alert.cancel.button":"OK","Draft.JS.alert.cancel.message":"You can not cancel a draft when the live page is unpublished.","Draft.JS.alert.cancel.title":"This draft cannot be canceled","Draft.JS.alert.publish.button":"OK","Draft.JS.alert.publish.message":"You can not publish a draft of a page with an unpublished parent","Draft.JS.alert.publish.title":"This draft cannot be published","Draft.JS.alert.unpublish.button":"OK","Draft.JS.alert.unpublish.message":"You can not unpublish a page when published subpages are present.","Draft.JS.alert.unpublish.title":"This page cannot be unpublished","Draft.JS.success.cancel":"The draft was successfully deleted.","Draft.JS.success.schedule.publish":"Publication schedule successfully created.","Draft.JS.success.publish":"The draft was successfully published.","Draft.JS.success.unpublish":"The page was successfully unpublished.","Draft.JS.success.unpublish.inherits-schedule\n        Draft.JS.success.unpublish.scheduled-to-publish":"[MISSING: draft.js.success.unpublish.inherits-schedule\n        draft.js.success.unpublish.scheduled-to-publish]","Draft.JS.success.update.schedule.publish":"Publication schedule successfully updated.","Draft.JS.success.update.schedule.unpublish":"[MISSING: draft.js.success.update.schedule.unpublish]","Draft.JS.success.delete.schedule\n        Draft.JS.success.delete.schedule.with.subpages\n        Draft.error.cancel":"[MISSING: draft.js.success.delete.schedule\n        draft.js.success.delete.schedule.with.subpages\n        draft.error.cancel]","Draft.error.publish":"There was an error publishing the draft.","Draft.error.unpublish":"There was an error unpublishing the page.","Draft.message.at":"at","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference":"This article type requires a template reference widget. Not having one may negatively impact your site and SEO. Please contact NiCE Knowledge Management support.","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.EditDraft.page-title":"Create draft","Dialog.Scheduler.Common.label.am":"{0} AM","Dialog.Scheduler.Common.label.pm":"{0} PM","Dialog.Scheduler.Publish.alert-create-draft":"Create","Dialog.Scheduler.Publish.alert-existing-publication-scheduled":"This location has an existing publication schedule applied.  The new page will inherit this new schedule.","Dialog.Scheduler.Publish.alert-modify-message":"This draft is scheduled to be published {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Publish.alert-modify-title":"This schedule cannot be modified","Dialog.Scheduler.Publish.button-close":"Close","Dialog.Scheduler.Publish.button-save":"Save publish schedule","Dialog.Scheduler.Publish.button-go-to-parent":"Go to parent","Dialog.Scheduler.Publish.do-not-have-permission-message":"This page will be published {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Publish.go-to-parent-message":"This draft will be published {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Publish.label.f1-link":"Learn about scheduled publishing","Dialog.Scheduler.Publish.page-title":"Publish","Dialog.Scheduler.Unpublish.button-save":"Save unpublish schedule","Dialog.Scheduler.Unpublish.alert-modify-message":"This page is scheduled to be unpublished {0} at {1}. A schedule cannot be modified or deleted less than 15 minutes from its start time.","Dialog.Scheduler.Unpublish.do-not-have-permission-message":"This page will be unpublished {0} with another page scheduled by {1}. You do not have permission to view this page. Please see {1} to resolve scheduling conflicts.","Dialog.Scheduler.Unpublish.go-to-parent-message":"This page will be unpublished {0}, scheduled by {1}. A schedule can only be modified where it was created.","Dialog.Scheduler.Unpublish.page-title":"Unpublish","Page.Dashboard.page-title":"Dashboard"}    </script>    <script type="application/json" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" id="mt-localizations-editor">
+{"Article.Attach.file.upload.toobig":"The file \"{1}\" is too large.  The maximum allowed file size is {0}.","Article.Attach.file.upload.notAllowed":"The selected file can not be uploaded because you do not have permission to upload files of that type.","Article.Attach.file.upload.fileExtension":"You picked a file with an unsupported extension.  Please try again with a valid file.","Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","Article.Common.page-save-conflict":"You may have overwritten a concurrent editor's changes. Use this page's <a title=\"Revision History\" target=\"_blank\" href=\"{0}\" >Revision History<\/a> to review.","Article.Error.page-couldnt-be-loaded":"The requested page's contents could not be loaded.","Article.Error.page-save-conflict":"A page already exists at {0}. Navigate to the existing page and edit the page if you wish to modify its contents.","Article.Error.page-save-forbidden":"Your session has expired or you do not have permission to edit this page.","Article.Error.page-title-required":"A page title is required.","Article.edit.summary":"Edit summary","Article.edit.summary-reason":"Why are you making this edit?","Article.edit.enter-reason":"Enter reason (viewable in Site History Report)","Component.YoutubeSearch.error.key-invalid":"Your YouTube API Key was improperly configured. Please review the article at the","Component.YoutubeSearch.error.key-missing":"Your NiCE Knowledge Management deployment needs to update your YouTube API Key. Details on how to update can be found at the","Component.YoutubeSearch.error.search-failed":"Search failed","Component.YoutubeSearch.info.not-found":"No videos found","Component.YoutubeSearch.label.video-url":"Video URL","Component.YoutubeSearch.placeholder.query":"Video URL or YouTube search query","Dialog.ConfirmCancel.button.continue-editing":"Continue editing","Dialog.ConfirmCancel.button.discard-changes":"Discard changes","Dialog.ConfirmCancel.message.changes-not-saved":"Your changes have not been saved to MindTouch.","Dialog.ConfirmCancel.title":"Discard changes?","Dialog.ConfirmDeleteRedirects.label.delete-redirects-help-link":"Learn more about deleting redirects","Dialog.ConfirmSave.error.redirect":"A redirect exists at this location and will be deleted if you continue. This may negatively impact your site and SEO. Please contact NiCE Knowledge Management support.","Dialog.ConfirmSave.label.cancel":"Cancel","Dialog.ConfirmSave.label.continue":"Continue","Dialog.ConfirmSave.title":"Delete redirect?","Dialog.ConfirmSave.StrictIdf.error.invalid-idf":"This type of article should not exist at the requested location in the site hierarchy. Proceeding with the requested move may negatively impact site navigation and SEO.","Dialog.ConfirmSave.StrictIdf.error.missing-template-reference-insert":"You've removed the template reference, which is required for this page. Click Insert to reinsert the template reference.","Dialog.ConfirmSave.StrictIdf.label.cancel":"Cancel","Dialog.ConfirmSave.StrictIdf.label.continue":"Proceed anyway","Dialog.ConfirmSave.StrictIdf.label.insert":"Insert","Dialog.ConfirmSave.StrictIdf.label.missing-template-reference-help-link":"Learn more about required references","Dialog.ConfirmSave.StrictIdf.label.invalid-idf-help-link":"Learn more about IDF structure","Dialog.ConfirmSave.StrictIdf.title":"Oops!","Dialog.JS.wikibits-edit-section":"Edit section","Dialog.SaveRequired.button.cancel":"Cancel","Dialog.SaveRequired.button.save":"Save and continue","Dialog.SaveRequired.label.change-title-start":"This page needs a different title than","Dialog.SaveRequired.label.change-title-end":"Please make the correction and try again.","Dialog.SaveRequired.label.new-page-alert":"This operation can not be performed on a page that has not yet been created. In order to do that, we need to quickly save what you have.","Dialog.SaveRequired.title":"Save required","Draft.error.save-unpublished":"You cannot save an unpublished draft at {0}. A published page already exists at that location.","GUI.Editor.alert-changes-made-without-saving":"You have made changes to the content without saving your changes. Are you sure you want to exit this page?","GUI.Editor.error.copy-hint":"To avoid losing your work, copy the page contents to a new file and retry saving again.","GUI.Editor.error.server-error":"A server error has occurred.","GUI.Editor.error.unable-to-save":"We are unable to save this page","Redist.CKE.mt-save.save-to-file-link":"Save the page content to a file","Redist.CKE.mt-autosave.contents-autosaved":"The page contents were autosaved to the browser's local storage {0}","System.API.Error.invalid-redirect":"Cannot create a redirect on a page with sub-pages.","System.API.Error.invalid-redirect-target":"The redirect does not point at a valid page."}    </script>    <script type="application/json" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" id="mt-localizations-file-uploader">
+{"Dialog.Attach.allowed-types":"Allowed file types:","Dialog.Attach.button.upload":"Upload","Dialog.Attach.choose-files-dad":"Choose files to upload or drag and drop files into this window.","Dialog.Attach.max-size":"Maximum upload file size: {0}"}    </script>    <script type="application/json" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" id="mt-localizations-grid-widget">
+{"Article.Common.page-is-restricted-login":"You do not have permission to view this page - please try signing in.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable.","MindTouch.Reports.data.empty-grid-text":"No Data Available.","Page.StructuredTags.error-update":"An unknown error occurred."}    </script>    <script type="application/json" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" id="mt-localizations-tree-widget">
+{"Skin.Common.home":"Home","Dialog.Common.error.path-not-found":"The requested page or section could not be loaded. Please update the link.","Dialog.JS.loading":"Loading...","Dialog.JS.loading.copy":"Copying page(s)...","Dialog.JS.loading.insertImage":"Inserting image...","Dialog.JS.loading.move":"Moving page(s)...","Dialog.JS.loading.moveFile":"Moving file...","Dialog.JS.loading.search":"Searching...","MindTouch.Help.Page.in":"in","MindTouch.Help.Page.no-search-results":"Sorry, we can't find what you are looking for.","MindTouch.Help.Page.no-search-try":"Try searching for something else, selecting a category, or try creating a ticket.","MindTouch.Help.Page.retrysearch":"Click here to search the whole site.","MindTouch.Help.Page.search-error-try":"Please try again later.","MindTouch.Help.Page.search-unavailable":"Sorry, search is currently unavailable."}    </script>    <script type="application/json" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" id="mt-localizations-dialog">
+{"Dialog.Common.button.cancel":"Cancel","Dialog.Common.button.ok":"OK","Dialog.Common.label.home":"Home"}    </script>
+    <script type="text/javascript" data-mindtouch-module="true" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" src="https://a.mtstatic.com/deki/javascript/out/globals.jqueryv2.2.4.polyfill.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script><script type="application/json" id="mt-global-settings" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495">{"articleType":"topic","attachFileMax":1000,"baseHref":"https:\/\/chem.libretexts.org","cacheFingerprint":"0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334","canFileBeAttached":false,"cdnHostname":"a.mtstatic.com","clientSideWarnings":false,"dntEditorConfig":false,"draftEditable":false,"followRedirects":1,"idfHideTemplateTags":false,"idfVersion":"IDF3","isAiOptimizationTemplateEnabled":false,"isArticleReviewCommunityMembersEnabled":false,"isDraftAllowed":false,"isDraftManagerReportDownloadEnabled":false,"isDraftRequest":false,"isFindAndReplaceUndoEnabled":false,"isGenerativeSearchEnabled":false,"isGenerativeSearchDisclaimerEnabled":false,"isGenerativeSearchStreamResponseToggleEnabled":false,"isGenerativeSearchSearchIconEnabled":false,"isContentAdequacyEnabled":false,"isGenerativeSearchOnDemandEvaluationEnabled":false,"isEditorAiAssistantShortcutsEnabled":false,"isFileDescriptionCaptionableByLlmEnabled":false,"isGoogleAnalyticsEnabled":true,"isGuideTabMultipleClassificationsEnabled":false,"isHawthornThemeEnabled":false,"isIframeSandboxEnabled":false,"isImportExportEnhancementsEnabled":false,"isImportExportMediaEnabled":false,"isExternalImportEnabled":false,"isInteractionAnalyticsDebugEnabled":false,"isDevelopmentModeEnabled":false,"isInteractionAnalyticsEnabled":true,"isKcsEnabledOnPage":false,"isMediaManagerEnabled":false,"isPinnedPagesEnabled":true,"isPinnedPagesEnhancementsEnabled":true,"isReportDownloadEnabled":false,"isSchedulePublishEnabled":true,"isSearchAsYouTypeEnabled":true,"isTinymceAiAssistantEnabled":false,"isSearchInsightsDownloadEnabled":false,"isSentimentAnalysisEnabled":true,"isShowMoreChildrenNodesEnabled":false,"isShowTerminalNodesEnabled":false,"isSkinResponsive":true,"isSmoothScrollEnabled":true,"isTinyMceEnabled":false,"isTreeArticleIconsEnabled":false,"isXhrF1WebWidgetEnabled":true,"isXhrIEMode":false,"kcsEnabled":false,"kcsV2Enabled":false,"kcsV2GuidePrivacySetting":"Semi-Public","learningPathsEnabled":true,"maxFileSize":268435456,"moduleMode":"global","pageEditable":false,"pageId":31557,"pageIsRedirect":false,"pageLanguageCode":"en-US","pageName":"14.9: Conjugation, Color, and the Chemistry of Vision","pageNamespace":"","pageOrderLimit":1000,"pagePermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"pageRevision":"34","pageSectionEditable":false,"pageTitle":"Bookshelves\/Organic Chemistry\/Organic Chemistry (Morsch et al.)\/14: Conjugated Compounds and Ultraviolet Spectroscopy\/14.09: Conjugation Color and the Chemistry of Vision","pageViewId":"3124b06e-e2b2-4c9f-9f68-36ad4993c051","siteId":"site_4334","pathCommon":"\/@style\/common","pathSkin":"\/@style\/elm","relatedArticlesDetailed":true,"removeBlankTemplate":false,"removeDeleteCheckbox":true,"cidWarningOnDelete":true,"scriptParser":2,"sessionId":"Nzc1OTU1ZDgtMDdlYi00Y2FmLTlmOTEtYzcwZmVjZjhjMDlkfDIwMjYtMDUtMDdUMDk6MDQ6NDc=","showAllTemplates":true,"siteAuthoringPageThumbnailManagementEnabled":true,"skinStyle":"columbia.elm","spaceballs2Enabled":false,"strictIdfEnabled":false,"uiLanguage":"en-us","userId":2,"isPageRedirectPermanent":false,"userIsAdmin":false,"userIsAnonymous":true,"userIsSeated":false,"userName":"Anonymous User","userPermissions":["LOGIN","BROWSE","READ","SUBSCRIBE"],"userSystemName":"Anonymous","userTimezone":"-07:00","webFontConfig":{"google":{"families":null}},"apiToken":"xhr_2_1778144997_f37420c0e08b7c1542089d88754c65232bbcba28518cebb9119c0a6e10e137c7","displayGenerativeSearchDisclaimer":false,"cognigyFlowsEnabled":false}</script><script type="text/javascript" data-mindtouch-module="true" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" src="https://a.mtstatic.com/deki/javascript/out/deki.legacy.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" src="https://a.mtstatic.com/deki/javascript/out/community.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" src="https://a.mtstatic.com/deki/javascript/out/standalone/skin_elm.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageBootstrap.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script>
+
+    
+        <!-- Matomo -->
+<script>/*<![CDATA[*/
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.libretexts.org"]);
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//traffic.libretexts.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    _paq.push(['addTracker', u+'matomo.php', 9]); // Also send all of the tracking data to the new Matomo site
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+/*]]>*/</script>
+<!-- End Matomo Code -->
+    
+<script type="text/javascript" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-4672918-1','chem.libretexts.org',{allowLinker:true});ga('send','pageview');ga('create','UA-65721316-2','chem.libretexts.org',{name:'mtTracker',allowLinker:true});ga('mtTracker.require','linker');ga('mtTracker.set', 'anonymizeIp', true);ga('mtTracker.send','pageview');document.addEventListener('mindtouch-web-widget:f1:loaded',function(e){var t=e.data||{},d=t.widget;d&&''!==t.embedId&&document.addEventListener('mindtouch-web-widget:f1:clicked',function(e){var t=(e.data||{}).href;if(t){var n=document.createElement('a');n.setAttribute('href',t),'expert-help.nice.com'===n.hostname&&(e.preventDefault(),ga('linker:decorate',n),d.open(n.href))}})});</script>
+</head>
+<body class="elm-user-anonymous columbia-page-main columbia-article-topic columbia-browser-python-requests columbia-platform- columbia-breadcrumb-home-bookshelves-organicchemistry-organicchemistry%28morschetal.%29-14%3Aconjugatedcompoundsandultravioletspectroscopy-14.09%3Aconjugationcolorandthechemistryofvision columbia-live no-touch columbia-lang-en-us columbia-skin-elm">
+<a class="elm-skip-link" href="#elm-main-content" title="Press enter to skip to the main content">Skip to main content</a><main class="elm-skin-container" data-ga-category="Anonymous | page">
+    <header class="elm-header">
+        <div class="elm-header-custom">
+
+<div id="readerview_wrapper" style="display:none;"><div class="readerOn" id="readerview">
+<div class="header-left-control">
+<div class="header-menu"><button aria-controls="offcanvas-menu" aria-expanded="false" aria-labelledby="toc-btn-label" data-target="offcanvas-menu" data-type="collapse" id="toggle_ocm"><span hidden="hidden" id="toc-btn-label">Table of Contents</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu</span></button></div>
+
+<div class="header-branding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+</div>
+
+<div class="header-title">&nbsp;</div>
+
+<div class="header-end"><button aria-controls="search" aria-expanded="false" class="header-btn" data-target="search" data-type="collapse" id="toogle_search"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">search</span> <span class="visually-hidden">Search</span></button><button aria-controls="toolbar" aria-expanded="false" class="header-btn" data-target="toolbar" data-type="collapse" id="toggle_tools"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">build_circle </span> <span class="visually-hidden">Toolbar</span></button><button class="header-btn hidden" disabled="disabled" id="open_homework"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">fact_check</span> <span class="visually-hidden">Homework</span></button><button class="header-btn" id="exit_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">cancel</span> <span>Exit Reader Mode</span></button></div>
+</div>
+
+<div id="offcanvas-menu">
+<div class="hidden" id="toc">&nbsp;</div>
+
+
+
+<div id="siteMenu">
+<ul>
+    <li><a href="https://chem.libretexts.org/Courses" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">school</span> <span class="menu-label">Campus Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Bookshelves" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">menu_book</span> <span class="menu-label">Bookshelves</span></a></li>
+    <li><a href="https://chem.libretexts.org/Ancillary_Materials" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">perm_media</span> <span class="menu-label">Learning Objects</span></a></li>
+</ul>
+
+<ul>
+    <li><a href="https://chem.libretexts.org/Special:Userlogin?readerView#tab=login" rel="internal"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">login</span> <span class="menu-label">Login</span></a></li>
+    <li><a target="_blank" href="https://register.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">how_to_reg</span> <span class="menu-label">Request Instructor Account</span></a></li>
+    <li><a target="_blank" href="https://commons.libretexts.org/" rel="external noopener nofollow" class="link-https"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">hub</span> <span class="menu-label">Instructor Commons</span></a></li>
+</ul>
+</div>
+
+</div>
+
+<div id="search">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 class="editable">Search</h2>
+
+<form id="book_search">
+<div class="form-item"><label for="searchBar">Search this book</label> <input id="searchBar" name="searchBar" placeholder="Keyword(s)" type="text"></input></div>
+
+<div class="form-action"><button class="header-btn" id="searchButton">Submit Search</button></div>
+</form>
+
+<div id="search_results">&nbsp;</div>
+</div></div>
+
+<div id="readability">
+<p><button id="chevron-icon">x</button></p>
+
+<div class="settings-section" id="beeline">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Color</h4>
+<button class="bee-readability reset btn btn-sm btn-link" id="text_color_reset">Reset</button></div></div>
+
+<div class="setting-control text_color"><button class="bee-readability" id="sb_bright"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Bright</span></button><button class="bee-readability" id="sb_blues"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Blues</span></button><button class="bee-readability" id="sb_gray"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Gray</span></button><button class="bee-readability" id="sb_inverted"><span class="bee-btn-render">&nbsp;</span><span class="bee-btn-label">Inverted</span></button></div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Text Size</h4>
+<button class="reset btn btn-sm btn-link" id="text_size_reset">Reset</button></div></div>
+
+<div class="font-adjuster"><button aria-label="Increase" class="btn_plus" id="btn_inc" tabindex="0">+</button><button aria-label="Increase" class="btn_minus" id="btn_dsc" tabindex="0">-</button>
+
+<div class="range_base" id="range_bs" type="input" value="18">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Margin Size</h4>
+<button class="reset btn btn-sm btn-link" id="margin_size_reset">Reset</button></div></div>
+
+<div class="margin-adjuster"><button aria-label="Increase Margin Size" class="btn_plus" id="btn_inc_margin" tabindex="0">+</button><button aria-label="Decrease Margin Size" class="btn_minus" id="btn_dec_margin" tabindex="0">-</button>
+
+<div class="margin_display" id="margin_disp" type="input" value="55">&nbsp;</div>
+</div>
+</div>
+</div>
+
+<div class="settings-section" id="textSize">
+<div class="setting">
+<div class="setting-title">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel/Readability" class="mt-section"><h4 class="editable">Font Type</h4>
+</div></div>
+
+<div class="dyslexic-toggle">Enable Dyslexic Font <label class="switch"><input id="dyslexic-checkbox" type="checkbox"></input><span class="slider round">&nbsp;</span></label></div>
+</div>
+</div>
+
+</div>
+
+<div id="toolbar">
+<ul class="toolbar_menu" id="toolbar_menu">
+    <li class="toolbar-item" id="dl-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="download" href="https://chem.libretexts.org/?downloads" rel="internal"><span>Downloads</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_downloads">
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_page" href="https://chem.libretexts.org/?downloadpage" rel="internal"><span>Download Page (PDF)</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner" id="download_pdf_full" href="https://chem.libretexts.org/?downloadfull" rel="internal"><span>Download Full Book (PDF)</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="res-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="resources" href="https://chem.libretexts.org/?resources" rel="internal"><span>Resources</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_resources">
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=table&amp;embed=true&amp;hide_all_headings=true" data-title="Periodic Table" data-type="popelement" id="periodicTable" href="https://chem.libretexts.org/?pertable" rel="internal"><span>Periodic Table</span> </a></li>
+        <li><a aria-controls="pop" class="toolbar-btn toolbar-inner" data-src="https://chem.libretexts.org/Ancillary_Materials/Reference/Units_and_Conversions/Physical_Constants?adaptView" data-title="Physics Constants" data-type="popelement" id="physicsConstants" href="https://chem.libretexts.org/?physconst" rel="internal"><span>Physics Constants</span> </a></li>
+        <li><a class="toolbar-btn toolbar-inner hidden" disabled="disabled" id="scientificCalculator" href="https://chem.libretexts.org/?scientificcal" rel="internal">Scientific Calculator</a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="ref-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="refmenu" href="https://chem.libretexts.org/?references" rel="internal"><span>Reference</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_ref">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="cite" data-modal-title="Reference &amp; Cite" data-target="modal_readerview" data-type="modal" id="cite" href="https://chem.libretexts.org/?refmodal" rel="internal"><span>Reference &amp; Cite</span> </a></li>
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="tools-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="toolsmenu" href="https://chem.libretexts.org/?tools" rel="internal"><span>Tools</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_tools">
+    </ul>
+    </div>
+    </li>
+    <li class="toolbar-item" id="help-menu"><a aria-expanded="false" class="toolbar-btn toolbar-top has-submenu" id="helpmenu" href="https://chem.libretexts.org/?help" rel="internal"><span>Help</span> <span aria-hidden="true" class="material-symbols-outlined" focusable="false">expand_more</span> </a>
+    <div class="sub-nav">
+    <ul class="subnav-group" id="dropdown_feed">
+        <li><a class="toolbar-btn toolbar-inner" data-micromodal-trigger="modal-main" data-modal-src="help" data-modal-title="Help &amp; Documentation" data-target="modal-main" data-type="modal" id="help" href="https://chem.libretexts.org/?helpmodal" rel="internal"><span>Get Help</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="feedback" role="button" href="https://chem.libretexts.org/?feedback" rel="internal"><span>Feedback</span> </a></li>
+        <li><a aria-disabled="true" class="toolbar-btn toolbar-inner hidden" id="readability" role="button" href="https://chem.libretexts.org/?readability" rel="internal"><span>Readability</span> </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</div>
+
+<div class="modal" id="modal_readerview">
+<div class="modal-content">
+<div class="modal-header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 tabindex="0" class="modal-title editable">&nbsp;</h2>
+<span class="modal-close" tabindex="0">x</span></div></div>
+
+<div class="modal-body">
+<p>selected template will load here</p>
+</div>
+</div>
+</div>
+
+<div aria-hidden="true" class="modal micromodal-slide" id="modal-main">
+<div class="modal__overlay" data-micromodal-close="data-micromodal-close" tabindex="-1">
+<div aria-labelledby="modal-main-title" aria-modal="true" class="modal__container" role="dialog">
+<header class="modal__header">
+<div mt-section-origin="Template:Custom/Views/Header/Header_Panel" class="mt-section"><h2 id="modal-main-title" class="modal__title editable">Error</h2>
+<button aria-label="Close dialog" class="modal__close" data-micromodal-close="data-micromodal-close"></button></div></header>
+
+<main class="modal__content" id="modal-main-body">
+<p>This action is not available.</p>
+</main>
+
+<footer class="modal__footer">&nbsp;</footer>
+</div>
+</div>
+</div>
+
+<script type="module" src="https://cdn.libretexts.net/github/readerview/readerview.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/readerview/readerview.min.css" /><script type="text/javascript" src="https://cdn.libretexts.net/github/readerview/vendor/jquery-accessibleMegaMenu.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+/*
+JsLoadingOverlay.show({
+  'overlayBackgroundColor': '#fff',
+  'overlayOpacity': 0.9,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#127abf',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+});
+
+window.addEventListener('load', function() {
+    JsLoadingOverlay.hide();
+});
+*/
+
+$("#toolbar").accessibleMegaMenu({
+    /* prefix for generated unique id attributes, which are required 
+           to indicate aria-owns, aria-controls and aria-labelledby */
+    uuidPrefix: "accessible-megamenu",
+
+    /* css class used to define the megamenu styling */
+    menuClass: "toolbar_menu",
+
+    /* css class for a top-level navigation item in the megamenu */
+    topNavItemClass: "toolbar-item",
+
+    /* css class for a megamenu panel */
+    panelClass: "sub-nav",
+
+    /* css class for a group of items within a megamenu panel */
+    panelGroupClass: "sub-nav-group",
+
+    /* css class for the hover state */
+    hoverClass: "hover",
+
+    /* css class for the focus state */
+    focusClass: "focus",
+
+    /* css class for the open state */
+    openClass: "open"
+});/*]]>*/</script>
+</div>
+
+<div class="mt-container-highlight" style="background-color: #ffffff;">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container">
+
+
+<div class="LTBranding"><a href="https://chem.libretexts.org/" rel="internal"><img alt="Library homepage" class="internal default" src="https://cdn.libretexts.net/Logos/chem_full.png" style="width: auto; height: 70px;" /></a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/reuse.js"></script>
+
+<div id="header-buttons"><button class="header-btn" id="enter_reader"><span aria-hidden="true" class="material-symbols-outlined" focusable="false">chrome_reader_mode</span> <span>Enter Reader Mode</span></button></div>
+</div>
+
+<script type="text/javascript">/*<![CDATA[*/
+let enterReaderBtn = document.getElementById('enter_reader');
+["click", "keypress"].forEach(ev=>{
+    enterReaderBtn.addEventListener(ev, function(e){
+        e.preventDefault();
+        if (e.keyCode === 13 || ev == 'click') {
+            window.open(window.location.href + '?readerView', '_self');
+        }
+    })
+});
+
+if (window.location.href.indexOf('?readerView')){
+  document.getElementById('readerview_wrapper').style.display = 'block';
+}/*]]>*/</script>
+</nav>
+</div>
+
+
+
+
+
+<div style="display:none"><div style="display:none" id="parentTitleHolder">14: Conjugated Compounds and Ultraviolet Spectroscopy</div><div style="display:none" id="parentParentTitleHolder">Organic Chemistry (Morsch et al.)</div><div style="display:none" id="subpagesHolder">{ }</div><div style="display:none" id="parentSubpagesHolder">{ &quot;14.00:_Introduction&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.01:_Stability_of_Conjugated_Dienes-_Molecular_Orbital_Theory&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.02:_Electrophilic_Additions_to_Conjugated_Dienes-_Allylic_Carbocations&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.03:_Kinetic_vs._Thermodynamic_Control_of_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.04:_The_Diels-Alder_Cycloaddition_Reaction&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.05:_Characteristics_of_the_Diels-Alder_Reaction&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.06:_Diene_Polymers-_Natural_and_Synthetic_Rubbers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.07:_Structure_Determination_in_Conjugated_Systems_-_Ultraviolet_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.08:_Interpreting_Ultraviolet_Spectra-_The_Effect_of_Conjugation&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.09:_Conjugation_Color_and_the_Chemistry_of_Vision&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14.S:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy_(Summary)&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="parentParentSubpagesHolder">{ &quot;00:_Front_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;01:_Structure_and_Bonding&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;02:_Polar_Covalent_Bonds_Acids_and_Bases&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;03:_Organic_Compounds-_Alkanes_and_Their_Stereochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;04:_Organic_Compounds_-_Cycloalkanes_and_their_Stereochemistry&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;05:_Stereochemistry_at_Tetrahedral_Centers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;06:_An_Overview_of_Organic_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;07:_Alkenes-_Structure_and_Reactivity&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;08:_Alkenes-_Reactions_and_Synthesis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;09:_Alkynes_-_An_Introduction_to_Organic_Synthesis&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;10:_Organohalides&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;11:_Reactions_of_Alkyl_Halides-_Nucleophilic_Substitutions_and_Eliminations&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;12:_Structure_Determination_-_Mass_Spectrometry_and_Infrared_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;13:_Structure_Determination_-_Nuclear_Magnetic_Resonance_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;15:_Benzene_and_Aromaticity&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;16:_Chemistry_of_Benzene_-_Electrophilic_Aromatic_Substitution&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;17:_Alcohols_and_Phenols&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;18:_Ethers_and_Epoxides_Thiols_and_Sulfides&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;19:_Aldehydes_and_Ketones-_Nucleophilic_Addition_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;20:_Carboxylic_Acids_and_Nitriles&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;21:_Carboxylic_Acid_Derivatives-_Nucleophilic_Acyl_Substitution_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;22:_Carbonyl_Alpha-Substitution_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;23:_Carbonyl_Condensation_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;24:_Amines_and_Heterocycles&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;25:_Biomolecules-_Carbohydrates&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;26:_Biomolecules-_Amino_Acids_Peptides_and_Proteins&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;27:_Biomolecules_-_Lipids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;28:_Biomolecules_-_Nucleic_Acids&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;29:_Orbitals_and_Organic_Chemistry_-_Pericyclic_Reactions&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;30:_Synthetic_Polymers&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot;, &quot;zz:_Back_Matter&quot; : &quot;property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass234_0.&lt;PageSubPageProperty&gt;b__1]()&quot; }</div><div style="display:none" id="modifiedHolder">Sat, 28 Jan 2023 20:52:29 GMT</div><div style="display:none" id="titleHolder">14.9: Conjugation, Color, and the Chemistry of Vision</div><div style="display:none" id="IDHolder">31557</div><div style="display:none" id="pageIDHolder">31557</div><div style="display:none" id="pageAuthorHolder">admin</div><div style="display:none" id="groupHolder">{ }</div><div style="display:none" id="usernameHolder">Anonymous</div><div style="display:none" id="displaynameHolder">Anonymous User</div><div style="display:none" id="userEmailHolder"></div><div style="display:none" id="emailHolder"></div><div style="display:none" id="userIDHolder">2</div><div style="display:none" id="proHolder">false</div><div style="display:none" id="adminHolder">false</div><div style="display:none" id="pageTagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;vision&quot;, &quot;license:ccbysa&quot;, &quot;cssprint:dense&quot;, &quot;licenseversion:40&quot;, &quot;author@Steven Farmer&quot;, &quot;author@Dietmar Kennepohl&quot;, &quot;author@Tim Soderberg&quot;, &quot;author@William Reusch&quot;, &quot;authorname:libretexts&quot; ]</div><div style="display:none" id="tagsHolder">[ &quot;article:topic&quot;, &quot;showtoc:no&quot;, &quot;vision&quot;, &quot;license:ccbysa&quot;, &quot;cssprint:dense&quot;, &quot;licenseversion:40&quot;, &quot;author@Steven Farmer&quot;, &quot;author@Dietmar Kennepohl&quot;, &quot;author@Tim Soderberg&quot;, &quot;author@William Reusch&quot;, &quot;authorname:libretexts&quot; ]</div><div style="display:none" id="ssoHolder">https://chem.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fchem.libretexts.org%2FBookshelves%2FOrganic_Chemistry%2FOrganic_Chemistry_(Morsch_et_al.)%2F14%253A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy%2F14.09%253A_Conjugation_Color_and_the_Chemistry_of_Vision</div></div>
+
+
+<script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/copyNavigation.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/CASBridge/dist/casbridge.min.js"></script>
+
+
+
+
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+function createLaunchpadElement() {
+try {
+    // Get target <ol> element
+    const elementArr = document.querySelectorAll('.elm-header-user-nav');
+    const navContainer = elementArr.item(0);
+    if(!navContainer) throw new Error('Nav container does not exist');
+    const navContainerChildren = navContainer.getElementsByTagName('ol');
+    if(!navContainerChildren) throw new Error('Could not get nav container child elements');
+    const targetElement = navContainerChildren.item(0);
+    if(!targetElement) throw new Error('Target element does not exist');
+
+    //Create <li>
+    const newListItem = document.createElement('li');
+    const newDiv = document.createElement('div');
+    newDiv.setAttribute('id', 'widget-parent');
+    newListItem.appendChild(newDiv);
+
+     //Prepend new <li> to target <ol> element
+    targetElement.prepend(newListItem);
+
+    // Add appropriate styling
+    targetElement.style.alignItems = 'center';
+    newDiv.style.marginRight = '1em';
+} catch (err) {
+    console.error(err);
+}
+}
+
+function loadLaunchpadScript() {
+    try {
+        const script = document.createElement('script');
+        script.src = "https://cdn.libretexts.net/libreone-launchpad-widget.min.js";
+        document.head.appendChild(script);
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    createLaunchpadElement();
+    loadLaunchpadScript();
+});/*]]>*/</script>
+</div>
+        <div class="elm-nav mt-translate-module" hidden="true">
+            <div class="elm-nav-container mt-translate-container"></div>
+        </div>
+        <div class="elm-header-logo-container">
+            <a href="https://chem.libretexts.org" title="Chemistry LibreTexts" aria-label='Link to home'><img src="https://a.mtstatic.com/@public/production/site_4334/1474925093-logo.png" alt="Chemistry LibreTexts" /></a>
+        </div>
+        
+        <nav class="elm-header-user-nav elm-nav" role="navigation">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-global-search" data-ga-action="Header search"><a class="mt-icon-site-search mt-toggle-form" href="#" title="Search site">Search site</a>
+<div class="mt-quick-search-container mt-toggle-form-container">
+    <form action="/Special:Search">
+        <input name="qid" id="mt-qid-skin" type="hidden" value="" />
+        <input name="fpid" id="mt-search-filter-id" type="hidden" value="230" />
+        <input name="fpth" id="mt-search-filter-path" type="hidden" />
+        <input name="path" id="mt-search-path" type="hidden" value="" />
+
+        <label class="mt-label" for="mt-site-search-input">
+            Search
+        </label>
+        <input class="mt-text mt-search search-field" name="q" id="mt-site-search-input" placeholder="How can we help you?" type="search" />
+        <button class="mt-button ui-button-icon mt-icon-site-search-button search-button" type="submit">
+            Search
+        </button>
+    </form>
+</div>
+<div class="elm-search-back"><a class="mt-icon-browser-back" data-ga-label="Browse back" href="#" id="mt-browser-back" title="Go back to previous article">Go back to previous article</a></div>
+</li>
+                    <li class="elm-user-menu"><ol class="mt-user-menu">
+
+    <li class="mt-user-quick-login">
+        <div class="mt-quick-login-container mt-toggle-form-container">
+            <form action="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FOrganic_Chemistry_%28Morsch_et_al.%29%2F14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy%2F14.09%3A_Conjugation_Color_and_the_Chemistry_of_Vision" class="mt-form" method="POST" id="quick-login">
+                <div class="mt-field">
+                    <input autocomplete="off" class="reset mt-text" id="username" name="username" placeholder="Username" type="text" />
+                    <label class="title login-form-label mt-label" for="username">Username</label>
+                </div>
+                <div class="mt-field">
+                    <input autocomplete="off" class="mt-text" id="password" name="password" placeholder="Password" type="password" />
+                    <label class="title login-form-label mt-label" for="password">Password</label>
+                </div>
+                <div class="mt-field mt-submit">
+                    <button class="ui-button ui-button-primary" type="submit">Sign in</button>
+                </div>
+            </form>
+        </div>
+    </li>
+
+    <li class="mt-user-menu-user">
+        <a class="mt-icon-quick-sign-in mt-dropdown-link mt-toggle-right"
+           href="#"
+           title="Sign in">Sign in</a>
+
+        <ul class="mt-user-menu-container mt-dropdown">
+
+            <li class="mt-login-sign-in">
+                <a class="mt-icon-quick-sign-in" href="https://chem.libretexts.org/Special:UserLogin?returntotitle=Bookshelves%2FOrganic_Chemistry%2FOrganic_Chemistry_%28Morsch_et_al.%29%2F14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy%2F14.09%3A_Conjugation_Color_and_the_Chemistry_of_Vision" title="Sign in">
+                    Sign in
+                </a>
+            </li>
+
+            <li class="mt-login-forgot-password">
+                <a class="mt-icon-login-forgot-password" href="https://chem.libretexts.org/Special:UserPassword" title="Retrieve lost password">
+                    Forgot password
+                </a>
+            </li>
+        </ul>
+    </li>
+</ol>
+</li>
+                </ol>
+            </div>
+        </nav>
+        <nav class="elm-header-global-nav elm-nav" data-ga-action="Elm Navigation">
+            <div class="elm-nav-container">
+                <button class="elm-hierarchy-trigger mt-hierarchy-trigger ui-button-icon mt-icon-hierarchy-trigger-closed" title="Expand/collapse global hierarchy" data-ga-label="Hierarchy Toggle - Tree View">
+                    Expand/collapse global hierarchy
+                </button>
+                <ol class="mt-breadcrumbs" data-ga-action="Breadcrumbs">
+                        <li>
+                            <a href="https://chem.libretexts.org/" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category mt-icon-article-home"></span>
+                                    Home
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Bookshelves
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)" data-ga-label="Breadcrumb category">
+                                <span class="mt-icon-article-category"></span>
+                                    Organic Chemistry (Morsch et al.)
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy" data-ga-label="Breadcrumb guide">
+                                <span class="mt-icon-article-guide"></span>
+                                    14: Conjugated Compounds and Ultraviolet Spectroscopy
+                            </a>
+                        </li>
+                        <li class="mt-breadcrumbs-current-page">
+                            <span class="mt-icon-article-topic"></span>
+                            14.9: Conjugation, Color, and the Chemistry of Vision
+                        </li>
+                </ol>
+                <button class="mt-icon-hierarchy-mobile-view-trigger ui-button-icon mt-icon-hierarchy-mobile-trigger-closed" title="Expand/collapse global location" data-ga-label="Hierarchy Toggle - Breadcrumb Expand/Collapse">
+                    Expand/collapse global location
+                </button>
+            </div>
+        </nav>
+        <nav class="elm-nav elm-header-hierarchy">
+            <div class="elm-nav-container">
+                <div class="elm-hierarchy mt-hierarchy"></div>
+            </div>
+        </nav>    </header>
+    <article class="elm-content-container" id="elm-main-content" tabindex="-1">
+        <header>
+            <div id="flash-messages"><div class="dekiFlash"></div></div>
+            
+                
+<h1 id="title" data-title-editor-available="false">
+        14.9: Conjugation, Color, and the Chemistry of Vision
+</h1>
+
+                
+
+                
+                    <ol class="elm-meta-data elm-meta-top" data-ga-action="Page actions">
+                        <li class="elm-last-modified"><dl class="mt-last-updated-container">
+    <dt class="mt-last-updated-label">Last updated</dt>
+    <dd>
+        <span class="mt-last-updated" data-timestamp="2023-01-28T20:52:29Z"></span>
+    </dd>
+</dl>
+</li>
+                        <li class="elm-pdf-export"><a data-ga-label="PDF" href="https://chem.libretexts.org/@api/deki/pages/31557/pdf/14.9%253A%2bConjugation%252C%2bColor%252C%2band%2bthe%2bChemistry%2bof%2bVision.pdf" rel="nofollow" target="_blank" title="Export page as a PDF">
+    <span class="mt-icon-article-pdf"></span>Save as PDF
+</a></li>
+                        <li class="elm-social-share"></li>
+                    </ol>
+                
+            
+        </header>
+                <header class="mt-content-header">
+
+<li id="pageNumberHolder" class="pageInfo"><dl class="mt-page-restriction-container"><dt class="mt-page-restriction-label">Page ID</dt><dd>31557</dd></dl></li><script defer="true" src="https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script><script defer="true" src="https://cdnjs.cloudflare.com/ajax/libs/jsrsasign/10.0.5/jsrsasign-all-min.min.js" integrity="sha512-idoo8Z+CmSse+nKqmN47DKVshl7zT5scjpgdmS7D15jIfcLUl9mNVLlsNZyYCiSvLE5qjHmTnv4vAoxEPqVveg==" crossorigin="anonymous"></script><script defer="true" src="https://cdn.jsdelivr.net/npm/js-cookie@2.2.1/src/js.cookie.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/Beeline/beeline.min.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/qrcode.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.fancytree/2.30.0/jquery.fancytree-all-deps.min.js"></script><script type="text/javascript" src="https://www.myopenmath.com/javascript/embedqresizer.js"></script><script defer="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.js"></script><link href="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/printYoutube.css" rel="stylesheet" type="text/css" /><script defer="true" src="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.js"></script><link href="https://cdn.libretexts.net/github/ableplayer/build/ableplayer.min.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+window.hypothesisConfig = function () {
+  return {
+    "showHighlights": false
+  };
+};
+//localStorage.setItem('darkMode', 'false');
+window.beelineEnabled = true;
+
+document.getElementsByTagName('head')[0].prepend(document.getElementById('mt-screen-css'),document.getElementById('mt-print-css'));
+//$('head').prepend($('#mt-print-css'));
+//$('head').prepend($('#mt-screen-css'));/*]]>*/</script>
+
+
+
+<script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/NavButtons/libreNavButtons.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/ExportButtons/libreExportButtons.min.js"></script><script async="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Binh Nguyen/ReactSidebar/build/sidebar.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/LicenseControl/licensecontrol.min.css" /><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Leo%20Jayachandran/Glossarizer/libretextsGlossarizer.css" /><script>/*<![CDATA[*/window.addEventListener('load', ()=>LibreTexts.TOC(undefined, undefined, true));/*]]>*/</script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Henry%20Agnew/LibreLens.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citationjs.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/attribution.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.libretexts.net/github/LibreTextsMain/Aryan Suri/Citation/citation.css" />
+
+
+
+<script async="true" src="https://hypothes.is/embed.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/Three49custom.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/GLmol/js/GLmol.js"></script><script type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/Molecules/JSmol/JSmol.full.nojq.js"></script><link href="https://fonts.googleapis.com/css?family=Roboto&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet" /><script type="text/javascript" src="https://use.fontawesome.com/84b10e0f37.js"></script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//CORS override
+LibreTexts.getKeys().then(()=>{
+    if(!$.ajaxOld){
+        $.ajaxOld = $.ajax;
+        $.ajax = (url, options)=> {
+   
+            if(url.url && url.url.includes('.libretexts.org/@api/deki/files')) {
+                let [subdomain, path] = LibreTexts.parseURL();
+                let token = LibreTexts.getKeys.keys[subdomain];
+                url.headers = Object.assign(url.headers || {}, {'x-deki-token':token});
+            }
+            else if (typeof url === 'string' && url.includes('.libretexts.org/@api/deki/files')){
+            let [subdomain, path] = LibreTexts.parseURL();
+            let token = LibreTexts.getKeys.keys[subdomain];
+               options.headers = Object.assign(options.headers || {}, {'x-deki-token':token});
+            }
+            return $.ajaxOld(url, options);
+    }
+    }
+});/*]]>*/</script>
+
+
+
+<div class="mt-author-container"><ul><li class="mt-author-image mt-author-image-crop"><img src="https://math.libretexts.org/@api/deki/files/77648/mini_logo.png" alt=" " title="LibreTexts" /></li><li class="mt-author-information"><span>Steven Farmer, Dietmar Kennepohl, Tim Soderberg, &amp; William Reusch</span></li><li class="mt-author-companyname"><a rel="external" target="_blank" href="https://libretexts.org/">LibreTexts</a></li></ul></div>
+<link href="https://pro.fontawesome.com/releases/v5.10.1/css/all.css" rel="stylesheet" />
+
+
+
+
+<div class="Headertext">
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+
+<p>\( \newcommand{\dsum}{\displaystyle\sum\limits} \)</p>
+
+<p>\( \newcommand{\dint}{\displaystyle\int\limits} \)</p>
+
+<p>\( \newcommand{\dlim}{\displaystyle\lim\limits} \)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\id}{\mathrm{id}}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\)</p>
+
+<p>\( \newcommand{\kernel}{\mathrm{null}\,}\)</p>
+
+<p>\( \newcommand{\range}{\mathrm{range}\,}\)</p>
+
+<p>\( \newcommand{\RealPart}{\mathrm{Re}}\)</p>
+
+<p>\( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)</p>
+
+<p>\( \newcommand{\Argument}{\mathrm{Arg}}\)</p>
+
+<p>\( \newcommand{\norm}[1]{\| #1 \|}\)</p>
+
+<p>\( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)</p>
+
+<p>\( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\)</p>
+
+<p>\( \newcommand{\vectorA}[1]{\vec{#1}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; % arrow\)</p>
+
+<p>\( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorC}[1]{\textbf{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorD}[1]{\overrightarrow{#1}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}}&nbsp;\)</p>
+
+<p>\( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \)</p>
+
+<p>\( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}}&nbsp;}&nbsp;\)</p>
+
+<p>\(\newcommand{\longvect}{\overrightarrow}\)</p>
+
+<p>\( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash&nbsp;{#1}}} \)</p>
+\(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\)</div>
+</header>
+                <aside class="mt-content-side"></aside>
+            <aside id="mt-toc-container" data-title="Table of contents" data-collapsed="true">
+                <nav class="mt-toc-content mt-collapsible-section">
+                    <ol><li><a href="#Objectives" rel="internal">Objectives</a></li><li><a href="#Introduction" rel="internal">Introduction</a></li><li><a href="#Mechanism_of_Vision" rel="internal">Mechanism of Vision</a><ol><li><a href="#Exercise_.5C(.5CPageIndex.7B1.7D.5C)" rel="internal">Exercise \(\PageIndex{1}\)</a></li><li><a href="#Exercise_.5C(.5CPageIndex.7B2.7D.5C)" rel="internal">Exercise \(\PageIndex{2}\)</a></li></ol></li></ol>
+                </nav>
+            </aside>
+            <section class="mt-content-container">
+                <section class="box-objectives">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.09:_Conjugation_Color_and_the_Chemistry_of_Vision" class="mt-section"><span id="Objectives"></span><h5 class="box-legend lt-chem-31557 editable"><span class="lt-icon-default">Objectives</span></h5>
+
+<p class="lt-chem-31557">After completing this section, you should be able to</p>
+
+<ol>
+    <li class="lt-chem-31557">explain why some organic compounds have different colors based on compound structure and our perception of light.</li>
+    <li class="lt-chem-31557">state the relationship between frequency of light absorbed and the extent of conjugation in an extended pi electron system.</li>
+</ol>
+</div></section>
+
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.09:_Conjugation_Color_and_the_Chemistry_of_Vision" class="mt-section" id="section_1"><span id="Introduction"></span><h2 class="lt-chem-31557 editable">Introduction</h2>
+
+<p>An obvious difference between certain compounds is their color. Thus, quinone is yellow; chlorophyll is green; and aspirin is colorless. In this respect the human eye is functioning as a spectrometer analyzing the light reflected from the surface of a solid or passing through a liquid. Although we see sunlight (or white light) as uniform or homogeneous in color, it is actually composed of a broad range of radiation wavelengths in the ultraviolet (UV), visible and infrared (IR) portions of the spectrum. As shown on the image below, the component colors of the visible portion can be separated by passing sunlight through a prism, which acts to bend the light in differing degrees according to wavelength.</p>
+
+<p class="mt-align-center"><img loading="lazy" style="width: 334px; height: 201px;" width="334px" height="201px" class="internal" alt="prism2.gif" src="https://chem.libretexts.org/@api/deki/files/34295/prism2.gif?revision=1&amp;size=bestfit&amp;width=334&amp;height=201" /></p>
+
+<p>Visible wavelengths cover a range from approximately 400 to 800 nm. The longest visible wavelength is red and the shortest is violet. The wavelengths of what we perceive as particular colors in the visible portion of the spectrum are displayed and listed below.</p>
+
+<p class="mt-align-center lt-chem-31555"><img alt="The wavelength is measured from the peak to the next peak. The amplitude is the height of the peak. " style="width: 269px; height: 88px;" width="269px" height="88px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/34296/wave.gif?revision=1&amp;size=bestfit&amp;width=269&amp;height=88" /> <img alt="Visible light spectrum with wavelength measured in nanometers. " style="width: 384px; height: 121px;" width="384px" height="121px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/34297/vispect2.gif?revision=1&amp;size=bestfit&amp;width=384&amp;height=121" /></p>
+
+<ul>
+    <li class="lt-chem-31555"><font color="#ff00ff"><strong>Violet:</strong></font> 400 - 420 nm</li>
+    <li class="lt-chem-31555"><font color="#5511dd"><strong>Indigo:</strong></font> 420 - 440 nm</li>
+    <li class="lt-chem-31555"><font color="#3333ff"><strong>Blue:</strong></font> 440 - 490 nm</li>
+    <li class="lt-chem-31555"><font color="#008000"><strong>Green:</strong></font> 490 - 570 nm</li>
+    <li class="lt-chem-31555"><font color="#e8cb00"><strong>Yellow:</strong></font> 570 - 585 nm</li>
+    <li class="lt-chem-31555"><font color="#ff8000"><strong>Orange:</strong></font> 585 - 620 nm</li>
+    <li class="lt-chem-31555"><font color="#ff0000"><strong>Red:</strong></font> 620 - 780 nm</li>
+</ul>
+
+<p class="lt-chem-31555">When white light passes through or is reflected by a colored substance, a characteristic portion of the mixed wavelengths is absorbed. The remaining light will then assume the complementary color to the wavelength(s) absorbed. This relationship is demonstrated by the color wheel shown below. Here, complementary colors are diametrically opposite each other. Thus, absorption of violet (400-440 nm) light renders a substance yellow, and absorption of 490-560 nm (green) light makes it red. Green is unique in that it can be created by absorption close to 400 nm as well as absorption near 800 nm.</p>
+
+<p class="mt-align-center lt-chem-31555"><img alt="Visible light spectrum in the form of a color wheel. " style="width: 248px; height: 184px;" width="248px" height="184px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/34298/colwheel.gif?revision=1&amp;size=bestfit&amp;width=248&amp;height=184" /></p>
+
+<p class="lt-chem-31555 mt-align-justify">Early humans valued colored pigments, and used them for decorative purposes. Many of these were inorganic minerals, but several important organic dyes were also known. These included the crimson pigment, kermesic acid, the blue dye, indigo, and the yellow saffron pigment, crocetin. A rare dibromo-indigo derivative, punicin, was used to color the robes of the royal and wealthy. A common feature of all these colored compounds, displayed below, is a system of <strong>extensively conjugated \(\pi\)-electrons</strong>.</p>
+
+<p class="mt-align-center lt-chem-31555 mt-align-center"><img alt="clipboard_e19c0895656bb33ca77646ab4c5299958.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/396090/clipboard_e19c0895656bb33ca77646ab4c5299958.png?revision=1" /></p>
+
+
+
+<p>By understanding visible light, complementary colors, and adsorption the color of organic compounds can be understood. Beta-carotene, a compound found in carrots, is a deep orange color. Beta-carotene has 11 conjugated double bonds which places its <span><strong>&lambda;</strong></span><sub>max</sub><sub> </sub>at 455 nm which is within the blue region of the visible spectrum. The Beta-carotene compound absorbs blue from white light so it appears orange which is the the complementary color of blue.</p>
+
+<p class="mt-align-center"><img alt="beta-acarotein.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/421861/beta-acarotein.png?revision=1" /></p>
+
+<p class="mt-align-center lt-chem-31557 mt-align-center"><img alt="caroteneUVVis.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/396052/caroteneUVVis.png?revision=1" /></p>
+
+<p>Another example is seen in the absorption spectrum of another food coloring, Blue #1:</p>
+
+<p class="mt-align-center lt-chem-31556" style="text-align: center; "><img alt="The max wavelength is at 630 nanometers" style="width: 621px; height: 399px;" width="621px" height="399px" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/5070/image041.png?revision=1&amp;size=bestfit&amp;width=621&amp;height=399" /></p>
+
+<p>Blue #1 absorbs at a <span><strong>&lambda;</strong></span><sub>max</sub><sub> </sub>at 630 nm which is the color red in the visible spectrum. Blue is the complementary color of red.</p>
+
+</div><div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.09:_Conjugation_Color_and_the_Chemistry_of_Vision" class="mt-section" id="section_2"><span id="Mechanism_of_Vision"></span><h2 class="lt-chem-31557 editable">Mechanism of Vision</h2>
+
+<p class="lt-chem-31557">Conjugation is also important in light sensitive compounds used for vision. Beta carotene, found in carrots and other natural products is cleaved into the liver and converted into Vitamin A, also known as retinol. Vitamin A is critical for vision because it is needed by the retina of eye. Retinol can be oxidized to an aldehyde called retinal which is also important for vision.</p>
+
+<p class="mt-align-center lt-chem-31557"><img alt="Bond line drawing of beta-carotene" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/421862/beta_2.png?revision=1" /></p>
+
+<p class="mt-align-center lt-chem-31557"><img alt="Bond line drawing of cis vitamin A (retinol)" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/421864/vitA.png?revision=1" /></p>
+
+<p class="mt-align-center lt-chem-31557"><img alt="Bond line drawing of retinal. " class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/421865/retinal.png?revision=1" /></p>
+
+<p>The eye is an extraordinarily sensitive instrument. Although its wavelength response is restricted to 400-800 nm, but its degree of sensitivity is such that a fully dark-adapted eye can clearly detect objects in light so dim as to correspond to a light input over the retina of only about 10,000 quanta per second - one light quantum per three minutes per receptor cell in the retina!</p>
+
+<p class="lt-chem-22382" style="background-color: unset;">The retina is made up of two kinds of light-sensitive (photoreceptor) cells, known as rods and cones. The rods are the more sensitive and are responsible for vision in dim light. The cones are much fewer in number than the rods and provide detail and color vision in good light. The part of the retina that corresponds to the center of the visual field contains only cones. A red pigment called <strong>rhodopsin</strong> is the photosensitive substance in the rod cells of the retina. It absorbs most strongly in the blue-green region of the visible spectrum (&lambda;<sub>max</sub> = 500nm) and is essentially unaffected by the far-red end of the spectrum. Cone vision appears to involve a different pigment called <strong>iodopsin</strong>, which absorbs farther toward the red than does rhodopsin.</p>
+
+<p class="lt-chem-31557">Rhodopsin, is made up of a protein (opsin) and retinal. Opsin does not absorb visible light, but when it is bonded with 11-cis-retinal to from rhodopsin, the new molecule has a very broad absorption band in the visible region of the spectrum. Rhodopsin is formed by an an imine (Schiff base) functional group formed between the aldehyde group of the retinal and the side-chain amino function of a lysine unit of opsin.</p>
+
+<p class="mt-align-center lt-chem-31557"><img alt="1,1-cis-retinal reacts with opsin to produce rhodopsin. " class="default" src="data:image/png;base64,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" style="width: 816px; height: 174px;" /></p>
+
+<p class="lt-chem-31557">Opsin itself is colorless, whereas 11-cis-retinal absorbs strongly at 370 nm. The combination of opsin with 11-cis-retinal produces a remarkable shift of &lambda;<sub>max</sub> to longer wavelengths (430 nm to 620 nm, depending on the species). Light striking the retina changes the color of rhodopsin from red to yellow. The primary photochemical event in this process was established by G. Wald (Nobel Laureate in Physiology and Medicine, 1967), who showed that light absorption led to a change of configuration about the C<sub>11</sub>-C<sub>12</sub> double bond of the retinal moiety fo rhodopsin from<em> cis </em>to <em>trans </em>to form a compound called metarhodopsin II. The new form of trans-retinal does not fit as well into the opsin protein, and so a series of geometry changes in the protein begins. As the protein changes its geometry, it initiates a cascade of biochemical reactions that result in changes in charge so that a large potential difference builds up across the neuron membranes. This potential difference is passed along to an adjoining nerve cell as an electrical impulse. The nerve cell carries this impulse to the brain, where the visual information is interpreted.</p>
+
+<p class="mt-align-center"><img alt="clipboard_e943a4cf57673cc647f07741801b59b42.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/396091/clipboard_e943a4cf57673cc647f07741801b59b42.png?revision=1" /></p>
+
+<p>Metarhodopsin II can then be recycled back to rhodopsin by first cleaving to form all-<em>trans</em>-retinal and the isomerization back to 11-<em>cis</em>-retinal by the enzyme retinal isomerase. Finally, 11-<em>cis</em>-retinal is once again coupled with opsin to form rhodopsin.</p>
+
+<p class="mt-align-center"><img loading="lazy" style="width: 529px; height: 141px;" width="529px" height="141px" class="internal" alt="Roberts and Caserio Screenshot 28-7-3.png" src="https://chem.libretexts.org/@api/deki/files/107222/Roberts_and_Caserio_Screenshot_28-7-3.png?revision=1&amp;size=bestfit&amp;width=529&amp;height=141" /></p>
+
+<section class="box-exercise">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.09:_Conjugation_Color_and_the_Chemistry_of_Vision" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B1.7D.5C)"></span><h5 class="box-legend editable"><span class="lt-icon-default">Exercise \(\PageIndex{1}\)</span></h5>
+
+<p>Lycopene is conjugated compound found in tomatoes. What colors correspond to the UV-Vis absorption maxima of lycopene? What color do we see when we look at lycopene?</p>
+
+<p class="mt-align-center"><img alt="lycopeneUVVis.png" class="internal" loading="lazy" src="https://chem.libretexts.org/@api/deki/files/396053/lycopeneUVVis.png?revision=1" /></p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p>The absorption maxima of lycopene are regions of blue and green in the visible spectrum. Lycopene would be expected to appears orange and red.</p>
+    </dd>
+</dl>
+</div></section>
+
+<section class="box-exercise">
+<div mt-section-origin="Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/14:_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.09:_Conjugation_Color_and_the_Chemistry_of_Vision" class="mt-section"><span id="Exercise_.5C(.5CPageIndex.7B2.7D.5C)"></span><h5 class="box-legend editable"><span class="lt-icon-default">Exercise \(\PageIndex{2}\)</span></h5>
+
+<p>Asprin has a &lambda;<sub>max</sub><sub> </sub>of 220 nm. Briefly explain why Asprin appears white.</p>
+
+<dl>
+    <dt><strong class="emphasis bold">Answer</strong></dt>
+    <dd>
+    <p>Asprin absorbs in the ultraviolet portion of the electromagnetic spectrum. Asprin cannot remove any colors from white light by absorption so the compound itself appears white. Many compounds with a relatively small amount of conjugation appear white because they only absorb in the ultraviolet and not the visible region.</p>
+    </dd>
+</dl>
+</div></section>
+</div>
+
+                    <footer class="mt-content-footer">
+
+
+
+<style>/*<![CDATA[*/#mt-toc-container {display: none !important;}/*]]>*/</style><script type="text/javascript">/*<![CDATA[*/
+$(function() {
+    if(!window['autoDefinitionList']){
+        window['autoDefinitionList'] = true;
+       
+        $('dl').find('dt').on('click', function() {
+            $(this).next().toggle('350');   
+         });
+    }
+});/*]]>*/</script>
+
+
+<script defer="true" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;483ec2414e274209a7e93c253192df0b&quot;}"></script><script src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/h5p-resizer.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.contentWindow.min.js" integrity="sha512-FOf4suFgz7OrWmBiyyWW48u/+6GaaAFSDHagh2EBu/GH/1+OQSYc0NFGeGeZK0gZ3vuU1ovmzVzD6bxmT4vayg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.2.11/iframeResizer.min.js" integrity="sha512-HY1lApSG7xxx8mYzs/lxRs+c5AaDThRaa3pvQB6puiswvf2lWqMJVf+8qSGiL4ZXfHQoPIqbd1TlpqfycPo3cQ==" crossorigin="anonymous"></script><script>/*<![CDATA[*/window.addEventListener('load', function(){$('iframe').iFrameResize({warningTimeout:0, scrolling: 'omit'});})/*]]>*/</script><script>/*<![CDATA[*/
+window.PageNum = "auto";
+window.InitialOffset = "false";
+window.PageName = "14.9: Conjugation, Color, and the Chemistry of Vision";
+/*]]>*/</script>
+
+<script type="text/javascript">/*<![CDATA[*/
+//<!-- MathJax Config -->
+var front = window.PageNum.trim();
+if(front=="auto"){
+    front = window.PageName.replace('\"', '\\\"').trim();
+    //front = "'..string.matchreplace(PageName,'\"','\\\"')..'".trim();
+     if(front.includes(":")){
+         front = front.split(":")[0].trim();
+         if(front.includes(".")){
+             front = front.split(".");
+             front = front.map((int)=>int.includes("0")?parseInt(int,10):int).join(".");
+         }
+         front+=".";
+     }
+     else {
+     front = "";
+ }
+}
+front = front.trim();
+
+function loadMathJaxScript() {
+    try {
+    	const script = document.createElement('script');
+      script.id = "mathjax-script";
+    	script.src = "https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-svg.js";
+    	script.type = "text/javascript";
+      script.defer = true;
+
+    	document.head.appendChild(script);
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', (e) => {
+	loadMathJaxScript();
+});
+
+if (window.PageName !== 'Realtime MathJax'){
+MathJax = {
+  options: {
+    ignoreHtmlClass: "tex2jax_ignore",
+    processHtmlClass: "tex2jax_process",
+    menuOptions: {
+      settings: {
+        zscale: "150%",
+        zoom: "Double-Click",
+
+        assistiveMml: true, // true to enable assitive MathML
+        collapsible: false, // true to enable collapsible math
+      },
+    },
+  },
+  output: {
+    scale: 0.85,
+    mtextInheritFont: false,
+    displayOverflow: "linebreak",
+    linebreaks: {
+      width: "100%",
+    },
+  },
+  startup: {
+    pageReady: () => {
+      if (window.activateBeeLine) {
+        window.activateBeeLine();
+      }
+      return MathJax.startup.defaultPageReady();
+    },
+  },
+  chtml: {
+    matchFontHeight: true,
+  },
+  tex: {
+    tags: "all",
+    tagformat: {
+      number: (n) => {
+        if (window.InitialOffset) {
+          const offset = Number(window.InitialOffset);
+         	if(!offset) {
+          	return front + n; // If offset is falsy (nan, undefined, etc.)
+          }
+          const added = Number(n) + offset;
+          return front + added;
+        } else {
+          return front + n;
+       	}
+      },
+    },
+    macros: {
+      eatSpaces: ['#1', 2, ['', ' ', '\\endSpaces']],
+      PageIndex: ['{' + front.replace(/\./g, '{.}') + '\\eatSpaces#1 \\endSpaces}', 1],
+      test: ["{" + front + "#1}", 1],
+      mhchemrightleftharpoons: "{\\unicode{x21CC}\\,}",
+      xrightleftharpoons: ['\\mhchemxrightleftharpoons[#1]{#2}', 2, '']
+    },
+    packages: {
+      "[+]": [
+        "mhchem",
+        "color",
+        "cancel",
+        "ams",
+        "tagformat"
+      ],
+    },
+  },
+  loader: {
+    '[tex]/mhchem': {
+      ready() {
+        const {MapHandler} = MathJax._.input.tex.MapHandler;
+        const mhchem = MapHandler.getMap('mhchem-chars');
+        mhchem.lookup('mhchemrightarrow')._char = '\uE42D';
+        mhchem.lookup('mhchemleftarrow')._char = '\uE42C';
+      }
+    },
+    load: [
+      "[tex]/mhchem",
+      "[tex]/color",
+      "[tex]/cancel",
+      "[tex]/tagformat",
+    ],
+  },
+};
+};
+//<!-- End MathJax Config -->/*]]>*/</script>
+
+<hr class="autoattribution-divider" /><div class="autoattribution"><p>This page titled <a target="_blank" class="internal mt-self-link" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.09%3A_Conjugation_Color_and_the_Chemistry_of_Vision" rel="internal">14.9: Conjugation, Color, and the Chemistry of Vision</a> is shared under a <a rel="nofollow" href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank">CC BY-SA  4.0</a>  license and was authored, remixed, and/or curated by <a rel="nofollow" target="_blank" href="">Steven Farmer, Dietmar Kennepohl, Tim Soderberg, William Reusch, &amp; William Reusch</a>. </p></div>
+
+
+
+<script type="text/javascript">/*<![CDATA[*/
+try {
+  const pageTagsHolder = document.getElementById('pageTagsHolder');
+  if (pageTagsHolder) {
+    const pageTagsRaw = pageTagsHolder.innerText;
+    if (pageTagsRaw.includes('transcluded:yes')) {
+      const attrSections = document.querySelectorAll('.autoattribution');
+      const attrDividers = document.querySelectorAll('.autoattribution-divider');
+      if (attrSections.length > 1 && attrDividers.length > 1) {
+        /* Hide first AutoAttribution from transcluded page */
+        attrSections[0].style.display = 'none';
+        attrDividers[0].style.display = 'none';
+      }
+    }
+  }
+} catch (e) {
+  console.error('[AutoAttribution Transclusion Removal] Error encountered!');
+  console.error(e);
+}/*]]>*/</script>
+</footer>
+            </section>
+
+        
+            <footer class="elm-content-footer">
+                <ol class="elm-meta-data elm-meta-article-navigation">
+                    <li class="elm-back-to-top"><a class="mt-icon-back-to-top" href="#title" id="mt-back-to-top" title="Jump back to top of this article">Back to top</a></li>
+                    <li class="elm-article-pagination"><ul class="mt-article-pagination" data-ga-action="Article pagination bottom">
+    <li class="mt-pagination-previous">
+
+            <a class="mt-icon-previous-article" data-ga-label="Previous page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.08%3A_Interpreting_Ultraviolet_Spectra-_The_Effect_of_Conjugation" title="14.8: Interpreting Ultraviolet Spectra- The Effect of Conjugation"><span>14.8: Interpreting Ultraviolet Spectra- The Effect of Conjugation</span></a>
+    </li>
+        <li class="mt-pagination-next">
+                <a class="mt-icon-next-article" data-ga-label="Next page" href="https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_(Morsch_et_al.)/14%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy/14.S%3A_Conjugated_Compounds_and_Ultraviolet_Spectroscopy_(Summary)" title="14.S: Conjugated Compounds and Ultraviolet Spectroscopy (Summary)"><span>14.S: Conjugated Compounds and Ultraviolet Spectroscopy (Summary)</span></a>
+        </li>
+</ul>
+</li>
+                </ol>
+                    <div class="elm-article-feedback"><div class="mt-feedback-rating-container" data-ga-action="Page rating" data-page-revision="34" data-use-local-storage="true"><ul class="mt-feedback-rating-controls"><li class="mt-feedback-rating-message mt-feedback-rating-item">Was this article helpful?</li><li class="mt-rating-yes mt-feedback-rating-item"><button class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes" data-ga-label="Rate">Yes</button></li><li class="mt-rating-no mt-feedback-rating-item"><button class="mt-rating-button-no mt-feedback-rating-button ui-button-icon mt-icon-rating-no" data-ga-label="Rate">No</button></li><li class="mt-last-rating-date mt-feedback-rating-item"></li></ul><div id="mt-feedback-flash-message"></div></div><script type="application/json" id="mt-localizations-feedback-rating">/*<![CDATA[*/{"Page.FeedbackRating.label.last-rated":"-- You last rated this article on {0}","Page.FeedbackRating.message.contact.no":"No","Page.FeedbackRating.message.contact.yes":"Yes","Page.FeedbackRating.message.submit.error":"An error occurred while attempting to send your feedback.  Please try again at a later time.","Page.FeedbackRating.message.submit.success":"Your feedback has been successfully submitted.  You can submit more feedback at any time."}/*]]>*/</script></div>
+                <div class="elm-related-articles-container"><h2 class="mt-related-articles-header">Recommended articles</h2>
+<ol class="mt-related-listings-container"
+    data-ga-action="related"
+    >
+</ol>
+<script type="application/json" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" id="mt-localizations-related-pages">
+{"Skin.Columbia.label.no-recommended-articles":"There are no recommended articles."}</script></div>
+                <ol class="elm-meta-data elm-meta-bottom">
+                    <li class="elm-classifications">        <dl class="mt-classification mt-classification-article-section or page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Article type</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=article%3Atopic" data-ga-label="Classification">Section or Page</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-authorname-libretexts" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Author</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=authorname%3Alibretexts" data-ga-label="Classification">LibreTexts</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-cssprint-dense" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Print CSS</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=cssprint%3Adense" data-ga-label="Classification">Dense</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-license-cc by-sa" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=license%3Accbysa" data-ga-label="Classification">CC BY-SA</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-licenseversion-4.0" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">License Version</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=licenseversion%3A40" data-ga-label="Classification">4.0</a></dd>
+        </dl>
+        <dl class="mt-classification mt-classification-showtoc-no on page" data-ga-action="Tag navigation">
+            <dt class="mt-classification-label">Show Page TOC</dt>
+            <dd class="mt-classification-value"><a href="https://chem.libretexts.org/Special:Search?tags=showtoc%3Ano" data-ga-label="Classification">no on page</a></dd>
+        </dl>
+</li>
+                    <li class="elm-tags"><dl class="mt-tags">
+    <dt class="mt-tag-label">Tags</dt>
+    <dd class="mt-tag-value">
+        <ol class="mt-tags-list" data-ga-action="Tag navigation">
+                <li class="mt-tag-link mt-tag-author@dietmar-kennepohl" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=author%40Dietmar+Kennepohl" data-ga-label="Free tag"> author@Dietmar Kennepohl</a></li>
+                <li class="mt-tag-link mt-tag-author@steven-farmer" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=author%40Steven+Farmer" data-ga-label="Free tag"> author@Steven Farmer</a></li>
+                <li class="mt-tag-link mt-tag-author@tim-soderberg" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=author%40Tim+Soderberg" data-ga-label="Free tag"> author@Tim Soderberg</a></li>
+                <li class="mt-tag-link mt-tag-author@william-reusch" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=author%40William+Reusch" data-ga-label="Free tag"> author@William Reusch</a></li>
+                <li class="mt-tag-link mt-tag-vision" rel="nofollow"><a href="https://chem.libretexts.org/Special:Search?tags=vision" data-ga-label="Free tag"> vision</a></li>
+        </ol>
+    </dd>
+</dl></li>
+                </ol>
+            </footer>
+        
+    </article>
+    <footer class="elm-footer">
+        <nav class="elm-footer-siteinfo-nav elm-nav">
+            <div class="elm-nav-container">
+                <ol>
+                    <li class="elm-footer-copyright">&copy; Copyright 2026 Chemistry LibreTexts</li>
+                    <li class="elm-footer-powered-by"><a href="https://mindtouch.com/demo" class="mt-poweredby product " title="MindTouch" target="_blank">
+   Powered by NiCE Knowledge Management
+   <span class="mt-registered">&reg;</span>
+</a></li>
+                </ol>
+            </div>
+        </nav>
+        <div class="elm-footer-custom">
+
+<div id="support-widget-container" class="support-widget"></div><script defer="true" src="https://cdn.libretexts.net/libretexts-support-widget.min.js"></script>
+
+
+<div class="mt-container-highlight">
+<nav class="elm-nav my-custom-class">
+<div class="elm-nav-container" id="bottomFooter">
+<p>The LibreTexts libraries are&nbsp;<a href="https://www.nice.com/resources/cxone-expert-knowledge-management" rel="external nofollow" target="_blank">Powered by NICE CXone Expert&nbsp;</a>and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. <a target="_blank" title="https://libretexts.org/privacy" href="https://libretexts.org/privacy" rel="external noopener nofollow" class="link-https">Privacy Policy</a>. <a target="_blank" title="https://libretexts.org/terms-conditions" href="https://libretexts.org/terms-conditions" rel="external noopener nofollow" class="link-https">Terms &amp; Conditions</a>. <a href="https://commons.libretexts.org/accessibility" target="_blank" rel="external noopener nofollow" class="link-https">Accessibility Statement</a>.&nbsp;For more information contact us at<a href="mailto:info@libretexts.org" target="_blank" rel="external noopener nofollow" class="link-mailto">&nbsp;info@libretexts.org</a>.</p>
+</div>
+</nav>
+</div>
+
+
+
+<script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-binder-plugin/v3/js/registerPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-query-plugin/queryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreFormatPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreBoxesPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/LibreTextsMain/EditorPlugins/dist/libreQueryPlugin.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.libretexts.net/github/ckeditor-a11ychecker-plugin/a11yPlugin.min.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/headerfooter.js"></script><script async="true" src="https://cdn.libretexts.net/github/LibreTextsMain/Miscellaneous/remove-hypothesis-shadow.js"></script>
+
+
+
+
+</div>
+    </footer>
+</main>
+<div id="mt-modal-container"></div>
+
+    <script type="text/javascript" async="async" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" src="https://chem.libretexts.org/@embed/f1.js"></script>
+
+<script type="text/javascript" data-mindtouch-module="true" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" src="https://a.mtstatic.com/deki/javascript/out/standalone/serviceworker-unregister.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script><script type="text/javascript" data-mindtouch-module="true" nonce="3582fce23567ed3332eaf94558496a3da8247dcdde9fdda1b0ee02ead231d495" src="https://a.mtstatic.com/deki/javascript/out/standalone/pageLoaded.js?_=0becbd63da7292e77923e1ab1729dd3df7d0ab87:site_4334"></script>
+
+
+</body>
+</html>
