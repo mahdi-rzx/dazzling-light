@@ -127,10 +127,13 @@ def git_commit_push(files, message):
         print(f"  Git error (non‑fatal): {e}")
 
 def time_remaining(start_time, timeout):
+    """Returns (remaining_seconds, should_stop).
+    Only stops when less than REQUEST_TIMEOUT seconds remain."""
     elapsed = time.time() - start_time
     remaining = timeout - elapsed
-    if remaining <= 30:
-        return 0, True
+    # FIXED: Only stop when we can't complete another request
+    if remaining <= REQUEST_TIMEOUT:
+        return max(0, remaining), True
     return remaining, False
 
 def is_allowed_url(url):
@@ -184,10 +187,14 @@ def main():
     seen = downloaded | errors | set(frontier)
     counter = 0
 
-    for url in frontier[:]:
+    # FIXED: Create a list copy to iterate, since we modify frontier during iteration
+    frontier_list = frontier[:]
+    
+    for url in frontier_list:
+        # FIXED: Check timeout BEFORE attempting download
         remaining, should_stop = time_remaining(start_time, JOB_TIMEOUT)
         if should_stop:
-            print(f"\n⏰ Time's up! ({JOB_TIMEOUT}s)")
+            print(f"\n⏰ Time nearly up! ({JOB_TIMEOUT}s job timeout, {remaining:.0f}s remaining)")
             print(f"   Processed: {counter} pages this run")
             break
 
@@ -214,18 +221,13 @@ def main():
         print(f"[{counter+1}] {url} (⏳ {remaining:.0f}s)")
 
         try:
-            resp = requests.get(url, timeout=min(REQUEST_TIMEOUT, remaining), allow_redirects=True)
+            resp = requests.get(url, timeout=min(REQUEST_TIMEOUT, max(1, remaining)), allow_redirects=True)
         except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
             print(f"  ⚠ {e}")
             continue
         except Exception as e:
             print(f"  ⚠ {e}")
             continue
-
-        remaining, should_stop = time_remaining(start_time, JOB_TIMEOUT)
-        if should_stop:
-            print(f"  ⏰ Stopping after download")
-            break
 
         status = resp.status_code
         final_url = clean_url(resp.url)  # URL after redirects
