@@ -1,0 +1,279 @@
+name: 🔄 Smart Leecher - Download & Split
+
+on:
+  workflow_dispatch:
+    inputs:
+      leech_url:
+        description: '🔗 URL (direct link, download page, or file ID)'
+        required: true
+        type: string
+      leech_folder:
+        description: '📁 Custom folder name'
+        required: false
+        type: string
+        default: ''
+      leech_split:
+        description: '✂️ Split size (e.g. 10M, 20M, 50M)'
+        required: false
+        type: string
+        default: '20M'
+      max_retries:
+        description: '🔄 Max retries on failure'
+        required: false
+        type: number
+        default: 5
+
+permissions:
+  contents: write
+
+jobs:
+  smart-leecher:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq zip wget curl html2text jq
+
+      - name: Smart Download
+        run: |
+          URL="${{ inputs.leech_url }}"
+          FOLDER_INPUT="${{ inputs.leech_folder }}"
+          SPLIT="${{ inputs.leech_split }}"
+          MAX_RETRIES="${{ inputs.max_retries }}"
+          [ -z "$SPLIT" ] && SPLIT="20M"
+          [ -z "$MAX_RETRIES" ] && MAX_RETRIES=5
+          
+          # Function to extract direct links from various services
+          extract_direct_link() {
+            local url="$1"
+            
+            # GitHub blob → raw
+            if echo "$url" | grep -q "github.com.*/blob/"; then
+              echo "$url" | sed 's|/blob/|/raw/|'
+              return 0
+            fi
+            
+            # Google Drive (any format)
+            if echo "$url" | grep -q "drive.google.com"; then
+              FILE_ID=$(echo "$url" | grep -oP '(?:id=|/d/|/uc\?id=)([a-zA-Z0-9_-]+)' | head -1 | sed 's/.*=//;s/.*\/d\///')
+              if [ -n "$FILE_ID" ]; then
+                echo "https://drive.usercontent.google.com/download?id=$FILE_ID&confirm=t"
+                return 0
+              fi
+            fi
+            
+            # Dropbox (shared link → direct)
+            if echo "$url" | grep -q "dropbox.com"; then
+              echo "$url" | sed 's/?dl=0/?dl=1/;s/www.dropbox.com/dl.dropboxusercontent.com/'
+              return 0
+            fi
+            
+            # Mega.nz (requires megatools, limited)
+            if echo "$url" | grep -q "mega.nz"; then
+              echo "MEGA:REQUIRES_TOKEN"  # Special flag
+              return 0
+            fi
+            
+            # MediaFire
+            if echo "$url" | grep -q "mediafire.com"; then
+              echo "MEDIAFIRE:NEEDS_HTML_PARSING"
+              return 0
+            fi
+            
+            # Return original if no pattern matches
+            echo "$url"
+            return 0
+          }
+          
+          # Download with smart retry and cookie handling
+          smart_download() {
+            local url="$1"
+            local output="$2"
+            local retries=0
+            local temp_cookies=$(mktemp)
+            
+            # Common user agents to rotate
+            USER_AGENTS=(
+              "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+              "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"
+              "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            )
+            
+            while [ $retries -lt $MAX_RETRIES ]; do
+              UA="${USER_AGENTS[$RANDOM % ${#USER_AGENTS[@]}]}"
+              
+              echo "Attempt $((retries+1))/$MAX_RETRIES - User-Agent: ${UA:0:50}..."
+              
+              # Use curl with comprehensive options
+              curl -L --fail --progress-bar \
+                -A "$UA" \
+                -b "$temp_cookies" \
+                -c "$temp_cookies" \
+                --connect-timeout 30 \
+                --max-time 600 \
+                --retry 3 \
+                --retry-delay 5 \
+                --retry-max-time 60 \
+                --referer "$(echo "$url" | grep -oP '^https?://[^/]+')" \
+                -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" \
+                -H "Accept-Language: en-US,en;q=0.5" \
+                -H "Accept-Encoding: gzip, deflate, br" \
+                -H "DNT: 1" \
+                -H "Connection: keep-alive" \
+                -H "Upgrade-Insecure-Requests: 1" \
+                -o "$output" \
+                -w "%{http_code}" \
+                "$url" > "${output}.code" 2>&1
+              
+              HTTP_CODE=$(cat "${output}.code" 2>/dev/null | tail -1)
+              
+              # Check for common issues
+              if [ -f "$output" ] && [ -s "$output" ]; then
+                # Check if we got HTML instead of binary (likely a challenge page)
+                if file "$output" | grep -q "HTML"; then
+                  echo "⚠️  Got HTML response (possible captcha/challenge page)"
+                  
+                  # Check for Cloudflare
+                  if grep -q "cf-challenge\|cloudflare\|attention required" "$output" 2>/dev/null; then
+                    echo "❌ Cloudflare challenge detected - cannot bypass automatically"
+                    echo "💡 Suggestion: Use a direct link or download manually"
+                    rm -f "$output"
+                    return 1
+                  fi
+                  
+                  # Try to extract any actual download link from HTML
+                  echo "🔍 Attempting to extract download link from HTML..."
+                  EXTRACTED_URL=$(grep -oP '(?:href|src)="(https?://[^"]+\.(?:zip|rar|7z|exe|msi|pdf|jpg|png|mp4|mkv|torrent)[^"]*)"' "$output" | head -1 | sed 's/.*"//')
+                  
+                  if [ -n "$EXTRACTED_URL" ]; then
+                    echo "✅ Found potential download link: $EXTRACTED_URL"
+                    smart_download "$EXTRACTED_URL" "$output"
+                    return $?
+                  fi
+                else
+                  # Success - got binary content
+                  echo "✅ Download successful"
+                  rm -f "$temp_cookies" "${output}.code"
+                  return 0
+                fi
+              fi
+              
+              # Check HTTP code
+              if [ "$HTTP_CODE" = "200" ] || [ "$HTTP_CODE" = "206" ]; then
+                if [ -f "$output" ] && [ -s "$output" ]; then
+                  echo "✅ Download successful (HTTP $HTTP_CODE)"
+                  rm -f "$temp_cookies" "${output}.code"
+                  return 0
+                fi
+              fi
+              
+              echo "⚠️  Attempt $((retries+1)) failed (HTTP $HTTP_CODE)"
+              retries=$((retries+1))
+              
+              if [ $retries -lt $MAX_RETRIES ]; then
+                sleep $((retries * 5))  # Progressive delay
+              fi
+            done
+            
+            echo "❌ Failed after $MAX_RETRIES attempts"
+            rm -f "$temp_cookies"
+            return 1
+          }
+          
+          # Main logic
+          echo "🔍 Original URL: $URL"
+          
+          # Extract direct link if possible
+          DIRECT_URL=$(extract_direct_link "$URL")
+          echo "🎯 Target URL: $DIRECT_URL"
+          
+          # For MEGA.nz special handling
+          if echo "$DIRECT_URL" | grep -q "^MEGA:"; then
+            echo "❌ MEGA.nz requires authentication token and megatools"
+            echo "💡 Please use a direct download link instead"
+            exit 1
+          fi
+          
+          # Extract filename from URL or HTML
+          RAW_NAME=$(basename "${DIRECT_URL%%\?*}" | sed 's/%20/ /g')
+          
+          if [ -z "$RAW_NAME" ] || [ "$RAW_NAME" = "/" ] || [ "$RAW_NAME" = "$DIRECT_URL" ]; then
+            RAW_NAME="downloaded_file"
+          fi
+          
+          # Determine folder name
+          if [ -n "$FOLDER_INPUT" ]; then
+            FOLDER="$FOLDER_INPUT"
+          else
+            FOLDER="${RAW_NAME%.*}"
+            [ -z "$FOLDER" ] && FOLDER="download_$(date +%Y%m%d_%H%M%S)"
+          fi
+          
+          echo "📁 Target folder: $FOLDER"
+          echo "📄 Base filename: $RAW_NAME"
+          
+          # Attempt download
+          if ! smart_download "$DIRECT_URL" "temp_download"; then
+            echo "❌ Download failed"
+            exit 1
+          fi
+          
+          # Verify download
+          if [ ! -f "temp_download" ] || [ ! -s "temp_download" ]; then
+            echo "❌ Downloaded file is empty or missing"
+            exit 1
+          fi
+          
+          FILE_SIZE=$(du -h temp_download | cut -f1)
+          FILE_TYPE=$(file -b temp_download | cut -d, -f1)
+          echo "✅ Downloaded: $FILE_SIZE ($FILE_TYPE)"
+          
+          # Create ZIP archive
+          mkdir -p "wrap_dir"
+          mv "temp_download" "wrap_dir/${RAW_NAME}"
+          cd wrap_dir
+          zip -0 "../${FOLDER}.zip" "${RAW_NAME}"
+          cd ..
+          
+          # Split into chunks
+          mkdir -p "save/leech/${FOLDER}"
+          split -b "$SPLIT" -d -a 3 "${FOLDER}.zip" "save/leech/${FOLDER}/chunk_"
+          
+          a=1
+          for i in save/leech/${FOLDER}/chunk_*; do
+            printf -v new "save/leech/%s/%s.zip.%03d" "$FOLDER" "$FOLDER" "$a"
+            mv -- "$i" "$new"
+            a=$((a+1))
+          done
+          
+          CHUNKS=$(ls save/leech/${FOLDER}/${FOLDER}.zip.* 2>/dev/null | wc -l)
+          echo "✅ Created ${CHUNKS} chunks (${SPLIT} each)"
+          
+          # Cleanup
+          rm -rf wrap_dir "${FOLDER}.zip"
+          
+          # Export for commit message
+          echo "FOLDER=${FOLDER}" >> $GITHUB_ENV
+          echo "CHUNKS=${CHUNKS}" >> $GITHUB_ENV
+          echo "ORIGINAL_URL=${URL}" >> $GITHUB_ENV
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main --rebase || git pull origin master --rebase || true
+          git add save/leech/
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          
+          git commit -m "🔄 Smart Leech: ${FOLDER} (${CHUNKS} parts from ${ORIGINAL_URL:0:60})"
+          git push
